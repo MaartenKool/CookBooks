@@ -5,4 +5,4 @@
 - These cookbooks are **Not intended to be complete**  
 - These cookbooks are **Source of inspiration**  
 <br><br>
-MyDataScienceCookBook is the most complete
+MyDataScienceCookBook2 is the most complete (and $HUGE$ by now)
