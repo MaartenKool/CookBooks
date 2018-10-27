@@ -1,0 +1,1852 @@
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Questions and Answers  
+On the Market Abuse Regulation (MAR) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ESMA70-145-111 
+Version 12 
+Last updated on 1 October 2018 
+ 
+ 
+ 
+ 
+Table of Contents  
+1.  Purpose and status ........................................................................................................ 3 
+2.  Legislative references and abbreviations ........................................................................ 3 
+3.  Summary table ............................................................................................................... 8 
+4.  General Questions and Answers ...................................................................................10 
+5.  Questions and Answers on the disclosure of inside information ....................................10 
+6.  Questions and Answers on the Prevention and detection of market abuse....................15 
+7.  Questions and Answers on Managers’ transactions ......................................................17 
+8.  Questions and Answers on investment recommendation and information recommending 
+or suggesting an investment strategy ...................................................................................22 
+9.  Questions and Answers on Market soundings ...............................................................27 
+10.  Questions and Answers on Insider lists .....................................................................29 
+11.  Questions  and  Answers  on  emission  allowances  and  emission  allowances  market 
+participants (EAMPs) ............................................................................................................30 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+1.  Purpose and status 
+1.  The purpose of this document is to promote common, uniform and consistent supervisory 
+approaches and practices in the day-to-day application of Market Abuse Regulation (No 
+596/2014, “MAR”). It does this by providing responses to questions asked by the public, 
+financial market participants,  competent  authorities and other stakeholders. The question 
+and  answer  (Q&A)  tool  is  a  practical  convergence  tool  used  to  promote  common 
+supervisory approaches and practices under Article 29(2) of the ESMA Regulation. Further 
+information on ESMA’s Q&A process is available on our website.  
+2.  ESMA intends to update this document on a regular basis and, for ease of reference, ESMA 
+provides the date each question was first published as well as the date/s of amendment 
+beside each question. A table of all questions in this document and dates is provided in 
+Section I.  
+3.  Additional  questions  on  MAR  may  be  submitted  to  ESMA  through  the  Q&A  tool  on  our 
+website  (here) Please see the guidance available on our website before submitting your 
+question.  
+2.  Legislative references and abbreviations 
+Legislative references 
+ESMA Regulation 
+MAR 
+Regulation (EU) No 1095/2010 of the European Parliament 
+and  of  the  Council  of  24  November  2010  establishing  a 
+European  Supervisory  Authority  (European  Securities  and 
+Markets Authority), amending Decision No 716/2009/EC and 
+repealing Commission Decision 2009/77/EC1 
+Regulation  (EU)  No  596/2014  of  the  European  Parliament 
+and of the Council of 16 April 2014 on market abuse (Market 
+Abuse Regulation) and repealing Directive 2003/6/EC of the 
+European  Parliament  and  of  the  Council  and  Commission 
+Directives 2003/124/EC, 2003/125/EC and 2004/72/EC (Text 
+with EEA relevance)2  
+Implementing directive 
+on reporting to 
+competent authorities of 
+actual or potential 
+infringements 
+Commission  Implementing  Directive  (EU)  2015/2392  of  17 
+December  2015  on  Regulation  (EU)  No  596/2014  of  the 
+European Parliament and of the Council as regards reporting 
+to competent authorities of actual or potential infringements 
+of that Regulation3  
+                                                
+1 OJ L 331, 15.12.2010, p. 84 
+2 OJ L 173, 12.6.2014, p. 1–61 
+3 OJ L 332, 18.12.2015, p. 126–132 
+3 
+Delegated regulation on 
+an exemption for certain 
+third countries public 
+bodies and central 
+banks, the indicators of 
+market manipulation, the 
+disclosure thresholds, 
+the competent authority 
+for notifications of delays, 
+the permission for trading 
+during closed periods 
+and types of notifiable 
+managers' transactions 
+RTS on financial 
+instrument reference 
+data under Article 4 of 
+MAR 
+ITS on financial 
+instrument reference 
+data under Article 4 of 
+MAR 
+RTS on disclosing 
+market participants 
+conducting market 
+soundings 
+ 
+ 
+ 
+Commission  Delegated  Regulation  (EU)  2016/522  of  17 
+December  2015  supplementing  Regulation 
+(EU)  No 
+596/2014 of the European Parliament and of the Council as 
+regards an exemption for certain third countries public bodies 
+and central banks, the indicators of market manipulation, the 
+disclosure 
+for 
+notifications  of  delays,  the  permission  for  trading  during 
+closed periods and types of notifiable managers' transactions 
+(Text with EEA relevance)4  
+the  competent  authority 
+thresholds, 
+Commission  Delegated  Regulation  (EU)  2016/909  of  1 
+March 2016 supplementing Regulation (EU) No 596/2014 of 
+the  European  Parliament  and  of  the  Council  with  regard  to 
+regulatory technical standards for the content of notifications 
+to be submitted to competent authorities and the compilation, 
+publication and maintenance of the list of notifications (Text 
+with EEA relevance)5 
+Commission  Implementing  Regulation  (EU)  2016/378  of  11 
+March  2016  laying  down  implementing  technical  standards 
+with  regard  to  the  timing,  format  and  template  of  the 
+submission  of  notifications 
+to  competent  authorities 
+according to Regulation (EU) No 596/2014 of the European 
+Parliament and of the Council (Text with EEA relevance)6 
+Commission Delegated Regulation (EU) 2016/960 of 17 May 
+2016  supplementing  Regulation  (EU)  No  596/2014  of  the 
+European  Parliament  and  of  the  Council  with  regard  to 
+regulatory 
+the  appropriate 
+arrangements, systems and procedures for disclosing market 
+participants  conducting  market  soundings  (Text  with  EEA 
+relevance) 7 
+technical  standards 
+for 
+ITS on disclosing market 
+participants conducting 
+market soundings 
+Commission  Implementing  Regulation  (EU)  2016/959  of  17 
+May 2016 laying down implementing technical standards for 
+market soundings with regard to the systems and notification 
+                                                
+4 OJ L 88, 5.4.2016, p. 1–18 
+5 OJ L 153, 10.6.2016, p. 13–22 
+6 OJ L 72, 17.3.2016, p. 1–12 
+7 OJ L 160, 17.6.2016, p. 29–33 
+ 
+4 
+ 
+ 
+ 
+(systems, templates and 
+records) 
+templates to be used by disclosing market participants  and 
+the format of the records in accordance with Regulation (EU) 
+No 596/2014 of the European Parliament and of the Council 
+(Text with EEA relevance)8 
+RTS on accepted market 
+practices 
+Commission  Delegated  Regulation  (EU)  2016/908  of  26 
+February 2016 supplementing Regulation (EU) No 596/2014 
+of the European Parliament and of the Council laying down 
+regulatory technical standards on the criteria, the procedure 
+and  the  requirements  for  establishing  an  accepted  market 
+practice and the requirements for maintaining it, terminating 
+it  or  modifying  the  conditions  for  its  acceptance  (Text  with 
+EEA relevance) 9 
+RTS on the prevention, 
+detection and reporting 
+of abusive practices or 
+suspicious orders or 
+transactions 
+Commission  Delegated  Regulation  (EU)  2016/957  of  9 
+March 2016 supplementing Regulation (EU) No 596/2014 of 
+the  European  Parliament  and  of  the  Council  with  regard  to 
+regulatory 
+the  appropriate 
+arrangements,  systems  and  procedures  as  well  as 
+notification  templates  to  be  used  for  preventing,  detecting 
+and  reporting  abusive  practices  or  suspicious  orders  or 
+transactions (Text with EEA relevance)10 
+technical  standards 
+for 
+ITS on insider lists format  Commission  Implementing  Regulation  (EU)  2016/347  of  10 
+March  2016  laying  down  implementing  technical  standards 
+with  regard  to  the  precise  format  of  insider  lists  and  for 
+updating insider lists in accordance with Regulation (EU) No 
+596/2014  of  the  European  Parliament  and  of  the  Council 
+(Text with EEA relevance) 11 
+ITS on the notification 
+and disclosure of 
+managers’ transactions 
+Commission  Implementing  Regulation  (EU)  2016/523  of  10 
+March  2016  laying  down  implementing  technical  standards 
+with  regard  to  the  format  and  template  for  notification  and 
+public  disclosure  of  managers'  transactions  in  accordance 
+with  Regulation  (EU)  No  596/2014  of 
+the  European 
+Parliament and of the Council (Text with EEA relevance) 12; 
+Commission  Delegated  Regulation  (EU)  2016/958  of  9 
+March 2016 supplementing Regulation (EU) No 596/2014 of 
+the  European  Parliament  and  of  the  Council  with  regard  to 
+technical 
+regulatory 
+standards 
+technical 
+for 
+the 
+RTS on investment 
+recommendations or 
+other information 
+recommending or 
+                                                
+8 OJ L 160, 17.6.2016, p. 23–28 
+9 OJ L 153, 10.6.2016, p. 3–12  
+10 OJ L 160, 17.6.2016, p. 1–14  
+11 OJ L 65, 11.3.2016, p. 49–55 
+12 OJ L 88, 5.4.2016, p. 19–22 
+5 
+ 
+ 
+ 
+suggesting an 
+investment strategy 
+for  objective  presentation  of 
+arrangements 
+investment 
+recommendations  or  other  information  recommending  or 
+suggesting  an  investment  strategy  and  for  disclosure  of 
+particular interests or indications of conflicts of interest (Text 
+with EEA relevance) 13 
+RTS on buy-back 
+programmes and 
+stabilisation measures 
+Commission  Delegated  Regulation  (EU)  2016/1052  of  8 
+March 2016 supplementing Regulation (EU) No 596/2014 of 
+the European Parliament and of the Council for the conditions 
+applicable 
+to  buy-back  programmes  and  stabilisation 
+measures (Text with EEA relevance) 14 
+ITS on the technical 
+means for public 
+disclosure of inside 
+information and for 
+delaying the public 
+disclosure of inside 
+information 
+Abbreviations 
+EC 
+DMP 
+EEA 
+EU 
+Commission Implementing Regulation (EU) 2016/1055 of 29 
+June  2016  laying  down  implementing  technical  standards 
+with  regard  to  the  technical  means  for  appropriate  public 
+disclosure  of  inside  information  and  for  delaying  the  public 
+disclosure  of 
+in  accordance  with 
+Regulation  (EU)  No  596/2014  of  the  European  Parliament 
+and of the Council (Text with EEA relevance) 15  
+information 
+inside 
+European Commission 
+Disclosing Market Participant 
+European Economic Area 
+European Union 
+ESMA 
+European Securities and Markets Authority 
+ITS 
+MTF 
+OTF 
+PDMR 
+RTS 
+Implementing technical standards 
+Multilateral trading facility 
+Organised trading facility 
+Person discharging managerial responsibilities 
+Regulatory technical standards 
+                                                
+13 OJ L 160, 17.6.2016, p. 15–22 
+14 OJ L 173, 30.6.2016, p. 34–41 
+15 OJ L 173, 30.06.2016, p. 47–51 
+6 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+ 
+3.  Summary table 
+Subject 
+Q 
+Topic of the Question 
+Level 1 / Level 2 provision  Last updated 
+General 
+  
+ 
+ 
+4.1 
+ 
+Blanket cancellation   
+of orders policy 
+Article 8 of MAR 
+Disclosure 
+5.1 
+Disclosure of   
+ 
+Article 17 of MAR 
+ 
+ 
+30/05/2017 
+23/03/2018 
+of Inside  
+ information 
+  
+ 
+ 
+ 
+ 
+inside information 
+related to Pillar II 
+requirements   
+Disclosure  
+of inside 
+information 
+Disclosure  
+of inside 
+information 
+ 
+ 
+Disclosure  
+of inside 
+information 
+ 
+ 
+Disclosure  
+of inside 
+information 
+ 
+ 
+5.2 
+ 
+ 
+5.3 
+ 
+ 
+ 
+5.4 
+ 
+ 
+ 
+5.5 
+ 
+ 
+ 
+Delayed inside information  Article 17(4) of MAR   
+that lost the feaure of  
+ 
+ 
+ 
+ 
+price sensitivity 
+Delayed disclosure of inside  Article 17(5) of MAR   
+29/09/2017 
+ 
+01/10/2018 
+information under Art. 17(5):  
+assessment of the relevant  
+conditions 
+ 
+ 
+ 
+(new)   
+Delayed disclosure of inside  Article 17(5) of MAR   
+information under Art. 17(5):  
+ 
+ 
+ 
+notification of the expected  
+duration 
+Delayed disclosure of inside  Article 17(5) of MAR   
+information under Art. 17(5):  
+ 
+ 
+ 
+01/10/2018 
+(new)   
+01/10/2018 
+(new)   
+NCA’s denial of consent  
+ 
+Prevention   6.1 
+and detection   
+Persons professionally  
+arranging or executing  
+of market  
+abuse   
+ 
+ 
+ 
+transactions 
+ 
+Article 16(2) of MAR   
+1/09/2017 
+Managers’ 
+7.1 
+Exchange rate 
+ 
+Article 19 of MAR 
+ 
+26/10/2016 
+ 
+7.2 
+transactions 
+Managers’ 
+Transactions   
+Managers’ 
+transactions 
+Managers’ 
+transactions    
+Managers’ 
+7.3 
+ 
+7.4 
+7.5 
+ 
+Timing of the closed    
+period 
+Threshold calculation  
+ 
+ 
+Price of gifts, donation  
+and inheritance  
+ 
+Notification of shares   
+Article 19(11) of MAR  
+13/07/2016 
+Article 19(1) and(8) of MAR  20/12/2016 
+Article 10(2)(k) of  
+Regulation 2016/522 
+Article 19(1) of MAR   
+ 
+20/12/2016 
+20/12/2016 
+Transactions   
+received as part of  
+ 
+Article 10(2)(i) of 
+ 
+  
+Managers’ 
+ 
+7.6 
+remuneration package  
+Price of options granted 
+Regulation 2016/522 
+Article 10(2)(k) of  
+ 
+20/01/2017 
+8 
+transactions 
+ 
+for free  
+7.7 
+Managers’ 
+Transactions   
+Managers’ 
+transactions 
+  
+Managers’ 
+ 
+7.8 
+ 
+ 
+7.9 
+ 
+Person closely associated  Article 3(1)(26)(d) of MAR 
+to a PDMR 
+ 
+Trading during closed  
+periods and prohibition  
+of insider dealing 
+  
+Types of transactions by  
+ 
+Article 19(12) of MAR  
+ 
+ 
+Article 19(11) of MAR  
+ 
+ 
+06/07/2017 
+21/11/2017 
+ 
+21/11/2017 
+Transactions    
+PDMRs prohibited during  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+closed periods 
+  
+ 
+Investment 
+8.1 
+recommendation  
+Communications made  
+orally or via electronic  
+Article 3(1)(34) and 35 
+of MAR 
+ 
+26/10/2016 
+ 
+ 
+ 
+Investment 
+8.2 
+Recommendation  
+  
+Investment 
+ 
+means 
+Communications not   
+referring to one or several   of MAR 
+issuers  
+ 
+ 
+8.3  Main businesss is not to 
+Article 3(1)(34) and 35 
+26/10/2016 
+Article 3(1)(34) and 35 
+26/10/2016 
+ 
+recommendation  
+ 
+ 
+Investment 
+8.4 
+Recommendation  
+  
+ 
+Investment 
+ 
+ 
+8.5 
+ 
+ 
+recommendation  
+Investment 
+8.6 
+Recommendation  
+  
+Investment 
+ 
+8.7 
+ 
+ 
+recommendation  
+ 
+  
+Investment 
+8.8 
+Recommendation  
+  
+Investment 
+ 
+8.9 
+ 
+ 
+of MAR 
+produce investment 
+recommendations 
+Information implicitly   
+recommending or 
+ 
+suggesting an investment 
+strategy 
+Communications containing  Article 3(1)(34) and 35 
+Article 3(1)(34) and 35 
+of MAR 
+purely factual information 
+Communications on    
+previously disseminated 
+investment recommendations 
+Recommendation on   
+of MAR 
+ 
+Article 3(1)(34) and 35 
+of MAR 
+ 
+ 
+Article 3(1)(34) and 35 
+of MAR 
+derivatives traded solely 
+outside a trading venue 
+Identification of derivatives  Article 3(1)(34) and 35 
+ 
+in investment   
+recommendations 
+ 
+Recommendations on 
+of MAR 
+ 
+Article 20 of MAR 
+ 
+8.10  Recommendations relating  Article 20 of MAR 
+recommendation   multiple issuers 
+Investment 
+Recommendation  
+  
+Investment 
+ 
+8.11  Recommendations on 
+to several financial  
+instruments independently 
+ 
+ 
+Article 20 of MAR 
+ 
+ 
+26/10/2016 
+20/12/2016 
+20/12/2016 
+20/12/2016 
+20/12/2016 
+27/01/2017 
+27/01/2017 
+27/01/2017 
+recommendation  
+derivatives referencing  
+ 
+ 
+an index 
+ 
+ 
+Market  
+soundings  
+9.1 
+ 
+Financial instruments  
+in scope 
+Article 11(1) of MAR   
+1/09/2017 
+ 
+ 
+ 
+9 
+ 
+Insider lists 
+10.1  Subject of the insider  
+Article 18(1) of MAR   
+1/09/2017 
+ 
+ 
+ 
+ 
+ 
+Insider lists 
+ 
+ 
+ 
+ 
+10.2 
+ 
+list requirements 
+ 
+Issuer’s responsibility  
+In case of delegation   
+Article 18(2) of MAR   
+ 
+1/09/2017 
+Emission 
+11.1  Time span for the calculation Article 17(2) of MAR   
+14/12/2017 
+Allowances and 
+of the CO2 equivalent  
+ 
+ 
+ 
+ 
+ 
+EAMPs 
+ 
+ 
+ 
+ 
+ 
+emissions and rated thermal  
+input 
+4.  General Questions and Answers  
+ 
+Blanket cancellation of orders policy 
+Updated: 30 May 2017 
+ 
+ 
+Q4.1 
+Is  a  policy  pursuant  to  which,  after  becoming  in  possession  of  inside 
+information,  the  person  should  immediately  and  without  the  exercise  of 
+discretion  cancel  all  orders  relating  to  that  information  (“blanket  order 
+cancellation policy”) compliant with the insider dealing prohibition under MAR? 
+ 
+A4.1 
+ 
+ 
+ 
+Article  8(1)  of  MAR  states  that  “the  use  of  inside  information  by  cancelling  or 
+amending  an  order  placed  before  the  person  concerned  possessed  inside 
+information” constitutes insider dealing. This presumption is rebuttable under Recital 
+25 of MAR if the person establishes that they “did not use the inside information when 
+carrying out the transaction”. 
+For those reasons, it cannot be concluded that a blanket order cancellation policy per 
+se constitutes insider dealing.  
+ 
+It  follows  that  where  a  firm  decides  to  adopt  a  blanket  cancellation  policy  for  its 
+proprietary  trading,  the  fact  that  the  cancellation  may  or  may  not  constitute  insider 
+dealing will have to be assessed on case-by-case basis, by determining whether or 
+not the cancellation was indeed performed without using the inside information. 
+5.  Questions  and  Answers  on  the  disclosure  of  inside 
+information  
+ 
+Disclosure of inside information related to Pillar II requirements 
+Updated: 23 March 2018 
+ 
+10 
+ 
+ 
+ 
+ 
+Q5.1  Are credit institutions required under MAR to publish systematically the results 
+of  the  Pillar  II  assessment  and/or  any  information  received  in  relation  to  the 
+Minimum Requirement for own funds and Eligible Liabilities (MREL) exercise? 
+ 
+A5.1 
+A  main  objective  of  the  Market  Abuse  Regulation  (MAR)  is  to  enhance  market 
+integrity. This is notably achieved through a prompt and fair disclosure of information 
+to the public. 
+ 
+For  issuers  of  financial  instruments,  this  objective  has  been  translated  into  the 
+requirement  under  Article  17  of  MAR.  Issuers  who  have  requested  or  approved 
+admission of their financial instruments to trading on a Regulated Market, or in the 
+case of instruments only traded on an MTF or on an OTF issuers who have approved 
+trading of their financial instruments on an MTF or an OTF or have requested their 
+admission to trading on an MTF, must inform the public as soon as possible of any 
+inside  information  relating  directly  to  them.  According  to  Article  7  of  MAR,  inside 
+information is such information that is:  
+ 
+-  non-public,  
+-  precise, and  
+- 
+if it were made public would be likely to have a significant effect on the 
+price of the issuer’s financial instrument or related financial instruments.  
+ 
+MAR offers, by way of exception to the immediate disclosure of inside information, 
+the  possibility  on  a  case-by-case  basis  to  delay  such  disclosure  under  certain 
+conditions. In accordance with Article 17(4) of MAR, any issuer may thus delay, under 
+its  own  responsibility,  the  public  disclosure  of  inside  information  such  as  not  to 
+prejudice its legitimate interests provided that such omission is not likely to mislead 
+the  public16 and  the  issuer  is  able  to  ensure  the  confidentiality  of  the  information. 
+Where the issuer is also a credit or financial institution, Article 17(5) of MAR allows 
+for another possibility to delay in exceptional circumstances,  the public disclosure of 
+inside information, under the issuer’s responsibility, in order to preserve the stability 
+of the financial system. Where such an issuer intends to delayunder Article 17(5) of 
+MAR,  it  needs  the  prior  consent  of  the  competent  authority  on  the  basis  that  the 
+following  conditions  are fulfilled:  i) the  disclosure  of the  inside  information  entails  a 
+risk of undermining the financial stability of the issuer and of the financial system, ii) it 
+is in the public interest to delay disclosure and iii) the confidentiality of the information 
+can be ensured.  
+ 
+However it is not feasible to define ex-ante, in a general manner, how the relevant 
+conditions should be met and therefore the concerned issuer needs to assess, on a 
+case-by-case  basis,  the  particular  circumstances  before  deciding  to  delay  the 
+disclosure  of  inside  information  under  Article  17(4)  of  MAR  or  notifying  to  the 
+competent authority its intention to delay under Article 17(5) of MAR.   
+ 
+Under  MAR,  an  issuer  can  also  be  liable  for  market  manipulation  in  case  of 
+dissemination  of  false  and  misleading  information,  including  failure  to  properly 
+disclose inside information to the public. 
+ 
+                                                
+16 ESMA issued MAR Guidelines on delay in the disclosure of inside information ( ESMA/2016/1478; 20 October 2016). 
+11 
+ 
+ 
+ 
+Many  credit  institutions  across  the  European  Union  are  issuers  of  financial 
+instruments and thus subject to the regime established under MAR, when at the same 
+time they are also subject to the prudential supervision of the banking regulators.  
+ 
+Consequently,  in  the  context  of  the  Supervisory  Review  and  Evaluation  Process 
+(SREP) to be conducted in accordance with Article 97 of Directive 2013/36/EU (CRD 
+IV), whenever a credit institution subject to the market abuse regime is made aware 
+of information, notably the results of the exercise, it is expected to evaluate whether 
+that information meets the criteria of inside information.  
+ 
+Along  the  same  line,  in  the  context  of  the  MREL  exercise  to  be  conducted  by  the 
+Single  Resolution  Board  in  accordance  with  the  Bank  Recovery  and  Resolution 
+Directive, whenever a credit institution subject to the market abuse regime is made 
+aware of  information, it is expected to evaluate whether that information meets the 
+criteria of inside information. 
+ 
+If  these  criteria  are  met,  the  MAR  provisions  apply  with  respect  to  the  relevant 
+disclosure requirements. Such a credit institution would have then to publicly disclose 
+the inside information as soon as possible unless it has delayed such a disclosure 
+after having assessed that all the conditions for delaying apply.  
+ 
+ESMA recalls that, if and when a publication (e.g. an article published in the press or 
+internet  postings)  which  is  not  resulting  from  the  issuer’s  initiative  in  relation  to  its 
+disclosure  obligations  or  a  rumour  in  the  market  relates  explicitly  to  (a  piece  of) 
+information that  is  inside  information  within  the  issuer,  according  to  Article  17(7)  of 
+MAR that issuer is expected to react and respond to the relevant publication or rumour 
+if that (piece of) information is sufficiently accurate to indicate that the confidentiality 
+of this inside information is no longer ensured. In such circumstances, which should 
+be the exception rather than the rule and should be examined by the issuer on a case-
+by-case basis, a policy of staying silent or of “no comment” by the issuer would not be 
+acceptable. The issuer’s reaction or response should be made publicly available in 
+the  same  conditions  and  using  the  same  mechanisms  as  those  used  for  the 
+communication  of  inside  information,  so  that  an  ad  hoc  announcement  has  to  be 
+published without undue delay.  
+ 
+Finally,  it  is  noted  that  the  disclosure  of  inside  information  is  a  matter  of  national 
+supervision and enforcement  of MAR, solely under the competence of the national 
+competent authorities designated to that effect in accordance with Article 22 of MAR 
+and whose heads are members of the Board of Supervisors of ESMA.   
+ 
+ 
+Delayed inside information that lost the feature of the price sensitivity 
+Updated: 29 September 2017 
+ 
+ 
+Q5.2  How should an issuer deal with a situation where it has delayed a disclosure of 
+inside  information  in  accordance  with  Article  17(4)  of  MAR  and,  due  to 
+subsequent  circumstances,  that  information  loses  the  element  of  price 
+sensitivity and therefore its inside nature? 
+ 
+12 
+ 
+ 
+ 
+A5.2 
+According  to  Article  17(1)  of  MAR,  an  issuer  has  to  inform  the  public  as  soon  as 
+possible of inside information that directly concerns that issuer. Article 17(4) of MAR 
+states  that  an  issuer  may,  on  its  own  responsibility,  delay  disclosure  of  inside 
+information to the public, provided that all of the conditions therein contained are met. 
+Where an issuer has delayed the disclosure of inside information according to Article 
+17(4) of MAR, immediately after the information is disclosed to the public the issuer 
+needs  to  inform  the  competent  authority  that  disclosure  of  inside  information  was 
+delayed, and provide written explanation on how the conditions set out in Article 17(4) 
+of MAR were met.  
+ 
+Where the issuer has delayed the disclosure of inside information in accordance with 
+Article  17(4)  of  MAR  and  the  information  subsequently  loses  the  element  of  price 
+sensitivity,  that  information  ceases  to  be  inside  information  and  thus  is  considered 
+outside the scope of Article 17(1) of MAR. Therefore, the issuer is neither obliged to 
+publicly disclose that information nor to inform the competent authority in accordance 
+with  the  last  paragraph  of  Article  17(4)  that  disclosure  of  such  information  was 
+delayed. 
+ 
+However, given that the information had been inside information for a certain period 
+of time, the issuer had to comply with all relevant obligations relating to the drawing 
+up and updating of insider lists and the maintenance of the information relating to the 
+delay  of  disclosure,  stemming  from  MAR  and  its  delegated  and  implementing 
+Regulations. 
+ 
+ 
+Delayed disclosure of inside information under Article 17(5) of MAR: assessment of the 
+relevant conditions 
+Updated: 1 October 2018 (new) 
+ 
+ 
+Q5.3  When issuers that are credit/financial institutions intend to delay disclosure of 
+inside  information  under  Article  17(5)  of  MAR,  what  are  the  elements  they 
+should consider in their assessment of the conditions therein contained? 
+ 
+A5.3  When a credit/financial institution intends to resort to the financial stability delay under 
+Article 17(5) of MAR, it should provide evidence to the NCA that the conditions laid 
+down in points a), b) and c) of the same article are met. 
+The assessment of those conditions should be as complete as possible to the best of 
+the credit/financial institution’s knowledge.  
+If the NCA gives its consent to the delay further to its own assessment of the relevant 
+conditions,  the  credit/financial  institution  is  expected  to  share  with  the  NCA  any 
+subsequent additional information relating to the conditions for the delay.  
+ 
+Point a) of Article 17(5) of MAR: disclosure of inside information entails a risk 
+of undermining the financial stability of the issuer and the financial system 
+It should be noted that to resort to the delay under Article 17(5) of MAR, disclosure of 
+inside information has to entail a risk of undermining the financial stability of both the 
+issuer and the financial system. 
+13 
+ 
+ 
+ 
+For the disclosure of inside information to entail a risk of undermining the stability of 
+the financial system, it is likely for it to pertain and be performed by an institution of 
+relevance, e.g. in terms of impact and interconnection.  
+In  this  context,  credit/financial  institutions  should  not  simply  rely  on  ex  ante 
+categorisations but rather look at the specific circumstances. 
+ 
+Point b) of Article 17(5) of MAR: the public interest to delay the disclosure 
+In  the  absence  of  any  definition  of  “public  interest”,  Recital  52  of  MAR  provides 
+guidance  stipulating  that  “the  wider  public  and  economic  interest  in  delaying 
+disclosure outweighs the interest of the market in receiving the information which is 
+subject to delay”. 
+When assessing the public interest,  the credit/financial institution should attempt to 
+identify different entities or groups who could be directly or indirectly affected by the 
+decision to delay the disclosure of the inside information and whose interests may be 
+understood as a public interest.  
+During  the  assessment  of  the  public  interest,  it  is  important  to  consider  interests 
+beyond the direct economic impacts and other non-financial interests of the public. All 
+of  these  interests  would  need  to  be  considered,  and  none  of  them  should  be 
+considered in isolation.   
+If  there  are  divergent  interests  of  the  public,  the  credit/financial  institution  should 
+assess  on  a  case-by-case  basis  if  the  prevailing  public  interest(s)  is  to  delay  the 
+disclosure of inside information. For example, a potential loss to investors who have 
+made or may make an investment decision should be weighed against the adverse 
+effect of public disclosure on other groups, such as depositors and consumers.  
+ 
+Point c) of Article 17(5) of MAR: the confidentiality of the information 
+Credit/financial  institutions  should  provide  the  NCA  with  information  on  how  the 
+confidentiality of the inside information can be ensured.  
+Credit/financial  institutions  are  expected  to  assess  the  confidentiality  of  the 
+information at the time of the notification to the NCA, but also how the confidentiality 
+can be ensured during the period in which the information might be delayed.  
+To  that  purpose,  credit/financial  institutions  should  consider  their  procedures  and 
+measures put in place to ensure the confidentiality and draw up their insider list given 
+that, pending the NCA’s decision to consent to the delay, the disclosure of the inside 
+information is de facto already delayed. 
+ 
+ 
+Delayed disclosure of inside information under Article 17(5) of MAR: notification of the 
+expected duration 
+Updated: 1 October 2018 (new) 
+ 
+ 
+14 
+ 
+ 
+ 
+Q5.4  Are  credit/financial  institutions  required  to  notify  the  NCA  of  the  expected 
+duration of the delay under Article 17(5) of MAR? 
+ 
+A5.4 
+Yes. The credit/financial institutions notifying the NCA of their intention to resort to the 
+financial  stability  delay  are  expected  to  provide  their  assessment  on  the  expected 
+length of the delay and the details of expected trigger events.  
+If the NCA gives its consent to the delay further to its own assessment of the relevant 
+conditions, credit/financial institutions should inform the NCA whenever they become 
+aware of a new element or event that may affect the duration of the delay under Article 
+17(5) of MAR. 
+ 
+ 
+Delayed  disclosure  of inside information  under  Article  17(5)  of MAR:  NCA’s  denial  of 
+consent 
+Updated: 1 October 2018 (new) 
+ 
+ 
+Q5.5  Where the NCA does not consent to the delay of disclosure under Article 17(5) 
+of MAR, can a credit/financial institution resort to Article 17(4) of MAR? 
+ 
+A5.5 
+No. Where the relevant conditions are not met, the NCA cannot consent to the delay 
+under Article 17(5) of MAR and, according to Article 17(6) of MAR, the credit/financial 
+institution will have to disclose the inside information immediately. 
+In  that  case,  credit/financial  institutions  will  not  be  able  to  resort  to  the  delay  of 
+disclosure under Article 17(4) of MAR.  
+ 
+6.  Questions and Answers on the Prevention and detection 
+of market abuse 
+ 
+Persons professionally arranging or executing transactions  
+Updated: 1 September 2017 
+ 
+ 
+Q6.1  Does  the  obligation  to  detect  and  report  market  abuse  under  Article  16(2)  of 
+MAR  apply  to  investment  firms  under  MiFID  only  or  do  UCITS  management 
+companies, AIFMD managers or firms professionally engaged in trading on own 
+account also fall within the scope of that obligation? 
+ 
+A6.1 
+The definition of “person professionally arranging or executing transactions” laid down 
+in point (28) of Article 3(1) of MAR is activity based, does not cross refer to definitions 
+under  MiFID  and  is  independent  from  the  latter,  leading  thus  to  consider  that  the 
+scope  of  Article  16(2)  of  MAR  is  not  only  limited  to  firms  or  entities  providing 
+investment services under MiFID.  
+ 
+15 
+ 
+ 
+ 
+In the absence of any reference in the definition that would limit the scope and exclude 
+particular  categories  of  persons  regulated  by  other  financial  European  legislation, 
+ESMA considers that the obligation to detect and identify market abuse or attempted 
+market abuse under Article 16(2) of MAR applies broadly, and “persons professionally 
+arranging or executing transactions” thus includes buy side firms, such as investment 
+management  firms  (AIFs  and  UCITS  managers),  as  well  as  firms  professionally 
+engaged in trading on own account (proprietary traders). 
+ 
+Non-financial firms that, in addition to the production of goods and/or services, trade 
+on  own  account  in  financial  instruments  as  part  of  their  business  activities  (e.g. 
+industrial  companies  for  hedging  purposes)  can  be  considered  firms  professionally 
+arranging  or  executing  transactions  in  financial  instruments  under  Article  16(2)  of 
+MAR. The fact that they have staff or a structure dedicated to systematically deal on 
+own account, such as a trading desk, or that they execute their own orders directly on 
+a trading venue as defined under MiFID II, are indicators to consider a non-financial 
+firm as a person professionally arranging or executing transactions. 
+ 
+It is reminded that detecting and reporting suspicious orders and transactions under 
+Article  16(2)  of  MAR  should  be  applied  by  “persons  professionally  arranging  or 
+executing  transactions”  through  the  implementation  of  arrangements,  systems  and 
+procedures  that  are  appropriate  and  proportionate  to  the  scale,  size  and  nature  of 
+their business activity 
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+7.  Questions and Answers on Managers’ transactions 
+ 
+Exchange rate  
+Updated: 26 October 2016 
+ 
+ 
+Q7.1 
+For transactions carried out under Article 19(1) of Regulation (EU) No 596/2014 
+of the European Parliament and of the council (MAR) in a currency which is not 
+Euro (EUR), which exchange rate should be used to determine if the threshold 
+set forth in Article 19(8) MAR of EUR 5 000 has been crossed? 
+ 
+A7.1 
+If transactions are carried out in a currency which is not the EUR, the exchange rate 
+to  be  used  to  determine  if  the  threshold  is  reached  is  the  official  daily  spot foreign 
+exchange rate which is applicable at the end of the business day when the transaction 
+is  conducted.  Where  available,  the  daily  euro  foreign  exchange  reference  rate 
+published by the European Central Bank on its website should be used. 
+ 
+ 
+ 
+Timing of the closed period 
+Updated: 13 July 2016 
+ 
+ 
+Q7.2  Does  the  «announcement»  of  the  interim  or  year-end  financial  results 
+determines  the  timing  of  the  closed  period  referred  to  in  Article  19(11)  of 
+Regulation (EU) No 596/2014 (MAR)? 
+ 
+A7.2 
+ 
+According  to  MAR,  there  should  be  only  one  closed  period  relating  to  the 
+announcement of every interim financial report and another relating to the year-end 
+report. 
+The term «announcement» of an interim or a year–end financial report used in Article 
+19(11) of MAR is the public statement whereby the issuer announces the information 
+included in an interim or a year-end financial report that the issuer is obliged to make 
+public  according  to  the  rules  of  the  trading  venue  where  the  issuer’s  shares  are 
+admitted to trading or national law. The date when the «announcement» is made is 
+the end date for the thirty-day closed period. 
+ 
+With particular reference to the year-end financial report, the «announcement» is the 
+public statement whereby the issuer announces, in advance to the publication of the 
+final  year-end  report,  the  preliminary  financial  results  agreed  by  the  management 
+body of the issuer and that will be included in that report. This can apply only if the 
+disclosed preliminary financial results contain all the key information relating to the 
+financial  figures  expected  to  be  included  in  the  year-end  report.  In  the  event  the 
+information announced in such way changes after its publication, this will not trigger 
+another closed period but should be addressed in accordance with Article 17 of MAR.  
+ 
+In  any  case,  persons  discharging  managerial  responsibilities  remain  subject  at  all 
+times to Articles 14 and 15 of MAR prohibiting insider dealing and attempted insider 
+17 
+ 
+ 
+ 
+dealing, unlawful disclosure of inside information, as well as market manipulation and 
+attempted market manipulation.  
+ 
+ 
+ 
+Threshold calculation 
+Updated: 20 December 2016 
+ 
+ 
+Q7.3  When  calculating  whether  the  threshold  triggering  the  notification  obligation 
+under  Article 19(1) of MAR is reached (5.000 EUR or 20.000 EUR), should the 
+transactions  carried  out  by  a  person  discharging  managerial  responsibilities 
+(PDMR) and by closely associated persons to that PDMR be aggregated? 
+ 
+A7.3 
+ 
+No, the transactions carried out by a PDMR and by closely associated persons to that 
+PDMR should not be aggregated.  
+This  involves  that  where  the  overall  transactions  singularly  carried  out  by  either  a 
+PDMR or any closely associated person to that PDMR do not reach the threshold, 
+those  persons  should  not  notify  those  transactions  even  where  the  threshold  is 
+reached aggregating all the transactions carried out by the PDMR and all the closely 
+associated persons to them.  
+ 
+A  practical  example  is  a  CEO  buying  4.000  EUR  of  equity  and  her  spouse  buying 
+another  2.000  EUR.  In  such  a  case,  none  of  them  has  reached  the  5.000  EUR 
+threshold and thus a notification is not required. 
+ 
+ 
+ 
+Price of gifts, donation and inheritance 
+Updated: 20 December 2016 
+ 
+ 
+Q7.4  Which are the rules to calculate the price of gifts, donations and inheritance for 
+the purpose of the notifications and disclosure of managers’ transactions under 
+Article 19 of MAR? 
+ 
+A7.4 
+ 
+According  to  Article  10(2)(k)  of  Commission  Delegated  Regulation  (EU)  2016/522, 
+donations and gifts made or received or inheritance received are transactions to be 
+notified under Article 19(1) of MAR. 
+The value of these transactions need to be taken into consideration for the purpose 
+of calculating the cumulated amount of the transactions of a PDMR or a person closely 
+associated to a PDMR, to assess whether the threshold (EUR 5 000 or EUR 20 000) 
+referred to  in  Article  19(8)  and (9)  of  MAR  has  been  crossed,  hence  triggering  the 
+duty to notify and disclose all subsequent transactions. 
+ 
+The field 4(c) on “Price(s) and volume(s)” of the template in the annex to Commission 
+Implementing  Regulation  (EU)  2016/523  (Implementing  technical  standards  on  the 
+notification  and  public  disclosure  of  managers’  transactions)  specifies  the  data 
+standards  to  be  used  for  expressing  the  price,  depending  on  the  type  of  financial 
+instruments  concerned.  In  that  respect,  such  template  makes  reference  to  data 
+standards defined for the purpose of the transaction reporting under Regulation (EU) 
+18 
+ 
+ 
+ 
+600/2014 (MiFIR) and related technical standards. However, it does not explain the 
+rules about the price to take into account to calculate the value of a donation, a gift or 
+inheritance. 
+ 
+For the purpose of the threshold calculation, the price to consider for donations, gifts 
+and inheritance is the last published price for the financial instrument concerned in 
+accordance with the post trade transparency requirements under MiFIR (Articles 6, 
+10, 20 and 21) on the date of acceptance of the donation, gift or inheritance (i.e. the 
+date  of  the  transaction),  or  where  such  price  is  not  available  that  day,  the  last 
+published price. 
+ 
+In the period before MiFIR becomes applicable, the price to use will be:  
+ 
+- 
+ 
+- 
+for shares admitted to trading on regulated markets (RM), the last 
+published price in accordance with the post trade transparency 
+requirements under Articles 30 and 45 of Directive 2004/39/EC (MiFID 
+I) on the date of acceptance of the donation, gift or inheritance or where 
+such price is not available that day, the last published price;  
+for shares admitted to trading or traded on MTFs only, bonds and 
+derivatives or financial instrument linked thereto, the last traded price on 
+the trading venue where the concerned financial instruments are traded, 
+on the date of acceptance of the donation, gift or inheritance, or where 
+such price is not available that day, the last traded price before the date 
+of acceptance.  
+ 
+During the interim, in the case of shares being traded on several venues (RMs and/or 
+MTFs), then the concept of “most relevant markets in terms of liquidity” under MiFID 
+I and specified in the Commission Regulation (EC) 1287/2006 implementing MiFID I 
+should be used to determine the trading venue to consider when looking at the last 
+traded price. For other instruments, the concept of trading venue of first admission 
+should be used.  
+ 
+Furthermore, where debt instruments admitted to trading or traded on a RM or a MTF 
+are  only  traded  OTC  (i.e.  there  is  no  trading  on  RM  nor  MTF),  then  the  price  to 
+consider should be the last publicly available price for that debt instrument (whatever 
+is the source).  
+ 
+However, when a notification has to be made in accordance with Article 19(1) of MAR 
+and Article 2 of the Implementing technical standards on the notification and public 
+disclosure of managers’ transactions, the price field for a gift, donation or inheritance 
+is expected to be populated with 0 (zero).  
+ 
+ 
+ 
+Notification of shares received as part of remuneration package 
+Updated: 20 December 2016 
+ 
+ 
+Q7.5  Do shares received by a PDMR as part of a remuneration package have to be 
+notified  pursuant  to  Article  19(1)  MAR  and  Article  10(2)(i)  Commission 
+Regulation 2016/522 only upon the occurrence of certain conditions? 
+19 
+ 
+ 
+ 
+ 
+A7.5 
+The  rationale  of  Article  19(1)  of  MAR  is  mainly  to  prevent  insider  dealing  and  to 
+provide  investors  with  a  highly  valuable  source  of  information.  A  notification  of 
+entering into a remuneration package contract, according to which a PDMR is entitled 
+to receive shares only upon the occurrence of certain conditions, is not covered by 
+that  rationale.  Therefore,  pursuant  to  Article  19(1)  of  MAR  and  Article  10(2)(i)  of 
+Commission Delegated Regulation (EU) 2016/522, the PDMR has to notify only upon 
+the occurrence of the conditions and the actual execution of the transaction. 
+ 
+ 
+ 
+Price of options granted for free 
+Updated: 20 January 2017 
+ 
+ 
+Q7.6  Which  are  the  rules  to  calculate  the  price  of  options  granted  for  free  to 
+managers or employees for the purpose of the notifications and disclosure of 
+managers’ transactions under Article 19 of MAR? 
+ 
+A7.6 
+According  to  Article  10(2)(b)  of  Commission  Delegated  Regulation  (EU)  2016/522, 
+such transactions have to be notified under Article 19(1) of MAR.  
+ 
+The value of these transactions needs to be taken into consideration for the purpose 
+of  calculating  the  cumulated  amount  of  the  transactions  of  a  person  discharging 
+managerial  responsibility  (PDMR)  or  a  person  closely  associated  to  a  PDMR,  to 
+assess whether the threshold (EUR 5 000 or EUR 20 000) referred to in Article 19(8) 
+and (9) of MAR has been crossed, hence triggering the duty to notify and disclose all 
+subsequent transactions. 
+ 
+The field  4(c)  on “Price(s)  and  volume(s)”  of  the  template  in  annex  to  Commission 
+Implementing  Regulation  (EU)  2016/523  (Implementing  technical  standards  on  the 
+notification  and  public  disclosure  of  managers’  transactions)  specifies  the  data 
+standard  to  be  used  for  expressing  the  price,  depending  on  the  type  of  financial 
+instruments  concerned.  In  that  respect,  such  template  makes  reference  to  data 
+standards defined for the purpose of the transaction reporting under Regulation (EU) 
+600/2014 (MiFIR) and related technical standards. However, it does not explain the 
+rules about the price to take into account to calculate the value of the received options.  
+ 
+For  the  purpose  of  the  threshold  calculation,  the  price  to  consider  for  the  received 
+options should be based on the economic value assigned to the options by the issuer 
+when granting them. If such an economic value is not known, the price to consider 
+should  be  based  on  an  option  pricing  model  that  is  generally  accepted  in  the 
+reasonable  opinion  of  the  PDMR.  This  model  determines  the  price  of  the  granted 
+option based on variables such as the current share price of the issuer, exercise price 
+of the option and time until expiry of the option. Other variables that can be used in 
+the  option  pricing  model  are  (risk  free)  interest  rates,  future  dividends  and  implied 
+volatility. The variables used for the price determination of the granted option depends 
+on which general accepted option pricing model is used.  
+ 
+However, when a notification has to be made in accordance with Article 19(1) of MAR 
+and Article 2 of the Implementing technical standards on the notification and public 
+20 
+ 
+ 
+ 
+disclosure  of  managers’  transactions,  the  price  field  for  options  granted  for  free  to 
+managers or employees is expected to be populated with 0 (zero). 
+  
+ 
+Closely associated persons under Article 3(1)(26)(d) of MAR   
+Updated: 6 July 2017 
+ 
+ 
+Q7.7  According to Article 3(1)(26)(d) of Regulation (EU) No 596/2014 of the European 
+Parliament and of the council (MAR) a closely associated person is, inter alia, 
+«a legal person, trust or partnership, the managerial responsibilities of which 
+are  discharged»  by  a  person  discharging managerial  responsibilities  (PDMR) 
+or by a closely associated natural person. Is the reference to «the managerial 
+responsibilities of which are discharged» contained in Article 3(1)(26)(d) of MAR 
+to be read in the same way as the definition of PDMR within an issuer contained 
+in Article 3(1)(25) of MAR?  
+ 
+A7.7 
+ 
+No,  the  reference  to  «the  managerial  responsibilities  of  which  are  discharged»  in 
+Article 3(1)(26)(d) of MAR should be read to cover those cases where a PDMR within 
+an  issuer  (or  a  closely  associated  natural  person)  takes  part  in  or  influences  the 
+decisions  of  another  legal  person,  trust  or  partnership  (hereinafter  “legal  entity”)  to 
+carry out transactions in financial instruments of the issuer. 
+For example, in the case of mere cross board membership, where a person sits in the 
+administrative, management or supervisory body of an issuer and also in the board of 
+another legal entity where they exercise executive or non-executive functions, without 
+however  taking  part  nor  influencing  the  decisions  of  that  legal  entity  to  carry  out 
+transactions  in  financial  instruments  of  the  issuer,  then  that  person  should  not  be 
+considered  discharging  managerial  responsibilities  within  that  legal  entity  for  the 
+purposes  of  Article  3(1)(26)(d)  of  MAR.  Therefore,  that  legal  entity  should  not  be 
+subject to the notification obligations under Article 19(1) of MAR, unless it is directly 
+or  indirectly  controlled  by,  is  set  up for the  benefit  of,  or  its  economic  interests  are 
+substantially equivalent to those of that person.  
+ 
+ 
+Trading during closed periods and prohibition of insider dealing   
+Updated: 21 November 2017  
+ 
+ 
+Q7.8  How should permission to trade in a closed period, which may be granted in 
+certain circumstances to PDRMs in accordance with Article 19(12) of MAR, be 
+considered in the context of Article 14 of MAR? 
+ 
+A7.8 
+ 
+ 
+The insider dealing prohibition contained in Article 14 of MAR applies during closed 
+periods referred to in Article 19(11) of MAR in the same way as it does at any other 
+time, and must therefore be complied with by PDMRs. This means that when an issuer 
+allows  a  PDMR  to  trade  under  Article  19(12)  of  MAR,  the  general  insider  dealing 
+provisions still apply and the PDMR must always give consideration as to whether or 
+not the relevant transaction would constitute insider dealing. 
+21 
+ 
+ 
+ 
+ 
+Types of transactions by PDMRs prohibited during closed periods  
+Updated: 21 November 2017 
+ 
+ 
+Q7.9  Are  the  types  of  "transaction"  by  a  PDMR  prohibited  during  a  closed  period 
+under Article 19(11) of MAR the same as those types of transaction subject to 
+the notification requirements set out under Article 19(1) of MAR? 
+ 
+A7.9 
+Yes.  
+ 
+It is pointed out that Article 19(11) of MAR only applies to a PDMR when conducting 
+transactions  on  its  own  account  or  for  the  account  of  a  third  party  whereas  the 
+notification of transactions required under Article 19(1) of MAR also applies to persons 
+closely associated to a PDMR. 
+ 
+8.  Questions and Answers on investment recommendation 
+information  recommending  or  suggesting  an 
+and 
+investment strategy 
+ For the purpose of this section, it is recalled that: 
+ 
+Article  3(1)(35)  of  MAR  sets  out  that  "investment  recommendation"  means  “any 
+information  recommending  or  suggesting  an  investment  strategy,  explicitly  or 
+implicitly, concerning one or several financial instruments or the issuers, including any 
+opinion  as  to the  present  or future  value  or  price  of  such  instruments,  intended for 
+distribution channels or for the public”; 
+ 
+Article  3(1)(34)  of  MAR  sets  out  that  “information  recommending  or  suggesting  an 
+investment strategy means information:  
+(i) produced by an independent analyst, an investment firm, a credit institution, any 
+other person whose main business is to produce investment recommendations or a 
+natural person working for them under a contract of employment or otherwise, which, 
+directly  or  indirectly,  expresses  a  particular  investment  proposal  in  respect  of  a 
+financial instrument or an issuer; or  
+(ii)  produced  by  persons  other  than  those  referred  to  in  point  (i),  which  directly 
+proposes a particular investment decision in respect of a financial instrument.” 
+ 
+Communications made orally or via electronic means 
+Updated: 26 October 2016 
+ 
+ 
+22 
+ 
+ 
+ 
+Q8.1  Do  communications  made  orally  or  via  electronic  means  such  as  telephone 
+calls and “chat” functions, or communications labelled e.g. “morning notes” or 
+“sales notes”, constitute an “investment recommendation” under MAR? 
+ 
+A8.1 
+Any  communication  that  meets  the  criteria  of  the  definition  of  investment 
+recommendation  within  the  meaning  of  Article  3(1)(35)  of  MAR  in  conjunction  with 
+Article  3(1)(34)  of  MAR  will  be  deemed  to  fall  within  the  scope  of  the  investment 
+recommendation  regime.  When  determining  whether  a  communication  is  an 
+"investment  recommendation",  an  assessment  should  be  made  based  on  the 
+substance  of  the  communication,  irrespective  of  its  name  or  label  and  the  format, 
+form,  or  the  medium  through  which  it  is  delivered  (whether  electronically,  orally  or 
+otherwise).  As  such,  whether  a  specific  oral  or  electronic  communication,  or  a 
+communication labelled as “morning notes” or “sales notes”, may be considered an 
+investment recommendation within the meaning of MAR, it should be established on 
+a case-by-case basis.  
+ 
+Where a standardised communication, including oral or electronic communication, is 
+structured  and  pre-planned  for  distribution  channels  and  it  implicitly  or  explicitly 
+suggests an investment strategy in relation to a financial instrument or issuer, it should 
+be regarded as "investment recommendation".  
+ 
+ 
+ 
+Communications not referring to one or several issuers 
+Updated: 26 October 2016 
+ 
+ 
+Q8.2  Can  communications  that  do  not  refer  to  either  one  or  several  financial 
+instruments  or  issuers  be  considered  investment  recommendations  under 
+MAR? 
+ 
+A8.2 
+that  meet 
+the  criteria  of 
+the  definition  of 
+Communications 
+“investment 
+recommendation” within the meaning of Article 3(1)(35) of MAR in conjunction with 
+Article  3(1)(34)  of  MAR  will  be  deemed  to  fall  within  the  scope  of  the  investment 
+recommendation regime.  
+ 
+In  particular,  Article  3(1)(35)  of  MAR  sets  out  that  “investment  recommendation” 
+means "information recommending or suggesting an investment strategy, explicitly or 
+implicitly,  concerning  one  or  several  financial  instruments  or  the  issuers 
+[emphasis added], including any opinion as to the present or future value or price of 
+such instruments, intended for distribution channels or for the public". 
+ 
+Therefore, a communication that does not refer to either a financial instrument or an 
+issuer, should generally not be considered an investment recommendation. However, 
+the  producer’s  assessment  as  to  whether  the  above  communication  may  be 
+investment recommendation should be conducted on a case-by-case basis. 
+ 
+Communication relating solely to spot currency rates, sectors, interest rates, loans, 
+commodities,  macroeconomic  variables  or  industry  sectors  and  not  referring  to  a 
+financial instrument or an issuer would be considered as investment recommendation 
+where it contains information assessed as allowing a reasonable investor to deduce 
+that the  communication  is  implicitly  recommending  specific financial  instruments  or 
+23 
+ 
+ 
+ 
+issuers  and  provided  that  the  other  criteria  of  the  definition  of  “investment 
+recommendation” within the meaning of Article 3(1)(35) of MAR in conjunction with 
+Article 3(1)(34) of MAR are met. For example, an opinion on a specific sector that is 
+composed  of  a  very  limited  number  of  issuers  may  be  considered  an  investment 
+recommendation regarding those issuers. 
+ 
+ 
+ 
+Main businesss is not to produce investment recommendations 
+Updated: 26 Octobre 2016 
+ 
+ 
+Q8.3  Would an investment firm which produces an investment recommendation be 
+considered to fall within the scope of Article 3(1)(34)(i) of MAR, even though the 
+production of such recommendation is not its main business?  
+ 
+A8.3  With regard to an investment firm, any information that comprises direct or indirect 
+investment  proposals  in  respect  of  a  financial  instrument  or  an  issuer  will  be 
+considered  as  information  recommending  or  suggesting  an  investment  strategy  as 
+defined under point (i) of Article 3(1)(34) of MAR. This is regardless of whether or not 
+the production of investment recommendations is the main business of the investment 
+firm,  noting  that  the  condition  “whose  main  business  is  to  produce  investment 
+recommendations” contained in point (i) of Article 3(1)(34) of MAR concerns any other 
+person than independent analysts, investment firms and credit institutions. 
+ 
+ 
+ 
+Information implicitly recommending or suggesting an investment strategy 
+Updated: 26 October 2016 
+ 
+ 
+Q8.4  Does material intended for distribution channels or for the public concerning 
+one  or  several  financial  instruments  that  contains  statements  indicating  that 
+the  concerned  financial  instruments  are  “undervalued”,  “fairly  valued”  or 
+“overvalued” fall within the definition of “investment recommendation” under 
+MAR? 
+ 
+A8.4 
+Such material which concerns one or several financial instruments admitted to trading 
+on  a  regulated  market  or  a  multilateral  trading  facility  or  for  which  a  request  for 
+admission to trading on such a market has been made, or, traded on a multilateral 
+trading facility or an organised trading facility, is considered as information implicitly 
+recommending or suggesting an investment strategy pursuant to Article 3(1)(34) of 
+MAR,  insofar  as  it contains  a  valuation  statement  as to the  price  of  the  concerned 
+financial instruments.  
+ 
+Furthermore, material containing an estimated value such as a “quantitative fair value 
+estimate”  that  is  providing  a  projected  price  level  or  “price  target”,  or  any  other 
+elements of opinion on the value of the financial instruments, is also considered to be 
+information implicitly recommending or suggesting an investment strategy pursuant 
+to Article 3(1)(34) of MAR.  
+ 
+As  the material  referred to  above  is  an  investment  recommendation  under  MAR,  it 
+needs  to  comply  with  the  relevant  obligations  and  standards  set  out  in  MAR  and 
+24 
+ 
+ 
+ 
+Commission Delegated Regulation (EU) 2016/958 of the European Parliament and of 
+the Council concerning the objective presentation of investment recommendations or 
+other  information  recommending  or  suggesting  an  investment  strategy  and  the 
+disclosure  of  particular  interests  and  conflicts  of  interest  by  producers  of  such 
+recommendations.  In  addition,  a  third  party  that  disseminates  such  material  is 
+considered as a disseminator of investment recommendations and therefore  needs 
+to comply with the relevant obligations and standards set out in MAR and Commission 
+Delegated Regulation (EU) 2016/958 of the European Parliament and of the Council. 
+ 
+ 
+ 
+Communications containing purely factual information 
+Updated: 20 December 2016 
+ 
+ 
+Q8.5  Do communications to clients containing purely factual information on one or 
+‘investment 
+issuers  constitute  an 
+instrument  or 
+several 
+recommendation’ under MAR? 
+financial 
+ 
+A8.5 
+In consideration of the definition of an investment recommendation within the meaning 
+of  Article  3(1)(35)  of  MAR,  in  conjunction  with  Article  3(1)(34)  of  MAR,  any 
+communication  containing  purely  factual  information  on  one  or  several  financial 
+instruments  or  issuers  would  not  constitute  an  investment  recommendation  under 
+MAR  provided  that  it  does  not  explicitly  or  implicitly  recommend  or  suggest  an 
+investment strategy.  
+ 
+In this context, factual information might, among other things, include recent events 
+or news relating to one or several financial instruments or issuers. 
+ 
+ 
+ 
+Communications on previously disseminated investment recommendations 
+Updated: 20 December 2016 
+ 
+ 
+Q8.6  Do communications intended for distribution channels or for the public which 
+only  report  or  refer  to  previously  disseminated  investment  recommendation 
+and do not include any new elements of opinion or valuation or confirmation of 
+a  previous  opinion  or  valuation  constitute  an  investment  recommendation 
+under MAR? 
+ 
+A8.6 
+No, such a communication will not amount to a new investment recommendation, but 
+would still be subject to Article 7 of Commission Delegated Regulation (EU) 2016/958, 
+if it is disseminated by the producer of the investment recommendation, and therefore 
+such  a  communication  shall  include,  the  date  and  time  of  first  issuance  of  the 
+investment recommendation. 
+ 
+If  a  communication  reports  or  refers  to  a  former  investment  recommendation  but 
+contains either confirmation of the previous opinion or valuation or new elements of 
+opinion  or  valuation,  which  may  be  based  on  new  facts  or  events  concerning  the 
+issuer which are considered in the valuation, it will be viewed as a new investment 
+recommendation and all aspects of Commission Delegated Regulation (EU) 2016/958 
+would need to be considered. 
+25 
+ 
+ 
+ 
+ 
+In case a person disseminates recommendations produced by third parties, articles 8 
+to 10 of Commission Delegated Regulation (EU) 2016/958 need to be considered. 
+ 
+ 
+ 
+Recommendation on derivatives traded solely outside a trading venue 
+Updated: 20 December 2016 
+ 
+ 
+Q8.7  Are  recommendations  relating  to  derivatives  traded  solely  outside  a  trading 
+venue in scope of Article 20 of MAR? 
+ 
+A8.7 
+In  line  with  Articles  2(1)(d)  and  2 (3)  of  MAR,  a derivative  traded  outside  a trading 
+venue is in scope of MAR insofar as its price or value depends on, or has an effect 
+on the price or value of a financial instrument referred to in Article 2(1)(a), (b) or (c) of 
+MAR.  
+ 
+If the price or value of a derivative traded outside a trading venue does not depend 
+on or have an effect on the price or value of a financial instrument referred to in Article 
+2(1)(a), (b) or (c) of MAR, the derivative would not be in scope of MAR and therefore 
+any  recommendation  relating  to  the  financial  instrument  would  not  be  in  scope  of 
+Article 20 of MAR.  
+ 
+Therefore, firms are responsible for conducting their own assessment on a case by 
+case  basis  as  to  whether  a  recommendation  on  a  given  derivative  traded  solely 
+outside  a  trading  venue  is  in  scope  of  Article  20  of  MAR  and  subject  to  the 
+requirements of Commission Delegated Regulation (EU) 2016/958. 
+ 
+ 
+ 
+ 
+Identification of derivatives in investment recommendations 
+Updated: 20 December 2016 
+ 
+ 
+Q8.8  Where a recommendation relates to a derivative, how should it be determined 
+whether a recommendation has been given on the same financial instrument, 
+for  the  purposes  of  complying  with  Article  4(1)(h)  of  Commission  Delegated 
+Regulation (EU) 2016/958? 
+ 
+A8.8  Where a unique identifier exists for the concerned derivative, such identifier has to be 
+used to determine whether there has been a change in a previous recommendation 
+given by the producer on the same financial instrument. 
+ 
+For  as  long  as  a  unique  identifier  does  not  exist  for  a  derivative  instrument,  all 
+reasonable  efforts  should  be  made  to  identify  such  a  financial  instrument  by  other 
+means, so as to comply with Article 4(1)(h) of Commission Delegated Regulation (EU) 
+2016/958.  For  example,  these  efforts  may  include  establishing  a  proprietary 
+taxonomy. In determining recommendations on the same financial instrument (for the 
+purposes  of  Article  4(1)(h)  of  Commission  Delegated  Regulation  (EU)  2016/958), 
+common  features  of  a  given  derivative  contract,  including  but  not  limited  to  strike, 
+underlying or maturity could be identified. Such an approach should allow producers 
+26 
+ 
+ 
+ 
+of recommendations to provide meaningful disclosures to recipients and still comply 
+with the requirements. 
+ 
+ 
+ 
+Recommendations on multiple issuers 
+Updated: 27 January 2017 
+ 
+ 
+Q8.9  How  does  Commission  Delegated  Regulation  (EU)  2016/958  apply  when  the 
+subject of the recommendation relates to multiple issuers independently? 
+ 
+A8.9  When a recommendation refers to several issuers independently, for example as part 
+of sectorial research, the requirements would apply independently to every issuer that 
+is the subject of the recommendation.  
+ 
+ 
+ 
+Recommendations relating to several financial instruments independently 
+Updated: 27 January 2017 
+ 
+ 
+Q8.10  How  does  Commission  Delegated  Regulation  (EU)  2016/958  apply  when  the 
+subject  of  the  recommendation  relates  to  several  financial  instruments 
+independently? 
+ 
+A8.10  Where a recommendation refers to several financial instruments independently, such 
+as  part  of  sectorial  research,  the  requirements  would  apply  to  each  financial 
+instrument that is the subject of the recommendation. 
+ 
+ 
+ 
+ 
+Recommendations on a derivative referencing an index 
+Updated: 27 January 2017 
+ 
+ 
+Q8.11  How  does  Commission  Delegated  Regulation  (EU)  2016/958  apply  when  the 
+subject of the recommendation is a derivative referencing an index? 
+ 
+A8.11 
+ 
+If  a  recommendation  relates  to  a  derivative  referencing  an  index  of  financial 
+instruments, the derivative itself should be treated as a financial instrument subject to 
+the requirements of the Commission Delegated Regulation (EU) 2016/958, and not 
+the individual instruments that comprise the index. 
+9.  Questions and Answers on Market soundings 
+ 
+Financial instruments in scope of the market sounding regime  
+Updated: 1 September 2017 
+ 
+27 
+ 
+ 
+ 
+ 
+Q9.1  Does the scope of Article 11 of MAR cover all communications of information 
+to one or more potential investors prior to the announcement of a transaction, 
+in  order  to  gauge  their  interest  in  a  possible  transaction  and  the  conditions 
+relating to it? 
+ 
+A9.1 
+ 
+ 
+ 
+Under the market sounding regime outlined in Article 11 of MAR, the communication 
+of  information  by  an  issuer,  a  secondary  offeror,  an  emission  allowances  market 
+participant  or  third  party  acting  on  their  behalf  or  account  (the  Disclosing  Market 
+Participant  –  DMP)  should  be  deemed  to  be  made  in  the  normal  course  of  the 
+employment, duties or profession of such a person where all the conditions contained 
+in Article 11 of MAR are met, and therefore not constitute unlawful disclosure of inside 
+information.  
+Article 11(1) of MAR concerns market soundings that gauge the interest of potential 
+investors in a possible transaction in a financial instrument and the conditions relating 
+to  it  such  as  its  potential  size  or  pricing.  Those  financial  instruments  have  to  be 
+financial instruments covered by the MAR scope as specified in Article 2(1) of MAR: 
+ 
+a)  financial instruments admitted to trading on a regulated market or for which a 
+request for admission to trading on a regulated market has been made;  
+ 
+b)  financial instruments traded on an MTF, admitted to trading on an MTF or for 
+which a request for admission to trading on an MTF has been made;  
+c)  financial instruments traded on an OTF;  
+d)  financial instruments not covered by point (a), (b) or (c), the price or value of 
+which depends on or has an effect on the price or value of a financial 
+instrument referred to in those points, including, but not limited to, credit 
+default swaps and contracts for difference.  
+ 
+Where the financial instrument subject to the possible transaction is already admitted 
+to trading (or  a request for  admission  to  trading has  been made)  or  is traded  on  a 
+trading venue, as for example when the new transaction relates to an increase of an 
+existing issuance, then that transaction will fall within scope of Article 11.  
+ 
+Where the financial instrument subject to the possible transaction is not admitted to 
+trading (nor a request for admission to trading has been made) nor traded on a trading 
+venue, that financial instrument would not fall under Article 2(1)(a)-(c) of MAR. That 
+financial instrument would fall under Article 2(1)(d) of MAR if its price or value depends 
+on or has an effect on the price or value of  another existing financial instrument in 
+scope of MAR.  
+ 
+In such a case, to determine if Article 2(1)(d) applies, the DMP must assess on a case 
+by  case  basis  whether  there  is  any  relationship  between  the  price  or  value  of  the 
+financial instrument that is the subject of the sounding and any other existing financial 
+instrument falling under Article 2(1)(a)-(c) of MAR such as, for instance, other financial 
+instruments of the issuer in question or of a parent company. DMPs are expected to 
+be able to document their assessment. 
+ 
+28 
+ 
+ 
+ 
+Where the DMP assessed that such relationship exists, then the financial instrument 
+will be in scope of MAR and the related possible transaction will be in scope of the 
+MAR market sounding regime.  
+ 
+If  there  is  uncertainty  as  to  whether  there  is  a  price  or  value  relationship,  such  as 
+where there are no data available regarding a new financial instrument, in order to 
+receive the protection under Article 11, should it be subsequently shown that there 
+was  a  relationship,  an  appropriate  approach  would  be  for  the  DMP  to  apply  the 
+provisions  of  Article  11  of  MAR  and  the  relevant  delegated  and  implementing 
+regulations. 
+ 
+10.  Questions and Answers on Insider lists 
+ 
+Subject of the insider list requirements  
+Updated: 1 September 2017 
+ 
+ 
+Q10.1  Are  persons  acting  on  behalf  or  account  of  the  issuer  (e.g.  advisors  and 
+consultants)  subject  to  the  obligation  to  draw  up,  update  and  provide  to  the 
+NCA upon request their own insider list under Article 18(1) of MAR? 
+ 
+A10.1  Yes, the legislative aim of the insider list regime under MAR is to cover any person 
+that, by virtue of its action on behalf or account of the issuer, has access to inside 
+information. 
+ 
+Therefore, not only the issuer but also all the persons acting on behalf or account of 
+the issuer that have access to inside information relating to the issuer (e.g. advisors 
+and consultants) are subject to the obligation to draw up, update and provide to the 
+NCA upon request their respective insider list under Article 18 of MAR. 
+ 
+ 
+Issuer’s responsibility in case of delegation  
+Updated: 1 September 2017 
+ 
+ 
+Q10.2  When does the issuer remain fully responsible under the second subparagraph 
+of Article 18(2) of MAR for the compliance with the insider list requirements by 
+persons acting on behalf or account of the issuer? 
+ 
+A10.2  The issuer remains fully responsible under the second subparagraph of Article 18(2) 
+of MAR only where a service provider "assumes the task of drawing up and updating 
+the insider list” of the issuer, on the basis of a specific delegation to that purpose.  
+ 
+The issuer is not responsible for the fulfilment of the insider list requirements of the 
+persons acting on its behalf or account mentioned in Article 18(1) of MAR and first 
+subparagraph  of  Article  18(2)  (e.g.  advisors  and  consultants)  who  are  personally 
+29 
+ 
+ 
+ 
+responsible for the obligation to draw up, update and provide to the NCA upon request 
+their own insider list. 
+ 
+Where the person that "assumes the task of drawing up and updating the insider list” 
+of the issuer under the second subparagraph of Article 18(2) of MAR is also a person 
+acting on behalf or account of the issuer under Article 18(1) of MAR (e.g.  advisors 
+and consultants), that person will be responsible for the obligation to draw up, update 
+and  provide  to  the  NCA  upon  request  its  own  insider  list.  The  issuer  will  remain 
+responsible for complying with the insider list requirements in relation to its own insider 
+list, the drawing up and updating of which has been delegated to the same person as 
+part of a separate agreement. 
+ 
+11.  Questions  and  Answers  on  emission  allowances  and 
+emission allowances market participants (EAMPs) 
+ 
+Time span for the calculation of the CO2 equivalent emissions and the rated thermal 
+input  
+  
+Updated: 14 December 2017  
+ 
+ 
+Q11.1  What period should be used to calculate whether one of the thresholds set out 
+in  Article  17(2)  of  MAR  has  been  exceeded?  As  of  when  is  this  threshold 
+deemed to be crossed? 
+ 
+A11.1  A  participant  in  the  emission  allowance  market  should  use  a  calendar  year  period 
+(one-year period that begins on January 1 and ends on December 31) for the annual 
+calculation  of  the  carbon  dioxide  equivalent  emissions  and  the  rated  thermal  input 
+(RTI) of 31 December of the same year.  
+ 
+The calculated emissions over a given year (Y) or the RTI as of 31 December of a 
+given year (Y) should be assessed against the minimum thresholds of 6 million tonnes 
+a  year  of  equivalent  carbon  dioxide  or  the  minimum  RTI  threshold  of  2  430  MW 
+specified  in  Article  5(1)(a)  and  (b)  of  the  Commission  Delegated  regulation  (EU) 
+2016/522. Where either of these thresholds is exceeded, the market participant will 
+be  deemed  to  be  an  emission  allowance  market  participant  (EAMP)  as  defined  in 
+Article 3(20) of MAR as of 1 May of the following year (Y+1) and thus subject to the 
+obligations  applicable to  EAMPs  under  MAR,  including the  requirement to  disclose 
+inside  information  concerning  emission  allowances  it,  or  its  parent  undertaking  or 
+related undertakings, may hold. This approach for MAR purpose will be aligned with 
+the compliance cycle of the EU Emissions Trading System stemming from Directive 
+2003/87/EC. 
+ 
+In practice, this means that the year of reference for the calculations should be 2016 
+to determine whether a participant is an EAMP between 3 January and 30 April 2018, 
+and 2017 to determine whether a participant is an EAMP from 1 May 2018 onwards, 
+until the next calculations become applicable on 1 May 2019.  
+ 
+30 
+ 
+ 
+ 
+It  is  reminded that  the  calculations  should  take  into  account  all  business,  including 
+aviation  activities  or  installations,  which  a  participant  in  the  emission  allowance 
+market, or its parent undertaking or related undertaking owns or controls or for the 
+operational  matters  of  which  that  participant,  or  its  parent  undertaking  or  related 
+undertaking is responsible, in whole or in part. 
+31 

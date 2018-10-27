@@ -1,0 +1,1594 @@
+ 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER 
+ARTICLE 509(1) OF THE CRR 
+4 October 2018 
+ 
+ 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Contents 
+List of figures 
+List of tables 
+Abbreviations 
+Executive summary 
+1. 
+Introduction 
+2.  Analysis of the LCR and its components 
+Trends in the LCR 
+Composition of liquid assets 
+Composition of outflows and inflows 
+3.  Analysis of the LCR by business models 
+4. 
+LCR — analysis of currency mismatch 
+ 
+ 
+ 
+3 
+5 
+6 
+7 
+9 
+11 
+11 
+17 
+20 
+27 
+32 
+2 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+List of figures 
+Figure 1: LCR evolution (weighted average) .................................................................................... 11 
+Figure 2: Weighted average LCR across bank groups (GSIIs, O-SIIs and Others) ............................. 12 
+Figure 3: LCR across countries .......................................................................................................... 12 
+Figure 4: LCR dispersion across countries ........................................................................................ 13 
+Figure 5: Evolution of the LCR by bank group (weighted average) .................................................. 13 
+Figure 6: HQLA and net liquidity outflows (as a share of total assets) by group of banks .............. 14 
+Figure 7: Evolution of the liquidity shortfall (EUR billion) — balanced sample ............................... 15 
+Figure 8: Evolution of the liquidity shortfall by bank group (EUR billion) — balanced sample ....... 15 
+Figure 9:  Evolution  of  the  numerator  and  denominator  of  the  LCR,  September 2016 = 100%  — 
+balanced sample .............................................................................................................................. 16 
+Figure 10:  Evolution  of  the  numerator  and  denominator  of  the  LCR  by  bank  group, 
+September 2016 = 100% — balanced sample ................................................................................. 16 
+Figure 11 : Interaction between the LCR and other regulatory ratios ............................................. 17 
+Figure 12: Composition of liquid assets (post-weight and before the cap) relative to total assets  19 
+Figure 13:  Evolution  of  central  bank  assets  and  exposures  over  time  (EUR  billion)  —  balanced 
+sample .............................................................................................................................................. 19 
+Figure 14: Composition of cash outflows (post-weight) relative to total assets ............................. 21 
+Figure 15: Composition of collateral posted for secured funding transactions with central banks 23 
+Figure 16: Composition of cash inflows (post-weight and before the cap) relative to total assets  24 
+Figure 17: Dynamics of the liquidity buffer, outflows and inflows (as a share of total assets) ....... 25 
+Figure 18: LCR across business models ............................................................................................ 27 
+Figure 19: LCR dispersion across business models........................................................................... 28 
+Figure 20: HQLA and net liquidity outflows (as shares of total assets), per business model .......... 29 
+Figure 21: Composition of liquid assets (post-weight and before the cap), relative to total assets, 
+per business model .......................................................................................................................... 30 
+Figure 22: Composition of cash outflows (post-weight) relative to total assets, per business model
+ .......................................................................................................................................................... 31 
+Figure 23: Composition of cash inflows (post-weight and before the cap) relative to total assets, per 
+business model ................................................................................................................................. 31 
+Figure 24: Liquidity buffer over net cash outflows where the significant currency is euros (x-axis) 
+compared with the same indicator for the reporting currency (all currencies; y-axis) ................... 33 
+ 
+3 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 25: Liquidity buffer over net cash outflows where the significant currency is US dollars (x-
+axis) compared with the same indicator for the reporting currency (all currencies; y-axis) ........... 34 
+Figure 26: Liquidity buffer over net cash outflows where the significant currency is pounds sterling 
+(x-axis) compared with the same indicator for the reporting currency (all currencies; y-axis) ....... 34 
+Figure 27:  Indicator 2a  liquidity  buffer  over  total  funding  (all  currencies  vs  euros  as  a  significant 
+currency) .......................................................................................................................................... 36 
+Figure 28: Indicator 2a liquidity buffer over total funding (all currencies vs US dollars as a significant 
+currency) .......................................................................................................................................... 36 
+Figure 29:  Indicator  2a  liquidity  buffer  over  total  funding  (all  currencies  vs  pounds  sterling  as  a 
+significant currency) ......................................................................................................................... 37 
+Figure 30: Indicator 2b outflows over total funding (all currencies vs euros as a significant currency)
+ .......................................................................................................................................................... 38 
+Figure 31:  Indicator 2b  outflows  over  total  funding  (all  currencies  vs  US  dollars  as  a  significant 
+currency) .......................................................................................................................................... 38 
+Figure 32: Indicator 2b outflows over total funding (all currencies vs pounds sterling as a significant 
+currency) .......................................................................................................................................... 39 
+Figure 33: Indicator 2c inflows over total funding (all currencies vs euros as a significant currency)
+ .......................................................................................................................................................... 39 
+Figure 34:  Indicator 2c  inflows  over  total  funding  (all  currencies  vs  US  dollars  as  a  significant 
+currency) .......................................................................................................................................... 40 
+Figure 35: Indicator 2c inflows over total funding (all currencies vs pounds sterling as a significant 
+currency) .......................................................................................................................................... 40 
+ 
+ 
+ 
+4 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+List of tables 
+Table 1: Number of banks included in the December 2017 analysis ............................................... 42 
+Table 2: Number of banks included in the evolution analysis if balanced sample criterion applies 43 
+Table 3: Number of banks submitting liquidity coverage data (by business model) ....................... 44 
+Table 4: Definition of business models ............................................................................................ 44 
+ 
+ 
+ 
+5 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Abbreviations 
+BPS 
+ 
+CCP 
+CIU 
+Basic Points 
+ 
+central counterparty 
+ 
+collective investment undertaking 
+COREP 
+Common Reporting 
+CRR 
+Capital Requirements Regulation  
+DR 
+EBA 
+ECB 
+Delegated Regulation 
+European Banking Authority 
+European Central Bank 
+EHQCB 
+extremely high-quality covered bonds 
+ESRB 
+European Systemic Risk Board 
+EU 
+European Union 
+EUR 
+euro(s) 
+GBP 
+pounds sterling 
+GSIIs 
+global systemically important institution 
+HQCB 
+high-quality covered bonds 
+HQLA 
+high-quality liquid assets 
+LCR 
+liquidity coverage ratio 
+LTRO 
+long-term refinancing operation 
+NSFR 
+net stable funding ratio 
+O-SII 
+other systemically important institution  
+PSE 
+QE 
+public sector entity 
+quantitative easing 
+SME 
+small and medium-sized enterprise 
+TLTRO 
+ 
+USD 
+Targeted longer-term refinancing operations 
+ 
+United States dollar 
+ 
+6 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Executive summary  
+The  objective  of  the  report 
+is  to  monitor  banks’  short-
+term liquidity risk profiles.  
+(both 
+On average, the LCR is well 
+above 
+the  minimum 
+requirements 
+the 
+minimum  requirement  of 
+80%  in  the  interim  phase 
+and 
+minimum 
+requirement of 100% under 
+full implementation)  and  is 
+increasing,  driven  by  HQLA 
+investment. 
+the 
+Level 1  assets 
+(excluding 
+covered bonds) form a large 
+part of the liquidity buffer. 
+This  report  is  provided  under  Article 509(1)  of  the  Capital 
+Requirements Regulation (CRR). The objective of the report is to 
+monitor and evaluate the liquidity coverage requirements under 
+Commission  Delegated  Regulation 
+(DR) (EU) 2015/61.  The 
+analysis  is  based  on  the  Common  Reporting  (COREP)  data  of 
+December 2017. 
+The weighted average liquidity coverage ratio (LCR) across banks 
+is 145% and it has increased since September 20161. The upward 
+trend is driven by an increase in high-quality liquid assets (HQLAs), 
+while  net  liquidity  outflows  have  remained  relatively  stable.  In 
+December 2017,  there  were  only  four  banks  with  LCR  levels 
+below  100%,  as  they  monetised  their  liquidity  buffers  during 
+times  of  stress2.  The  LCR  level  of  global  systemically  important 
+institutions  (GSIIs)  (140%)  and  other  systemically  important 
+institutions  (O-SIIs)  (147%)  is  lower  than  that  of  other  banks 
+(165%). The breakdown by country shows that the average LCR 
+level  for  the  majority  of  the  countries  is  within  the  100-200% 
+range,  although  there  are  some  differences  in  terms  of  the 
+dispersion of  banks’  LCR  levels within  countries.  Banks  are  also 
+well  above  the  100%  requirement,  regardless  of  their  business 
+models,  but  again  the  dispersion  of  banks’  LCR  levels  within 
+business models differs. 
+The average share of liquid assets (after haircuts and before the 
+cap) relative to total assets is approximately 16% of total assets. 
+On  average,  liquid  assets,  before  the  application  of  the  cap  on 
+liquid  assets,  consist  mainly  of  Level 1  assets  (91%,  excluding 
+extremely  high-quality  covered  bonds),  which  are  composed of 
+cash and withdrawable central bank reserves (48%) and securities 
+(43%).  Level 1  assets  are  the  main  component  of  the  liquidity 
+buffer across countries, although their share of total assets does 
+vary. The contribution of Level 2 assets to banks’ liquidity buffer 
+is relatively small.  
+Outflows  are  16%  of  total 
+assets. 
+Non-operational 
+deposits continue to be the 
+from  non-operational  deposits,  e.g.  short-term 
+Outflows 
+unsecured funding from financial customers, continue to be, on 
+average, the major component of total cash outflows. They make 
+                                                                                                               
+1 First reference date for which COREP data, based on the LCR DR, is available. 
+2 The possibility of monetising liquid assets during times of stress (resulting in an LCR below 100%) is foreseen under 
+Article  412(1)  of  the  CRR  (and  Article  4(3)  of  the  LCR DR)  as  maintaining  the  LCR  at  100%,  which,  under  such 
+circumstances, could produce undue negative effects on the credit institution and other market participants. 
+7 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+main  component  of  banks’ 
+outflows.  Inflows  are  more 
+than 5% of total assets. 
+up  approximately  6%  of  total  assets  and  38%  of  total  cash 
+outflows.  The  share  of  retail  deposits  relative  to  total  assets  is 
+nearly the same in all bank groups (2%). 
+Banks finance their assets in 
+different  currencies.  LCR 
+levels  considering 
+items 
+denominated  exclusively  in 
+US  dollars  are,  in  general, 
+lower. 
+The composition of cash inflows presents differences across the 
+two groups of banks3 and across countries.  
+Several banks tend to finance some of their assets in a different 
+currency from the one in which they are denominated. There is 
+an inherent currency risk in the LCR, and the regulation requires 
+banks  to  ensure that  the  currency  denomination of their  liquid 
+assets is consistent with the distribution by currency of their net 
+liquidity outflows. Among the significant (foreign) currencies, the 
+United States dollar (USD) is the one that shows lower LCR levels. 
+As the ability of banks to swap currencies and to raise  funds in 
+foreign  currency  markets  may  be  constrained  during  times  of 
+stress, significant currency mismatches are a major concern. 
+In applying Article 8(6) of the LCR DR, competent authorities may 
+consider  making  greater  use  of  their  discretion  to  restrict 
+currency  mismatches  by  setting  limits  on  an  excess  of  net 
+outflows denominated in a significant reporting currency. 
+ 
+ 
+ 
+                                                                                                               
+3 All results are analysed by dividing banks into two groups: ‘GSIIs and O-SIIs’ and ‘Others’. 
+ 
+8 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+1.  Introduction 
+As part of the CRR mandate, the EBA monitors and evaluates the liquidity coverage requirements 
+on  an  annual  basis  (pursuant  to  Article 415(1)).  In  this  regard,  the  EBA  takes  into  account  the 
+potential impact of these requirements on the business and risk profiles of banks, on the stability 
+of  financial  markets,  on  the  economy  and  on  the  stability  of  the  supply  of  bank  lending 
+(Article 509(1) of Regulation (EU) No 575/2013). After consulting the relevant stakeholders, the EBA 
+is mandated to communicate a report on its findings to the European Commission. The European 
+Parliament and the Council shall be given the opportunity to state their views on the EBA report. 
+The  current  report  is  the  fifth  publication  of  the  EBA  report  under  Article 509(1)  and  the  third 
+publication since the introduction of the minimum liquidity coverage standards in 20154.  
+ 
+This report presents a detailed analysis of the short-term resilience of banks’ liquidity risk profiles 
+and the potential liquidity coverage and outflow risks that banks face in a specific significant foreign 
+currency5. For the first time, the analysis is based on COREP data, as of December 2017, taken from 
+a sample of 126 banks (158 banks including subsidiaries) within the 28 EU Member States and 1 
+EEA/EFTA state, which reports COREP data to the EBA on a regular basis6. 
+ 
+The  sample  covers  both  GSIIs  and  O-SIIs,  as  well  as  other  banks,  and  provides  breakdowns  by 
+different business models across the EU. In terms of total assets, the sample covers approximately 
+EUR 29 trillion (EUR 30 trillion including subsidiaries) or, on average, 80% of the EU banking sector7. 
+Country data should be interpreted with caution because of differences in the representativeness 
+of the sample across countries, which affect data comparability. 
+ 
+The  report  covers  the  liquid  assets  held  by  the  banks,  short-term  liquidity  outflows  based  on 
+outstanding  liability  balances  and  off-balance-sheet  commitments,  short-term  liquidity  inflows 
+stemming  from  outstanding  balances  of  contractual  receivables,  and  the  calculation  of  the 
+regulatory LCR. In addition, the analysis of currency mismatch included in the report investigates 
+whether the liquidity coverage of banks in a foreign (and significant) currency is different from their 
+overall liquidity coverage. 
+Aggregated figures and charts in this report are based on COREP data reported at the highest level 
+of consolidation, with the exception of the analyses concerning banks’ business models and country 
+                                                                                                               
+4 The  EBA’s  previous  reports:  Report  on  impact  assessment  for  liquidity  measures  under  Article 509(1)  of  the  CRR 
+(December 2013);  Second  report  on  impact  assessment  for  liquidity  measures  under  Article 509(1)  of  the  CRR 
+(December 2014); Report on liquidity measures under Article 509(1) and review of the phase-in of the liquidity coverage 
+requirement  under  Article 461  of  the  CRR  (December 2016);  and  Report  on  liquidity  measures  under  Article 509(1) 
+(December 2017). 
+5 See definition of significant and foreign currency in section 4. 
+6 Banks included in the sample not only reported LCR COREP data but also Financial Reporting (FINREP) data (amount of 
+total assets). If a bank has not reported the amount of total assets in FINREP, it has not been included in the analysis. 
+7 The  information  on  total  assets  of  the  EU  has  been  obtained  from  the  Statistical  Data  Warehouse  of  the  European 
+Central Bank (ECB). 
+ 
+9 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+breakdowns8, which also include subsidiaries of an EU parent institution9. Unless stated otherwise, 
+average figures are weighted.  
+ 
+ 
+                                                                                                               
+8 To ensure confidentiality, figures by country breakdown are shown only if there are at least three banks that reported 
+data in each specific country. 
+9 The number of banks by country breakdown included in the different analyses is provided in the Annex. 
+10 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+2.  Analysis  of 
+components 
+Trends in the LCR 
+the 
+LCR  and 
+its 
+Liquidity coverage requirements are intended to ensure banks’ short-term resilience to potential 
+liquidity disruptions. Banks should hold liquid assets to cover net liquidity outflows over a stress 
+period  of  30  calendar  days  and  should  maintain  an  LCR  of  at  least  100%10.  The  LCR  minimum 
+requirement has been set at 60% since 1 October 2015 and reached 100% in January 2018. 
+In December 2017, the weighted average LCR for the sample of banks used for this report was 145% 
+(Figure 1). An analysis of the evolution11 shows that banks have made significant efforts to increase 
+the level of the LCR and to reduce the shortfall in liquid assets. The LCR, on average, has been above 
+the 100% level since September 2016. At the same time, the liquidity shortfall has decreased from 
+over EUR 26.7 billion in September 2016 to EUR 20.8 billion. The number of banks with a shortfall 
+decreased from seven in September 2016 to four in December 2017. 
+Figure 1: LCR evolution (weighted average) 
+ 
+On  average,  GSIIs  and  O-SIIs  have  lower  LCR  (140%  and  147%,  respectively)  than  other  banks 
+(165%). In the sample, only four banks out of 126 (excluding subsidiaries) did not meet the 100% 
+fully  phased-in  LCR  minimum  requirement.  Moreover,  the  LCR  dispersion  across  other  banks  is 
+                                                                                                               
+10 In accordance with Article 412 of the CRR and Article 4(3) of the Commission Delegated Regulation (EU) 2015/61, credit 
+institutions can make use of their liquid assets to cover their net liquidity outflows under stressed circumstances, even if 
+such a use of liquid assets may result in their liquidity coverage ratio falling below 100 % during such periods. However, 
+as further specified in Article 414 of the CRR and Article 4(4) of the Commission Delegated Regulation (EU)2015/61, where 
+credit  institutions  do  not  meet  or  expect  not  to  meet  the  requirement,  including  during  times  of  stress,  they  shall 
+immediately notify the competent authorities and shall submit, without undue delay, to the competent authorities a plan 
+for the timely restoration of compliance. 
+11 Time-series analysis is based on a consistent sample of 115 banks (excluding subsidiaries, as results are shown for total 
+EU,  GSIIs  and  O-SIIs)  when  the  analysis  shows  volumes  or  comparisons  with  previous  references  dates.  In  all  other 
+analysis, the sample is the one used in the cross-sectional analyses, which include all banks that submitted data on the 
+latest reporting date. 
+11 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+greater  than  across  GSIIs  and  O-SIIs.  This  is  a  result  of  the  heterogeneity of  banks,  classified  as 
+‘Other’ in terms of size and business models.  
+Figure 2: Weighted average LCR across bank groups (GSIIs, O-SIIs and Others) 
+ 
+Differences are also found when analysing the weighted average LCR levels across countries. The 
+majority of countries have LCR levels between 100 and 200%. Nevetheless, some countries present 
+very  high  average  LCR  levels,  such  as  Latvia,  Romania,  Bulgaria  and  Slovenia,  with  ratios  above 
+300%, and Lithuania and Cyprus, with ratios above 200%. Only one country, Greece, presents LCR 
+average levels below 100%12. 
+Figure 3: LCR across countries 
+ 
+                                                                                                               
+12 Due to the sovereign debt crisis, Greek credit institutions monetised their LCR liquidity buffer, resulting in LCR levels 
+below the 100% minimum requirement. The possibility of monetising liquid assets during times of stress (resulting in an 
+LCR below 100%) is foreseen under Article 412(1) of the CRR (and Article 4(3) of the LCR DR) as maintaining the LCR at 
+100%  under  such  circumstances  could  produce  undue  negative  effects  on  the  credit  institution  and  other  market 
+participants. In accordance with Article 414 of the CRR (and Article 4(4) of the LCR DR), Greek credit institutions were 
+required to submit plans for restoring compliance with the LCR requirement. 
+ 
+12 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 4: LCR dispersion across countries 
+ 
+Figure 4 shows the dispersion of the LCR across countries. The top line of the box shows the 75th 
+percentile,  whereas  the  bottom  line  of  the  box  is  showing  the  25th  percentile13.  The  red  point 
+represents the weighted average LCR14. The figure shows that there is dispersion in the banks’ LCR 
+levels within the same country. Ireland is the country where there is more dispersion, followed by 
+France, Portugal and Spain. The dispersion in Ireland is caused by one bank that reported high LCR 
+levels. In many countries, the weighted average point tends to be closer to the  25th percentile, 
+meaning that larger banks within that country have lower LCR ratios. 
+During 2017, the increase in the LCR was lower for GSIIs and O-SIIs banks (+860bps) than for other 
+banks (+963bps). Despite a positive evolution during  the first three quarters of 2017, in the last 
+quarter  the  other  banks  registered  a  negative  evolution  (-188bps).  Conversely,  GSIIs  and  O-SIIs 
+registered a material increase in the last quarter of 2017 (+340bps).  
+Figure 5: Evolution of the LCR by bank group (weighted average) 
+                                                                                                               
+13 A percentile is the value of a variable below which a certain percentage of observations fall. For example, the 25th 
+percentile is the value below which 25% of the observations are found. 
+14 For confidentiality reasons, for countries with between three and four observations, only the weighted average LCR is 
+shown. 
+ 
+13 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 6 shows the interaction between HQLA and net liquidity outflows at individual bank level. 
+The parameters are expressed as a share of total assets and the size of the bubble indicates banks’ 
+weights in terms of total assets. The  bigger the bubble, the larger the bank  and the greater the 
+weight it takes in the weighted average values. The 45° line indicates equality between HQLA and 
+net liquidity outflows, i.e. when the LCR is 100%.  
+Most  banks  in  the  sample  are  located  above  the  line,  suggesting  that  they  have  LCR  levels 
+adequately above the minimum standards. 
+In terms of their position with respect to the 45° line, GSIIs and O-SIIs present a higher dispersion. 
+Regarding  the  dispersion  of  HQLA  as  a  percentage  of  total  assets,  the  interquartile  range  for 
+GSIIs/O-SIIs is 14-23%, whereas it is 10-19% for Others. 
+Figure 6: HQLA and net liquidity outflows (as a share of total assets) by group of banks 
+ 
+The efforts that banks have made to increase their LCR levels are also reflected in the evolution of 
+the  liquidity  shortfall  (Figure 7)15,  which,  based  on  the  fully  loaded  LCR  minimum  requirement 
+(100%),  has  decreased  from  over  EUR 26.7 billion  in  September 2016  to  EUR 20.8 billion) 16 . 
+Consequently,  the  number  of  banks  with  an  LCR  below  100%  at  the  latest  reporting  date  also 
+reduced from seven in September 2016 to four in December 201717. 
+Since September 2016, banks already compliant with the LCR minimum requirement have further 
+improved their surplus, indicating additional efforts in strengthening their liquidity profiles. 
+ 
+ 
+                                                                                                               
+15 The shortfall calculated in this report is the  sum of differences between the net liquidity outflows and the stock of 
+HQLA for all banks with an LCR below the minimum requirement. The calculation of shortfall does not account for the 
+offsetting  effect  of  the  aggregate  surplus,  arising  from  those  banks  that  already  meet  or  exceed  the  minimum 
+requirement. Therefore, no reallocation of liquidity between individual banks or within the banking system is assumed.  
+16 Note that the time-series analysis showing volumes is based on a consistent sample of banks that submitted data for 
+all reporting dates.  
+17 Last year’s report (EBA Report on liquidity measures under Article 209(1) of the CRR 2016) presented a lower shortfall 
+level in December 2016. The different results are a consequence of the different sample used in both reports, as the 
+current report is based on the COREP sample (see further details about the sample in section 1 and in the Annex). 
+14 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 7: Evolution of the liquidity shortfall (EUR billion) — balanced sample 
+The four banks with a shortfall in December 2017 are GSIIs/O-SIIs. The number of non-GSIIs/non-
+O-SIIs banks with shortfall reduced from five in September 2016 to zero in December 2017. 
+Figure 8: Evolution of the liquidity shortfall by bank group (EUR billion) — balanced sample 
+ 
+ 
+The increase in the LCR can be attributed mainly to an increase in liquid assets (HQLA), in particular 
+during the first quarter of 2017, while the net liquidity outflows (denominator of the LCR ratio) have 
+remained relatively stable ( Figure 8 ). Banks have thus continued to improve their overall liquidity 
+profile on the asset side. In line with previous EBA LCR reports, they invested in liquid assets and, 
+more precisely, replaced non-eligible assets with eligible liquid assets18.  
+ 
+ 
+ 
+ 
+                                                                                                               
+18 The EBA reports on impact assessment for liquidity measures under Article 509(1) of the CRR (2013, 2014 and 2017).  
+15 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 9: Evolution of the numerator and denominator of the LCR, September 2016 = 100% — 
+balanced sample 
+ 
+Although the net liquidity outflows and the level of total assets showed a slight decrease for  all 
+categories of banks, the increase in HQLA was higher for GSIIs and O-SIIs. 
+ 
+Figure 10: Evolution of the numerator and denominator of the LCR by bank group, 
+September 2016 = 100% — balanced sample 
+ 
+ 
+ 
+ 
+ 
+16 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Interaction between the LCR and the leverage ratio 
+The analysis of the data does not infer a correlation between the LCR and the leverage ratio. In 
+fact, while some banks report high leverage ratios (well above the 3% requirement) and, at the 
+same time, an LCR well below 100% (minimum requirement), there are also banks reporting a 
+leverage  ratio  below  3%  and,  at  the  same  time,  an  LCR  well  above  the  100%  (minimum 
+requirement).  
+ Figure 11 : Interaction between the LCR and other regulatory ratios 
+Note: solid lines indicate the minimum requirements for the regulatory ratios, including the LCR under full 
+implementation (100%) and the proposed minimum requirement for the leverage ratio (3%). The dashed line 
+indicates the LCR phase-in requirement as of January 2017 (80%). 
+ 
+ 
+ 
+Composition of liquid assets 
+Regulation differentiates between assets of extremely high liquidity and credit quality (or Level 1 
+assets),  and  assets  of  high  liquidity  and  credit  quality  (or  Level 2  assets).  Level 1  assets  may 
+comprise,  inter  alia,  cash  and  central  bank  reserves,  as  well  as  securities  in  the  form  of  assets 
+representing claims on or guaranteed by central or regional governments, local authorities or PSEs. 
+EU  regulation,  unlike  the  Basel III  framework,  also  considers  promotional  banks’  assets  in  the 
+Level 1  liquidity  buffer.  In addition,  it  provides  for  greater  recognition of  extremely  high-quality 
+covered bonds (EHQCB), which may be included in Level 1 assets (unlike the Basel III framework). 
+Level 2 assets are divided into Level 2A and Level 2B assets. Level 2A assets are considered more 
+liquid than Level 2B assets and, therefore, are subject to lower haircuts. The EU framework allows 
+Level 2 assets to include exposures in the form of high-quality covered bonds (HQCB), certain non-
+RMBS securitisations, as well as units or shares in collective investment undertakings (CIUs). 
+ 
+17 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+The largest part of liquidity buffers consists of Level 1 assets in the form of cash and central bank 
+reserves and securities (also EHQCB). GSIIs and O-SIIs, on average, tend to hold higher shares of 
+central  bank  reserves  and  lower  levels  of  EHQCB  in  comparison  with  other  banks.  Overall,  the 
+liquidity buffer (before the application of the cap on liquid assets) is approximately 16.0% of total 
+assets, 16.2% for GSIIs and O-SIIs (Figure 12).  
+Article 17 of the LCR DR sets the minimum requirements for the composition of the liquidity buffer 
+by  asset  level.  A  minimum  of  30%  of  the  liquidity  buffer  is  to  be  composed  of  Level 1  assets, 
+excluding EHQCB.  Aggregate Level 2 assets should not  account  for more than 40%  and Level 2B 
+assets should not account for more than 15% of a bank’s total stock of HQLA.  
+On average, liquid assets before the cap on liquid assets consist mainly of Level 1 assets (more than 
+95% or more than 91%, excluding EHQCB, of the total liquidity buffer).  
+Within  Level 1  assets,  the  share  of  cash  and  central  bank  reserves  (48%)  is  slightly  higher  than 
+securities  (43%)  but  only  for  GSIIs  and  O-SIIs.  For  other  banks,  securities  (50%)  are  a  higher 
+proportion in comparison with cash and central bank reserves (40%), and EHQCB also represent a 
+higher proportion of Level 1 assets (7%, compared with 4% for GSIIs and O-SIIs). Eligible assets in 
+Level 2 assets represent only 5% (of the total liquidity buffer). 
+The composition of the liquid assets depends largely on the business models of the institution and 
+also reflects differences across EU countries. While liquidity buffers comprise mainly Level 1 assets 
+in all countries, banks in half of the countries rely largely on Level 1 securities (excluding covered 
+bonds); the other half rely on cash and central bank reserves. On average, Lithuania, and Estonia 
+are the  countries with a  larger  share of  cash and central bank  reserves over  their total  liquidity 
+buffer  (around  92%),  whereas  Poland,  Romania  and  Slovakia  have  the  biggest  share  of  Level 1 
+securities  (around  82%).  Covered  bonds  contribute  significantly  to  the  liquidity  buffer  only  in 
+Denmark (39% over the total liquidity buffer). 
+ 
+ 
+ 
+18 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 12: Composition of liquid assets (post-weight and before the cap) relative to total assets 
+ 
+ 
+Interactions  between  non-standard  monetary  policy  measures 
+and the LCR liquidity buffer 
+Monetary policies have direct implications on banks’ liquid asset holdings, since exposures to 
+central banks (in the form of withdrawable central bank reserves or other assets representing 
+claims on or guaranteed by central banks) are one of the major components of banks’ liquidity 
+buffers.  In  the  euro  area,  the  ECB’s  TLTROs  and  asset  purchase  programme,  as  well  as  the 
+quantitative easing (QE) or asset purchase programmes  initiated by  other  central banks since 
+2015, are indeed reflected in the evolution of the liquidity buffer, with central bank assets and 
+exposures continuing to increase, particularly for GSIIs and O-SIIs (Figure 13). 
+Figure 13: Evolution of central bank assets and exposures over time (EUR billion) — balanced 
+sample 
+ 
+ 
+19 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+ 
+The potential impact of these unconventional central bank policies raise some questions in the 
+way the level of liquid assets and the composition of banks’ portfolios may be affected by 
+changes in central bank policies in the future.  
+An end to full allotment tender procedures in central bank credit operations and the winding 
+down or phasing out of asset purchase programmes would reduce the supply of central bank 
+funding or central bank reserves, respectively. This would require banks to modify their funding 
+strategy and, where necessary, the composition of their HQLA. Indeed, in the euro area, the 
+redemption of the TLTROs area and the announcement by the ECB19 of a gradual reduction in 
+the net purchases under its asset purchase programme until the end of 2018, could result in a 
+decrease in banks’ liquidity buffers if banks do not adapt their funding strategy to the new 
+funding scenario. Nevertheless, the 2018 EBA report on funding plans, which provides more 
+details about banks’ planned funding structure, shows a reduction in public sector sources of 
+funding in favour of further reliance on market-based funding for the years 2018 to 2020. In 
+addition, the low interest rate environment in recent years may also have increased the value 
+of liquid assets held by banks. In general, it is an expected (and intended) consequence of the 
+shift in central banks’ monetary policies that interest rates will rise, affecting the liquidity 
+buffer via the valuation of liquid assets. 
+Composition of outflows and inflows 
+Net liquidity outflows are defined as the difference between liquidity outflows and liquidity inflows 
+and are required to be positive20. Liquidity outflows are calculated by multiplying the outstanding 
+balances  of  various  categories  or  types  of  liabilities  and  off-balance-sheet  commitments  by  the 
+rates at which they are expected to run off or be drawn down21. Liquidity inflows are assessed over 
+a period of 30 calendar days. They comprise only contractual inflows from exposures that are not 
+past due and for which banks have no reason to expect non-performance within 30 calendar days. 
+To  prevent  banks  from  relying  solely  on  anticipated  liquidity  inflows  to  meet  their  LCR,  and  to 
+ensure a minimum level of liquid assets holdings, the amount of inflows that can offset outflows is 
+                                                                                                               
+19 http://www.ecb.europa.eu/press/pr/date/2018/html/ecb.mp180614.en.html 
+20 Article 20 of the LCR DR. 
+21 Article 22(1) of the LCR DR. 
+20 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+generally capped at 75% of total liquidity outflows. However, unlike the Basel LCR standard, the EU 
+LCR regulation provides certain exemptions to this cap, either full or partial,  although these are 
+subject to the prior approval of competent authorities22. This includes a potential exemption for 
+intra-group and intra-institutional protection scheme flows and banks specialised in pass-through 
+mortgage  lending  or  in  leasing  and  factoring.  In  addition,  banks  specialised  in  financing  the 
+acquisition of motor vehicles or in consumer credit loans may apply a higher cap of 90%. 
+On average, cash outflows (post-weight) represent approximately 16.0% of total assets. GSIIs and 
+O-SIIs present a higher share (16.5%) than other banks (11.6%). The share of outflows from retail 
+deposits  in  total  assets  is nearly  the  same  in  both  groups  of  banks  (around  2%  of  total  assets). 
+However, relative to total cash outflows, other banks present higher retail deposits (17.9% of total 
+outflows compared with 11.9% of total cash outflows for GSIIs and O-SIIs). As expected, for both 
+groups of banks, the main component of the cash outflows is non-operational deposits (e.g. short-
+term deposits from financial customers), which tend to have higher run-off rates and account for 
+6% of total assets. The same composition of outflows is shown when analysing results by country. 
+Figure 14: Composition of cash outflows (post-weight) relative to total assets 
+ 
+ 
+                                                                                                               
+22 Article 33 of the LCR DR. 
+ 
+ 
+21 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Furthermore, banks should take into account an additional outflow corresponding to the collateral 
+needs that would result from the impact of an adverse market scenario on credit banks’ derivative 
+transactions and other contracts, if material23. The same composition of outflows is shown when 
+analysing results by country. 
+Figure 14 shows the share of additional collateral outflows in total assets (around 0.6% of the total 
+assets for both groups of banks and 3.6%/4.9% of total cash outflows for GSIIs and O-SIIs/Others). 
+When  measured  relative  to  liquidity  buffers,  the  values  of  the  indicator  (additional  collateral 
+outflows over HQLA) vary from 0% to 8%. It is, however, unclear whether these variations are due 
+to  differences  in  the  portfolios  of  the  banks  or  to  differences  in  the  methodologies  applied  to 
+calculate these additional outflows. 
+Banks should limit the recognition of liquidity inflows to 75% of total liquidity outflows24. In this 
+sample,  nearly  all  inflows  are  limited  to  a  75%  cap.  Only  less  than  0.01%  of  the  inflows, 
+corresponding to four banks, is limited to 90% of total liquidity outflows or is fully exempt from the 
+cap.  
+In addition, it is worth mentioning that the amount of outflows represented in Figure 14 is already 
+net of inflows if they meet the conditions to be considered interdependent inflows and the approval 
+of the competent authority is granted. This is because, in this specific case, the LCR DR allows to 
+calculate  outflows  already  net  of  these  inflows25.  Bank  by  bank  analysis  shows  that  there  are 
+currently six banks with inflows that meet the conditions to be considered interdependent inflows 
+and that reported the relevant amounts.26 
+Assessment of secured funding transactions with central banks 
+Central bank-related funding transactions have to be backed by eligible collateral, so they are 
+considered secured funding transactions that may affect the LCR if the remaining maturity is less 
+than 30 calendar days. However, unlike the case of interbank secured funding transactions, no 
+cash outflows will be assigned to transactions where the lender is a central bank. The underlying 
+rationale is the assumption that, in times of stress, the central bank will roll over any secured 
+funding transactions, as long as the relevant collateral is central bank eligible, disregarding the 
+LCR  liquidity  quality  of  these  assets.  Still,  these  transactions  affect  the  calculation  of  the 
+unwinding of secured funding and lending transactions, which is relevant for the calculation of 
+the cap on liquid assets (Annex I of the LCR DR)27. 
+                                                                                                               
+23 Article 423(3) of the CRR and Article 30(3) of the LCR DR. 
+24 Article 33 of the LCR DR (with the approval of the competent authority, specialised credit banks may be subject to a 
+cap of 90% on inflows, and these banks may be fully exempt from the cap on inflows if their main activity is leasing and 
+factoring business). 
+25 Article 26 of the LCR DR. 
+26 Note that the cell in COREP that contains the information about the amount of interdependent inflows, is a memo 
+item. This number represents the number of banks with interdependent inflows that provided this information. 
+27 The cap on liquid assets (Annex I to the LCR DR) may be relevant if the bank is conducting a significant amount of short-
+term central bank operations, if the bank is providing less liquid collateral and if the bank has reinvested the cash received 
+into liquid assets. 
+22 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+At  the  December 2017  reporting  date,  there  were  100  banks  that  reported  secured  funding 
+transactions with any type of counterparty, 59 of which reported secured funding transactions 
+with a central bank, namely 42 GSIIs and O-SIIs and 17 classified as other banks.  
+Given  the  preferential  treatment  of  secured  funding  transactions  with  central  banks  in  the 
+determination of the net cash outflows, some banks may benefit from the difference between 
+the list of central bank eligible assets for collateral and liquid assets in terms of liquidity coverage 
+requirements.  Banks  that benefit  from this  treatment  are  those  that  use  non-liquid  assets  as 
+collateral  to  draw  central  bank  funding.  While  an  outflow  rate  of  0%  is  applied  to  those 
+transactions with central banks, an outflow rate of 100% of the amount due is calculated in the 
+case of transactions with other counterparties (point (g) of Article 28(3) of the LCR DR). However, 
+transactions backed by Level 1 assets (excluding covered bonds) receive an outflow rate of 0%, 
+irrespective of the transaction’s counterparty. 
+In  line  with  previous  reports,  the  composition  of  collateral  posted  for  secured  funding 
+transactions with central banks present material differences across banks. For GSIIs and O-SIIs, a 
+large part of the collateral posted for these transactions is Level 1 assets, excluding EHQCB (74% 
+of the total). The Level 1 covered bonds and the non-liquid collateral represent only 3% and 20%, 
+respectively. On the contrary, for other banks a large part of the collateral posted is non-liquid 
+collateral (82% of the total) and Level 1 covered bonds (13%).  
+Figure 15: Composition of collateral posted for secured funding transactions with central banks 
+ 
+Consequently, these banks would report higher cash outflows if they were to conduct secured 
+funding  transactions  via  interbank  repo  markets.  However,  as  the  total  amount  of  repo 
+transactions relative to total assets is small, the overall impact of such a change would still be 
+limited. 
+ 
+ 
+ 
+23 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Cash inflows relative to total assets for GSIIs and O-SIIs are 5.2% of total assets. This proportion is 
+higher than it is for other banks (3.3%). (Figure 16) 
+The results by country show heterogeneity in the composition of inflows, with 14 countries showing 
+a higher share of financial customer cash inflows and 11 countries showing a higher share of other 
+inflows.  Malta  shows  the  highest  share  of  financial  customer  inflows  (90.5%  of  total  inflows), 
+whereas Denmark, Belgium and Latvia are the countries with the highest share of other inflows 
+(over 50%). 
+Figure 16: Composition of cash inflows (post-weight and before the cap) relative to total assets 
+Figure 17  summarises  the  parameters  of  the  LCR.  It  first  presents  offsetting  between  outflows 
+(indicated in dark blue) and inflows (indicated in light blue) and then illustrates the extent to which 
+the liquidity buffer covers or exceeds the level of net liquidity outflows (portion above the dotted 
+line).  
+ 
+ 
+24 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+The largest element that reduces the LCR is outflows stemming from unsecured lending. This is in 
+line  with  expectations  for  two  reasons:  unsecured  funding,  especially  in  the  form  of  non-
+operational deposits, is a large part of banks’ outflows; and the applicable outflow rates for these 
+financial products are high.  
+In  particular,  outflows  stemming  from  unsecured  lending  amount  to  over  11%  of  total  assets. 
+Within  this  category,  non-operational  deposits  (which  have  high  run-off  rates) 28 are  the  most 
+important category (6% of total assets). Operational and retail deposits (which have lower run-off 
+rates) account for only 3.49% of total assets. 
+Only  about  two  percentage  points  of  unsecured  lending  as  a  share of  total  assets  are  offset  by 
+inflows in the same category. Proportionally, the offsetting in this category is much lower than in 
+the  secured  lending  category.  This  could  be  a  consequence  of  the  different  proportions  of 
+secured/unsecured lending and funding but also of the different haircuts applicable to the different 
+sources of inflows, as they are in general higher for unsecured lending.  
+Figure 17: Dynamics of the liquidity buffer, outflows and inflows (as a share of total assets) 
+ 
+The  low  share  of outflows  from  secured funding  relative  to  total  assets  (1.3%)  is  driven  by  two 
+aspects: 
+  Secured  funding  transactions  that  are  conducted  with  the  central  banks  receive  a  0% 
+outflow rate (irrespective of the liquidity quality of the underlying collateral), hence the 
+column in Figure 17 for outflows from secured lending represents only secured transactions 
+in the interbank market. 
+ 
+In addition, on average, most secured funding transactions that are conducted with other 
+counterparties (and that fall into the LCR time horizon) are secured by liquid assets, with 
+those transactions being subject to lower outflow rates (e.g. 0% outflow rate for secured 
+                                                                                                               
+28 Article 28 of the LCR DR. 
+ 
+25 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+funding  transactions  backed  by  Level 1  assets,  15%  outflow  rate  for  secured  funding 
+transactions backed by Level 2A assets). 
+Outflows from secured lending transactions are completely offset by inflows of the same category 
+(1.4%). These results may be a partial consequence of the lower haircuts applicable to inflows from 
+secured lending. 
+The final column represents the liquidity buffer that banks hold to meet their net liquidity outflows 
+and also shows that banks hold an excess liquidity buffer of 5% of their total assets. 
+ 
+ 
+ 
+26 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+3.  Analysis  of  the  LCR  by  business 
+models 
+The impact of the LCR may differ depending on banks’ specific business models. In fact, data confirm 
+that there is a wide dispersion in the LCR across different business models in the EU banking sector 
+(Figure 18).  
+A sample of 154 banks was used to analyse the impact of the LCR requirement on a number of 
+business models. All subsidiaries are included in the analysis to take into account the diversity of 
+business  models  within  the  overall  banking  groups.  One  caveat  to  the  analysis  is  the 
+representativeness  of  the  sample,  since  there  is  a  high  concentration  of  banks  in  two  business 
+models29.  Results should  therefore be interpreted  cautiously and should be checked against the 
+sample size of the relevant business model category.  
+For  all  business  models,  the  LCR  exceeds,  on  average,  the  minimum  requirement  of  100%. 
+Mortgage banks and public development banks present the highest LCRs (an average LCR of 256% 
+and 229%, respectively), well above the EU average. Locally, active savings banks also show a LCR 
+(179%)  above  the  EU  average,  whereas  local  universal  banks  show  a  similar LCR  around  the  EU 
+average. Cross-border universal banks (composed of large banks) show the lowest LCR30.  
+Figure 18: LCR across business models 
+ 
+ 
+ 
+                                                                                                               
+29 These are (i) cross-border universal banks and (ii) local universal banks. In aggregate, these banks make up 77% of the 
+total sample. The sample broken down by business model category is shown in Table 3 in the Annex. The definitions of 
+the business models are presented in Table 4 in the Annex. 
+30 The category ‘Other’ banks contains 12 banks. This category includes automotive and consumer credit banks (LCR of 
+168%),  custody  banks  (167%),  merchant  banks  (169%),  building  societies  (155%),  security  trading  houses  (237%)  and 
+other specialised banks (199%) . 
+27 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 19: LCR dispersion across business models 
+ 
+Figure 19 shows the dispersion of the LCR across countries. The top line of the box indicates the 
+75th percentile, whereas the bottom line of the box indicates the 25th percentile31. The red point 
+represents  the  weighted  average  LCR32. The  figure  shows  that  there  is  higher  dispersion  of  LCR 
+within public development banks and local universal banks.  
+A comparison between HQLA and net liquidity outflows as proportions of total assets shows that, 
+throughout the different business models, the level of HQLA ranges from 10% to 20% of total assets. 
+It is highly concentrated for cross-border universal banks (with a weighted average of 16%) and 
+more dispersed for local universal banks and public development banks (Figure 20). 
+ 
+ 
+                                                                                                               
+31 A percentile is the value of a variable below which a certain percentage of observations fall. For example, the 25th 
+percentile is the value below which 25% of the observations are found. 
+32 For confidentiality reasons, for countries with less than three observations, only the weighted average LCR is shown. 
+28 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 20: HQLA and net liquidity outflows (as shares of total assets), per business model33 
+ 
+Note:  ‘Other’  includes  automotive  and  consumer  credit  banks,  custody  banks,  merchant  banks,  building 
+societies, security trading houses and other specialised banks.  
+Following recent trends, the gradual increase in the stock of HQLA, together with relatively constant 
+total  assets  and  net  liquidity outflows,  pushed  banks  up  on  the  y-axis  and  over  the  dashed  line 
+representing the target LCR of 100%. Other than some business models with extreme values, such 
+as custodian banks, which show very high HQLA to net liquidity outflows ratios, there is no clear 
+indication that different business models lead to different HQLA to net liquidity outflows ratios, 
+although merchant banks as well as automotive and consumer credit banks show slightly reduced 
+HQLA (around 5%) and net liquidity outflows (3%) ratios (over total assets). 
+The composition of liquid assets per business model (Figure 21) and the overall high level of the 
+LCR confirm that the liquidity buffer is of high quality (as defined in the CRR). The composition of 
+HQLA shows a high share of Level 1 assets in all business models, and HQLA constitute a similar 
+share (from 5% to 16%) of total assets across most business models (excluding custody banks with 
+a share of 64% percent of total assets). 
+Custodian  banks  use  liquid  assets  in  the  form of  central  bank  reserves  and  eligible  securities  to 
+cover  a  larger  share  of  short-term  funding  relative  to  total  assets.  However, the  share of  liquid 
+assets relative to total assets for automotive and consumer credit banks is the smallest (5%). This 
+finding was one of the reasons for the introduction of the 90% cap on inflows for banks involved in 
+such  business  activities.  Mortgage  banks  and  savings  banks  use  a  higher  proportion  of  Level 1 
+covered bonds than the remaining business models. 
+                                                                                                               
+33 The size of the bubble indicates banks’ weights in terms of total assets. The bigger the bubble, the larger the bank and 
+the greater the weight it takes in the weighted average values within the same business model. 
+29 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 21: Composition of liquid assets (post-weight and before the cap), relative to total assets, 
+per business model 
+ 
+In contrast to the observations regarding the structure of liquid assets, liquidity flows seem more 
+affected by business models, reflecting the inherent differences in the various business strategies 
+(Figure 22 and Figure 23). 
+Regarding the  composition of cash outflows  relative to total assets  (Figure 22),  custodian banks 
+report much higher shares of outflows related to non-operational interbank deposits (36%), as well 
+as operational deposits (13%). For custodian banks, this results in much higher cash outflows (52% 
+relative to total assets) than the EU average due to higher run-off rates for financial non-operational 
+deposits. Conversely, some business models present very low levels of cash outflows relative to 
+total assets, namely merchant banks (4%), mortgage banks (6%), automotive and consumer credit 
+banks (7%). Outflows related to non-operational deposits are also an important element of total 
+outflows for cross-border universal banks (7% of total assets), local universal banks (6%) and savings 
+banks  (5%).  Outflows  related to retail deposits are important  to some  business models, namely 
+building societies (4%), local universal banks (3%) and savings banks (3%). 
+The share of cash inflows (post-weight and before the cap) relative to total assets, on average, is 
+less than 10% across business models, except for custodian banks (14%) and security trading houses 
+(11%). For custodian banks, the higher share is caused by inflows from financial customers (11% 
+relative to total assets, much higher than the remaining business models). For secure trading, the 
+higher share is due to secure lending (8%). This can be attributed to specific characteristics of their 
+business models. Some business models present a level of cash inflows relative to total assets lower 
+than 3%, namely building societies (0.5%), merchant banks (1.4%), mortgage banks (2.3%) and local 
+universal banks (2.7%) (Figure 23). 
+ 
+30 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 22: Composition of cash outflows (post-weight) relative to total assets, per business 
+model 
+Figure 23: Composition of cash inflows (post-weight and before the cap) relative to total assets, 
+per business model 
+ 
+ 
+ 
+31 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+4.  LCR — analysis of currency mismatch 
+Rationale for the analysis  
+Banks  regularly  finance  their  assets  in  a  currency  different  from  that  in  which  the  assets  are 
+denominated. There are several reasons  for this, ranging from diversification and supply factors to 
+structural drivers.  
+In the aftermath of the global financial crisis, currency mismatch in funding and the liquidity of asset 
+buffers became important aspects to take into account. In 2011, the European Systemic Risk Board 
+(ESRB) published two recommendations focusing on foreign lending (ESRB/2011/1) and significant 
+currency-denominated  funding  of  credit  banks  (ESRB/2011/2).  In  addition,  Article 8(6)  of  the 
+LCR DR requires banks to ensure that the currency denomination of their liquid assets is consistent 
+with  the  distribution  by  currency  of  their  net  liquidity outflows.  Where  appropriate, competent 
+authorities may require  credit  institutions  to restrict currency mismatch by setting limits  on the 
+proportion of net liquidity outflows in a currency that can be met during a stress period and by 
+holding liquid assets not denominated in that currency. 
+In normal times, it is expected that banks can easily swap currencies and can raise funds in foreign 
+currency  markets.  However,  the  ability  to  swap  currencies  may  be  constrained  during  stressed 
+conditions (as seen during the financial crisis). For instance, counterparty credit risk and currency-
+specific liquidity risk can cause significant dislocation in foreign exchange (FX) swaps markets, not 
+allowing anything else to use the liquidity buffer from one currency to another34. Therefore, it is 
+useful to study whether currency-related liquidity risk exists in the EU banking sector. 
+The analysis of the overall maturity mismatch and liquidity coverage between assets and liabilities 
+across  all  currencies  is  useful  to  disentangle  and  assess  possible  large  funding/outflow  risks  for 
+some specific currencies. The risk profile of an institution in a specific currency could be blurred by 
+different maturity mismatches across currencies, and the LCR reports by significant currency allow 
+monitoring of the inherent currency risk in the LCR. The CRR does not require separate reports for 
+items denominated in the reporting currency; however, a relevant number of banks seem to do 
+this. 
+The analysis uses a set of indicators to compare total figures across all currencies against figures 
+per individual significant (foreign) currency35 (limited to euros, US dollars and pounds sterling). The 
+first indicator (the liquidity buffer over net cash outflows) is developed per significant currency and 
+                                                                                                               
+34 The EBA report on funding plans presents some data about the movements experienced by key variables in the FX 
+swaps markets. 
+35 Article 415(2) of the CRR indicates that a currency is considered significant if the currency-denominated liabilities are 
+higher than 5% of total liabilities. The analysis is limited to foreign significant currencies, meaning that only significant 
+currencies, different from the legal currency in the country of origin of each individual bank, are included, i.e. a UK bank 
+with positions in euros, pounds sterling and US dollars over 5% of total liabilities, will be considered in the analysis only 
+for euros and US dollars but not for pounds sterling. 
+ 
+32 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+studies any currency patterns in the liquidity profiles of banks. The second indicator assesses the 
+relationship  between  three  important  components  of  the  LCR  (the  liquidity  buffer,  inflows  and 
+outflows) and the total funding of the banks, across different significant currencies. This analysis 
+sheds light on banks’ liquidity coverage and stable funding by individual significant currencies36.  
+Analysis of the parameters of the LCR by significant currencies  
+ 
+Indicator 1: liquidity buffer over net cash outflows  
+The objective is to test whether there are any currency-specific patterns in the liquidity profiles of 
+banks. The indicator demonstrates whether the difference between the ratio of the liquidity buffer 
+and net cash outflows for a specific foreign currency is more pronounced than the same ratio for 
+all currencies. 
+𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 1 =
+ 
+𝑂𝑢𝑡𝑓𝑙𝑜𝑤𝑠𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦 − 𝑀𝑖𝑛(𝐼𝑛𝑓𝑙𝑜𝑤𝑠𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦, 0.75 × 𝑂𝑢𝑡𝑓𝑙𝑜𝑤𝑠𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦)
+𝐿𝑖𝑞𝑢𝑖𝑑𝑖𝑡𝑦 𝑏𝑢𝑓𝑓𝑒𝑟𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦
+Where currency = reporting currency (all currencies), euros, US dollars, pounds sterling. 
+A total of 40 banks reported euros as a significant (foreign) currency. The weighted average LCREUR 
+is 173, which is higher than the average LCRAll currencies for the same sample. There is some evidence 
+of a different  pattern when  euros  is the significant  currency  (i.e. there  are many  banks  with an 
+LCREUR lower than the LCRAll currencies), but the differences are not statistically significant. These banks 
+are located above and distant from the diagonal line. 
+Figure 24: Liquidity buffer over net cash outflows where the significant currency is euros (x-axis) 
+compared with the same indicator for the reporting currency (all currencies; y-axis) 
+ 
+A  total  of  72  banks  reported  US  dollars  as  significant  (foreign)  currency.  The  weighted  average 
+LCRUSD is 91%, which is below the 100% LCR requirement and is much lower than the average LCRAll 
+                                                                                                               
+36 The results are presented at an anonymised institution level. An institution is included in the analysis under a specific 
+indicator only if the relevant data are available for the total figures in the reporting currency and in at least one of the 
+significant (and foreign currencies). 
+33 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+currencies for the same sample (143%). There is clear evidence of a different pattern when US dollars 
+is the significant currency (i.e. there are several banks with an LCRUSD lower than the LCRAll currencies; 
+many of them with an LCRUSD close to 0%), and the differences are statistically significant. These 
+banks are located above and distant from the diagonal line. 
+Figure 25: Liquidity buffer over net cash outflows where the significant currency is US dollars (x-
+axis) compared with the same indicator for the reporting currency (all currencies; y-axis) 
+ 
+A total of 19 banks reported pounds sterling as significant (foreign) currency. The weighted average 
+LCRGBP is 95%, which is below the 100% LCR requirement and is much lower than the average LCRAll 
+currencies for the same sample (143%). There is some evidence of a different pattern when pounds 
+sterling is the significant currency (i.e. there are several banks with an LCRGBP lower than the LCRAll 
+currencies, some of them with an LCRGBP close to 0%), but the differences are not statistically significant. 
+These banks are located above and distant from the diagonal line. 
+Figure 26: Liquidity buffer over net cash outflows where the significant currency is pounds 
+sterling (x-axis) compared with the same indicator for the reporting currency (all currencies; y-
+axis) 
+ 
+ 
+ 
+34 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+For the majority of the banks, the ratio for total figures (reporting currency, i.e. across all currencies) 
+is higher than the same ratio considering only each individual significant currency (euros, US dollars 
+and pounds sterling). This implies that banks are likely to hold a higher liquidity buffer in relation 
+to their net cash outflows in the national currency than in significant (foreign) currencies. Thus, at 
+aggregate level, the surplus in liquidity coverage in all currencies offsets (or dominates) the liquidity 
+shortfall in other significant currencies.  
+ 
+Banks  need  to  ensure  consistency  between  liquidity  buffers  and  net  outflows  by  currency.  Low 
+levels of LCR in one significant currency may create problems during stress periods when liquidity 
+sources may be constrained and the FX swaps markets may become difficult to access. Therefore, 
+Article 8  of  the  LCR DR  states  that  competent  authorities  may  limit  significant  excesses  of  net 
+outflows denominated in a significant or reporting currency (Article 8(6) of the LCR DR). Possible 
+specific limits or quantitative restrictions may be implemented to correct mismatches in material 
+cases. 
+ 
+Indicator 2: assessment of liquidity buffer, inflows and outflows  
+ 
+This  analysis  provides  insight  into  whether  the  banks  present  different  liquidity  risk  profiles, 
+depending on the significant (foreign) currency. It studies different components of the LCR (liquidity 
+buffer, outflows and inflows) in comparison with the total funding37 of the banks, across different 
+currencies. 
+𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 2𝑎 =
+𝐿𝑖𝑞𝑢𝑖𝑑𝑖𝑡𝑦 𝑏𝑢𝑓𝑓𝑒𝑟𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦
+𝑇𝑜𝑡𝑎𝑙 𝑓𝑢𝑛𝑑𝑖𝑛𝑔𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦
+ 
+𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 2𝑏 =
+𝑂𝑢𝑡𝑓𝑙𝑜𝑤𝑠𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦
+𝑇𝑜𝑡𝑎𝑙 𝑓𝑢𝑛𝑑𝑖𝑛𝑔𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦
+ 
+𝐼𝑛𝑑𝑖𝑐𝑎𝑡𝑜𝑟 2𝑐 =
+𝐼𝑛𝑓𝑙𝑜𝑤𝑠𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦
+𝑇𝑜𝑡𝑎𝑙 𝑓𝑢𝑛𝑑𝑖𝑛𝑔𝑐𝑢𝑟𝑟𝑒𝑛𝑐𝑦
+ 
+ 
+Where currency = reporting currency (all currencies), euros, US dollars, pounds sterling. 
+ 
+The values for Indicator 2a are higher for total figures across all currencies than for the significant 
+currencies. The 45° line shows equality between the value measured on the y-axis and the value 
+measured on the x-axis. For values above the 45° line, the graph indicates that the value measured 
+on the y-axis (in this case the ratio expressed in all currencies) is greater than the value measured 
+on the x-axis (i.e. the ratio expressed in the significant currency). The opposite is true when the 
+values fall below the 45° line. 
+ 
+ 
+                                                                                                               
+37 Total funding includes all funding independent of its maturity (therefore, it includes both long-term and short-term 
+funding).  The  amounts  have  been  obtained  from  COREP  as  the  sum  of  funding  from  the  top  10 counterparties,  each 
+greater than 1% of total liabilities and all other funding (C67). 
+35 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 27: Indicator 2a liquidity buffer over total funding (all currencies vs euros as a significant 
+currency) 
+ 
+ 
+Figure 28:  Indicator 2a  liquidity  buffer  over  total  funding  (all  currencies  vs  US  dollars  as  a 
+significant currency) 
+ 
+ 
+ 
+ 
+ 
+36 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 29: Indicator 2a liquidity buffer over total funding (all currencies vs pounds sterling as a 
+significant currency) 
+ 
+ 
+The pattern of values higher for total figures across all currencies than in significant currencies is 
+more pronounced (i.e. the all-currencies ratio is well above the US dollars ratio) when US dollar-
+denominated liquidity buffer and funding are considered (Figure 28). This means that banks present 
+a higher proportion of liquidity buffer over total assets when considering all currencies than they 
+do when solely considering US dollars. The lower proportion of liquidity buffer in US dollars is one 
+of  the  factors  behind  the  findings  when  calculating  Indicator 1:  banks  present  a  lower  liquidity 
+buffer, in relation to their net cash outflows, in US dollars than in the national currency. Indicator 2a 
+shows that banks could increase their liquidity buffer, in relation to their net cash outflows, in US 
+dollars by increasing the liquidity buffer denominated in US dollars. 
+ 
+Indicator 2b  (outflows  vs  total  funding)  provides  information  on  short-funding,  i.e.  outflows,  as 
+described in the Implementing Technical Standards (ITS) data on liquidity coverage. 
+ 
+For US dollars, this indicator shows a different pattern in comparison with Indicator 2a (liquidity 
+buffer  vs  total  funding).  That  is,  the  values  of  Indicator 2b  are  higher  in  US  dollars  than  in  all 
+currencies. 
+ 
+Figure 31 shows that the majority of values in the dataset for Indicator 2b US dollars fall below the 
+45° line. Therefore, when comparing it with Indicator 1 for US dollars (liquidity buffer over net cash 
+outflows),  the  drivers  of  the  respective  lower  values  are  both  the  limited  liquidity  buffer  in  US 
+dollars  and  the  large  volume  of  US  dollar-denominated  short-term  funding.  In  comparison with 
+other  significant  currencies,  the  analysis  does  not  support  such  a  clear  conclusion  for  euro  and 
+pound sterling denominated parameters of Indicator 2b. 
+ 
+This indicates that short-term funding is a more common phenomenon in US dollar-denominated 
+funding than in national currencies. 
+ 
+ 
+ 
+ 
+37 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 30:  Indicator 2b  outflows  over  total  funding  (all  currencies  vs  euros  as  a  significant 
+currency) 
+ 
+ 
+Figure 31: Indicator 2b outflows over total funding (all currencies vs US dollars as a significant 
+currency) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 32: Indicator 2b outflows over total funding (all currencies vs pounds sterling as a 
+significant currency) 
+ 
+ 
+ 
+Indicator 2c (inflows vs total funding) shows higher values in US dollar-denominated activities than 
+in other significant currencies. In LCR terms, the short-term nature of exposures in US dollars is 
+more prominent than the overall share of short-term exposures across all currencies.  
+The share is larger for both with respect to total US dollar-denominated balance sheet activities in 
+general and to total inflows in the significant currency.  
+ 
+In this context, a possible measure could be to restrict the mismatches between liquid assets and 
+net outflows denominated in a significant currency. Moreover, the LCR definitions, including caps 
+on liquid assets and the definition of the net outflows, should be used. 
+ 
+Figure 33: Indicator 2c inflows over total funding (all currencies vs euros as a significant 
+currency) 
+ 
+ 
+ 
+ 
+39 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Figure 34:  Indicator 2c  inflows  over  total  funding  (all  currencies  vs  US  dollars  as  a  significant 
+currency) 
+ 
+Figure 35: Indicator 2c inflows over total funding (all currencies vs pounds sterling as a 
+significant currency) 
+ 
+ 
+ 
+It can be concluded that, among the significant (foreign) currencies, the US dollar is the currency 
+that shows lower LCR levels and, when compared with LCR averages, the differences are statistically 
+significant. Practically, this means that the surplus in liquidity coverage in all currencies offsets (or 
+dominates) the liquidity shortfall in other currencies. As the ability of banks to swap currencies and 
+to raise funds in foreign currency markets might be constrained during times of stress, significant 
+currency mismatches are a major concern. 
+ 
+Against this background, competent authorities may consider making greater use of their discretion 
+to restrict currency mismatches by setting limits on the proportion of net liquidity outflows in a 
+currency that can be met during a time of stress by holding liquid assets not denominated in that 
+currency (as envisaged under Article 8(6) of the LCR DR). 
+ 
+ 
+ 
+40 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Conclusions 
+Liquidity coverage standards are an important aspect of the EU regulatory framework. COREP data 
+show that banks have significantly increased their HQLA holdings since September 2016 and that 
+this is the main driver behind the upward trend in the average LCR levels. Results show that, in 
+general, both the average and bank-level LCRs are well above the requirement of 100% under full 
+implementation. In December 2017, all except four O-SII banks, from the sample of 158 banks, had 
+already  met  the  100%  fully  phased-in  LCR  minimum  requirement.  The  level  of  shortfall, 
+corresponding  to  those  four  banks,  is  EUR 20 billion,  although  the  shortfall  has  demonstrated  a 
+downward trend since September 2016.  
+ 
+The average levels of LCR across different business model categories are also above the minimum 
+requirements  and,  as  expected,  there  are  significant  differences  across  business  models  in  the 
+composition of LCR and LCR parameters. Some variations can also be observed within categories. 
+ 
+Liquid asset holdings of banks make up 16% of total assets on their balance sheets. Level 1 assets 
+make up 90% of the total liquidity buffer of banks. Central bank assets and exposures represent 
+51% of the total liquidity buffer. Reliance on these liquid assets has increased during the financial 
+crisis  and still plays a role in banks’  liquidity risk profiles. Banks will have to find alternatives  to 
+maintain sustainable liquidity buffers to cover net outflows after the tapering of unconventional 
+central  bank  policies  and  a  shift  towards  a  high  interest  rate  environment.  In  this  case,  the 
+opportunity cost of holding liquid assets is expected to increase for banks, having direct implications 
+for liquidity buffers.  
+Finally, the analysis shows that banks are likely to hold a higher liquidity buffer, in relation to their 
+net cash outflows, in their domestic currency than in other significant (foreign) currencies. Thus, at 
+aggregate level, the surplus in liquidity coverage in all currencies offsets the liquidity shortfall in 
+other significant currencies. Low levels of LCR in one significant currency may generate problems 
+during stress periods when liquidity sources may be constrained and the FX swaps markets may 
+become  difficult  to  access.  Banks  need  to ensure  consistency  between  liquidity  buffers  and  net 
+outflows by currency. Against this background, competent authorities may consider making greater 
+use of their discretion to restrict currency mismatches by setting limits on the proportion of net 
+liquidity outflows in a currency that can be met during a stress period by holding liquid assets not 
+denominated in that currency. 
+ 
+ 
+ 
+41 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Annex 
+Table 1: Number of banks included in the December 2017 analysis38 
+Country 
+ISO code 
+All banks 
+Of which 
+subsidiaries 
+GSIIs/O-SIIs 
+Of which 
+subsidiaries 
+Austria 
+Belgium 
+Bulgaria 
+Cyprus 
+Czech Republic 
+Germany 
+Denmark 
+Estonia 
+Spain 
+Finland 
+France 
+Great Britain 
+Greece 
+Croatia 
+Hungary 
+Ireland 
+Italy 
+Lithuania 
+Luxembourg 
+Latvia 
+Malta 
+Netherlands 
+Norway 
+Poland 
+Portugal 
+Romania 
+Sweden 
+Slovenia 
+Slovakia 
+AT 
+BE 
+BG 
+CY 
+CZ 
+DE 
+DK 
+EE 
+ES 
+FI 
+FR 
+GB 
+GR 
+HR 
+HU 
+IE 
+IT 
+LT 
+LU 
+LV 
+MT 
+NL 
+NO 
+PL 
+PT 
+RO 
+SE 
+SI 
+SK 
+8 
+7 
+3 
+3 
+3 
+17 
+4 
+4 
+12 
+3 
+10 
+11 
+4 
+3 
+3 
+5 
+11 
+3 
+3 
+3 
+3 
+5 
+3 
+3 
+6 
+3 
+8 
+4 
+3 
+Total 
+158 
+ 
+ 
+ 
+1 
+1 
+2 
+ 
+3 
+ 
+ 
+3 
+ 
+1 
+1 
+ 
+ 
+3 
+2 
+ 
+ 
+3 
+1 
+2 
+1 
+ 
+ 
+1 
+1 
+2 
+ 
+1 
+3 
+32 
+4 
+5 
+3 
+2 
+3 
+10 
+4 
+3 
+5 
+1 
+6 
+7 
+4 
+3 
+3 
+4 
+4 
+3 
+2 
+3 
+2 
+3 
+1 
+3 
+4 
+3 
+4 
+3 
+3 
+105 
+1 
+1 
+2 
+ 
+3 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+3 
+2 
+ 
+ 
+3 
+1 
+2 
+1 
+ 
+ 
+1 
+1 
+2 
+ 
+1 
+3 
+30 
+                                                                                                               
+38 Results shown by total/group of banks (total EU/GSIIs, O-SIIs and Others) do not include subsidiaries. However, results 
+by country do include subsidiaries. 
+42 
+ 
+Country 
+Austria 
+Belgium 
+Bulgaria 
+Cyprus 
+Germany 
+Denmark 
+Estonia 
+Spain 
+Finland 
+France 
+Great Britain 
+Greece 
+Hungary 
+Ireland 
+Italy 
+Luxembourg 
+Latvia 
+Malta 
+Netherlands 
+Norway 
+Poland 
+Portugal 
+Romania 
+Sweden 
+Slovenia 
+AT 
+BE 
+BG 
+CY 
+DE 
+DK 
+EE 
+ES 
+FI 
+FR 
+GB 
+GR 
+HU 
+IE 
+IT 
+LU 
+LV 
+MT 
+NL 
+NO 
+PL 
+PT 
+RO 
+SE 
+SI 
+5 
+6 
+1 
+2 
+16 
+4 
+1 
+11 
+2 
+9 
+11 
+4 
+1 
+3 
+9 
+2 
+1 
+2 
+5 
+2 
+2 
+5 
+1 
+7 
+3 
+2 
+4 
+1 
+2 
+10 
+4 
+ 
+4 
+1 
+6 
+7 
+4 
+1 
+2 
+3 
+1 
+1 
+1 
+3 
+1 
+2 
+3 
+1 
+4 
+2 
+70 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Table 2: Number of banks included in the evolution analysis39 if balanced sample criterion applies 
+ISO 
+code 
+All 
+banks 
+GSIIs/O-SIIs 
+Total 
+115 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                               
+39 All evolution analyses are shown by group of banks (total EU/GSIIs, O-SIIs and Others) and, therefore, they exclude 
+subsidiaries. 
+43 
+ 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Table 3: Number of banks submitting liquidity coverage data (by business model) 
+Business model 
+All 
+banks 
+Of which 
+subsidiaries 
+Automotive and consumer credit banks 
+Building societies 
+Cross-border universal banks 
+Custody banks 
+Local universal banks 
+Locally active savings and loan associations/cooperative banks 
+Merchant banks 
+Mortgage banks, including pass-through financing mortgage banks 
+Other specialised banks 
+Public development banks 
+Security trading houses 
+Total 
+ 
+Table 4: Definition of business models 
+Name 
+Description  
+3 
+3 
+46 
+3 
+73 
+9 
+1 
+4 
+2 
+9 
+1 
+ 
+ 
+1 
+ 
+29 
+ 
+ 
+ 
+ 
+ 
+ 
+154 
+30 
+Automotive and consumer credit banks 
+Banks  specialising  in  originating  and/or  servicing  consumer 
+and/or automotive loans to retail clients. 
+Building societies 
+Banks specialising in providing residential loans to retail clients. 
+CCPs 
+Cross-border universal banks 
+Custody banks 
+Local savings banks 
+Local universal banks 
+Merchant banks 
+Mortgage banks 
+ 
+Banks  specialising  in  setting  trading  accounts,  clearing  trades, 
+collecting  and  maintaining  margin  monies,  regulating  delivery 
+and reporting trading data. 
+Cross-border  banking  groups  engaging  in  several  activities, 
+including retail, corporate, investment banking and insurance. 
+Banks  specialising  in  offering  custodian  services  (i.e.  they  hold 
+customers’  securities  in  electronic  or  physical  form  for  safe 
+keeping so as to minimise the risk of loss). These banks may also 
+provide  other  services, 
+including  account  administration, 
+transaction  settlements,  collection  of  dividends  and  interest 
+payments, tax support and foreign exchange. 
+Banks  focusing  on  retail  banking  (payments,  savings  products, 
+credit and insurance for individuals or SMEs) and which operate 
+through a decentralised distribution network, providing local and 
+regional outreach. 
+Banks specialising in originating and/or servicing consumer loans 
+to retail clients and SMEs. 
+Banks engaging in financing domestic and international trade by 
+offering products, such as letters of credit, bank guarantees and 
+collection and discounting of bills. 
+Banks  specialising 
+mortgage loans. 
+in  directly  originating  and/or  servicing 
+44 
+EBA REPORT ON LIQUIDITY MEASURES UNDER ARTICLE 509(1) OF THE CRR 
+Name 
+Description  
+Other specialised banks 
+Private banks 
+Public development banks 
+Security trading houses 
+ 
+Other specialised banks, such as promotional banks and ethical 
+banks. 
+Banks providing wealth management services to high net worth 
+individuals and families. 
+Banks specialising in financing public sector projects and/or the 
+provision of promotional credit or municipal loans. 
+Banks  facilitating  trading  done  in  derivatives  and  equities 
+markets by guaranteeing the obligations in the contract agreed 
+between  two  counterparties  and/or  by  holding  securities  and 
+other  assets  for  safe  keeping  and  record  keeping  on  behalf  of 
+corporate or individual investors. 
+45 
+ 
+ 
+ 
+ 
+EUROPEAN BANKING AUTHORITY 
+Floor 46 One Canada Square, London E14 5AA 
+Tel. +44 (0)207 382 1776 
+Fax: +44 (0)207 382 1771 
+E-mail: info@eba.europa.eu 
+http://www.eba.europa.eu 
+ 
+ 

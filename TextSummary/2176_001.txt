@@ -1,0 +1,1895 @@
+ 
+ 
+ 
+ 
+Questions and Answers 
+On MiFID II and MiFIR commodity derivatives topics 
+ 
+ 
+ 
+2 October 2018 | ESMA70-872942901-36 
+ 
+ 
+ 
+Date: 2 October 2018 
+ESMA70-872942901-36 
+ 
+ 
+ 
+ 
+ESMA • CS 60747 – 103 rue de Grenelle • 75345 Paris Cedex 07 • France • Tel. +33 (0) 1 58 36 43 21 • www.esma.europa.eu 
+ 2 
+ 
+ 
+ 
+ 
+Table of Contents 
+Table of questions ................................................................................................................. 6 
+1 
+Introduction ...................................................................................................................13 
+2  Position limits [Last update: 02/10/2018] .......................................................................15 
+3  Ancillary activity [Last update: 02/10/2018] ....................................................................24 
+4  Position reporting [Last update: 02/10/2018] .................................................................30 
+5  Position management controls [Last update: 04/10/2017] .............................................40 
+6  Third country issues [Last update: 31/05/2017] .............................................................40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+Acronyms and definitions used 
+CCP 
+EEOTC 
+EMIR 
+ESMA 
+ETC 
+ETF 
+ITS 4 
+ITS 5 
+LNG 
+MiFID I 
+MiFID II 
+MiFIR 
+MTF 
+NCA 
+NFE 
+OTF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Central Counterparty 
+Economically Equivalent OTC contracts 
+European Market Infrastructure Regulation – Regulation (EU) No 
+648/2012  on OTC  derivatives,  central  counterparties  and trade 
+repositories 
+The European Securities and Markets Authority 
+Exchange Traded Commodities 
+Exchange Traded Fund 
+Commission 
+Implementing  Regulation  (EU)  2017/1093  of  
+20 June 2017 laying down implementing technical standards with 
+regard to the format of position reports by investment firms and 
+market operators 
+Commission 
+Implementing  Regulation 
+(EU)  2017/953  of  
+6 June 2017 laying down implementing technical standards with 
+regard  to  the  format  and  the  timing  of  position  reports  by 
+investment firms and market operators 
+Liquefied Natural Gas 
+Markets 
+in  Financial 
+Instruments  Directive  –  Directive 
+2004/39/EC of the European Parliament and of the Council 
+Markets  in  Financial  Instruments  Directive  (recast)  –  Directive 
+2014/65/EU of the European Parliament and of the Council  
+Markets  in  Financial  Instruments  Regulation  –  Regulation 
+600/2014 of the European Parliament and of the Council 
+Multilateral Trading Facility 
+National Competent Authority 
+Non-Financial Entity 
+Organised Trading Facility 
+4 
+ 
+ 
+ 
+ 
+REMIT 
+Regulation  on  Wholesale  Energy  Market 
+Integrity  and 
+Transparency – Regulation (EU) No 1227/2011 of the European 
+Parliament and of the Council 
+RTS 2 
+Commission  Delegated  Regulation  (EU)  2017/583  of  14  July 
+2016  supplementing  Regulation  (EU)  No  600/2014  of  the 
+European Parliament and of the Council with regard to regulatory 
+technical  standards  on  transparency  requirements  for  trading 
+venues  and  investment  firms  in  respect  of  bonds,  structured 
+finance products, emission allowances and derivatives 
+RTS 20 
+Commission  Delegated  Regulation 
+(EU)  2017/592  of  
+1  December  2016  supplementing  Directive  2014/65/EU  of  the 
+European Parliament and of the Council with regard to regulatory 
+technical standards for the criteria to establish when an activity 
+is considered to be ancillary to the main business 
+RTS 21 
+Commission  Delegated  Regulation 
+(EU)  2017/591  of  
+1  December  2016  supplementing  Directive  2014/65/EU  of  the 
+European Parliament and of the Council with regard to regulatory 
+technical  standards  for  the  application  of  position  limits  to 
+ 
+ 
+commodity derivatives 
+5 
+Table of questions 
+ 
+ 
+Topic of the Question 
+Position 
+limits 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+ 
+ 
+ 
+ 
+Level  1/Level 
+2 issue 
+Last Update 
+57 
+Art. 
+MiFID II 
+of 
+19/12/2016 
+Art.  9  of  RTS 
+21 
+13/11/2017 
+Art 9 of RTS 21 
+19/12/2016 
+Are  position  limits  applicable  only  at  the 
+end of each trading day or also throughout 
+the trading day? 
+What  is  the  definition  of  a  lot  for  the 
+application of Article 15(1)(a) and (b) (New 
+and  illiquid  contracts)  of  RTS  21  to  those 
+commodity  derivatives  for  which  a  lot,  as 
+defined in the contract specification by the 
+trading  venue,  does  not  represent  a 
+standard quantity of the underlying across 
+all  maturities/delivery  periods 
+that 
+commodity derivative?  
+for 
+What  is  a  lot  in  the  case  of  Economically 
+Equivalent OTC contracts (EEOTC)? 
+Should  positions  with  different  maturities 
+for other month’s limits be netted? 
+Art.  3(4)  of 
+RTS 21 
+19/12/2016 
+How should non-EU entities with positions 
+above the thresholds be treated? Do they 
+have  access  to  exemptions,  and  if  so, 
+when and how do they apply to the relevant 
+NCA? 
+Art 57 of MiFID 
+II; RTS 21 
+19/12/2016 
+How  do  limits  apply  to  long  and  short 
+positions? 
+Art.  3  of  RTS 
+21 
+19/12/2016 
+Are  securitized  derivatives  considered  to 
+be commodity derivatives under MIFID II? 
+How  does  ESMA  differentiate  between 
+ETCs and securitized derivatives? 
+Are  the  net  positions  held  by  clearing 
+members  usable  for 
+the  purposes  of 
+determining the positions of their clients for 
+the  application  of  position  limits  under 
+Article 57? 
+Art.  4(1)(44)(c) 
+and  Annex  I  of 
+II;  Art. 
+MiFID 
+2(1)(30) 
+of 
+MiFIR. 
+57 
+of 
+Art. 
+MiFID II; Art 12 
+of RTS 21 
+19/12/2016 
+19/12/2016 
+Will  there  be  a  different  position  limit  for 
+options  and  futures?  If  so,  how  should 
+options  be  converted  into  futures  for  the 
+application of position limits? 
+Art.  3  of  RTS 
+21 
+13/11/2017 
+6 
+ 
+ 
+ 
+ 
+How is the position limits regime applied to 
+the  various  underlyings  listed  in  Annex  I, 
+Section C(10) of MIFID II? 
+10 
+Annex 
+I, 
+Section  C(10) 
+of MIFID II 
+27/03/2018 
+Can a hedge exemption be netted against 
+positions  in  derivatives  which  are  not 
+objectively  measurable  as  reducing  risks 
+directly related to that person’s commercial 
+activity? 
+What is the meaning of the ‘single fungible 
+pool of open interest’ in Art 5.1(b) of RTS 
+21? Does it refer only to those commodity 
+derivatives  cleared  in  the  same  central 
+counterparty? 
+11 
+12 
+Art.  8  of  RTS 
+21 
+29/03/2017 
+Art  5(1)(b)  of 
+RTS 21 
+29/03/2017 
+13 
+How  should  contracts  that  have  a  high 
+variability of open interest during the year 
+be  treated  (i.e.  minimum  open  interest  is 
+below 10,000 lots but maximum above it)? 
+Art.  15  of  RTS 
+21 
+29/03/2017 
+14 
+Is  it  necessary  for  a  Non-Financial  Entity 
+(NFE)  to  apply  to  the  relevant  NCA  of  a 
+trading venue for a position limit exemption 
+in  all  contracts  in  which  that  NFE  holds 
+positions? 
+15 
+How should the spot month be defined for 
+contracts  where  there  are  daily,  weekly, 
+quarterly and calendar as well as monthly 
+variants of the same contract? 
+16 
+How can limits be set for contracts with an 
+open  interest  between  5,000  and  10,000 
+lots  which  have  a  low  number  of  market 
+participants  or  market  makers  as 
+described in Article 19(2) of RTS 21? 
+Art 57 of MiFID 
+II; RTS 21 
+07/07/2017 
+RTS 21 
+15/12/2017 
+RTS 21 
+27/03/2018 
+17 
+How  are  position 
+to 
+intercommodity ‘spread’ or ‘diff’ contracts? 
+limits  applied 
+RTS 21 
+27/03/2018 
+7 
+Do position limits also apply to positions in 
+contracts that have been entered into prior 
+to  3  January  2018  and  are  traded  on  a 
+trading  venue,  including  an  OTF,  or  are 
+economically  equivalent  OTC  contracts 
+(EEOTC)  to  those  traded  on  a  trading 
+venue? 
+Do all legal entities that deal in commodity 
+derivatives within a financial group need to 
+be  individually  authorised  as  investment 
+firms? 
+Does trading activity in C6 contracts which 
+takes place on OTFs after 3 January 2018 
+need  to  be  counted  towards  the  ancillary 
+thresholds prior to that date?  
+Can the parent undertaking notify its NCA 
+for  the  whole  group  or  do  the  subsidiary 
+undertakings also have to notify their local 
+NCA? 
+Who  has  to  notify  annually  the  relevant 
+competent authority that they make use of 
+the ancillary activity exemption? 
+To  which  competent  authority  should  a 
+person  provide  notification  that  it  makes 
+use of the ancillary activity exemption? 
+By  when  does  a  firm  that  wants  to  make 
+use of the ancillary activity exemption need 
+to notify its competent authority? 
+When does a firm that can no longer make 
+use of the ancillary activity exemption need 
+to apply for a license? 
+What are the criteria that liquidity provision 
+contracts need to meet in order to qualify 
+for the privileged transactions exemption? 
+the  capital  employed 
+test  be 
+Should 
+calculated  only  on  the  same  positions  as 
+included  in  the  market  size  test  or  for  all 
+18 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+ 
+RTS 21 
+ 
+ 
+ 
+02/10/2018 
+*new*  
+ 
+Art.  2(1)(j)  of 
+MiFID II  
+19/12/2016 
+6 
+MiFID II Annex 
+I  Section  C6 ; 
+Art. 
+of 
+Commission 
+Delegated 
+Regulation  
+(EU)  2017/565 
+of 
+25  April 
+2016;  Article 
+2(4) of REMIT 
+19/12/2016 
+Art.  2(1)(j)  of 
+MiFID II  
+02/10/2018 
+*modified* 
+Art.  2(1)(j)  of 
+MIFID II 
+31/05/2017 
+Art.  2(1)(j)  of 
+MIFID II 
+31/05/2017 
+Art.  2(1)(j)  of 
+MIFID II 
+31/05/2017 
+Art.  2(1)(j)  of 
+MIFID II 
+31/05/2017 
+Art.  2(4)  of 
+MIFID II 
+31/05/2017 
+3(1)(b) 
+Art. 
+RTS 20 
+31/05/2017 
+8 
+ 
+ 
+ 
+ 
+Ancillary 
+activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Art.  3(9)  of 
+RTS 20 
+02/10/2018 
+*modified* 
+RTS 20 
+04/10/2017 
+Art.  2  of  RTS 
+20 
+13/11/2017 
+RTS 20 
+02/10/2018 
+*modified* 
+Art.  3  of  RTS 
+20 
+13/11/2017 
+Article  58  of 
+MiFID II 
+07/07/2017 
+Article  58  of 
+MiFID II 
+07/07/2017 
+commodity  derivatives 
+group? 
+traded 
+in 
+the 
+Should the denominator in the capital test 
+under Article 3(9) of RTS 20 be calculated 
+using consolidated accounts? Should firms 
+use  capital  on  a  worldwide  basis  or  just 
+capital employed within the EU? 
+How  should  various  underlyings  falling 
+under the C(10) category be treated for the 
+purpose of ancillary activity calculations? 
+How  shall 
+transactions  concluded  on 
+venues  outside  the  EU  be  treated  for  the 
+market  size 
+test  computations  under 
+Article 2 of RTS 20? 
+How shall OTC transactions done by non-
+EU  entities  of  an  EU  group  with  EU 
+counterparties  be  counted  for  the  market 
+size test? 
+RTS  20  refers  only  to  Article  360  of  the 
+CRR,  while  the  ‘simplified  approach  for 
+calculating regulatory capital requirements’ 
+is contained in CRR Articles 357, 358 and 
+360. Is the text in RTS 20 self-contained or 
+should firms refer to the whole of CRR? 
+Do positions held by an investment firm on 
+behalf of their clients add to the investment 
+firm’s own positions? 
+How  should  investment  firms  report  the 
+in  commodity  derivatives  of 
+positions 
+persons  who 
+investment  or 
+ancillary  services  from  a  non-investment 
+firm that is an “end client” of the investment 
+firm? 
+receive 
+Who should submit position reports under 
+Article 58(2) MiFID II? 
+Article  58  of 
+MiFID II 
+07/07/2017 
+Should  investment  firms  include  positions 
+traded  on  a 
+venue  and 
+economically equivalent  OTC contracts in 
+position  reports  under  Article  58(2)  MiFID 
+II? 
+trading 
+Does the requirement for trading venues to 
+make  public  weekly  aggregate  position 
+reports and to communicate that report to 
+Article  58  of 
+MiFID II 
+07/07/2017 
+Article  58(1)(a) 
+of MiFID II 
+07/07/2017 
+9 
+10 
+11 
+12 
+13 
+14 
+1 
+2 
+3 
+4 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Position 
+Reporting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the  competent  authority  and  to  ESMA 
+apply to securitised derivatives? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+At  what  level  should  Asset  Managers 
+aggregate positions? Is this to be done at 
+group level or a lower level (e.g. fund/legal 
+entity identifier etc.)? 
+Article  58  of 
+MiFID II 
+07/07/2017 
+Which  MIC  should  be  used  by  trading 
+venues for position reporting? 
+Article  58  of 
+MiFID II 
+07/07/2017 
+By when do positions have to be reported 
+under Articles 58(1)(b)  and 58(2) of MIFID 
+II? 
+the 
+Does 
+requirement  under  Article 
+58(1)(b) and (2) of MiFID II to submit daily 
+position  reports  to  the  NCA  apply  to 
+securitised derivatives with a total number 
+of  securities  in  issue  not  exceeding  2.5 
+million? 
+How  does  ESMA  propose  to  address  the 
+breaches  of  applicable  non-EU  laws  and 
+regulations  regarding  data  protection  and 
+bank  secrecy  which  may  potentially  arise 
+from the reporting of client and end client 
+positions? 
+Where  an  NFE  trades  only,  or  partly,  for 
+hedging  purposes,  can  every  transaction 
+be  reported  as  being 
+for  speculative 
+purposes? 
+Should an investment firm acting as broker 
+and  using  a  matched  principal  model  be 
+subject to position reporting? 
+Article  58  of 
+MiFID II 
+07/07/2017 
+Article  58  of 
+MiFID II 
+07/07/2017 
+Article  58  of 
+MiFID II 
+07/07/2017 
+Article  58  of 
+MiFID II 
+13/11/2017 
+Article  58  of 
+MiFID II 
+13/11/2017 
+13 
+Do  end-of-day  zero  positions  need  to  be 
+reported? 
+Article  58  of 
+MiFID II 
+13/11/2017 
+Can  position  reporting  pursuant  to  Article 
+58(2) be outsourced to another entity?  
+14 
+Article  58  of 
+MiFID II 
+13/11/2017 
+15 
+Do positions in C(10) instruments with an 
+underlying  which  is  not  a  commodity  as 
+defined  in  Article  2(6)  of  Commission 
+Delegated Regulation (EU) 2017/565 of 25 
+April 2016 need to be reported? 
+Article  58  of 
+MiFID II 
+13/11/2017 
+16 
+In respect of which  contracts does ESMA 
+expect  to  receive  weekly  reporting  data 
+Article  58  of 
+MiFID II 
+13/11/2017 
+10 
+from trading venues under Article 58(7) of 
+MiFID II in conjunction with ITS 4 and 5? 
+17 
+Where there is a chain of investment firms 
+that  have 
+to  comply  with  commodity 
+position  reporting  obligations,  who  has  to 
+report to the trading venue or NCA? 
+their  positions 
+How  should  clients  of  investment  firms 
+inform their intermediaries of the nature of 
+each  of 
+(hedge  or 
+speculation)?  Should  that  information  be 
+provided for each position or could clients 
+indicate to their intermediaries that, except 
+if they explain otherwise, all their positions 
+should  be  deemed  for  hedging  or  non-
+hedging purposes? 
+How is the position quantity field reported 
+for  contracts  that  relate  to  delivery  of  the 
+same  underlying  over  different  periods  of 
+time? 
+How should the position in the spot month 
+and other months be reported for contracts 
+where there are daily or weekly as well as 
+monthly contracts? 
+In  cases  where  an  OTC  contract 
+is 
+economically equivalent to more than one 
+ETD  contract  traded  on  an  EU  trading 
+venue and where those ETD contracts are 
+not the same derivative contract, to which 
+NCA  should  the  reporting  of  the  EEOTC 
+contracts be addressed? 
+18 
+19 
+20 
+21 
+22 
+Which types of firm fall within each of the 
+ITS  4  categories  for  the  purposes  of  the 
+weekly  Commitment  of  Trader  (CoT) 
+reports? 
+1 
+1 
+position  management 
+controls 
+Are 
+required to play a role in the application of 
+position limits applied by NCAs according 
+to Article 57(1) MiFID II? 
+Should  economically  equivalent  contracts 
+traded  on  a 
+third-country  venue  be 
+considered  EEOTC  for  position  limit  and 
+position  reporting  purposes  under  MiFID 
+II? 
+ 
+ 
+ 
+ 
+Article  58  of 
+MiFID II 
+15/12/2017 
+Article  58  of 
+MiFID II 
+15/12/2017 
+Article  58  of 
+MiFID II 
+15/12/2017 
+Article  58  of 
+MiFID II 
+15/12/2017 
+Article  58  of 
+MiFID II 
+27/03/2018 
+Article  58  of 
+MIFID II 
+02/10/2018 
+*new* 
+57 
+Art. 
+MIFID II 
+of 
+04/10/2017 
+Art.  58(2)  of 
+MIFID II 
+31/05/2017 
+11 
+Position 
+management 
+controls 
+Third 
+country 
+issues 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+1  Introduction 
+ 
+Background 
+The final legislative texts of Directive 2014/65/EU1 (MiFID II) and Regulation (EU) No 600/20142 
+(MiFIR) were approved by the European Parliament on 15 April 2014 and by the European 
+Council on 13 May 2014. The two texts were published in the Official Journal on 12 June 2014 
+and entered into force on the twentieth day following this publication – i.e. 2 July 2014. 
+Many of the obligations under MiFID II and MiFIR were further specified in the Commission 
+Delegated Directive3 and two Commission Delegated Regulations4 5, as well as regulatory and 
+implementing  technical  standards  developed  by  the  European  Securities  and  Markets 
+Authority (ESMA).  
+MiFID II and MiFIR, together with the Commission delegated acts as well as regulatory and 
+implementing technical standards will be applicable from 3 January 2018.  
+Purpose 
+The purpose of this document is to promote common supervisory approaches and practices in 
+the  application  of  MiFID  II/  MiFIR  in  relation  to  the  position  limits,  position  reporting  and 
+ancillary activity provisions and other aspects of the commodity derivatives regime in MiFID II. 
+It  provides  responses  to  questions  posed  by  the  general  public,  market  participants  and 
+competent authorities in relation to the practical application of MiFID II/MiFIR.  
+The content of this document is aimed at competent authorities and firms by providing clarity 
+on the application of the MiFID II and MiFIR requirements.  
+The content of this document is not exhaustive and it does not constitute new policy. 
+ 
+                                                
+1 Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and 
+amending Directive 2002/92/EC and Directive 2011/61/EU. 
+2 Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments 
+and amending Regulation (EU) N0 648/2012. 
+3 Commission  Delegated  Directive  (EU)  2017/593  of  of  7  April  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament  and  of  the  Council  with  regard  to  safeguarding  of  financial  instruments  and  funds  belonging  to  clients,  product 
+governance  obligations  and  the  rules  applicable  to  the  provision  or  reception  of  fees,  commissions  or  any  monetary  or  non-
+monetary benefits.  
+4 Commission  Delegated  Regulation  (EU)  2017/565  of  25  April  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined 
+terms for the purposes of that Directive.. 
+5 Commission Delegated Regulation(EU) 2017/567of 18 May 2016  supplementing Regulation (EU) No 600/2014 of the European 
+Parliament and of the Council with regard to definitions, transparency, portfolio compression and supervisory measures on product 
+intervention and positions.. 
+13 
+ 
+ 
+ 
+ 
+ 
+Status  
+The Q&A mechanism is a practical convergence tool used to promote common supervisory 
+approaches and practices under Article 29(2) of the ESMA Regulation.6  
+Due  to  the  nature  of  Q&As,  formal  consultation  on  the  draft  answers  is  considered 
+unnecessary. However, even if they are not formally consulted on, ESMA may discuss them 
+with  representatives  of  ESMA’s  Securities  and  Markets  Stakeholder  Group,  the  relevant 
+Standing Committees’ Consultative Working Group or, where specific expertise is needed, with 
+other external parties.  
+ESMA will periodically review these questions and answers to identify if, in a certain area, there 
+is a need to convert some of the material into ESMA Guidelines and recommendations. In such 
+cases, the procedures foreseen under Article 16 of the ESMA Regulation would be followed.  
+The  Q&As  in  this  document  cover  only  activities  of  EU  investment  firms  in  the  EU,  unless 
+specifically mentioned otherwise. Third country related issues, and in particular the treatment 
+of  non-EU  branches  of EU  investment firms,  will  be  addressed  in  a  dedicated  third  country 
+section. 
+Questions and answers  
+This document is intended to be continually edited and updated as and when new questions 
+are  received.  The  date  on  which  each  section  was  last  amended  is  included  for  ease  of 
+reference.  
+ 
+ 
+                                                
+6 Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European 
+Supervisory  Authority  (European  Securities  and  Markets  Authority),  amending  Decision  No  716/2009/EC  and  repealing 
+Commission Decision 2009/77/EC Regulation, 15.12.2010, L331/84.  
+14 
+ 
+ 
+ 
+ 
+2  Position limits [Last update: 02/10/2018] 
+ 
+Question 1 [Last update: 19/12/2016] 
+Are position limits applicable only at the end of each trading day or also throughout the trading 
+day? 
+Answer 1 
+Position  limits  are  applicable  at  all  times.  This  is  particularly  relevant  when  a  commodity 
+derivative is traded OTC outside the normal trading hours of a trading venue.  
+ 
+Question 2 [Last update: 13/11/2017] 
+What is the definition of a lot for the application of  Article 15(1)(a) and (b) (New and illiquid 
+contracts) of RTS 21 to those commodity derivatives for which a lot, as defined in the contract 
+specification by the trading venue, does not represent a standard quantity of the underlying 
+across all maturities/delivery periods for that commodity derivative?   
+Answer 2 
+In some derivative markets (mainly related to power or gas), trading venues offer trading in 
+derivative contracts that refer to an identical underlying but have a variety of delivery periods, 
+e.g.  annual  (calendar),  quarterly,  monthly,  weekly  (whole  week,  working  day  week  and 
+weekend) or daily. 
+For these contracts a lot or unit of trading, as defined in the contract specification by the trading 
+venue,  does  not  necessarily  represent  a  standard  quantity  of  underlying  across  all 
+maturities/delivery periods, i.e. the lot size for a daily contract is different from that for a monthly 
+contract as the lot size usually depends on the number of relevant days and/or hours in the 
+delivery period. For baseload power derivatives, this is illustrated by the following table: 
+Delivery period 
+Unit of trading 
+(1 Lot = 1MW) 
+Quantity  of  underlying 
+commodity (baseload) 
+Lot size 
+1 day 
+1 week – 7 days 
+1 month – 30 days 
+1 MW 
+1 MW 
+1 MW 
+24 MWh 
+168 MWh 
+720 MWh 
+24 h 
+168 h 
+720 h 
+Since  there  is  not  an  unambiguous  equivalence  between  a  lot  and  an  absolute  quantity  of 
+underlying commodity, it is necessary to define a reference period and use the associated lot 
+size to determine the liquidity of a contract under Article 15(1)(a) and (b) of RTS 21 and to set 
+position limits under Article 15(1)(a) of RTS 21.  
+15 
+ 
+ 
+ 
+ 
+As the trading activity in European power and gas derivative markets is generally concentrated 
+in monthly contracts, the period of the monthly contract should be used as the reference period. 
+The  associated  lot  size  should  be  calculated  by  using  the  relevant  days  and/or  hours  as 
+specified by the trading venue for that particular contract type. 
+Example:  
+Lot size calculation for a monthly base load and a monthly peak load power derivative contract 
+to determine liquidity and set position limits for illiquid contracts: 
+Base load lot size = 30 days * 24 hours/day = 720 h, 10,000 lots are equivalent to 7.2 TWh, 
+Peak load lot size: 22 days * 12 hours/day = 264 h, 10,000 lots are equivalent to 2.64 TWh. 
+ 
+Question 3 [Last update: 19/12/2016] 
+What is a lot in the case of Economically Equivalent OTC contracts (EEOTC)? 
+Answer 3  
+A significant number of OTC contracts are specified by reference to a quantity of the underlying 
+commodity  and  not  the  standardised  lot  sizes  of  an  exchange-traded  derivative.  Where  an 
+OTC contract is not defined in standardised lots the size of the contract should be calculated 
+as  a  multiple  of  the  standard  unit  of  trading  used  by  the  trading  venue  for  the  commodity 
+derivative to which the OTC contract is equivalent.  
+ 
+Question 4 [Last update: 19/12/2016] 
+Should positions with different maturities for other months’ limits be netted? 
+Answer 4 
+Yes.  Persons must  determine their  net  position for  each  commodity  derivative  for  the  other 
+months’ limit, as indicated in Article 3(4) of RTS 21.  
+They should sum (or net, as appropriate) all individual positions across the curve excluding 
+those positions in the spot month for that commodity derivative.  
+ 
+Question 5 [Last update: 19/12/2016] 
+How should non-EU entities with positions above the limits be treated? Do they have access 
+to exemptions, and if so, when and how do they apply to the relevant NCA? 
+16 
+ 
+ 
+ 
+ 
+Answer 5 
+A non-financial entity from outside the EU (European Union) may apply for an exemption in 
+the same manner as an EU firm would. The rules and procedures are laid down in RTS 21. 
+ 
+Question 6 [Last update: 19/12/2016] 
+How do limits apply to long and short positions? 
+Answer 6 
+Position limits apply to net positions regardless of whether the net position is long or short. 
+When calculating their positions, a person needs to aggregate their long and short holdings in 
+spot contracts towards the spot month limit. They separately need to aggregate all their long 
+and short positions for all other months towards the other months’ limit.  
+ 
+Question 7 [Last update: 19/12/2016] 
+Are securitised derivatives considered to be commodity derivatives under MiFID II? How does 
+ESMA differentiate between ETCs and securitised derivatives? 
+Answer 7 
+“Securitised  derivatives”  are  transferable  securities  whose  value  is  based  upon  underlying 
+assets. However, neither MiFID I (incl. level 2 thereof), nor MiFID II/MiFIR contain a specific 
+definition of these instruments.  
+Where  the  underlying  asset  of  securitised  derivatives  is  one  or  more  commodities,  these 
+instruments  are  caught  by  the  definition  of  “transferable  securities”  in  Article  4(1)(44)(c)  of 
+MIFID II and are commodity derivatives under Article 2(1)(30) of MiFIR. 
+Exchange  traded  commodities  (ETCs)  are  debt  instruments  which  are  within  the  scope  of 
+Article 4(1)(44)(b) of MiFID II and are classified as such in RTS 2. Therefore, they are outside 
+the definition of commodity derivatives in Article 2(1)(30) of MiFIR and the position limits regime 
+does not apply to them.  
+ESMA  is  aware  that  market  practices  in  differentiating  between  ETCs  and  securitised 
+derivatives  are  neither  clear  nor  uniform  and  presents the following  guidance  to  allow  for  a 
+correct classification of instruments in practice.  
+In RTS 2 ETCs are described as debt instruments issued against a direct investment by the 
+issuer  in  commodities  or  commodity  derivative  contracts. The  price  of an  ETC  is  directly  or 
+indirectly linked to the performance of the underlying. An ETC passively tracks the performance 
+of the commodity or the commodity indices to which it refers.  
+17 
+ 
+ 
+ 
+ 
+In addition, ESMA considers that ETCs typically have the following features: 
+  a primary market exists which is accessible only to authorised market participants per-
+mitting the creation and redemption of securities on a daily basis at the price set by the 
+issuer; 
+ 
+they are not UCITS and therefore unlike an ETF can have an exposure profile not in 
+compliance with the UCITS diversification requirements;  
+ 
+they are traded on- and off-venue in significant volumes;  
+ 
+the  price  is  aligned,  or  multiplied  by  a  fixed  leverage  of  the  price  of  the  underlying 
+commodity;  
+  a management fee is charged by the issuer;  
+ 
+they may be issued by non-banking institutions; 
+ 
+they do not have an expiry date; 
+ 
+they may have a strict regime of capital segregation, usually through the use of special 
+purpose vehicles; 
+ 
+they are often aimed at professional investors. 
+In  comparison,  the  term  ‘securitised  derivatives’  describes  a  much  wider  set  of  financial 
+instruments that can have a large variety of features among them the following typical features: 
+ 
+ 
+they can have commodities as underlying but also many financial instruments or they 
+can be linked to strategies, indices or baskets of instruments; 
+they can passively track the performance of the underlying but they can typically also 
+apply leverage, can have an option structure or also have a lower risk profile than the 
+underlying by, for example, offering capital protection; 
+ 
+they are traded on venue or OTC by the issuer directly or via intermediaries;  
+ 
+the issuers’ costs and compensation are factored into their price;  
+ 
+they have an expiration date; 
+ 
+they provide an issuer credit risk exposure; 
+ 
+they are often aimed at retail clients. 
+ 
+ 
+18 
+ 
+ 
+ 
+ 
+Question 8 [Last update: 19/12/2016] 
+Are  the  net  positions  held  by  clearing  members usable  for  the  purposes of  determining  the 
+positions of their clients for the application of position limits under Article 57? 
+Answer 8 
+No. Central counterparties determine net positions at the level of their clearing members, which 
+usually  encompass  the  long  and  short  position  of  many  different  clients  unless  held  in 
+individually segregated accounts. A CCP may also see positions only for those contracts for 
+which it provides a central counterparty service and not the EEOTC positions or any held at a 
+CCP subject to interoperability. Position limits apply at the level of the individual person, and 
+net positions held at clearing level must therefore be disaggregated. 
+ 
+Question 9 [Last update: 13/11/2017] 
+Will  there  be  a  different  position  limit  for  options  and  futures?  If  so,  how  should  options  be 
+converted into futures for the application of position limits? 
+Answer 9 
+No, there will be no separate limits for futures and options on the same commodity derivative. 
+Futures and options are fungible in terms of their economic effect at expiry if an option expires 
+in the money with the respective future expiring at the same time. During the life of an option 
+contract, the probability of the option expiring in the money is reflected in its delta value. 
+Option  positions  should  therefore  be  converted  into  positions  in  their  respective  future 
+contracts on the basis of the current delta to arrive at a delta equivalent futures position. Long 
+delta equivalent positions on calls and short delta equivalent positions on puts should be added 
+to  positions  on  futures.  Short  delta  equivalent  positions  on  calls  and  long  delta  equivalent 
+positions on puts should be subtracted from positions on futures. 
+If available, position holders should use the delta value published by the trading venue or the 
+CCP to report their positions in options. In the absence of a published delta value, position 
+holders  may  use  their  own  calculation.  Position  holders  should  be  able  to  demonstrate,  on 
+demand, to the NCA responsible for the application of the position limit that their calculations 
+correctly reflect the value of the option.  
+To  determine  which  contracts  are  liquid  under  Article15  of  RTS  21  and  also  to  establish 
+position limits based on the quantity of open interest, the open interest of futures plus the delta-
+adjusted open interest of options should be used, where there is a future and/or option traded 
+on the commodity derivative and the relevant data  are available.  This is consistent with the 
+reporting of positions made under Article 58 of RTS 21. 
+ 
+19 
+ 
+ 
+ 
+ 
+Question 10 [Last update: 27/03/2018] 
+How is the position limits regime applied to the various underlyings listed in Annex I, Section 
+C(10) of MIFID II? 
+Answer 10 
+Section  C(10)  of  Annex  I  of  MIFID  II  covers  a  number  of  different  types  of  commodity 
+derivatives. For these instruments the following approaches should be taken: 
+Position limits should be applied to freight rate derivatives (wet and dry freight) based on the 
+open interest both in the spot month and in the other months.  
+Position  limits  should  be  applied  to  derivative  contracts relating to  indices  if the  underlying 
+index is materially based on commodity underlyings as defined in Article 2 No. 6 of Commission 
+Delegated Regulation (EU) 2017/565  of 25 April 2016. ESMA considers that  the underlying 
+index is materially based on commodities if such commodities have a weighting of more than 
+50% in the composition of the underlying index. The spot and the other months’ limits should 
+be  based  on  open  interest  only,  in  accordance  with  Article  13(1)  of  RTS  21,  as  no  single 
+measurable  deliverable  supply  can  be  determined for  the  commodities contained  within  the 
+index.  
+A commodity derivative contract in the legal form of a “spread” or “diff” contract is a contract 
+that is cash-settled and whose value is determined by the difference between two reference 
+commodities which may vary in type, grade, location, time of delivery, or other features. The 
+application of the regime regarding these contracts is dealt with specifically in question 17.  
+For other derivatives listed in Section C10 of Annex I of MiFID II and in Article 8 of Commission 
+Delegated Regulation (EU) 2017/565 of 25 April 2016, ESMA is not expecting the setting of 
+any position limits as the underlyings of such derivatives are not considered to be commodities 
+as defined in Article 2 No. 6 of Commission Delegated Regulation (EU) 2017/565 of 25 April 
+2016.  
+ 
+Question 11 [Last update: 29/03/2017] 
+Can a hedge exemption be netted against positions in derivatives which are not objectively 
+measurable as reducing risks directly related to that person’s commercial activity? 
+Answer 11 
+No.  Once  an  exemption  has  been  granted  and  positions  are  approved  as  risk-reducing  in 
+accordance  with  Article  8  of  RTS  21,  those  positions  fall  outside  the  position  limit  regime. 
+Otherwise,  the  benefit  of  a  risk-reducing  position  would  be  double-counted,  by  first  being 
+excluded from the limit and then being used to offset a speculative exposure. 
+ 
+20 
+ 
+ 
+ 
+ 
+Question 12 [Last update: 29/03/2017] 
+What is the meaning of the ‘single fungible pool of open interest’ in Art 5.1(b) of RTS 21? Does 
+it refer only to those commodity derivatives cleared in the same central counterparty? 
+Answer 12 
+Commodity derivatives with a single fungible pool of open interest would include those cleared 
+by the same central counterparty (CCP) and those in interoperable CCPs which may be closed 
+out  against  each  other.  It  would  also  include  other  commodity  derivatives  with  delivery 
+obligations which are fungible and can be closed out against each other (for example, through 
+the operational netting provided by a transmission system operator). 
+ 
+Question 13 [Last update: 29/03/2017] 
+How should contracts that have a high variability of open interest during the year be treated 
+(i.e. minimum open interest is below 10,000 lots but maximum above it)? 
+Answer 13 
+Article 15 of RTS 21 states that new and illiquid contracts for which the total combined open 
+interest  in  spot  and  other  months’  contracts  does  not  exceed  10,000  lots  for  a  consecutive 
+three-month period are assigned a position limit of 2,500 lots. Therefore, any contract with a 
+high variability would have to exceed the threshold of 10,000 lots of open interest on a daily 
+basis  based  on  end-of-day  figures  for  three  consecutive  months  before  an  individualised 
+position limit has to be set for that contract. 
+ 
+Question 14 [Last update: 07/07/2017] 
+Is it necessary for a Non-Financial Entity (NFE) to apply to the relevant NCA of a trading venue 
+for a position limit exemption in all contracts in which that NFE holds positions? 
+Answer 14 
+No.  It  is  necessary  only  for  an  NFE  to  apply  for  an  exemption  when  it  expects  that  one  is 
+necessary to permit it to hold a position that is risk-reducing for its commercial activities which 
+would be in excess of the position limit for that commodity derivative which has been set by 
+the NCA.   
+There is no requirement under MIFID II to apply for a position limit exemption if an NFE does 
+not expect to need one for its normal level of activities. 
+ 
+ 
+21 
+ 
+ 
+ 
+ 
+Question 15 [Last update: 15/12/2017] 
+How should the spot month be defined for contracts where there are daily, weekly, quarterly 
+and calendar as well as monthly variants of the same contract? 
+Answer 15 
+The determination of the spot month for the application of the spot month position limit should 
+be made by the NCA on the basis of the contract specification and the characteristics of the 
+market for that particular commodity derivative.  
+Where there are daily or weekly as well as monthly contracts, the positions to be included in 
+the  spot  month  period  and  subject  to  the  position  limit,  include  positions  in  contracts 
+referencing days or weeks which fall entirely inside that spot month. 
+For  many  contracts,  the  spot  month  will  be  the  current  calendar  month  in  which  delivery  is 
+taking  place  (until  the  final  day  of  that  month).  For  example,  between  1  and  30  January, 
+January is the spot month.  
+In other contracts, where e.g. the January contract expires at the end of December, the spot 
+month will change to the next calendar month which is available to trade. For these contracts, 
+for most of January, the spot month will be February (and positions in any days or weeks falling 
+wholly within February will count towards the spot month limit).  
+ 
+Question 16 [Last update: 27/03/2018] 
+How can limits be set for contracts with an open interest between 5,000 and 10,000 lots which 
+have a low number of market participants or market makers as described  in Article 19(2) of 
+RTS 21?  
+Answer 16 
+Article 15(1)(a) and (c) of RTS 21 establishes a fixed limit of respectively 2,500 lots for lower 
+liquidity commodity derivative contracts and 2.5 million securities for lower liquidity securitised 
+derivatives whereas Article 19(2) of RTS 21 allows limits of up to 50% if the contract has less 
+than ten market participants or less than three investment firms acting as market makers.  
+RTS 21 does not establish a hierarchy between these two Articles. Accordingly, to achieve the 
+aims set out in Article 57(1) of MiFID II, where commodity derivatives traded on a trading venue 
+have a total combined open interest in spot and other months’ contracts exceeding 5,000 lots, 
+authorities may set the limits of positions held in those commodity derivatives using either the 
+default 2,500 lot limit under Article 15(1)(a) of RTS 21 or a limit within the range established 
+by Article 19(2) of RTS 21. The limit under Article 19(2) of RTS 21 would be used where the 
+automatic limit under Article 15(1)(a) would unduly constrain the operation of the market and 
+prevent the contract from supporting the functioning of commercial activities in the underlying 
+22 
+ 
+ 
+ 
+ 
+market, as clarified in Recital (1) of RTS 21. The limit would be established in accordance with 
+the baseline and the relevant adjustment factors set out in Article 14 of RTS 21. 
+For  securitised  derivatives  with  an  issuance  size  between  five  and  ten  million  securities,  
+a similar approach applies. Where necessary to allow for the proper operation of the market, 
+competent authorities may set a position limit within the range established in Article 19(2) of 
+RTS 21 when the conditions thereof are met. The position limit would apply to the number of 
+securities in issuance and would be the same for the spot month and the other months.  
+ 
+Question 17 [Last update: 27/03/2018] 
+How are position limits applied to intercommodity ‘spread’ or ‘diff’ contracts? 
+Answer 17 
+A  commodity  derivative  contract  in  the  legal  form  of  a  “spread”  or  “diff”  contract  is  a  cash-
+settled  contract  whose  value  is  determined  by  the  difference  between  two  reference 
+commodities that may vary in, inter alia, type, grade, location, or delivery characteristics. Whilst 
+having multiple underlying constituents, the spread derivative is available on a trading venue 
+as a single tradable financial instrument.  
+A spread contract differs from a ‘spread trading strategy’ (two or more commodity contracts 
+traded together to achieve a particular economic effect), as such a strategy may be executed 
+by  a  single  action  in  a  venue’s  trading  systems,  but  it  remains  composed  of  separate,  and 
+legally distinct commodity derivatives which are executed as trades simultaneously. 
+As a spread contract has no single underlying commodity at a specific place or time, it is not 
+possible  to  link  it  to  a  single  physical  deliverable  supply  against  a  contractual  obligation  to 
+physically settle the trade.  It is for this reason all spread contracts are cash-settled and not 
+physically settled.  
+Article  57(4)  of  MiFID  II  states  ‘A  competent  authority  shall  set  limits  for  each  contract  in 
+commodity  derivatives  traded  on  trading  venues  based  on  the  methodology  […]’.  Whilst 
+specifically  referencing  each  contract,  this  should  refer  to  outright  instruments  (i.e.  the 
+disaggregated components of spreads) and the limits be applied at that level. The prevailing 
+limits will apply to the net eligible positions, inclusive of spread limits, post-disaggregation.  
+In  cases  where  a constituent  leg  is  not  independently  admitted for trading,  then the  spread 
+itself will receive a limit (de minimis or bespoke). In these cases, the same methodology as for 
+C10  commodity  derivatives  that  have  no  physical  underlying  will  apply,  as  such  the  open 
+interest figure for the spread shall be used as the baseline for both the Spot Month and Other 
+Months’ limits. 
+ 
+ 
+23 
+ 
+ 
+ 
+ 
+Question 18 [Last update: 02/10/2018] *New* 
+Do  position  limits  also  apply  to  positions  in  contracts  that  have  been  entered  into  prior to  3 
+January  2018  and  are  traded  on  a  trading  venue,  including  an  OTF,  or  are  economically 
+equivalent OTC contracts (EEOTC) to those traded on a trading venue? 
+Answer 18 
+Yes. The position limits regime does apply to all positions in commodity derivatives offered by 
+EU  trading  venues  and EEOTC  contracts,  irrespective  of the time  when  the  contracts  have 
+been entered into. This is even the case if the relevant financial instrument was not a financial 
+instrument at the time of the contract formation, e.g. prior to the application of MiFID II on 3 
+January 2018. 
+ 
+This is because all positions in a MiFID II commodity derivative held by a position holder are 
+assessed constantly and from the point of application (see also Q&A 1). Articles 57 and 58 of 
+MiFID II do not refer to the formation of the contract in any of their provisions. As soon as a 
+financial instrument becomes subject to the position limits regime, the position limits apply to 
+the positions of position holders and are to be reported and monitored against position limits. 
+ 
+3  Ancillary activity [Last update: 02/10/2018] 
+ 
+Question 1 [Last update: 19/12/2016] 
+Do  all  legal  entities  that  deal  in  commodity  derivatives  within  a  financial  group  need  to  be 
+individually authorised as investment firms? 
+Answer 1 
+Yes. Under Article 2(1)(j), the exemption for trading in commodity derivatives only applies when 
+the main business of the group is considered on an overall basis not to be the provision of in-
+vestment  services  within  the  meaning  of  this  Directive  or  banking  activities  under  Directive 
+2013/36/EU. 
+Therefore, all entities within a group which cannot be considered as a non-financial group are 
+required  to  obtain  authorisation  as  an  investment  firm  under  MiFID  II  if  they  wish  to  trade 
+commodity derivatives.  
+ 
+Question 2 [Last update: 19/12/2016] 
+Does trading activity in C6 contracts which takes place on OTFs after 3 January 2018 need to 
+be counted towards the ancillary thresholds prior to that date? 
+ 
+24 
+ 
+ 
+ 
+ 
+Answer 2 
+We  differentiate  between  wholesale  energy  products  categorised  as  C6  within  the  REMIT 
+scope (derivatives with electricity and natural gas as underlying traded on an OTF that must 
+be  physically  settled),  C6  energy  derivatives  contracts  (those  with  coal  or  oil  as  underlying 
+traded on an OTF that must be physically settled) and the rest of C6 instruments.  
+Financial instruments under MiFID I which will also be financial instruments within C6 under 
+MiFID  II  should  count  towards  the  trading  activity  and  assessed  against  the  ancillary 
+thresholds. 
+C6 with coal or oil as underlying and the rest of C6 instruments count throughout the calculation 
+period to determine market size, as OTC instruments until January 3, 2018 and as OTF on-
+venue instruments after that. For C6 instruments with coal or oil as underlying traded on OTFs 
+this assessment is based on them only being exempted from certain EMIR obligations for a 
+transitional  period  while  they  are  being  classified  as  financial  instruments  throughout  the 
+period. The same applies to the computation of positions by non-financial corporates. 
+ 
+Question 3 [Last update: 02/10/2018] *modified* 
+Since elements of the ancillary activity tests are to be calculated on a group level, is only Can 
+the  parent  undertaking  obliged  to  notify  its  NCA  for  the  whole  group  or  do  the  subsidiary 
+undertakings also have to notify their local NCA?  
+Answer 3 
+The ancillary exemption applies to persons. Notification to the relevant NCA for that person is 
+a  condition  for  using  the  exemption.  Therefore,  any  person  that  is  party  to  a  commodity 
+derivative will need to notify its relevant NCA. This also applies to persons who are part of a 
+group. It is not possible for a group to apply for an exemption on behalf of all the entities that 
+the group contains. 
+ 
+Question 4 [Last update: 31/05/2017] 
+Who has to notify annually the relevant competent authority that they make use of the ancillary 
+activity exemption?  
+Answer 4 
+In  general,  any  (natural  or  legal)  person  that  deals  on  own  account  or  provides  investment 
+services in commodity derivatives as a regular occupation or business on a professional basis 
+pursuant to Article 5 of MiFID II has to be authorised as an investment firm under MiFID II. 
+However, if the person meets the criteria for activities considered to be ancillary to the main 
+business pursuant to Article 2(1)(j) and the provisions in RTS 20 and makes use of the ancillary 
+25 
+ 
+ 
+ 
+ 
+activity  exemption,  then  it  has  to  notify  annually  the  relevant  competent  authority  that  they 
+make use of this exemption. 
+ 
+Question 5 [Last update: 31/05/2017] 
+To  which  competent  authority  should  a  person  provide  notification  that  it  makes  use  of  the 
+ancillary activity exemption? 
+Answer 5 
+The relevant competent authority will be the national competent authority to which the person 
+would  need  to  apply  for  authorisation  if  it  were  unable  to  make  use  of  the  ancillary  activity 
+exemption. 
+ 
+Question 6 [Last update: 31/05/2017] 
+By when does a firm that wants to make use of the ancillary activity exemption need to notify 
+its competent authority? 
+Answer 6 
+Article 2(1)(j) of MiFID II exempts persons who deal in commodity derivatives on an ancillary 
+basis under a number of conditions. One of these conditions is that they notify annually the 
+relevant competent authority that they make use of this exemption. The notification needs to 
+have been made for a firm to be able to rely on it. 
+The first of such notifications must be made by January 3rd of 2018. For 2019 and subsequent 
+years, the notification needs to be made by April 1st of each year. Any firm that has not applied 
+for authorisation has to notify. 
+ 
+Question 7 [Last update: 31/05/2017] 
+When does a firm that can no longer make use of the ancillary activity exemption need to apply 
+for a license? 
+Answer 7 
+When a person’s trading activity increases to such an extent that it can no longer be considered 
+to be ancillary to its main business under Article 2(1)(j), the firm must apply to the competent 
+authority for a license.  
+26 
+ 
+ 
+ 
+ 
+Firms may not be certain whether they will be able to benefit from the exemption until the data 
+on market size becomes available. Those who have reasonable grounds for considering they 
+will be able to benefit from the ancillary activity exemption should notify. Where subsequently 
+the  market  data  indicates  that  this  is  not  the  case,  the  firm  would  be  expected  to  apply  for 
+authorisation as soon as reasonably practicable. 
+ 
+Question 8 [Last update: 31/05/2017] 
+What are the criteria that liquidity provision contracts need to meet in order to qualify for the 
+privileged transactions exemption under Article 2(4) of MiFID II? 
+Answer 8 
+Article 2(4) fifth paragraph, letter (c) of MiFID II permits a number of transaction types to be 
+classified as “privileged transactions” and thus to be set aside for the purposes of the ancillary 
+activity calculations.  Those transaction types include “transactions in commodity derivatives 
+and emission allowances entered into to fulfil obligations to provide liquidity on a trading venue, 
+where such obligations are required by regulatory authorities in accordance with Union law or 
+with national laws, regulations and administrative provisions, or by trading venues”. Therefore, 
+Article 2(4)(c) of MiFID II establishes two alternatives of liquidity provision programmes that 
+can be exempt from the ancillary activity calculations, one being based on requirements by 
+regulatory authorities and the other based on requirements imposed by trading venues. Under 
+both alternatives it is only the transactions carried out under the liquidity programme that are 
+exempt but not the liquidity provider as a person.  
+When elaborating the Level 2 rules, ESMA offered one example of the circumstances in which 
+transactions undertaken in order to fulfil liquidity obligations would be privileged, i.e. the market 
+making  requirements  established  by  the  UK  energy  regulator,  OFGEM,  which  oblige  large 
+electricity suppliers to post the prices at which they buy and sell wholesale electricity on power 
+trading platforms up to two years in advance and to trade at those prices. This is an example 
+of an obligation required by a regulatory authority in line with applicable national rules which 
+satisfies the conditions imposed by the first alternative described in Article 2(4)(c) of MiFID II.  
+Article  2(4)(c)  of  MiFID  II  uses  the  term  “obligations  to  provide  liquidity”  as  opposed  to  the 
+related term market maker which is used in Article 2(1)(j)(i) of MiFID II to determine the scope 
+of the ancillary activity exemption and which is defined in Article 4(1)(7) of MiFID II.  
+As a consequence, a liquidity provider under Article 2(4)(c) of MiFID II in addition to providing 
+liquidity on a continuous basis  and being willing to deal on own account against its proprietary 
+capital has to be under genuine obligations to carry out transactions. Such obligations have to 
+be specified in advance by the trading venue and have to be the subject of an enforceable 
+agreement  between  the  trading  venue  and  the  liquidity  provider.  The  obligations  a  trading 
+venue requires liquidity providers to fulfil have to be transparent to other market participants 
+and be applied in a non-discriminatory manner. 
+27 
+ 
+ 
+ 
+ 
+The obligations of any liquidity provider have to go clearly beyond the activities of any ordinary 
+market participant providing liquidity in a more general sense by simply trading on the market. 
+The obligations should contain elements such as or comparable to quoting requirements  with 
+a  maximum  spread,  a  minimum  volume,  a  minimum  quote  duration  and,  depending  on  the 
+trading model, a maximum response time to provide quotes and a minimum participation rate. 
+Only  transactions  executed  under  these  obligations  should  be  considered  as  privileged 
+transactions. 
+ 
+Question 9 [Last update: 31/05/2017] 
+Should the capital employed test be calculated only on the same positions as included in the 
+market size test or for all commodity derivatives traded in the group? 
+Answer 9 
+Article 3(1) b) RTS 207 refers to the estimated capital employed for those activities referred to 
+in Article 1 of RTS 20. According to Article 3(3) RTS 20 the size of the activities referred to in 
+Article 1 shall be calculated by aggregating the size of the activities with respect to all of the 
+asset  classes  referred  to  in  Article  2(1).  Accordingly,  the  numerator  of  the  capital  test  is 
+calculated on the basis of the same positions as included in the market size test as only those 
+asset classes referred to in Article 2(1) shall be included. 
+ 
+Question 10 [Last update: 02/10/2018] *modified* 
+Should the denominator in  the capital test  under Article 3(9) of RTS 20  be calculated using 
+consolidated accounts? Should firms use capital on a worldwide basis or just capital employed 
+within the EU? 
+Answer 10 
+The RTS 20 capital test should be calculated using consolidated accounts. According to Article 
+3(9) of RTS 20, the capital employed for carrying out the main business of a group shall be the 
+sum of the total assets of the group minus its short-term debt as recorded in the consolidated 
+financial statements of the group at the end of the relevant annual calculation period. 
+Firms shall use capital employed on a worldwide basis when calculating the capital test. 
+ 
+                                                
+7 Commission  delegated  regulation  (EU)  2017/592  of  1  December  2016  supplementing  Directive  2014/65/EU  of  the European 
+Parliament  and  of  the  Council  with  regard  to  regulatory  technical  standards  for  the  criteria  to  establish  when  an  activity  is 
+considered to be ancillary to the main business 
+28 
+ 
+ 
+ 
+ 
+Question 11 [Last update: 04/10/2017] 
+How should various underlyings falling under the C(10) category be treated for the purpose of 
+ancillary activity calculations? 
+Answer 11 
+The various commodity derivative underlyings within the scope of the C(10) category shall be 
+treated  consistently  across  all  provisions  concerning  commodity  derivatives  in  the  MiFID 
+II/MiFIR framework. Therefore, all those commodity derivative contracts with underlyings that 
+are subject to the position limit regime as specified in Position Limits Error! Reference source 
+not  found.  should  also  be  counting  towards  the  ancillary  activity  test  calculations.  Other 
+contracts within the C(10) scope should not be counted.  
+ 
+Question 12 [Last update: 13/11/2017] 
+How shall transactions concluded on venues outside the EU be treated for the market size test 
+computations under Article 2 of RTS 20?  
+Answer 12 
+Transactions  concluded  on  non-EU  venues  should  not  be  included  in  either  numerator  or 
+denominator of the market size test, since those transactions do not constitute part of trading 
+activity in the Union. 
+ 
+Question 13 [Last update: 02/10/2018] *modified* 
+How shall OTC transactions done by non-EU entities of an EU group with EU counterparties 
+be counted for the market size test? 
+Answer 13 
+For the purpose of calculating the numerator, these transactions would be considered to take 
+place in the EU and therefore should be included in the numerator of both the group that has 
+an EU presence and the EU counterparty.  
+For the purpose of the denominator, these transactions would also be considered to take place 
+in the EU. 
+Question 14 [Last update: 13/11/2017] 
+RTS  20  refers  only  to  Article  360  of the  CRR,  while  the  ‘simplified  approach  for  calculating 
+regulatory capital requirements’ is contained in CRR Articles 357, 358 and 360. Is the text in 
+RTS 20 self-contained or should firms refer to the whole of CRR? 
+29 
+ 
+ 
+ 
+ 
+Answer 14 
+Article 3(5)(6)(7) of RTS 20 replicates the content of Articles 360(1) and 357(3) of Regulation 
+(EU) No 575/2013 of 26 June 2013 (CRR). RTS 20 contains the stand-alone test that needs 
+to be performed without firms having to refer to the rest of the articles that relate to commodity 
+derivatives  in  the  CRR.  However,  firms  may  find  it  useful  to  refer  to  the  EBA  Q&A  on 
+clarification of the treatment of positions in commodities for the purposes of calculating net and 
+gross positions according to Article 360(1) of CRR. 
+ 
+4  Position reporting [Last update: 02/10/2018] 
+ 
+Question 1 [Last update: 07/07/2017] 
+Do positions held by an investment firm on behalf of their clients add to the investment firm’s 
+own positions? 
+Answer 1 
+Article  57(1)  explicitly  introduces  the  possibility  that  positions  are  held  on  behalf  of  another 
+entity for legal or operational reasons. In order to avoid double counting, such positions are 
+only to be reported as the positions of the person on whose behalf they are held. They are not 
+to be added to or netted against other positions held by the investment firm. 
+ 
+Question 2 [Last update: 07/07/2017] 
+How  should  investment  firms  report  the  positions  in  commodity  derivatives  of  persons  who 
+receive investment or ancillary services from a non-investment firm that is an “end client” of 
+the investment firm? 
+Answer 2 
+As position limits apply to “persons”, all positions in commodity derivatives must be included 
+in position reporting. Where an investment firm is reporting the positions of an end client that 
+is not an investment firm and does not therefore have reporting obligations of its own under 
+MIFID II, its report should cover both the end-client’s own account positions and any positions 
+that the end-client holds on behalf of third parties.  
+Investment  firms  reporting  such  positions  will  reduce  the  risk  of  their  reports  erroneously 
+identifying a breach of the position limit by the end-client by reporting the position of the end 
+client separately from positions held by that end-client on behalf of third parties. 
+30 
+ 
+ 
+ 
+ 
+Further, by reporting the positions held by the end-client on behalf of third party entities on an 
+entity-by-entity basis the investment firm will further reduce the risks of its reports erroneously 
+identifying  positions  which  appear  to  give  rise  to  breaches  because  they  aggregate  across 
+unaffiliated entities.  
+Entity-by-entity  reporting  is  therefore  encouraged,  though  ESMA  recognises  that  the 
+investment  firm  may  not  be  able  to  disaggregate  end-client’s  positions,  and  there  is  no 
+obligation on non-investment firms to provide disaggregated positions.  
+Every person holding a position in commodity derivative is subject to the position limits even if 
+their positions are aggregated in the reporting process. 
+ 
+Question 3 [Last update: 07/07/2017] 
+Who should submit position reports under Article 58(2) of MiFID II? 
+Answer 3 
+Only investment firms trading in commodity derivatives or emission allowances or derivatives 
+thereof  outside  a  trading  venue  (economically  equivalent  OTC  contracts)  should  submit 
+position reports under Article 58(2) of MiFID II. 
+ 
+Question 4 [Last update: 07/07/2017] 
+Should  investment  firms  include  positions  traded  on  a  trading  venue  and  economically 
+equivalent OTC contracts in position reports under Article 58(2) of MiFID II? 
+Answer 4 
+Investment firms should only include economically equivalent OTC contracts in position reports 
+under Article 58(2) MiFID II, as positions traded on trading venues are already reported under 
+Article 58(1)(b) MiFID II. 
+ 
+Question 5 [Last update: 07/07/2017] 
+Does the requirement for trading venues to make public weekly aggregate position reports and 
+to  communicate  that  report  to  the  competent  authority  and  to  ESMA  apply  to  securitised 
+derivatives? 
+Answer 5 
+31 
+ 
+ 
+ 
+ 
+The weekly aggregate position reports to be published by trading venues under Article 58(1)(a) 
+of MiFID II aim at providing transparency to investors about the view of the market that certain 
+categories  of  traders  may  be  taking.  As  an  example,  if  non-commercial  traders  are 
+predominantly  long  in  grain  futures,  this  would  be  indicative  of  a  view  among  professional 
+investors that grain prices are going to go up. 
+Providing this type of transparency to investors appears useful and meaningful with regards to 
+contracts  for  instance  with  large  open  interest  that  serve  as  a  reference  or  benchmark  for 
+market participants. 
+In  contrast, trading  in  European  securitised  derivatives  is  fragmented  with  well  over  10,000 
+instruments  in  issue  and  liquidity  per  contract  is  often  low.  The  potential  publication  of  a 
+multitude of weekly reports in securitised commodity derivatives on a per security level when 
+position holder thresholds are exceeded would send out a confusing picture to investors rather 
+than serve the envisaged purpose of market-wide transparency.  
+ESMA also notes that under Article 83 of  Commission Delegated Regulation (EU) 2017/565 
+of 25 April 2016, the obligation for a trading venue to make public weekly aggregate position 
+reports applies “when both of the following two thresholds are met:   
+  20 open position holders exist in a given contract on a given trading venue; and   
+ 
+the absolute amount of the gross long or short volume of total open interest, ex-pressed 
+in the number of lots of the relevant commodity derivative, exceeds a level of four times 
+the deliverable supply in the same commodity derivative, expressed in number of lots.    
+Where the commodity derivative does not have a physically deliverable underlying asset and 
+for emission allowances and derivatives thereof, point (b) shall not apply.” 
+While  the  condition  of  20  position  holders  could  be  applied  to  securitised  derivatives,  the 
+terminology of condition (b) referring to long or short volumes of open interest expressed in 
+lots appears to be geared solely towards the contracts described in MiFID II, Annex I, Section 
+C (5), (6), (7) and (10). 
+Based on the above, ESMA is of the view that Article 58(1)(a) of MiFID II and the Commission 
+Delegated Regulation (EU) 2017/565 dealing with weekly position reports does not apply to 
+securitised derivatives. 
+ 
+Question 6 [Last update: 07/07/2017] 
+At what level should Asset Managers aggregate positions? Is this to be done at group level or 
+a lower level (e.g. fund/legal entity identifier etc.)? 
+Answer 6 
+32 
+ 
+ 
+ 
+ 
+Under Article 4 (2) of RTS 21, as an exception to the general rule on calculating positions for 
+legal  entities  within  a  group,  the  parent  undertaking  of  a  collective  investment  undertaking 
+(CIU),  or  of  the  management  company  of  a  collective  investment  scheme,  should  not 
+aggregate  the  positions  in  commodity  derivatives  in  any  collective  investment  undertaking 
+where it does not in any way influence the investment decisions in respect of opening, holding 
+or  closing  those  positions.  In  that  case,  positions  are  to  be  reported  at  CIU/LEI  level. 
+Alternatively,  if  the  parent  undertaking  influences  investment  decisions  by  the  collective 
+investment  undertaking  or  by  the  management  company  of  a  collective  investment 
+undertaking,  it  should  aggregate  the  positions  held  in  the  relevant  collective  investment 
+scheme(s). 
+The  parent  undertaking  has  to  conduct  a  self-assessment  exercise  to  determine  whether  it 
+exercises any influence on investment decisions by the collective investment undertaking or 
+by the management company of a collective investment undertaking, taking into account any 
+relevant circumstances governing the relationship between the parent undertaking and the CIU 
+or its management company. 
+Upon  request,  the  parent  undertaking  should  be  in  a  position  to  explain  to  the  relevant 
+competent authority why it deems it does not exercise any influence on the decisions of the 
+CIU or its management company. 
+ 
+Question 7 [Last update: 07/07/2017] 
+Which MIC should be used by trading venues for position reporting? 
+Answer 7 
+Venues should use the relevant ‘segment MIC’ under which a commodity derivative is traded. 
+If a venue does not have a segment MIC, it should use its ‘operating MIC’.  
+ 
+Question 8 [Last update: 07/07/2017] 
+By when do positions have to be reported under Articles 58(1)(b) and 58(2) of MIFID II? 
+Answer 8 
+Trading venues and investment firms should report their positions to the respective NCA by 
+22:00 CET on T+1. 
+ 
+Question 9 [Last update: 07/07/2017] 
+33 
+ 
+ 
+ 
+ 
+Does the requirement under Article 58(1)(b) and (2) of MiFID II to submit daily position reports 
+to  the  NCA  apply  to  securitised  derivatives  with  a  total  number  of  securities  in  issue  not 
+exceeding 2.5 million? 
+Answer 9 
+No. The NCAs do not need to require the submission of daily position reports of securitised 
+derivatives with a total number of securities in issue not exceeding 2.5 million. The purpose of 
+daily reporting is to monitor for potential breaches of position limits. To that end, Article 58(3) 
+of MiFID II stipulates that daily position reporting shall enable monitoring of compliance with 
+Article 57(1) of MiFID II. Accordingly, the reporting requirement has been set for situations in 
+which reporting is necessary to enable monitoring. As a consequence, NCAs do not need to 
+require daily reporting if the possibility of a breach of position limits can be ruled out from the 
+outset. 
+These  instruments  would  be  illiquid  contracts  and  benefit  from  the  derogation  pursuant  to 
+Article 15(1)(c) of RTS 21 with regard to regulatory technical standards for the application of 
+position limits to commodity derivatives. For issues not exceeding 2.5 million securities it is per 
+se not possible to breach position limits.  
+Trading venues that would otherwise be required to submit position reports of these securitised 
+derivatives must confirm to the NCA that the total number of securities in issue does not exceed 
+the 2.5 million threshold. The NCA assesses whether this condition is fulfilled. The reporting 
+entity can rely on information provided by the CSD, the issuer, or another reliable source that 
+ensures up-to-date knowledge on the current number of securities in issue. As soon as the 
+threshold is exceeded, position reporting must be performed. 
+ 
+Question 10 [Last update: 07/07/2017] 
+How does ESMA propose to address the breaches of applicable non-EU laws and regulations 
+regarding data protection and bank secrecy which may potentially arise from the reporting of 
+client and end client positions? 
+Answer 10 
+Article 58(2) of MiFID II requires investment firms trading in commodity derivatives to provide 
+to the relevant competent authority a complete breakdown of their positions as well as those 
+of their clients and the clients of those clients until the end-client is reached. ITS 4 provides a 
+template for such reporting. Position holders are to be identified in the same way as for trans-
+action  reporting  purposes.  Legal  persons  are  identified  by  their  LEI.  For  non-EU  position 
+holders that are natural persons, the identifier with the highest priority is the passport number, 
+the  second  priority  being  a  unique  CONCAT  code  combining  nationality,  first  name  and 
+surname of the position holder. 
+34 
+ 
+ 
+ 
+ 
+The requirement to identify clients and clients of clients until the end client in position reports 
+cannot be waived. Therefore, where an investment firm would be dealing with or on behalf of 
+clients  or  clients  of  clients  that  cannot  be  identified  in  position  reporting  because  of  legal, 
+regulatory or contractual impediments, that investment firm would not be deemed compliant 
+with its obligations under Article 58(2) of MiFID II. 
+ 
+Question 11 [Last update: 13/11/2017] 
+Where an NFE trades only, or partly, for hedging purposes, can every transaction be reported 
+as being for speculative purposes? 
+Answer 11 
+No. NFEs should ensure that their position reports accurately describe their position. This is 
+necessary to ensure the reliability and accuracy of the position reports submitted to NCAs and 
+the  published  weekly  position  reports.  Accordingly,  NFEs  are  expected  to  correctly  flag 
+positions as hedging (or speculative) based on the conditions established in Article 7 of RTS 
+21. In particular, the reports should accurately describe whether the position is risk reducing in 
+relation to the NFE’s commercial activities. This is the case even if the NFE does not apply for 
+a hedging exemption under Article 8 of RTS 21 (in accordance with Q&A 14 on position limits) 
+because it does not expect its aggregated positions resulting from hedging and non-hedging 
+activities to exceed the limit set by the relevant NCA for that commodity derivative contract. 
+ 
+Question 12 [Last update: 13/11/2017] 
+Should an investment firm acting as broker and using a matched principal model be subject to 
+position reporting? 
+Answer 12 
+Yes. Any investment firm trading in commodity derivatives contracts traded on a trading venue 
+or  in  EEOTC  contracts  is  subject  to  position  reporting  and  should  provide  a  complete 
+breakdown of positions held on own account and on behalf of clients as the investment firm 
+can end up holding a position even if trading on a matched principal basis. It is the investment 
+firm’s  responsibility  to  assess  whether  the  transaction  executed  results  in  a  change  in  the 
+positions held on own account and/or on behalf of clients. 
+ 
+Question 13 [Last update: 13/11/2017] 
+Do end-of-day zero positions need to be reported? 
+Answer 13 
+35 
+ 
+ 
+ 
+ 
+Article  58(2)  of  MiFID  II  provides  for  the  reporting,  at  least  on  a  daily  basis,  of  a  complete 
+breakdown of the positions. End of day zero positions do not need to be reported to the NCA 
+unless the firm showed a positive or negative position in the previous report. In that case, the 
+first time the open position is reduced to zero, a zero position should be reported to the NCA. 
+ 
+Question 14 [Last update: 13/11/2017] 
+Can position reporting pursuant to Article 58(2) be outsourced to another entity?  
+Answer 14 
+Yes. Investment firms can delegate the reporting to third parties but shall remain responsible 
+for the reports. The investment firm has to comply with the relevant outsourcing requirements 
+specified in MiFID II. 
+ 
+Question 15 [Last update: 13/11/2017] 
+Do positions in C(10) instruments with an underlying which is not a commodity as defined in 
+Article 2(6) of Commission Delegated Regulation (EU) 2017/565 of 25 April 2016 need to be 
+reported?  
+Answer 15 
+The various commodity derivative underlyings within the scope of the C(10) category shall be 
+treated  consistently  across  all  provisions  concerning  commodity  derivatives  in  the  MiFID 
+II/MiFIR framework.  
+The purpose of daily reporting is to monitor for potential breaches of position limits as Article 
+58(3) of MiFID II stipulates that daily position reporting shall enable monitoring of compliance 
+with  Article  57(1)  of  MiFID  II.  Therefore,  all  those  commodity  derivatives  contracts  with 
+underlyings that are subject to the position limit regime as specified in Position Limits Question 
+10 and Ancillary Activity Question 11 are also subject to position reporting. 
+ 
+Question 16 [Last update: 13/11/2017] 
+In respect of which contracts does ESMA expect to receive weekly reporting data from trading 
+venues under Article 58(7) of MiFID II in conjunction with ITS 4 and 5?  
+Answer 16 
+Submission of weekly reports to ESMA should be strictly limited to those contracts that fulfil 
+the conditions specified in Article 83 of Commission Delegated Regulation (EU) 2017/565 of 
+36 
+ 
+ 
+ 
+ 
+25  April  2016.  This  is  to  ensure  that  ESMA  only  publishes  those  reports  it  is  authorised  to 
+publish  and  that  the  ESMA  publications  give  a  consistent  picture  to  stakeholders.  Trading 
+venues can publish on their own webpages information in respect of additional contracts. 
+ 
+Question 17 [Last update: 15/12/2017] 
+Where  there  is  a  chain  of  investment  firms  that  have  to  comply  with  commodity  position 
+reporting obligations, who has to report to the trading venue or NCA? 
+Answer 17 
+Where there is a chain of investment firms that are executing trades on behalf of their clients, 
+each one of them has an obligation to report a complete breakdown of the positions held by 
+all persons down the chain, down to the end client, as defined under Article 58(3) of MIFID II. 
+At the same time, duplicative reporting should be avoided. Unless firms make arrangements 
+to avoid it, this may arise, for example, where two or more of the investment firms in the chain 
+are  members  of  a  trading  venue,  and  therefore  have  an  obligation  (under  Article  58(3))  to 
+report to the trading venue. 
+To this aim, there is a possibility to outsource reporting, for example, an arrangement in which 
+the first investment firm in a chain will agree with the second that it will report to the trading 
+venue. The firm which outsources the reporting should make sure that all the necessary and 
+factual information is provided to the reporting agent, as the responsibility for reporting cannot 
+be outsourced.  
+ 
+Question 18 [Last update: 15/12/2017] 
+How should clients of investment firms inform their intermediaries of the nature of each of their 
+positions  (hedge  or  speculation)?  Should  that  information  be  provided  for  each  position  or 
+could  clients  indicate  to  their  intermediaries  that,  except  if  they  explain  otherwise,  all  their 
+positions should be deemed for hedging or non-hedging purposes? 
+Answer 18 
+The obligation to report positions under Article 58 of MIFID rests with members or participants 
+of  regulated  markets,  MTFs  and  clients  of  OTFs  or  with  investment  firms  when  executing 
+EEOTC transactions on behalf of their clients.  
+It  is  the  client’s  responsibility  to  ensure  that  their  position  is  accurately  described  in  their 
+position report, in particular regarding whether their positions are for hedging or speculative 
+purposes. It is a matter for the individual client as to how they satisfy this obligation and they 
+may provide an initial instruction that unless informed otherwise, the investment firm should 
+report certain defined positions to be for hedging (or speculative) purposes providing that this 
+37 
+ 
+ 
+ 
+ 
+is an accurate description at the time. There may, however, be circumstances where a client 
+is able more accurately to assign new transactions to hedging or speculative positions only 
+after the initial trade. In this case the client should ensure that their position report is adjusted 
+accordingly to the hedging or non-hedging nature of their position. Some clients may find it 
+useful to adopt the ITS 4 template for reporting to investment firms. 
+ 
+Question 19 [Last update: 15/12/2017] 
+How  is  the  position  quantity  field  reported  for  contracts  that  relate  to  delivery  of  the  same 
+underlying over different periods of time? 
+ 
+ 
+Answer 19 
+The  Position  Quantity  held  in  a  contract  must  be  reported  in  the  same  unit  as  used  by  the 
+Competent  Authority  to  set  the  position  limit  for  that  contract.  The  position  limits  for  those 
+contracts that refer to the same underlying commodity but have a variety of delivery periods, 
+e.g.  annual  (calendar),  quarterly,  monthly,  weekly  (whole  week,  working  day  week  and 
+weekend)  or  daily  are  set  in  units  of  underlying  since  a  lot  does  not  represent  a  standard 
+quantity  of  underlying  across  all  maturities/delivery  periods.  Thus,  for  these  contracts,  the 
+figures reported in the field position quantity must be expressed in units of underlying. 
+ 
+Question 20 [Last update: 15/12/2017] 
+How should the position in the spot month and other months be reported for contracts where 
+there are daily or weekly as well as monthly contracts? 
+Answer 20 
+Positions in daily or weekly contracts whose delivery period is completely included in the spot 
+month should be reported as spot month positions ('SPOT').  
+Positions  in  weekly  contracts  whose  delivery  period  is  not  completely  included  in  the  spot 
+month, i.e. weekly contracts that straddle the spot month and other months, should be reported 
+as other months’ positions ('OTHR'). 
+Positions in quarterly or annual contracts whose delivery period straddles the spot month and 
+other months should also be reported as other months’ positions ('OTHR'). 
+ 
+38 
+ 
+ 
+ 
+ 
+Question 21 [Last update: 27/03/2018] 
+In cases where an OTC contract is economically equivalent to more than one ETD contract 
+traded on an EU trading venue and where those ETD contracts are not the same derivative 
+contract, to which NCA should the reporting of the EEOTC contracts be addressed? 
+Answer 21 
+In cases where an OTC contract is economically equivalent to more than one ETD contract 
+traded on a trading venue in the EU and where those ETD contracts do not qualify as the same 
+derivative contract in accordance with Article 5(1) of RTS 21, positions in the EEOTC contract 
+can be reported to any of the NCAs of the trading venues where the ETD contract is traded. 
+Position  reporting  of  such  EEOTC  contract  should  not  be  split  among  different  NCAs  and 
+should  not  be  reported  to  more  than  one  NCA.  Investment  firms  should  ensure  that  non-
+reporting or double reporting is avoided and that EEOTC contracts are consistently reported 
+to the same NCA, with a consistent reference to the contract. 
+For  aggregation  purposes,  in  order  to  calculate  “net  positions”  according  to  Article  57(1)  of 
+MIFID II and Article 3 of RTS 21, the EEOTC contract should be considered only once and be 
+aggregated  only  once  with  the  ETD  contract  that  the  investment  firm  has  considered  it  is 
+equivalent to. 
+ 
+Question 22 [Last update: 02/10/2018] *New* 
+Which  types  of  firm  fall  within  each  of  the  ITS  4  categories  for  the  purposes  of  the  weekly 
+Commitment of Trader (CoT) reports? 
+Answer 22 
+ITS 4 implementing MiFID II provides the format of the weekly CoT report to be published by 
+trading venues and provided to ESMA. In providing information to the trading venues to enable 
+them to  produce the  CoT  report,  members  and participants  of those  venues must  use their 
+knowledge  and  judgment  to  categorise  their  activities  and  the  activities  of  their  clients 
+accurately.  
+In  order  to  achieve  accuracy  and  consistency  in  the  reporting  of  positions  across  different 
+categories, the following guidance may be of assistance: 
+ 
+ 
+ 
+ 
+Investment firms or credit institutions – includes banks and other firms regulated under 
+MiFID II. 
+Investment funds – entities holding investments directly in the commodity derivatives 
+market  as  a  form  of  collective  investment  scheme,  including  hedge,  pension  and 
+exchange-traded funds. 
+39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Other  financial  institutions  –  those  financial  firms  not  falling  within  any  of  the  other 
+categories.  
+  Commercial  undertakings  –  non-financial  entities  using  commodity  derivatives,  for 
+example firms using those markets to hedge the risk they directly incur from dealing in 
+physical  commodities  such  as  producers,  end  users,  processors,  manufacturers, 
+shippers and merchants. 
+  Operators  with  compliance  obligations  under  the  Emissions  Allowance  Trading 
+Directive – such as commercial airlines, entities in power and heat generation, energy-
+intensive  industry  sectors  including  oil  refineries,  steel  works,  production  of  iron, 
+aluminium, metals, cement, lime, glass, ceramics, pulp, paper, cardboard, acids and 
+bulk organic chemicals.  
+ 
+It should be noted that it is possible for a firm to be categorised as an operator with compliance 
+obligations under the Emissions Allowance Trading Directive for a Weekly CoT report for an 
+emissions  allowance  contract  or  derivatives  thereof  while,  on  the  other  hand,  it  must  be 
+categorised as a commercial undertaking for a Weekly CoT referring to another asset class of 
+commodity derivatives contract (i.e. metals, oil, coal, gas, power, etc.).  
+ 
+5  Position management controls [Last update: 04/10/2017] 
+Question 1 [Last update: 04/10/2017] 
+Are position management controls required to play a role in the application of position limits 
+applied by NCAs according to Article 57(1) MiFID II? 
+Answer 1 
+No. NCAs are responsible for the application of position limits established under Article 57(1). 
+Recital (128) MiFID further specifies that the powers to require the reduction or termination of 
+a  position  or  to  provide  back  liquidity  should  “mitigate  the  effects  of  a  large  or  dominant 
+position”.  
+However, the controls listed in Article 57(8) are not exhaustive and shall not prevent trading 
+venues  from  developing  their  own  position  limits  as  a  mean  to  control  positions  held  on 
+commodity derivatives traded on their trading venues.  
+ 
+6  Third country issues [Last update: 31/05/2017] 
+Question 1 [Last update: 31/05/2017] 
+40 
+ 
+ 
+ 
+ 
+Should  economically  equivalent  contracts  traded  on  a  third-country  venue  be  considered 
+EEOTC for position limit and position reporting purposes under MiFID II? 
+Answer 1 
+Whether  or  not  positions  held  in  commodity  derivatives  contracts  traded  on  third-country 
+venues that are economically equivalent (EE) to contracts traded on an EU trading venue, are 
+to  be  considered  as  EETOC  for  position  limit  and  position  reporting  purposes  under  Article 
+58(2) of MiFID II depends on the characteristics of that third-country trading venue, as set out 
+in ESMA Opinion 70-154-466 of 15 December 20178. 
+Market participants holding positions on third country venue contracts, that may be considered 
+EEOTC under Article 58(2) of MiFID II and Article 6 of Commission Delegated Regulation (EU) 
+2017/591  of  1  December  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament and of the Council with regard to regulatory technical standards for the application 
+of  position  limits  to  commodity  derivatives  (RTS  21),  or  considering  trading  such  contracts, 
+should contact their CA and make them aware of those contracts. The CA will then get in touch 
+with the third-country venue with a request for further information. Based on the information 
+provided, ESMA will determine whether the third-country trading venue meets the criteria set 
+out in the ESMA Opinion. If so, the respective third-country venue will be listed in an Annex to 
+the Opinion. 
+Where a third-country trading venue appears in the annex to the Opinion, EE contracts traded 
+on that venue will not be considered EEOTC for position limit and position reporting purposes. 
+EE contracts traded on any other third-country trading venue that does not appear in the Annex 
+to the Opinion will be considered EEOTC. 
+ESMA is aware that it is important for market participants to have legal certainty as soon as 
+possible on the treatment of their transactions in EE contracts on third-country trading venues 
+for position limit and reporting purposes. Whilst ESMA cannot commit to any set timeline for 
+the assessment of the information received through NCAs, all notifications will be processed 
+as expediently as possible. 
+ 
+                                                
+8 https://www.esma.europa.eu/sites/default/files/library/esma70-156-112_cdtf_opinion_eeotc_third_countries.pdf 
+41 

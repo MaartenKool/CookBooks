@@ -1,0 +1,2272 @@
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+BASEL III MONITORING EXERCISE – 
+RESULTS BASED ON DATA AS OF 31 December 2017 
+04 ctober 2018 
+1
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Contents 
+Contents 
+List of figures 
+List of tables 
+Abbreviations 
+Executive summary 
+1.  Introduction 
+1.1  Data and sampling 
+1.2  Methodology for impact estimation: aggregation and metrics 
+1.2.1  Minimum required capital (MRC) and differences with respect to methodology 
+used by the BCBS 
+1.2.2  Description of impact metrics 
+Interactions between risk‐based and leverage ratio capital requirements 
+1.3  Presentation of the distribution of the results (box plots) 
+2.  Regulatory capital ratios, capital shortfalls and impact on minimum required capital 
+2.1  Cumulative impact analysis of the final Basel III reform 
+2.2  Capital ratios and capital shortfalls 
+2.3 
+3.  Credit risk 
+4.  FRTB 
+5.  Operational Risk 
+6.  Output floor 
+7.  Revised leverage ratio 
+8.  Net stable funding ratio 
+9.  Annex 
+9.1  Methodology for the estimation of the impact per category 
+CVA impact 
+Credit risk impact 
+9.1.1 
+9.1.2  Market risk impact 
+9.1.3 
+9.1.4  Operational risk impact 
+9.1.5  Output floor impact 
+9.1.6 
+9.1.7 
+Leverage ratio impact 
+Capital shortfalls 
+ 
+ 
+2 
+3 
+4 
+5 
+6 
+9 
+9 
+10 
+10 
+11 
+12 
+13 
+13 
+14 
+18 
+20 
+22 
+24 
+28 
+29 
+32 
+35 
+35 
+35 
+36 
+36 
+36 
+37 
+38 
+40 
+2
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+List of figures 
+Figure 1: Distribution of changes in total T1 MRC (%) ................................................................... 13 
+Figure 2: Distribution of capital ratios under CRR/CRDIV vs. fully phased‐in final Basel III 
+framework, Group 1 banks (upper graph) and Group 2 banks (lower graph) ............... 15 
+Figure 3: Development of the composition of MRC by risk category under full implementation of 
+the CRR / CRD IV (Jun‐11 to Jun‐17) and Basel III (Dec‐17) over time, for Group 1 (upper 
+graph) and Group 2 (lower graph) banks ....................................................................... 17 
+Figure 4: Trend in capital shortfalls, for the consistent sample of banks, by type of capital and 
+bank group over time (billion EUR) ................................................................................ 18 
+Figure 5: The mechanics of the calculation of actual leverage ratio MRC impact, Tier 1 MRC 
+(billion EUR) .................................................................................................................... 19 
+Figure 6: Changes in Tier 1 MRC for credit risk (SA and IRB) exposures due to the final Basel III 
+standards ........................................................................................................................ 21 
+Figure 7: Change of market risk capital requirements after FRTB implementation, without floor 
+(%), broken down by approach and bank group ............................................................ 22 
+Figure 8: Contribution to the total market risk RWAs by each calculation methods before and 
+after FRTB ....................................................................................................................... 23 
+Figure 9: Distribution of changes in T1 MRC assigned to operational risk only ............................ 26 
+Figure 10: Comparison of fully phased‐in EU LR, and final Basel III LR, as finalised in December 
+2017 ................................................................................................................................ 30 
+Figure 11: Drivers of change in leverage ratio exposure in the final Basel III standards .............. 30 
+Figure 12: Distribution of NSFR by bank group ............................................................................. 33 
+Figure 13: NSFR (left scale: lhs) and change in its determinants (right scale: rhs) – balanced 
+sample (%) ...................................................................................................................... 33 
+Figure 14: Development of the NSFR shortfall of RSF over time, by bank group – balanced 
+sample ............................................................................................................................ 34 
+Figure 15: Integration of changes in risk‐based and leverage‐ratio‐based MRC .......................... 39 
+ 
+3
+ 
+ 
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+List of tables 
+Table 1: Change in total T1 MRC as percentage of the overall base MRC due to the full 
+implementation of Basel III (2027) (%) ............................................................................. 7 
+Table 2: Shortfall of current available capital, due to the full implementation of CRR/CRD IV and 
+Basel III (2027) (billion EUR) ............................................................................................. 8 
+Table 3: Capital ratios: fully phased‐in CRR/CRD IV and final Basel III framework (2027) (%) ........ 8 
+Table 4: Number of banks which submitted data and those included in the cumulative analysis, 
+per country ..................................................................................................................... 10 
+Table 5: Changes in T1 MRC, per risk category, due to the implementation of the final Basel III 
+framework (2027) (%) .................................................................................................... 14 
+Table 6: Comparison of risk‐based capital ratios and leverage ratios under different states of 
+implementation (%) ....................................................................................................... 14 
+Table 7: Capital shortfalls by bank group under full implementation of CRR / CRD IV and final 
+Basel III (billion EUR) ...................................................................................................... 16 
+Table 8: Changes in T1 MRC assigned to operational risk only (% of the MRC T1 assigned to 
+operational risk under CRR/CRD IV) ............................................................................... 24 
+Table 9: Capital impact attributed to certain types of AMA banks ............................................... 25 
+Table 10: Comparison of operational impact on T1 MRC of the application of baseline Basel III 
+full implementation, i.e. ILM with EUR 20000 loss materiality threshold, the discretion 
+to apply a loss materiality threshold of EUR 100000 threshold for the estimation of ILM 
+(discretion 1) and the discretion to apply ILM = 1 (discretion 2) (%) ............................. 27 
+Table 11: Cumulative output floor impact during the implementation phase (% of the CRR / CRD 
+IV Tier 1 MRC) ................................................................................................................. 28 
+Table 12: Impact of LR, in isolation from the risk‐based provisions, due to changes in the 
+definition of leverage ratio exposures (LRE) and changes in the calculation (50% of G‐
+SIIs surcharge) of the LR T1 MRC (%) ............................................................................. 29 
+Table 13: NSFR and NSFR shortfall in stable funding .................................................................... 32 
+ 
+ 
+4
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Abbreviations 
+advanced measurement approach 
+available stable funding 
+basic indicator approach 
+Basel Committee on Banking Supervision 
+business indicator component 
+Capital conservation buffer 
+Common equity tier 1 
+Capital Requirements Directive 
+Capital Requirements Regulation 
+credit valuation adjustment 
+European Banking Authority 
+fundamental review of the trading book 
+global systemically important institutions 
+high quality liquid assets 
+internal loss multiplier 
+internal model approach 
+internal ratings‐based  
+loss component 
+liquidity coverage ratio 
+leverage ratio 
+leverage ratio exposure 
+minimum required capital 
+net stable funding ratio 
+operational risk 
+other systemically important institutions 
+Quantitative Impact Study 
+required stable funding 
+risk‐weighted assets 
+Standardised approach 
+standardised measurement approach 
+Tier 1 
+AMA 
+ASF 
+BIA 
+BCBS 
+BIC 
+CCB 
+CET1 
+CRD 
+CRR 
+CVA 
+EBA 
+FRTB 
+G‐SIIs 
+HQLA 
+ILM 
+IMA 
+IRB 
+LC 
+LCR 
+LR 
+LRE 
+MRC 
+NSFR 
+OpRisk 
+O‐SIIs 
+QIS 
+RSF 
+RWA 
+SA 
+SMA 
+T1 
+ 
+5
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Executive summary 
+The finalisation of post‐crisis reforms of the Basel Committee on Banking Supervision (BCBS), as 
+endorsed by the Group of Central Bank Governors and Heads of Supervision and published on 7 
+December 20171, completes the Basel III framework and contributes to a more robust and resilient 
+banking sector at the global level.  
+The present report assesses the impact on EU banks of the final revisions of credit risk, operational 
+risk, and leverage ratio frameworks, as well as of the introduction of the aggregate output floor. It 
+also quantifies the  impact of the new standards  for the market risk (fundamental review of the 
+trading book, FRTB), as set out in January 2016 (see BCBS (2016), Minimum capital requirements for 
+market risk – standards), and credit valuation adjustment (CVA)2. The impact is assessed on the 
+assumption of the full implementation of the Basel reforms. In addition, in conjunction with the BCBS 
+Basel III regular monitoring exercise, this report gives an update on the progress of the European 
+banks in converging towards stricter capital requirements. 
+The impact assessment in the present report provides a first indication of the impact of final Basel 
+III, in anticipation of a more detailed report, which will respond to the European Commission’s Call 
+for Advice3 and be based on an expanded sample and on data as of June 2018. In addition, the 
+findings of the current report should not be compared with those of the ad hoc monitoring exercise 
+report, which was published by the EBA on 20 December 2017 based on 2015 data. The two reports 
+are not directly comparable given that the FRTB and CVA components were not included in the 
+impact assessment of the report, published in December 2017, and the composition of the sample 
+is  different  (only  54  banks  are common to both).  Moreover,  in the  area  of  operational  risk, the 
+present report estimates the impact of the scenario using the actual internal loss multiplier (ILM), 
+instead of  ILM = 1, and it includes some elements of the revision, in most of the risk categories, that 
+the previous report was not able to assess for lack of data. 
+The analysis of the present report refers to data as of December 2017 and uses a sample of 38 Group 
+1 banks and 63 Group 2 banks (101 in total)4 for the cumulative impact5. It assesses the impact on 
+the Total Tier 1 minimum required capital (T1 MRC)6, i.e. it assumes compliance with the higher of 
+                                                                                                               
+1 BCBS (December 2017), Finalising Basel III: An overview of post‐crisis reforms; BCBS (December 2017), Basel III: 
+Finalising post‐crisis reforms. 
+2 It should be noted that the numbers represented in this report do not constitute the final impact expected from the 
+FRTB  and  CVA  reforms.  This  is  because  the  ongoing  work  at  the  BCBS  includes  a  review  of  the  calibrations  of  the 
+standardised and internal model approaches to ensure consistency with the original expectations of the BCBS 
+3  https://www.eba.europa.eu/‐/eba‐will‐support‐the‐commission‐in‐the‐implementation‐of‐the‐basel‐iii‐framework‐in‐
+the‐eu 
+4 Group 1 banks are banks with Tier 1 capital in excess of EUR 3 billion and which are internationally active. All other 
+banks are labelled as Group 2 banks. 
+5 Only the banks that submitted data for at least one of the credit risk components (IRBA or SA) and the leverage ratio 
+were included in the sample of the cumulative analysis. For banks that did not submit data for the specific components 
+of the exercise, the cumulative analysis assumes that there is no impact arising from the revisions to those components. 
+6 Capital  requirement  figures  in  this  report  include  the  capital  conservation  buffer  (CCB)  and  the  global  systemically 
+important institutions (G‐SIIs) surcharge, where applicable. They do not incorporate any Pillar 2 requirements applied 
+under  the  current  supervisory  framework,  nor  do  they  consider  any  higher  loss  absorbency  requirements  for  other 
+ 
+6
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+the risk‐based capital requirement (i.e. those based on risk‐weighted assets, including the effect of 
+the output floor) and the leverage ratio requirement, under the CRR/CRD IV and Basel III frameworks 
+(both fully phased‐in).  
+The weighted average change in total T1 MRC is 16.7% across all 101 banks, of which the FRTB and 
+CVA contribute 5.3%, 18.7% for the large and internationally active banks (Group 1), of which the 
+FRTB and CVA impact is 6.1%, and 3.8% for the other banks (Group 2), of which the FRTB and CVA 
+impact is 1.0% (Table 1). The impact of the risk‐based reforms across all banks (21.8%) is partially 
+offset by the fact that some banks are constrained by the leverage ratio in the current framework. 
+This offset indicates that the leverage ratio is becoming less constraining, i.e. it exceeds the risk‐
+based requirements by less, in terms of MRC, for some banks in the sample (53 banks are constrained 
+under the Capital Requirements Regulation (CRR)/Capital Requirements Directive (CRD) IV, which 
+represent 42.9% of the total risk‐weighted assets (RWA) of the sample; 36 are constrained under the 
+final Basel III framework, which represents 14.9% of the total RWA of the sample)7.  
+The output floor and operational risk frameworks are the two major drivers of MRC increase across 
+all banks, accounting for 6.3% and 5.7% respectively; however, the impact of the output floor should 
+be  interpreted  in  conjunction with the  reduction of  the  leverage  ratio  (LR)  impact,  as the  latter 
+becomes relatively less constraining than the CRR/CRD IV, for some banks, and compensates for the 
+impact of the output floor. The same applies to Group 1 (6.5% and 6.4% respectively) and G‐SIIs 
+(5.4% and 7.5% respectively). Credit risk is the third most important driver for Group 1 and G‐SIIs 
+(4.5% and 4.7% respectively).  
+Instead, for Group 2 banks, credit risk is the major driver of the impact (6.7%), followed by the output 
+floor  and  operational  risk.  The  offsetting  effect  of  the  leverage  ratio  is  particularly  important  (‐
+10.6%).   
+Table 1: Change in total T1 MRC as percentage of the overall base MRC due to the full implementation of Basel III (2027) 
+(%) 
+ 
+Credit 
+risk 
+Market 
+risk 
+CVA 
+Operational 
+risk 
+Output 
+floor 
+Revised 
+LR 
+TOTAL 
+Total 
+risk‐
+based 
+21.8 
+23.0 
+26.4 
+14.4 
+4.5 
+4.1 
+4.7 
+6.7 
+2.0 
+2.3 
+3.4 
+0.6 
+3.3 
+3.8 
+5.4 
+0.4 
+6.3 
+6.5 
+5.4 
+5.3 
+5.7 
+6.4 
+7.5 
+1.4 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA Quantitative Impact Study (QIS) data (December 2017) 
+ 
+Compared with the current fully phased‐in CRR/CRD IV rules, the capital shortfall under the full 
+implementation of the final Basel III reforms increases for all banks, but particularly for G‐SIIs (Table 
+2). The total shortfall due to the implementation of the final Basel III minimum common equity tier 
+1 (CET1) required capital is EUR 6.0 billion (EUR 5.0 billion of which for G‐SIIs), while the Tier 1 capital 
+shortfall  due  to  the  risk‐based  capital  requirements  is  approximately  EUR  14.6  billion  and  the 
+additional Tier 1 shortfall due to the revised LR is EUR 0.3 billion.  
+‐5.1 
+‐4.3 
+‐1.0 
+‐10.6 
+16.7 
+18.7 
+25.4 
+3.8 
+Since the actual capital held by banks also covers Pillar 2 requirements, O‐SIIs surcharges, counter‐
+                                                                                                               
+(domestic) systemically important institutions (O‐SIIs) and countercyclical capital buffer requirements. For details on the 
+methodology, see Annex.  
+7 See Annex (section 9.1.6) for more details on the interpretation of the impact of the leverage ratio. 
+ 
+7
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+cyclical  capital  buffer  and  systemic  risk  buffer,  the  figures  below  may  underestimate  the  actual 
+shortfall. On the other hand, the assessment does not consider any scheduled measures that banks 
+might undertake to comply with the revised framework between December 2017 and the Basel III 
+full implementation date, nor does it consider the extent to which risks currently covered by a Pillar 
+2 add‐on will be possibly covered by Pillar 1 charges under the new regime. 
+Table 2: Shortfall of current available capital, due to the full implementation of CRR/CRD IV and Basel III (2027) (billion 
+EUR) 
+Capital shortfalls – CRR/CRD IV (fully 
+phased‐in) 
+Capital shortfalls – Basel III framework (2027) 
+Additional 
+LR Tier 1 
+1.1 
+0.0 
+0.0 
+1.1 
+CET1 
+6.0 
+5.0 
+5.0 
+1.0 
+Tier 1 
+14.6 
+13.2 
+12.0 
+1.4 
+Additional 
+LR Tier 1 
+0.3 
+0.0 
+0.0 
+0.3 
+ 
+ 
+CET1 
+Tier1 
+All banks 
+0.0 
+0.0 
+Group 1 
+Of which: G‐SIIs 
+0.0 
+0.0 
+Group 2 
+Source: EBA QIS data (December 2017) 
+0.0 
+0.0 
+0.0 
+0.0 
+When considering the entire sample, the risk‐based capital ratios, namely the CET1, T1 and total 
+capital ratios, fall by 280, 330 and 400 basis points respectively (Table 3). The leverage ratio of the 
+entire sample increases by 30 basis points (from 5.1% to 5.4%). The drop is greater for Group 1 banks 
+than for Group 2 banks. 
+Table 3: Capital ratios: fully phased‐in CRR/CRD IV and final Basel III framework (2027) (%) 
+CET1 
+Tier 1 
+14.1 
+13.8 
+12.7 
+16.1 
+15.6 
+15.4 
+14.6 
+16.7 
+CET1 
+Tier 1 
+11.3 
+11.1 
+10.1 
+13.1 
+12.3 
+12.1 
+11.3 
+13.7 
+LR 
+5.4 
+5.4 
+5.2 
+5.5 
+LR 
+5.1 
+5.1 
+4.8 
+5.4 
+Capital ratios – Basel III framework (2027)  
+Capital ratios – CRR/CRD IV (fully phased‐in)  
+Total 
+capital 
+14.5 
+14.3 
+13.3 
+15.9 
+Total 
+capital 
+18. 5 
+18.3 
+17.3 
+19.5 
+ 
+ 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+ 
+Beyond  the  impact  of  the  final  Basel  III  reforms,  as  finalised  in  December  2017,  the  current 
+monitoring exercise report estimates the impact of implementing the net stable funding ratio (NSFR) 
+framework.  Banks  in  the  sample  need  additional  stable  funding  of  EUR 27.8 billion  to  fulfill  the 
+minimum requirement of 100% (Table 13), equivalent to 4.2% of total weighted available stable 
+funding (ASF) (EUR 666 billion) and 2.7% of total assets (EUR 1 trillion) of all non‐compliant banks 
+participating in the NSFR‐related part of this exercise. The overall positive trend is also reflected in 
+the reduction in the shortfall in stable funding needed to meet the 100% ratio requirement, which, 
+compared with June 2011, decreased by 99% (from EUR 1,279 billion to EUR 3 billion) for Group 1 
+banks and by 98% (from EUR 158 billion to EUR 2 billion) for Group 2 banks.  
+ 
+ 
+8
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+1. 
+Introduction 
+This report presents the estimated impact of the Basel reform package on European banks as agreed 
+in December 2017 by the Group of Central Bank Governors and Heads of Supervision (GHoS). The 
+assessment of the final package includes the revisions to the internal ratings‐based (IRB) approach8, 
+the standardised approach to credit risk (SA)9 and the standardised approach to operational risk10, 
+as well as the revisions to the Basel III leverage ratio framework11. In addition, it includes the impact 
+of  the  fundamental  review  of  the  trading  book  (FRTB)12 and  credit  valuation  adjustment  (CVA) 
+standards, although it should be stressed that it does not include the impact of the currently ongoing 
+Basel Committee of Banking Supervision (BCBS) review of the calibrations of the standardised and 
+internal model approaches to ensure consistency with the original expectations of the BCBS, as well 
+as changes resulting from the revised securitisation framework13. 
+The  analysis  included  in  this  report  differs  from  the  impact  analysis  published  by  the  EBA  in 
+December 2017, right after the publication of the Basel reforms, in several respects. First, the report 
+is based on more recent data, specifically collected for assessing the final version of the standards. 
+Second, compared with the past reports, this report now includes the impact of the CVA and the 
+FRTB rules, as they currently stand. 
+ 
+1.1  Data and sampling  
+The data submitted for the cumulative impact assessment, as of December 2017, cover a total of 
+134 banks from 18 EEA countries, including 44 Group 1 and 90 Group 2 banks. Only banks which 
+submitted data for at least one of the credit risk components (IRB approach or SA) and the leverage 
+ratio  (LR)  were  included  in  the  sample  of  the  cumulative  analysis.  Based  on  this  criterion  and 
+following data cleansing, 101 banks were included in the cumulative analysis: 38 Group 1 banks and 
+63 Group 2 banks (see Table 4).  
+Since the sample used for analysing the impact of the Basel revisions on individual risk categories is 
+larger than the sample used for the overall cumulative analysis, the results relating to credit risk, 
+operational risk and the leverage ratio may differ from those reported in the overall cumulative 
+analysis (see shaded column in Table 4). 
+ 
+                                                                                                               
+8 See BCBS (2016), Reducing variation in credit risk‐weighted assets – Constraints on the use of internal model approaches, 
+March 2016; BCBS (2017), Finalising Basel III: An overview of post‐crisis reforms; BCBS (2017), Basel III: Finalising post‐
+crisis reforms. 
+9 See BCBS (2015), Second Consultative document: Standards – Revisions to the Standardised Approach for credit risk; 
+BCBS (2017), Finalising Basel III: An overview of post‐crisis reforms; BCBS (2017), Basel III: Finalising post‐crisis reforms. 
+10 See  BCBS  (2016),  Standardised  Measurement  Approach  for  operational  risk:  Consultative  document;  BCBS  (2017), 
+Finalising Basel III: An overview of post‐crisis reforms; BCBS (2017), Basel III: Finalising post‐crisis reforms. 
+11 See BCBS (2016), Revisions to the Basel III leverage ratio framework ‐ Consultative document. 
+12 See BCBS (2016), Minimum capital requirements for market risk – Standards.  
+13 See BCBS (2016), Revision to the securitisation framework. 
+ 
+9
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Table 4: Number of banks which submitted data and those included in the cumulative analysis, per country 
+ 
+Country 
+(1) 
+Included 
+Cumulative 
+analysis of 
+the impact 
+on MRC 
+Submitted 
+Credit 
+Risk 
+(3) 
+Market 
+Risk 
+(4) 
+CVA 
+(5) 
+Operational 
+risk 
+(6) 
+LR 
+(7) 
+NSFR 
+(8) 
+(2) 
+9 
+4 
+25 
+4 
+6 
+6 
+8 
+4 
+0 
+8 
+10 
+1 
+0 
+8 
+0 
+0 
+2 
+6 
+101 
+38 
+10 
+63 
+5 
+3 
+9 
+0 
+3 
+6 
+5 
+4 
+0 
+0 
+5 
+1 
+0 
+2 
+2 
+3 
+2 
+3 
+53 
+34 
+12 
+19 
+7 
+4 
+21 
+4 
+6 
+7 
+5 
+4 
+1 
+7 
+10 
+1 
+1 
+8 
+2 
+4 
+3 
+7 
+102 
+42 
+12 
+60 
+9 
+4 
+30 
+4 
+6 
+7 
+9 
+4 
+2 
+8 
+10 
+1 
+1 
+8 
+2 
+5 
+2 
+7 
+119 
+43 
+12 
+76 
+Austria 
+Belgium 
+Germany 
+Denmark 
+Spain 
+France 
+United Kingdom 
+Greece 
+Hungary 
+Ireland 
+Italy 
+Luxembourg 
+Malta 
+Netherlands 
+Norway 
+Poland 
+Portugal 
+Sweden 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+ 
+1.2  Methodology for impact estimation: aggregation and metrics 
+1.2.1  Minimum required capital (MRC) and differences with 
+11 
+4 
+37 
+4 
+6 
+7 
+10 
+4 
+2 
+8 
+12 
+1 
+0 
+8 
+2 
+5 
+2 
+7 
+130 
+43 
+12 
+87 
+12 
+4 
+36 
+4 
+8 
+7 
+8 
+4 
+2 
+8 
+12 
+1 
+1 
+9 
+2 
+5 
+3 
+7 
+133 
+44 
+12 
+89 
+10 
+4 
+39 
+0 
+9 
+7 
+9 
+4 
+3 
+8 
+12 
+1 
+1 
+10 
+2 
+5 
+3 
+7 
+134 
+44 
+12 
+90 
+respect to methodology used by the BCBS 
+The report presents the impact of the reforms in terms of changes in Tier 1 minimum required 
+capital  (T1  MRC),  comparing the  fully  implemented  revised Basel III requirements  and  the fully 
+phased‐in  Capital  Requirements  Regulation  (CRR)  /  Capital  Requirements  Directive  (CRD) IV 
+requirements. The baseline for the estimation of the impact is the higher of the current risk‐based 
+T1 MRC and the current LR‐based Tier 1 MRC. The target is the higher of the revised risk‐based T1 
+MRC and the revised LR‐based Tier 1 MRC.  
+Where explicitly indicated, the report provides evidence of the impact on other metrics, such as 
+capital shortfalls of the current actual capital (common equity tier 1 (CET1), Tier 1 (T1), Total capital) 
+vis‐à‐vis the CRR / CRD IV MRC metric and final Basel MRC metric. 
+ 
+10
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+The current risk‐weighted assets (RWA), which are the basis for the calculation of risk‐based T1 
+MRC, do not include the RWA add‐on based on the ‘Basel I floor’ 14 used by some EU jurisdictions, 
+since it ceased to exist in the EU on 1 January 2018. As to the revised framework, the exercise 
+assumes  full  implementation  (as  of  2027)  of  the  output  floor  calibrated  at  72.5%  of  the  RWA 
+calculated under the standardised approach of the revised framework, while the estimation of the 
+LR‐based Tier 1 MRC consists of the existing minimum requirement (3%) plus 50% of the risk‐based 
+global systemically important institutions (G‐SIIs) surcharge15, where applicable16. 
+Overall, the analysis measures the impact of the reforms focusing on the ‘total Tier 1 MRC’, i.e. the 
+higher of the risk‐based MRC and the LR‐based MRC. The results shown in the report are weighted 
+averages, unless stated otherwise. 
+Description of impact metrics 
+1.2.2 
+The following variables are used in the analysis for assessing the cumulative impact, in terms of T1 
+MRC:  
+ 
+‘Total’ shows the overall changes in T1 MRC, from the current to the revised framework, taking 
+into  account  that  banks  must  meet  the  higher  of  the  risk‐based  capital  requirements  (i.e. 
+including the 72.5% output floor) and the revised Basel III LR requirement with respect to T1 
+capital.  
+‘Total risk‐based’ shows changes to the risk‐based T1 MRC, i.e. without including the impact of 
+the changes in the revised Basel LR T1 MRC.  
+‘Credit risk’ shows the change in T1 MRC due to the revisions to the SA and internal ratings‐
+based (IRB) approach for credit risk. 
+‘Market risk’ shows the change in T1 MRC due to the revisions to the SA and internal model 
+approach (IMA) approach for market risk (FRTB). 
+‘CVA’ shows the change in T1 MRC due to the revisions to the CVA framework, including the 
+removal of the CVA exemptions under Article 382 of the CRR. 
+‘Operational risk’ shows the change in T1 MRC due to the introduction of the new standardised 
+measurement approach (SMA) assuming that the EU will not exercise any of the discretions 
+allowed under the revised framework. 
+‘Output floor’ presents the change in the level of T1 MRC due to the application of the aggregate 
+output floor on the total RWA. The output floor impact is the positive difference of deducting 
+the 72.5% of the total SA‐equivalent RWA from the IRB RWA estimations.  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                               
+14 The impact is measured without considering the current national implementation of the Basel I‐based transitional 
+floors  set  out  in  the  Basel  II  framework.  The  transitional  Basel  I‐based  floor  was  implemented  in  Article  500  of 
+Regulation (EU)  No 575/2013  (CRR)  as  a  floor  to  actual  own  funds  rather  than  a  floor  to  RWAs.  The  temporary 
+requirement expired on 31 December 2017. Regulation (EU) No 575/2013 (CRR) as a floor to actual own funds rather 
+than a floor to RWAs. The temporary requirement expired on 31 December 2017. 
+15 For example, for a bank with a G‐SIIs buffer of 1% the minimum LR T1 MRC would be 3.5% times the total exposure 
+measure. 
+16 See also BCBS (2013), Global systemically important banks – updated assessment methodology and the higher loss 
+absorbency requirement; EBA (2014), Final draft RTS on the methodology for the identification of global systemically 
+important institutions; FSB (November 2015): 2015 update of list of G‐SIBs. 
+ 
+11
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+ 
+‘Revised Leverage ratio (LR)’ shows the change in LR‐based T1 MRC add‐ons (i.e. the additional 
+MRC on the top of the risk‐based MRC) due to the implementation of the revised LR framework. 
+A positive change shows that the LR requirement17 becomes more constraining under the new 
+framework, i.e. the final Basel III LR framework increases the T1 capital add‐on in relation to the 
+CRR/CRD IV add‐on. A negative change shows that the final Basel III LR T1 add‐on becomes less 
+constraining than the CRR/CRD IV add‐on, i.e. the final Basel III LR T1 add‐on is lower than the 
+CRR‐CRD IV add‐on. 
+In addition, the impact of the final Basel III framework is assessed in terms of ‘capital shortfall’ of 
+the actual CET1, T1 and Total capital, in relation to the MRC for CET1, T1, and total capital of the 
+new framework, as follows: 
+ 
+‘Capital shortfall’ is estimated as the differences between the fully implemented MRC metric 
+and the current actual capital set aside by the EU banks. Bearing in mind that the current actual 
+capital metric (CET1, T1, total capital) includes a part attributed to Pillar 2 capital requirements, 
+imposed by the relevant supervisor, the estimated shortfall is probably an underestimation of 
+the actual shortfall.  
+1.3  Presentation of the distribution of the results (box plots) 
+To present more detailed results, while at the same time ensuring data confidentiality, some charts 
+show box plots that give an indication of the distribution of the results among the participating 
+banks. Those box plots are defined as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+1.5 IQR 
+  
+  
+  
+ 
+  
+ 
+Interquartile 
+range (IQR) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+  
+ 
+ 
+1.5 IQR 
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+  
+X 
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  Upper fence, 1.5 IQR above 75th percentile 
+ 
+  Maximum observation below upper fence 
+ 
+ 
+  75th percentile (upper quartile) 
+ 
+  Mean 
+  Median 
+ 
+  25th percentile (lower quartile) 
+ 
+ 
+ 
+  Minimum observation above lower fence 
+ 
+ 
+ 
+Lower fence, 1.5 IQR below 25th percentile 
+                                                                                                               
+17 Currently, leverage ratio requirements are not yet binding in the EU; the proposed CRR II / CRD V will render the 
+leverage ratio requirements binding. 
+ 
+12
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+2.  Regulatory capital ratios, capital 
+shortfalls and impact on minimum 
+required capital  
+This  section  presents  the  level  of  the  risk‐based  and  LR‐based  capital,  as  well  as  the  capital 
+shortfalls, (section 2.1), the impact per risk category (section 2.2) and the interaction between the 
+output floor, applied to the risk‐based metrics, and the new leverage ratio framework (section 2.3), 
+due to the full implementation of the Basel reform package.  
+2.1  Cumulative impact analysis of the final Basel III reform 
+The analysis in the present section focuses on the impact of Basel III package on the fully phased‐
+in CRR/CRD IV T1 MRC. The advantage of the MRC measure is that it is not affected by Pillar 2 capital 
+requirements. 
+Figure 1: Distribution of changes in total T1 MRC (%) 
+Source: EBA QIS data (December 2017)  
+ 
+Figure  1  shows  the  distribution  of  T1  MRC  across  all  banks,  Group  1,  Group  2  and  G‐SIIs.  The 
+distribution of changes in T1 MRC for Group 1 banks spans a broader range that that of Group 2 
+banks.  Group  1  and  Group  2  banks  exhibit  median  values  lower  than  their  respective  average 
+values, indicating that the average impact is driven by large banks.  
+Table  5  shows  the  impact  of  the  Basel  reform  package  assuming  its  full  implementation.  On 
+average, the total increase in T1 MRC, after including the capital conservation buffer (CCB) and G‐
+SIIs surcharge, is 16.7% across all 101 banks in the sample, 18.7% for the large and internationally 
+active banks (Group 1) and 3.8% for the other banks (Group 2).  
+ 
+13
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+For Group 1 banks, the overall increase in T1 MRC consists of a 23.0% increase in the risk‐based 
+components, mainly driven by the output floor (6.3%). The impact of the risk‐based components 
+on T1 MRC is partially offset by a 4.3% reduction in the add‐on attributed to leverage ratio T1 MRC. 
+This reduction reflects the fact that the revised Basel LR becomes less constraining, in the presence 
+of the output floor on RWA, which increases the risk‐based T1 MRC. The results are similar for the 
+G‐SIIs sample. For Group 2 banks, the overall 3.8% increase in T1 MRC is again driven by the 14.4% 
+increase in the risk‐based measure, consisting of an increase of 6.7% due to credit risk revisions, a 
+5.3% increase assigned to the output floor and a lower increase attributed to the operational risk 
+(1.4%). This increase is partially offset by a 10.6% reduction in the leverage ratio impact (see Annex, 
+section 9.1.6 for the detailed methodology). 
+Table 5: Changes in T1 MRC, per risk category, due to the implementation of the final Basel III framework (2027) (%) 
+Credit 
+risk 
+4.5 
+4.1 
+4.7 
+6.7 
+Market 
+Operational 
+risk 
+2.0 
+2.3 
+3.4 
+0.6 
+CVA 
+3. 3 
+3.8 
+5.4 
+0.4 
+risk 
+5.7 
+6.4 
+7.5 
+1.4 
+ 
+Revised 
+TOTAL 
+Output 
+floor 
+6.3 
+6.5 
+5.4 
+5.3 
+Total risk‐
+based 
+21.8 
+23.0 
+26.4 
+14.4 
+LR 
+‐5.1 
+‐4.3 
+‐1.0 
+‐10.6 
+All Banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+ 
+The  CVA  risk  capital  charge  goes  down  by  3.3%  between  the  Basel  III  and  the  CRR  /  CRD  IV 
+frameworks. The large impact of CVA can be explained by the difference in the scope of the CVA 
+risk capital charge, primarily driven by the removal of the CVA exemptions for transactions with 
+non‐financial  counterparties,  sovereign  counterparties,  pension  funds  counterparties,  client’s 
+transactions and intragroup transactions as specified under Article 382 of the CRR. 
+16.7 
+18.7 
+25.4 
+3.8 
+2.2  Capital ratios and capital shortfalls 
+This  section  presents  the  development  of  the  capital  ratios  from  the  current  to  the  full 
+implementation  framework,  as  well  as  the  capital  shortfalls  that  would  arise  from  the  full 
+implementation of Basel III minimum capital requirements.  
+2.2.1 
+Capital ratios 
+Table 6 shows the results of the calculations for CET1, T1 and total capital ratios. It also shows the 
+result of the calculations of the leverage ratio, assuming that the actual capital measure remains 
+the same under the final Basel III, and the impact on the leverage ratio is entirely attributed to 
+changes in the leverage ratio exposures. 
+Table 6: Comparison of risk‐based capital ratios and leverage ratios under different states of implementation (%) 
+ 
+  
+ 
+V
+I
+ 
+D
+R
+C
+/
+R
+R
+C
+14.1 
+13.8 
+CET1 
+Tier 1 
+Total Capital 
+ 
+2
+2
+0
+2
+ 
+7
+2
+0
+2
+13.7 
+13.4 
+11.3 
+11.1 
+ 
+V
+I
+ 
+D
+R
+C
+/
+R
+R
+C
+15.6 
+15.4 
+ 
+2
+2
+0
+2
+ 
+7
+2
+0
+2
+ 
+V
+I
+ 
+D
+R
+C
+/
+R
+R
+C
+ 
+2
+2
+0
+2
+ 
+7
+2
+0
+2
+14.9 
+14.7 
+12.3 
+12.1 
+18.5 
+18.3 
+17.6 
+17.4 
+14.5 
+14.3 
+Leverage 
+Ratio 
+ 
+V
+I
+ 
+D
+R
+C
+/
+R
+R
+C
+5.1 
+5.1 
+ 
+7
+2
+0
+2
+5.4 
+5.4 
+14
+All banks 
+Group 1 
+ 
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+ 
+CET1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+12.7 
+16.1 
+12.4 
+15.7 
+10.1 
+13.1 
+Tier 1 
+13.9 
+16.5 
+14.6 
+16.7 
+Total Capital 
+11.3 
+13.7 
+17.3 
+19.5 
+16.3 
+19.0 
+13.3 
+15.9 
+Leverage 
+Ratio 
+4.8 
+5.4 
+5.2 
+5.5 
+Although, on average, the impact on capital ratios is similar across all bank groups, the dispersion 
+across  the  different  types  of  capital  ratios  changes  in  different  manners  between  the  two 
+frameworks (Figure 2). While the dispersion of CET1 and Tier 1 ratios remains almost unchanged, 
+the  dispersion  of  total  capital  ratios  becomes  narrower.  On  the  contrary,  the  dispersion  of  LR 
+becomes wider under the final Basel III framework. 
+Figure 2: Distribution of capital ratios under CRR/CRDIV vs. fully phased‐in final Basel III framework, Group 1 banks 
+(upper graph) and Group 2 banks (lower graph) 
+ 
+ 
+15
+Source: EBA QIS data (December 2017) 
+ 
+ 
+ 
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+2.2.1 
+Capital shortfalls 
+The capital shortfall compares the actual  level of capital (CET1, Tier 1 and total capital) in December 
+2017  with  the  fully  implemented  MRC,  after  taking  into  account  the  CCB  and  G‐SIIs  surcharge, 
+where applicable18. The capital shortfall under the current fully phased‐in CRR/CRD IV is negligible 
+and observed only in the Group 2 sample. The combined19 Tier 1 capital shortfall under the full 
+implementation of the final Basel III is mainly driven by G‐SIIs. The shortfall for all banks, Group 1 
+banks, their subset of G‐SIIs and Group 2 banks amounts to EUR 15.0 billion, EUR 13.2 billion, EUR 
+12.0 billion and EUR 1.8 billion respectively (Table 7).  
+The Basel III reforms introduce a change in the calculation of the leverage ratio exposure (LRE) 
+measure, which stems from the definition of the eligible assets included in the calculation. This 
+change in the definition, alone, has a negative impact in the calculation of the LR‐based T1 MRC. 
+The  revisions  to  the  risk‐based  capital  requirements  result  in  a  CET1  capital  shortfall  of 
+EUR 6.0 billion. For Tier 1 risk‐based requirements, this shortfall increases to more than twice as 
+much (EUR 14.6 billion). The application of both risk‐based and LR‐based requirements increases 
+the Tier 1 capital shortfall further to EUR 15.0 billion. 
+ 
+Table 7: Capital shortfalls by bank group under full implementation of CRR / CRD IV and final Basel III (billion EUR)20 
+Part 1: Full implementation of CRR – CRD IV 
+Tier1 
+Total capital 
+Bank group 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+CET1 
+ 
+0.0 
+0.0 
+0.0 
+0.0 
+Part 2: Full implementation of final Basel III 
+Risk‐based21 
+LR‐based 
+Risk‐based 
+and LR‐
+based Tier 1 
+0.0 
+0.0 
+0.0 
+0.0 
+1.1 
+0.0 
+0.0 
+1.1 
+Tier1 
+1.1 
+0.0 
+0.0 
+1.1 
+Risk‐
+based22 
+1.0 
+0.0 
+0.0 
+1.0 
+Risk‐based 
+total 
+capital and 
+LR‐based 
+Tier 123 
+2.1 
+0.0 
+0.0 
+2.1 
+Total capital 
+Risk‐based 
+total 
+capital and 
+LR‐based 
+Tier 1 
+24.5 
+21.8 
+21.7 
+2.7 
+Bank group 
+CET1 
+ 
+Risk‐based 
+LR‐based 
+Risk‐based 
+and LR‐
+based Tier 1 
+Risk‐based  
+3.3 
+2.2 
+2.2 
+1.1 
+6.0 
+5.0 
+5.0 
+1.0 
+24.2 
+21.8 
+21.7 
+2.4 
+15.0 
+13.2 
+12.0 
+1.8 
+14.6 
+13.2 
+12.0 
+1.4 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+                                                                                                               
+18 This metric takes into account the deficit of capital on an individual basis without it being offset by the surpluses of 
+other banks. 
+19 Assuming joint implementation of the risk‐based and leverage ratio requirements. 
+20 The results presented in Table 7 differ slightly from those in Table 2 because of rounding of the differences. 
+21 8.5% (=minimum Tier 1 (6%) + capital conservation buffer (2.5%)). 
+22 Assuming compliance with the risk‐based capital ratio requirements only. 
+23 Assuming compliance with both the risk‐based capital ratio and leverage ratio requirements. 
+ 
+16
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+The  full implementation of the Basel III reforms implies  an  increase  in  the  minimum  required 
+capital  across  all  categories  of  the  risk-based  framework.  Nonetheless,  this  increase  is  not 
+proportionate  throughout  the  risk  categories,  causing  a  change  in  the  proportion  of  each 
+category  in  the  total  MRC.  Moreover,  the  implementation  of  the  output  floor,  which  is 
+considered separately in the analysis, reduces the proportion of all other factors. 
+Thus, the share of credit risk decreases, while all other risk categories (operational risk, CVA, market 
+risk) show increased proportion in the formulation of the total MRC.  
+Figure 3 exhibits the composition of MRC by risk category across time.  
+ 
+Figure 3: Development of the composition of MRC by risk category under full implementation of the CRR / CRD IV (Jun‐11 
+to Jun‐17) and Basel III (Dec‐17) over time, for Group 1 (upper graph) and Group 2 (lower graph) banks 
+ 
+ 
+17
+Source: EBA QIS data (December 2017) 
+ 
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+The capital shortfall analysis, for the subsample of banks which participated in all exercises, shows 
+a continuous decrease, since the introduction of the initial Basel III proposals (2011) and until the 
+previous  monitoring  exercise  (as  of  end‐June  2017).  The  implementation  of  the  final  Basel  III 
+framework implies an increase in the shortfall, which, however, is only a small fraction of the impact 
+observed in 2011, and mainly affects Group 1 banks (Figure 4). 
+ 
+Figure 4: Trend in capital shortfalls, for the consistent sample of banks, by type of capital and bank group over time 
+(billion EUR) 
+Source: EBA QIS data (December 2017) 
+ 
+2.3 
+requirements 
+Interactions between risk‐based and leverage ratio capital 
+ 
+2.3.1 
+Contribution of the leverage ratio impact 
+As mentioned in the assessment of the cumulative impact, and described in detail in the Annex 
+(section 9.1.6), the leverage ratio impact assesses whether or not the Basel III framework renders 
+the leverage ratio requirements more constraining than the CRR/CRD IV requirements. Figure 5 
+describes, in graph form, the mechanics for the estimation of the leverage ratio impact.  
+The aggregate risk‐based and LR‐based MRCs, for all banks under the CRR/CRD IV, are EUR 769.7 
+billion and EUR 744.0 billion respectively. Despite the fact that the aggregate risk‐based MRC is 
+higher than the aggregate LR‐based MRC, the LR‐based MRC is higher than the risk‐based MRC for 
+some of the banks in the sample, which produces LR‐based MRC add‐ons24. Under the CRR/CRD IV, 
+the sum of the LR‐based add‐ons, for all banks participating in the cumulative analysis, is EUR 68.7 
+billion.  
+24 ∑max(cid:4666)(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1839)(cid:1844)(cid:1829)(cid:3398)	(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1839)(cid:1844)(cid:1829),0(cid:4667). 
+                                                                                                               
+ 
+18
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Similarly,  the  aggregate  risk‐based  and  LR‐based  MRC,  for  all  banks  under  the  final  Basel  III 
+framework, are EUR 955.8 billion and EUR 781.0 billion respectively. The sum of LR‐based MRC add‐
+ons, under the final Basel III framework, is EUR 25.7 billion.  
+The comparison between the CRR/CRD IV and final Basel III frameworks indicates that the leverage 
+ratio requirements become less constraining by EUR 43.0 billion under the final Basel III framework. 
+In percentage terms, this amount corresponds to the leverage ratio impact of ‐5.1% (= ‐43.0 / 838.3) 
+shown in Table 1 and Table 5. 
+Figure 5: The mechanics of the calculation of actual leverage ratio MRC impact, Tier 1 MRC (billion EUR) 
+ ∑(cid:4670)(cid:2174)(cid:2191)(cid:2201)(cid:2193)(cid:3398)(cid:2184)(cid:2183)(cid:2201)(cid:2187)(cid:2186)	(cid:4666)(cid:2191)(cid:3404)(cid:2778),(cid:2196)(cid:4667)(cid:4671), the aggregate risk‐based Tier 1 MRC; 
+∑(cid:4670)(cid:2168)(cid:2174)(cid:3398)(cid:2184)(cid:2183)(cid:2201)(cid:2187)(cid:2186)	(cid:4666)(cid:2191)(cid:3404)(cid:2778),(cid:2196)(cid:4667)(cid:4671), the aggregate leverage‐ratio‐based Tier 1 MRC; 
+∑(cid:4670)(cid:2195)(cid:2183)(cid:2206)(cid:4666)(cid:2174)(cid:2191)(cid:2201)(cid:2193)(cid:3398)(cid:2184)(cid:2183)(cid:2201)(cid:2187)(cid:2186)	(cid:4666)(cid:2191)(cid:3404)(cid:2778),(cid:2196)(cid:4667),(cid:2168)(cid:2174)(cid:3398)(cid:2184)(cid:2183)(cid:2201)(cid:2187)(cid:2186)(cid:4666)(cid:2191)(cid:3404)(cid:2778),(cid:2196)(cid:4667)(cid:4671), the aggregate total Tier 1 MRC, 
+∑(cid:4670)(cid:2168)(cid:2174)	(cid:2183)(cid:2186)(cid:2186)(cid:3398)(cid:2197)(cid:2196)	(cid:4666)(cid:2191)(cid:3404)(cid:2778),(cid:2196)(cid:4667)(cid:4671), the aggregate amount of leverage ratio add‐ons, i.e. the sum of the 
+which ensures compliance, at individual bank level, with both risk‐based and leverage ratio 
+requirements; 
+ 
+differences where the LR‐based Tier 1 MRC is higher than the risk‐based Tier 1 MRC  
+Source: EBA QIS data (December 2017) 
+  
+ 
+ 
+ 
+ 
+19
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+3.  Credit risk 
+This section assesses the isolated impact of the Basel reforms related to the revisions to the SA and 
+the IRB approach for credit risk. All banks that delivered high‐quality data on the SA or the IRB 
+approach are considered in this section, irrespective of whether or not they submitted data for 
+other sections. The available dataset, as of December 2017, does not track the guaranteed part of 
+IRB exposures, which, because of the revised rules on the treatment of guarantees, will be under 
+the SA in the revised framework. 
+The changes in final framework aim, among other objectives, at increasing the comparability by 
+aligning definitions and taxonomies between the SA and IRB approach to credit risk. In particular, 
+they (1) introduce new asset classes, or split the existing asset classes, and (2) revise the eligibility 
+and/or scope of using the IRB approaches for some asset classes25. These changes do not allow a 
+direct  comparison  between  the  proposed  and  current  frameworks.  As  a  consequence,  the 
+estimated impact is an approximation. 
+The analysis faced many data quality issues arising mainly from difficulties in allocating portfolios 
+according to the revised categorisation of the asset classes and from different interpretations of 
+the revised framework. However, the outcome of data cleansing showed that banks opted to be 
+rather  conservative  when  providing  data  for  the  revised  framework.  This  also  implies  that  the 
+impact shown in the report could be an overestimation of the actual impact. Since the final Basel 
+framework allows banks to use either the loan‐splitting approach or the whole‐loan approach for 
+residential  and  commercial  real  estate,  the  current  analysis  assumes  that  the  loan‐splitting 
+approach is the method for EU banks. 
+Figure 6 shows the distribution of changes in Tier 1 MRC assigned to the revisions of the SA and IRB 
+approach for credit risk. The median impact over all banks, as a percentage of the current Tier 1 
+MRC, assigned to credit risk only, is 3.4%. 
+When the overall impact is broken down into asset classes, the largest increases for Group 1 banks 
+are  observed  for  ‘equities’,  ‘equity  investment  in  funds’  and  ‘subordinated  debt  and  capital 
+instruments other than equity’.  
+ 
+ 
+ 
+ 
+ 
+                                                                                                               
+25 For more information, please refer to https://www.bis.org/bcbs/publ/d424.htm 
+ 
+20
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Figure 6: Changes in Tier 1 MRC for credit risk (SA and IRB) exposures due to the final Basel III standards 
+Source: EBA QIS data (December 2017) 
+ 
+  
+ 
+21
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+4. 
+FRTB 
+This section assesses the isolated impact of the January 2016 BCBS reforms related to the capital 
+requirements for market risk. As the BCBS is currently reviewing the calibrations of the standardised 
+and internal model approaches (see the BCBS (2016) standards on Revisions to the minimum capital 
+requirements for market risk), further revisions to the impact are expected, but the preliminary 
+figures are presented here for completeness. In addition, as in other sections, data quality checks 
+have  identified  some  issues  and  limitations  in  the  information  submitted  by  banks.  Thus,  the 
+findings should be interpreted with some caution. 
+Since not all participating banks / jurisdictions confirmed the accuracy of outlier data submissions, 
+please note that the outliers constituting incorrect data submissions affect the summary results. 
+Although the results include the impact of the outliers, Figure 7 does not show them graphically. 
+Figure 7: Change of market risk capital requirements after FRTB implementation, without floor (%), broken down by 
+approach and bank group 
+Source: EBA QIS data (December 2017) 
+ 
+Figure 7 shows the impact of the revised market risk standards  on Tier 1 MRC assigned to market 
+risk. The average impact for all banks is 72%, masking significant heterogeneity across banks (with 
+an average impact of 52% for Group 1 banks and 111% for Group 2 banks).  
+With regards to the approach, the minimum capital requirements under SA increase significantly 
+(204%), while the impact on IMA capital requirements is much more muted (22%)26.  In addition, 
+the outliers under the SA are far more extreme than those under the IMA. This also explains the 
+higher impact of Group 2 banks than Group 1 banks, as the standardised approach makes up the 
+                                                                                                               
+26 Please note that many Group 2 banks migrate to SA under the revised standards, resulting in very few data points for 
+the impact of IMA under this group.  
+ 
+22
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+biggest  proportion  of  minimum  capital  requirements  for  this  group  (see  also  Figure  8). 
+Nevertheless, 25% of IMA banks still exhibits a minimum capital requirements increase of over 83%.  
+Figure 8 shows the proportion of market risk capital requirements attributable to the approaches 
+under the current rules and the revised standards. For Group 1 banks, the key driver under the 
+current  rules  is  the  IMA  (72%),  followed  by  the  SA  (26%),  while  other  market  risk  capital 
+requirements  are  negligible.  Under  the  revised  rules,  the  proportion  of  minimum  capital 
+requirements calculated under IMA decreases to 66% while the SA proportion increases to 34%.  
+In contrast, Group 2 banks currently have most of their minimum capital requirements computed 
+under the SA (78%), with just 22% under the IMA. Under the revised rules, the SA makes up almost 
+the entire minimum capital requirement (94%), with IMA making up only 6%.  
+Figure 8: Contribution to the total market risk RWAs by each calculation methods before and after FRTB  
+Source: EBA QIS data (December 2017) 
+ 
+ 
+ 
+ 
+23
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+5.  Operational Risk 
+The final Basel III framework replaces all existing approaches, including the model‐driven advanced 
+measurement approach (AMA), with a new approach, the SMA. 
+Under the new operational risk framework, banks can use only the new SMA. Small banks will have 
+to calculate the MRC based only on the business indicator component (BIC) while large banks, in 
+addition, will have to calculate the so‐called loss component (LC).  
+According to Table 8, the revisions to the framework generate an aggregate increase in operational 
+risk MRC of approximately 38.0% for Group 1 banks and 17.1% for Group 2 banks. The results show 
+that, on average, the revisions affect banks migrating from the AMA more than banks currently 
+using other approaches. AMA banks will be affected for various reasons.  
+First, they are mainly large banks with more complex and more fee‐driven business models, unlike 
+other banks, which provide universal and diversified bank services that do not rely significantly on 
+fees. For the fee‐driven business models, the new indicator will be more conservative in addressing 
+the higher risk observed, after the outbreak of the financial crisis, for this kind of business model.  
+Second,  the  large  banks  are  also  affected  by  the  high  business  indicator  but  also  by  the  high 
+marginal coefficients assigned to larger banks belonging to buckets 2 and 3 (see Annex, section 
+9.1.4).  Third,  the  main  driver  of  this  increase  is  the  fact  that  some  of  the  AMA  banks  have 
+significantly lower MCR for operational risk (OpRisk) than banks  that use the current indicator‐
+based  approaches.  Therefore,  the  fact  that  the  AMA  is  an  approach  that  has  less  stringent 
+operational risk capital requirements for many of the banks is the main explanation of the increase 
+in capital requirements.   
+Table 8: Changes in T1 MRC assigned to operational risk only (% of the MRC T1 assigned to operational risk under 
+CRR/CRD IV)  
+Others 
+16.9 
+22.9 
+42.5 
+14.4 
+Total 
+24.8 
+38.0 
+57.3 
+17.1 
+  
+Migrating from AMA 
+63.7 
+65.8 
+67.1 
+56.9 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+A deeper look into the data shows that, for Group 1 banks and for G‐SIIs in particular, the variance 
+in the proportion of operational risk MRC in the total MRC is significantly lower than for Group 2 
+banks. This is because of the business model of Group 1 banks, which offer universal services and 
+thus  have,  more  or  less,  similar  operational  risk  characteristics,  whereas  Group  2  banks  offer 
+specialised, or less diverse, services following different business models. Some of Group 2 banks 
+are particularly specialized, with only fee‐driven services, and without credit or market risk‐bearing 
+services, which renders their operational risk the most dominant risk category. This does not apply 
+for  Group  1  banks,  where  most  banks  provide  diverse  services,  with  a  significant  part  of  their 
+services bearing credit and/or market risk.  
+ 
+24
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Besides the business model, the use of the AMA affects the proportion of operational risk in relation 
+to the total risk. The dominant factor, within the operational risk models, is the high past losses, 
+which can drive the risk exposure and therefore the proportion of operational risk. The European 
+AMA banks have had different loss experiences in the past 10 years. For example, some of them 
+suffered high conduct risk losses, which has increased their MRC for OpRisk significantly. Other 
+banks, which have not experienced such losses, may have used the flexibility of the internal model 
+to  keep  the  operational  risk  MRC  low,  which  could  have  been  the  underlying  reason  for  low 
+operational risk MRC and a low proportion of operational risk in the total MRC.  
+Table 9 presents the different findings for AMA banks. The first type comprises AMA banks with a 
+low proportion of operational risk and low past operational losses. These banks show a mild capital 
+increase due to the dominant impact of the BIC‐driven capital requirement, which appears slightly 
+reduced amid the lower past operational risk losses which affect the internal loss multiplier (ILM) 
+values,  which  in  turn  adjusts  the  capital  requirements  produced  by  the  BIC  alone  (see  Annex, 
+section 9.1.4). Similar capital impacts are also observed for the second type of AMA banks, which 
+exhibit high proportions of operational risk and high past losses. However, the BIC of these banks 
+dampens the capital increase triggered by the ILM.  
+Table 9: Capital impact attributed to certain types of AMA banks 
+  
+  
+Proportion of OpRisk MRC in total MRC 
+  
+  
+Low 
+High 
+Type 1 AMA (normal AMA): 
+Low 
+ 
+ 
+BIC increasing impact 
+LC/ILM decreasing impact 
+ most likely increase in MRC due to the 
+higher weight of BIC 
+Type 4 AMA (progressive AMA): 
+High 
+ 
+ 
+BIC incresing impact 
+LC/ILM increasing impact 
+ 
+ significant increase in MRC 
+Type 3 AMA (conservative AMA): 
+ 
+ 
+BIC decreasing impact 
+LC/ILM decreasing impact 
+ significant reduction in MRC 
+Type 2 AMA (normal AMA): 
+ 
+ 
+BIC decreasing impact 
+LC/ILM incresing impact 
+ 
+ dependent on the level of past losses: slight 
+reduction in MRC due to the higher weight of the 
+BIC or slight increase due to extreme losses which 
+even compensate for the dominant effect of the 
+decreasing BIC 
+ 
+s
+e
+s
+s
+o
+l
+ 
+t
+s
+a
+p
+ 
+f
+o
+ 
+l
+e
+v
+e
+L
+ 
+The third type of AMA banks has a higher proportion of operational risk in the total MRC and low 
+past losses. This type of AMA banks seldom benefit from capital reductions because of a dampening 
+effect of BIC and ILM values. The fourth and last type of AMA banks are have a low proportion of 
+operational risk and high past losses. This type of banks suffers significant capital increase due to 
+the double hit, i.e. increases in the BIC and ILM values. The first hit is the pure AMA migration to a 
+standardised approach, so that already the BIC increases the MRC. The second hit is the fact that 
+these banks have past losses significantly above the average, so that these banks show a capital 
+add‐on, via the application of ILM > 1, in comparison with the MRC of a bank with average losses.  
+ 
+25
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+The analysis of the operational risk findings refers to the banks that participated in the Quantitative 
+Impact  Study  (QIS)  sample  only.  However,  the  fact  that  the  sample  covers  almost  the  entire 
+population of large AMA banks, which face more significant capital increases than Group 2 banks, 
+which use mainly simple approaches and are underrepresented in the sample, may create a bias 
+towards  higher  impact.  In  addition,  some  of  the  banks  currently  have  Pillar  2  capital  add‐ons 
+because of  weaknesses  in the  model  and/or  their  operational risk management, which  are not 
+considered  in  the  current  analysis.  As  a  result,  the  total  impact  shown  in  Table  8  may  be 
+overestimated.  
+The average change in the operational risk capital requirements for AMA banks is clearly higher 
+than  the  corresponding  value  for  banks  that  currently  apply  other  methods.  The  differences 
+between AMA banks and other banks are more pronounced when comparing the 75th percentiles 
+of the operational risk capital requirements changes (Figure 9).  
+Figure 9: Distribution of changes in T1 MRC assigned to operational risk only 
+Source: EBA QIS data (December 2017) 
+ 
+The  final  Basel  III  framework  provides  supervisors  with  the  discretion  to  set  the  past  losses 
+threshold at EUR 100000 or ILM equal to 1 for all banks in the EU. For the sake of comparability 
+with the operational risk impact, which appears in the cumulative impact analysis (Table 1 and Table 
+5), the analysis below presents the alternative impact arising from the exercise of jurisdictional 
+discretions. To this end, the analysis compares the operational risk capital requirements arising 
+from  the  actual  calculation  of  ILM  with  the  capital  requirements  assuming  the  exercise  of  the 
+discretion to set the loss materiality threshold at EUR 100000 for bucket 2 and 3 banks27 and the 
+discretion to set ILM = 1 for all banks. As provided by the final Basel III framework for operational 
+risk, ’for banks in bucket 1 (ie with BI ≤ EUR 1 billion), internal loss data does not affect the capital 
+calculation. That is, the ILM is equal to 1, so that operational risk capital is equal to the BIC (=12% ∙ 
+BI)’ (see BCBS (2017), Basel III: Finalising post‐crisis reforms, page 129, para 11). 
+                                                                                                               
+27 See BCBS (2017), Basel III: Finalising post‐crisis reforms, page 131, para 19(d): ’…At national discretion, for the purpose 
+of the calculation of average annual losses, supervisors may increase the threshold to €100,000 for banks in buckets 2 
+and 3 (i.e. where the BI is greater than €1 bn)’. 
+ 
+26
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Table 10 includes an analysis of the impact on the T1 MRC for operational risk assigned to each 
+jurisdictional discretion (ILM=1 and actual ILM based on EUR 100000 operational loss materiality 
+threshold for banks with a BI level > EUR 1 billion [or BIC > EUR 120 million]). Discretions 1 and 2 
+affect only banks with BI > EUR 1 billion. The impact is shown for the cumulative analysis sample 
+(101 banks) to allow comparisons between the baseline Basel III operational risk framework and 
+the discretions applied. 
+Table 10: Comparison of operational impact on T1 MRC of the application of baseline Basel III full implementation, i.e. 
+ILM with EUR 20000 loss materiality threshold, the discretion to apply a loss materiality threshold of EUR 100000 
+threshold for the estimation of ILM (discretion 1) and the discretion to apply ILM = 1 (discretion 2) (%) 
+Basel III baseline (loss 
+materiality threshold: 
+EUR 20000) 
+Basel III discretion1 (loss 
+materiality threshold: EUR 
+100000) 
+Basel III discretion2 
+(ILM = 1) 
+ 
+All Banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+ 
+ 
+ 
+5.7 
+6.4 
+7.5 
+1.4 
+4.9 
+5.6 
+6.6 
+0.9 
+1.4 
+1.5 
+1.2 
+1.1 
+27
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+6.  Output floor 
+According to the provisions of the Basel III reform package, there will be a 5‐year transitional period 
+for the implementation of the output floor, according to which the percentage of the floor, i.e. the 
+percentage of the non‐modelled RWA, will gradually increase from 50% in 2022 to fully phased‐in 
+level of 72.5% in 2027. The impact of the output floor during the first 2 years of the phase‐in period 
+is negligible for G‐SIIs, while it is significantly above 1% for Group 2 banks. Table 11 shows that the 
+increase  in  the  output  floor  percentage  has  an  impact  on  the  output  floor  during  the  phase‐in 
+period.  
+The final Basel III framework allowed the application of a discretion to apply a transitional cap in 
+the incremental increase in a bank’s total RWAs, that results from the application of the floor28.  
+The results Table 11 do not include the effect of the application of the transitional cap. 
+Table 11: Cumulative output floor impact during the implementation phase (% of the CRR / CRD IV Tier 1 MRC) 
+2027 
+[72.5%] 
+2026 
+[70%] 
+4.6 
+4.6 
+3.8 
+4.6 
+ 
+2022 
+[50%] 
+0.3 
+0.2 
+0.0 
+1.4 
+2023 
+[55%] 
+0.6 
+0.4 
+0.1 
+2.0 
+2024 
+[60%] 
+1.4 
+1.2 
+1.0 
+2.6 
+2025 
+[65%] 
+2.7 
+2.6 
+2.3 
+3.5 
+6.3 
+6.5 
+5.4 
+5.3 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Source: EBA QIS data (December 2017) 
+ 
+The highest increase in the output floor impact is observed for Group 1 banks in 2026, where the 
+percentage of the output floor increases from 65% (2025) to 70% (2026) and the impact increases 
+by approximately 190 basis points. This indicates that the MRC impact increases by approximately 
+38 basis points per percentage point of increase in the output floor29. Nonetheless, the highest 
+sensitivity of the increase is observed in 2027, where the impact increases by approximately 68 
+basis points (=170/2.5) of output floor impact per percentage point of output floor increase. 
+ 
+ 
+                                                                                                               
+28 See BCBS (2017), Basel III: Finalising post‐crisis reforms, page 139, para 10: ‘During the phase‐in period, supervisors 
+may exercise national discretion to cap the incremental increase in a bank’s total RWAs that results from the application 
+of the floor. This transitional cap will be set at 25% of a bank’s RWAs before the application of the floor…’ 
+29 190bp / 5 = 38bp of impact per percentage point of output floor increase 
+ 
+28
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+7.  Revised leverage ratio 
+This  section  assesses  the  impact  of  the  amendments  to  Basel III  LR  requirements30.  Figure  10 
+compares  the  distribution  of  the  leverage  ratio  levels  according  to  the  current  fully  phased‐in 
+definition and the final Basel III definition. Results in this section include all banks that submitted 
+leverage ratio data31.  
+Looking at the leverage ratio impact in isolation from the other Basel III reforms (Table 12), the 
+results show that the leverage ratio exposure measure, which is the basis for the estimation of the 
+LR Tier 1 MRC, decreased by 4.7%, in relation to the current framework, if taking into account the 
+entire sample of participating banks. However, the introduction of 50% of the G‐SIIs surcharge, 
+resulted in an overall increase of LR Tier 1 MRC by 5.1%.  
+Table 12: Impact of LR, in isolation from the risk‐based provisions, due to changes in the definition of leverage ratio 
+exposures (LRE) and changes in the calculation (50% of G‐SIIs surcharge) of the LR T1 MRC (%) 
+ 
+CRR/CRD IV 
+LR exposure 
+Impact due to changes in the 
+definition of LRE only 
+Impact due to the definition of LRE  and 
+inclusion of 50% of G‐SIIs surcharge 
+All banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+100.0 
+100.0 
+100.0 
+100.0 
+‐4.8 
+‐5.9 
+‐7.8 
+1.3 
+5.1 
+5.8 
+12.9 
+1.3 
+The examination of the leverage ratio levels shows that the average LR for Group 1 banks increases 
+from 5.2% to 5.5% when applying the revised rules. This increase is higher when analysing only G‐
+SIIs (4.8% to 5.3%). For Group 2 banks, the LR remains stable at 5.8%. In general, for both groups, 
+the application of the revised rules results in higher LR levels. Banks are more concentrated in lower 
+ranges of LR (see Figure 11). The implementation of the revised leverage ratio exposure measure 
+results  in  higher  leverage  ratios  as  a  consequence  of  lower  average  leverage  ratio  exposures. 
+Nevertheless, no general conclusion can be presented about  the impact of the revisions  in the 
+calculation of the leverage ratio exposure when analysing bank by bank data. Approximately 42% 
+of the banks showed an increase in the leverage ratio exposure due to the implementation of the 
+2017 revisions, while approximately the other 55% displayed lower levels.  
+In terms of Tier 1 MRC, the impact of the revisions changes direction when one analyses jointly the 
+changes in the definition of leverage ratio exposure and the implementation of an additional 50% 
+of the G‐SIIs surcharge, as a component of determining the minimum capital requirement. This 
+                                                                                                               
+30 The amendments to the current Basel III LR exposure measure agreed by the BCBS and expected to have the more 
+visible impact are the following: implementation of a specific treatment of pending settlement transactions; clarification 
+on cash‐pooling transactions; reduction of specific and general provisions as well as prudential valuation adjustments 
+from the Basel III LR exposure measure; replacement of the current exposure method by a modified version of the SA to 
+counterparty  credit  risk  for  measuring  derivative  exposures;  clarification  on  the  treatment  of  credit  derivatives  and 
+derivative‐clearing services within multi‐level client structure; incorporation of identical credit conversion factors to off‐
+balance‐sheet items as for the SA for credit risk; and introduction of an add‐on buffer to the minimum LR requirement, 
+calibrated at 50% of the current G‐SIIs buffer in the risk‐weighted surcharge ratio. 
+31 137 banks provided Leverage Ratio data whereas Table 3 and Table 6 provide LR levels for a sample of 101 banks that 
+are included in the cumulative impact analysis. 
+ 
+29
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+change of direction appears only in G‐SIIs, which in turn affects the averages of Group 1 and ‘all 
+banks’. Group 2 banks are not subject to the G‐SIIs surcharge, and, therefore, the average impact 
+of the LR revisions is solely due to changes in the definition of LR exposure. 
+Figure 10: Comparison of fully phased‐in EU LR, and final Basel III LR, as finalised in December 2017 
+Source: EBA QIS data (December 2017) 
+Figure 11: Drivers of change in leverage ratio exposure in the final Basel III standards 
+ 
+ 
+Source: EBA QIS data (December 2017) 
+Figure 11 shows the impact that the changes in the definition of the final Basel III standards have 
+on  the  main  components  of  leverage  ratio  exposure.  The  main  driver  of  the  changes  in  the 
+exposures  values  is  driven  by  other  assets,  although  the  direction  of  this  change  varied  in  the 
+different group of banks. For Group 1 banks, other assets exposures decreased by 5.3%. For Group 
+ 
+30
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+2 banks, the revised framework results in an increase in the leverage ratio exposure mainly due to 
+changes  in  the  treatment  of  other  assets  (+1.6%).  For  G‐SIIs,  the  impact  of  the  changes  in  the 
+treatment of other assets is ‐8.1%. 
+ 
+ 
+ 
+31
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+8.  Net stable funding ratio 
+The CRD IV package includes two regulatory measures of liquidity risk. The liquidity coverage ratio 
+(LCR) requires banks to have a sufficient level of high‐quality liquid assets (HQLA) to withstand a 
+stressful funding scenario for 30 days. The monitoring of the LCR is assessed separately in the EBA’s 
+report on liquidity measures under Article 509(1) of the CRR32.    
+The second liquidity standard is the net stable funding ratio (NSFR) — a longer‐term structural ratio 
+that addresses liquidity mismatches and provides incentives for banks to use stable sources to fund 
+their activities. This section aims to monitor the impact of the BCBS standard on NSFR on EU banks. 
+The  NSFR  is  defined  as  the  amount  of  available  stable  funding  (ASF)  relative  to  the  amount  of 
+required stable funding (RSF). The Basel framework intends that, from 1 January 2018, this ratio 
+should be equal to or higher than 100%33. The ASF is defined as the portion of capital and liabilities 
+expected to be reliable over the time horizon considered by the NSFR, which extends to 1 year. The 
+amount of RSF is a function of liquidity characteristics and residual maturities of the various assets 
+held by a particular institution, as well as those of its off‐balance‐sheet exposures.  
+Table  13  provides an overview of the  NSFR  levels  within  the bank’s  groups  and the  amount of 
+shortfall to comply with the 100% requirement set in the Basel framework. 
+Table 13: NSFR and NSFR shortfall in stable funding  
+ 
+NSFR (%) 
+Shortfall (billion EUR) 
+All Banks 
+Group 1 
+Of which: G‐SIIs 
+Group 2 
+Of which: Large Group 2 
+Of which: Medium‐sized Group 2 
+Of which: Small Group 2 
+Source: EBA QIS data (December 2017) 
+113.5 
+112.3 
+112.7 
+118.6 
+117.2 
+121.1 
+119.9 
+27.8 
+23.1 
+0.0 
+4.7 
+3.6 
+0.1 
+1.0 
+Overall,  as  of  December 2017,  banks  in  the  sample  needed  additional  stable  funding  of 
+EUR 27.8 billion (Table 13), equivalent to 4.2% of total weighted ASF (EUR 666 billion) and 2.7% of 
+total assets (EUR 1 trillion) of all non‐compliant banks participating in the NSFR‐related part of this 
+exercise.  The  need  for  stable  funding  is  estimated  by  aggregating  only  the  positive  differences 
+between RSF and ASF (RSF minus ASF) – the deficit in the stable funding of banks whose NSFR is 
+below the 100% requirement – and does not account for any surplus of stable funding observed in 
+banks with an NFSR above the 100% requirement.  
+ 
+ 
+ 
+ 
+                                                                                                               
+32 The Report was published on 27 September 2018. 
+33 Nevertheless, the NSFR ratio is not yet binding in the EU. 
+ 
+32
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+Figure 12: Distribution of NSFR by bank group 
+Source: EBA QIS data (December 2017) 
+ 
+Figure  12  shows  the  distribution  of  NSFR  per  bank  group,  while  Figure  13  illustrates  the 
+development of the NSFR over time using a balanced sample of banks. The figure also shows the 
+changes in the NSFR components (ASF and RSF), showing which is the main driver of the NSFR 
+change in each period.  
+Figure 13: NSFR (left scale: lhs) and change in its determinants (right scale: rhs) – balanced sample (%) 
+ 
+Source: EBA QIS data (December 2017) 
+ 
+The  findings  show  that  between  June 2011  and  December 2017  the  average  NSFR  followed  a 
+positive trend and increased by 25 percentage points. The driver of the continuous increase varies 
+between the different periods and have been either an increase in the AFS or a reduction of the 
+RSF. The significant increase in banks’ NSFRs in December 2013 is driven by a major increase in the 
+AFS, which may also have been driven by the revisions made by the BCBS, which were considered 
+ 
+33
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+for the first time in December 2013. Since the previous reporting date of June 2017, the NSFR has 
+increased by 0.9 percentage points mainly because of an increase in AFS with a slight reduction of 
+RFS. 
+The overall positive trend is also reflected in the reduction in the shortfall in stable funding needed 
+to meet the 100% ratio requirement, which, compared with June 2011, decreased by 99% (from 
+EUR 1,279 billion to EUR 3 billion) for Group 1 banks and by 98% (from EUR 158 billion to EUR 2 
+billion) for Group 2 banks (Figure 14). 
+ 
+Figure 14: Development of the NSFR shortfall of RSF over time, by bank group – balanced sample 
+Source: EBA QIS data (December 2017) 
+ 
+ 
+ 
+ 
+ 
+ 
+34
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+9.  Annex 
+9.1  Methodology for the estimation of the impact per category 
+9.1.1 
+%(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)	(cid:4666)(cid:1829)(cid:1870)(cid:1857)(cid:1856)(cid:1861)(cid:1872)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)(cid:4667)(cid:3404)	%(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)	(cid:4666)(cid:1845)(cid:1827)(cid:4667)(cid:3397)	%(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)	(cid:4666)(cid:1835)(cid:1844)(cid:1828)	(cid:1853)(cid:1868)(cid:1868)(cid:1870)(cid:1867)(cid:1853)(cid:1855)(cid:1860)(cid:4667) 
+Credit risk impact 
+ 
+%ΔT1MRC(Credit risk) is the percentage difference in MRC attributed to credit risk; 
+%ΔT1MRC(SA) is the percentage difference in MRC attributed to the standardised approach for 
+credit risk; 
+%ΔT1MRC(IRB) is the percentage difference in MRC attributed to the internal ratings‐based 
+approach to credit risk. 
+Standardised approach for credit risk 
+%(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)(cid:4666)(cid:1845)(cid:1827)(cid:4667)(cid:3404)
+’(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1845)(cid:1827)(cid:3019)(cid:3024)(cid:3002)’(cid:3400)
+(cid:1743)(cid:1742)(cid:1742)(cid:1742)(cid:1741)∑ (cid:3420)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%	(cid:4667)	(cid:3424)(cid:3398)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1845)(cid:1827)(cid:3019)(cid:3024)(cid:3002)’	(cid:3400)
+∑ (cid:3420)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)(cid:3424)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+∑ max	(cid:4668)‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’,
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4669)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+	
+(cid:1746)(cid:1745)(cid:1745)(cid:1745)(cid:1744)
+ 
+where, 
+Tier 1 MRC% = 6%; and,  
+capital conservation buffer% = 2.5% 
+(cid:1743)(cid:1742)(cid:1742)(cid:1742)(cid:1742)(cid:1742)(cid:1742)(cid:1741)∑ (cid:4688)
+IRB approach for credit risk %(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)(cid:4666)(cid:1835)(cid:1844)(cid:1828)	(cid:1853)(cid:1868)(cid:1868)(cid:1870)(cid:1867)(cid:1853)(cid:1855)(cid:1860)(cid:4667)(cid:3404)
+’(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1835)(cid:1844)(cid:1828)(cid:1827)(cid:3019)(cid:3024)(cid:3002)’	(cid:3400)	
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)
+(cid:4689)	(cid:3398)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+(cid:3398)min	(cid:4666)0,(cid:1842)(cid:1870)(cid:1867)(cid:1874)(cid:1861)(cid:1871)(cid:1861)(cid:1867)(cid:1866)(cid:1871)(cid:3010)(cid:3019)(cid:3003)(cid:3398)(cid:1831)(cid:1838)(cid:3010)(cid:3019)(cid:3003)_(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)	(cid:3010)(cid:3010)(cid:3010)(cid:4667)
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1835)(cid:1844)(cid:1828)(cid:1827)(cid:3019)(cid:3024)(cid:3002)’	(cid:3400)	
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)
+∑ (cid:4688)
+(cid:4689)	
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+(cid:3398)min	(cid:4666)0,(cid:1842)(cid:1870)(cid:1867)(cid:1874)(cid:1861)(cid:1871)(cid:1861)(cid:1867)(cid:1866)(cid:1871)(cid:3010)(cid:3019)(cid:3003)(cid:3398)(cid:1831)(cid:1838)(cid:3010)(cid:3019)(cid:3003)(cid:2879)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)(cid:4667)
+∑ max	(cid:4668)‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’,
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4669)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+	
+(cid:1746)(cid:1745)(cid:1745)(cid:1745)(cid:1745)(cid:1745)(cid:1745)(cid:1744)
+ 
+ 
+35
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+9.1.3 
+9.1.2  Market risk impact 
+ 
+%(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)(cid:4666)(cid:1839)(cid:1853)(cid:1870)(cid:1863)(cid:1857)(cid:1872)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)(cid:4667)(cid:3404)
+’(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1832)(cid:1844)(cid:1846)(cid:1828)	(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)’	(cid:3400)	12.5	(cid:3400)
+(cid:1743)(cid:1742)(cid:1742)(cid:1742)(cid:1742)(cid:1741)∑ (cid:3420)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)(cid:3424)	(cid:3398)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)∑ (cid:3420)
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1865)(cid:1853)(cid:1870)(cid:1863)(cid:1857)(cid:1872)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)	(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)’	(cid:3400)	12.5	(cid:3400)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)(cid:3424)	
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+∑ max	(cid:4668)‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’,
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4669)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+CVA impact %(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)(cid:4666)(cid:1829)(cid:1848)(cid:1827)(cid:4667)(cid:3404)
+’(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1829)(cid:1848)(cid:1827)	(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)’	(cid:3400)	12.5	(cid:3400)
+(cid:1743)(cid:1742)(cid:1742)(cid:1742)(cid:1742)(cid:1741)∑ (cid:3420)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)(cid:3424)	(cid:3398)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)∑ (cid:3420)
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1829)(cid:1848)(cid:1827)	(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)’	(cid:3400)	12.5	(cid:3400)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)(cid:3424)	
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+∑ max	(cid:4668)‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’,
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4669)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+%(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)(cid:4666)(cid:1841)(cid:1868)(cid:1857)(cid:1870)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)(cid:4667)(cid:3404)
+’(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1867)(cid:1868)(cid:1857)(cid:1870)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)	(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)’	(cid:3400)	12.5	(cid:3400)
+(cid:1743)(cid:1742)(cid:1742)(cid:1742)(cid:1742)(cid:1741)∑ (cid:3420)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)(cid:3424)	(cid:3398)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)∑ (cid:3420)
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1867)(cid:1868)(cid:1857)(cid:1870)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)	(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)’	(cid:3400)	12.5	(cid:3400)
+(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)(cid:3424)	
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+∑ max	(cid:4668)‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’,
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4669)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+9.1.4  Operational risk impact 
+	
+	
+	
+(cid:1746)(cid:1745)(cid:1745)(cid:1745)(cid:1745)(cid:1744)
+(cid:1746)(cid:1745)(cid:1745)(cid:1745)(cid:1745)(cid:1744)
+(cid:1746)(cid:1745)(cid:1745)(cid:1745)(cid:1745)(cid:1744)
+ 
+ 
+ 
+Small banks calculate the MRC by simply calculating the BIC, which is a proxy for the risk exposure 
+for  a certain confidence level. The BIC is calculated in two steps.  In the first step, the business 
+indicator (BI) is the sum of three subcomponents: the interest, leases and dividends component; 
+the services component; and the financial component, which are based on accounting figures. The 
+second step assigns the BI to one of the three different BI buckets, i.e. bucket 1, 2 or 3, depending 
+on its level. Each bucket has a greater marginal coefficient than the previous one, so large banks, 
+with high BIs, will receive an exponential MRC increase. More specifically, the first bucket, for BIs 
+up  to  EUR 1 billion,  has  a  marginal  coefficient  of  0.12,  the  second  bucket,  for  BIs  between 
+EUR 1 billion and EUR 30 billion, has a marginal coefficient of 0.15 and the third bucket, for BIs 
+ 
+36
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+above EUR 30 billion, has a marginal coefficient of 0.18. Thus, the new SA takes into account the 
+fact that during the financial crisis large banks with more complex business models suffered much 
+higher operational risk losses. 
+Large banks will also have to calculate the LC, as an additional proxy for risk exposure. The Basel 
+framework necessitates the use of LC for bucket 2 and bucket 3 banks. The proxy value of the LC is 
+determined  by  multiplying  the  average  annual  operational  loss  of  the  past  10  years  by  15.  To 
+calculate the average annual loss, the new framework requires the aggregation of all losses above 
+the EUR 20 000 threshold. All in all, the BIC and LC are proxies for operational risk, but based on 
+different input data, i.e. they are observing the operational risk through different viewpoints. While 
+the BIC relies on stable, but less risk‐sensitive, accounting data, the LC relies on risk‐sensitive, but 
+volatile,  internal  loss  observations.  To  balance  the  risk‐sensitivity  without  excessive  capital 
+volatility, the ILM is used to adjust the BIC. The ILM compares the BIC and LC in a way that imposes 
+a capital add‐on where the LC is larger than the BIC; otherwise, it allows a capital discount. 
+The influence of the LC is limited by the dampening features of the logarithm and the exponent of 
+0.8 in the end‐point formula for the calculation of the ILM. Although the calculation of the ILM is 
+easy,  thanks  to  the  simple  formula  applied,  it  becomes  complex  because  of  the  difficulty  in 
+gathering  additional  data.  To  gather  comprehensive  and  sufficient  loss  data,  banks  need  to 
+implement clear processes to identify all relevant operational risk losses. The additional burden to 
+fulfil these requirements should be limited to the banks that currently apply the BIA and belong to 
+bucket 2 and bucket 3, as the current framework for AMA and SA banks requires them to have 
+proper loss data collection already in place34. 
+The formula for the calculation of ILM is ln[exp(1) – 1 + (LC/BIC)^0.8], where the LC is calculated as 
+15 times the average losses above EUR 20 000 (with national discretion to increase this threshold 
+to  EUR 100 000).  BIC =  0.12  x  BI  for  BI  <=  EUR 1 billion,  BIC  =  EUR 120 million  +  0.15  x  (BI  – 
+EUR 1 billion)  for  EUR 1 billion  <  BI  <=  EUR 30 billion,  and  BIC  =  EUR 4470 million  +  0.18  x  (BI  – 
+EUR 30 billion) for BI > EUR 30 billion, where BI = ILDCavg + SCavg + FCavg and ILDC = Interest, Lease 
+and Dividend Component, SC = Services Component, FC = Financial Component. When LC < BIC, 
+then ILM < 1; when LC > BIC, then ILM > 1; when LC = BIC, then ILM = 1. 
+ 
+9.1.5  Output floor impact %(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)(cid:4666)(cid:1841)(cid:1832)(cid:4667)(cid:3404)
+(cid:3428)∑ max	(cid:4668)0,‘(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1845)(cid:1827)(cid:1857)(cid:1869)(cid:1873)(cid:1861)(cid:1874)(cid:1853)(cid:1864)(cid:1857)(cid:1866)(cid:1872)(cid:3019)(cid:3024)(cid:3002)’(cid:3400)(cid:1841)(cid:1832)%(cid:3398)	‘(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1844)(cid:1849)(cid:1827)’(cid:4669)
+(cid:3432)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+∑ (cid:1865)(cid:1853)(cid:1876)(cid:4668)‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’,‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)(cid:1861)(cid:1857)(cid:1870)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4669)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+(cid:3400)(cid:4666)(cid:1846)(cid:1861)(cid:1857)(cid:1870)1(cid:3014)(cid:3019)(cid:3004)%(cid:3397)(cid:1855)(cid:1853)(cid:1868)(cid:1861)(cid:1872)(cid:1853)(cid:1864)	(cid:1855)(cid:1867)(cid:1866)(cid:1871)(cid:1857)(cid:1870)(cid:1874)(cid:1853)(cid:1872)(cid:1861)(cid:1867)(cid:1866)	(cid:1854)(cid:1873)(cid:1858)(cid:1858)(cid:1857)(cid:1870)%(cid:3397)(cid:1833)(cid:3020)(cid:3010)(cid:3010)(cid:3046)(cid:1871)(cid:1873)(cid:1870)(cid:1855)(cid:1860)(cid:1853)(cid:1870)(cid:1859)(cid:1857)%(cid:4667)
+ 
+ 
+ 
+ 
+                                                                                                               
+34 See Article 320(a) of the CRR and Article 322(3) of the CRR. 
+ 
+37
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+where 
+ 
+Final Basel III total SAequivalent RWA = the total RWA assuming that all exposures under internal 
+models are exclusively calculated according to the pertinent standardised approaches under the 
+revised BCBS package, i.e. market and credit risk; the new RWA amount is the SA equivalent; 
+ 
+Final Basel III total RWA = the total RWA under the proposed BCBS framework, i.e. where relevant 
+the calculation of RWA according to internal models is allowed; 
+ 
+OF% = 72.5%, which, when multiplied by the SA equivalent RWA, provides the output floor level for 
+internal models’ RWA.  
+9.1.6 
+Leverage ratio impact 
+%(cid:1986)(cid:1846)1(cid:1839)(cid:1844)(cid:1829)(cid:4666)(cid:1838)(cid:1844)(cid:4667)(cid:3404)
+0,
+(cid:1743)(cid:1742)(cid:1742)(cid:1742)(cid:1742)(cid:1741)∑ max(cid:3421)
+(cid:4672)’(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)1	(cid:1839)(cid:1844)(cid:1829)’	–	
+’(cid:1832)(cid:1861)(cid:1866)(cid:1853)(cid:1864)	(cid:1828)(cid:1853)(cid:1871)(cid:1857)(cid:1864)	(cid:1835)(cid:1835)(cid:1835)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4673)(cid:3425)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+0,
+∑ max(cid:3421)
+(cid:4672)’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)1	(cid:1839)(cid:1844)(cid:1829)’	–	
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4673)(cid:3425)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+∑ max	(cid:4668)‘(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1870)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)1	(cid:1839)(cid:1844)(cid:1829)’,
+’(cid:1829)(cid:1844)(cid:1844)_(cid:1829)(cid:1844)(cid:1830)(cid:1835)(cid:1848)	(cid:1872)(cid:1867)(cid:1872)(cid:1853)(cid:1864)	(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)	(cid:1846)1	(cid:1839)(cid:1844)(cid:1829)’(cid:4669)
+(cid:3041)(cid:3036)(cid:2880)(cid:2869)
+	–	
+(cid:1746)(cid:1745)(cid:1745)(cid:1745)(cid:1745)(cid:1744)
+ 
+ 
+where 
+ 
+Final Basel III total LR_based T1 MRC = Final Basel III total leverage ratio exposure × (3% + 0.5 × G‐
+SIIs surcharge)); 
+ 
+CRR – CRDIV total LR_based T1 MRC = CRR/CRD IV total leverage ratio exposure × 3%. 
+n, the number of banks in the sample 
+The analysis adopts the BCBS methodology for how the leverage ratio impact is estimated35. This 
+methodology quantifies the impact of the leverage ratio as the change in the LR add‐ons between 
+the proposed and current regulatory frameworks, as a metric of the change in the LR’s constraining 
+power in determining the total T1 MRC.  
+The leverage ratio impact would be negative (see ΔLRadd. – Example 1 of Figure 15) if the Tier 1 LR 
+add‐on of the full implementation of the final Basel III framework (equal to 0 in Example 1 of Figure 
+15) were lower than the Tier 1 LR add‐on of the full implementation of the CRR / CRD IV (positive 
+in Example 1 of Figure 15). This particular case indicates that the leverage ratio is less constraining 
+under the final Basel III framework than the CRR / CRD IV framework. 
+                                                                                                               
+35  see BCBS (2017): Basel III monitoring report December 2017: Results of the cumulative quantitative impact study. 
+ 
+38
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+The leverage ratio impact would be positive (see ΔLRadd.– Example 3 of Figure 15) if the Tier 1 LR 
+add‐on of the full implementation of the final Basel III framework (positive in Example 3 of Figure 
+15) were higher than the Tier 1 LR add‐on of the full implementation of the CRR / CRD IV (0 in 
+Example 3 of Figure 15). This can be interpreted as the leverage ratio becoming more constraining 
+under the final Basel III framework than under the CRR/CRD IV framework. 
+The leverage ratio impact would be 0 in cases where either the T1 LR add‐on of the CRR/CRD IV and 
+the T1 LR add‐on of the final Basel III framework are both zero (Example 4, Figure 15), or the T1 LR 
+add‐on remain the same under the CRR/CRD IV and the final Basel III framework (Example 2, Figure 
+add. ==> ΔLRadd.= 0). Both cases illustrate that the LR is equally constraining 
+15, where ΔLR1
+under the CRR / CRD IV and the final Basel III frameworks. Figure 15 illustrates all four cases of the 
+relationship between the T1 LR‐based MRC and T1 risk‐based MRC, under the CRR/CRD IV and final 
+Basel III frameworks. 
+add. = ΔLR2
+Figure 15: Integration of changes in risk‐based and leverage‐ratio‐based MRC 
+Source: Based on the BIS Basel III Monitoring report as of Dec. 2017 
+ 
+ 
+ 
+39
+BASEL III MONITORING EXERCISE – RESULTS BASED ON DATA AS OF 31 DECEMBER 2017 
+ 
+9.1.7 
+Capital shortfalls 
+Table 7 – Part 1 – column ‘Risk‐based and LR‐based Tier 1’ 
+Table 7 – Part 2 – column ‘Risk‐based and LR‐based Tier 1’ 
+Table 2 – column ‘Capital shortfalls – CRR/CRD IV (fully phased‐in)’ – ‘Additional LR Tier 1’ 
+40
+ 
+(cid:3404) 
+(cid:3404) 
+(cid:2176)(cid:2778)(cid:2175)(cid:2190)(cid:2197)(cid:2200)(cid:2202)(cid:2188)(cid:2183)(cid:2194)(cid:2194)(cid:2159)(cid:2174)(cid:2174)_(cid:2159)(cid:2174)(cid:2160)(cid:2165)(cid:2178)  
+(cid:3533)(cid:3420)(cid:1865)(cid:1853)(cid:1876)(cid:3428)’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1845)(cid:1860)(cid:1867)(cid:1870)(cid:1872)(cid:1858)(cid:1853)(cid:1864)(cid:1864)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)’,
+(cid:3041)
+’(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1845)(cid:1860)(cid:1867)(cid:1870)(cid:1872)(cid:1858)(cid:1853)(cid:1864)(cid:1864)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)’(cid:3432)(cid:3424)
+(cid:3036)(cid:2880)(cid:2869)
+(cid:3533)(cid:3420)(cid:1865)(cid:1853)(cid:1876)(cid:3428)(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667),
+(cid:3041)
+(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667)(cid:3432)(cid:3424)	
+(cid:3036)(cid:2880)(cid:2869)
+(cid:2176)(cid:2778)(cid:2175)(cid:2190)(cid:2197)(cid:2200)(cid:2202)(cid:2188)(cid:2183)(cid:2194)(cid:2194)(cid:2158)(cid:2183)(cid:2201)(cid:2187)(cid:2194)(cid:2165)(cid:2165)(cid:2165) 
+(cid:3533)(cid:3420)(cid:1865)(cid:1853)(cid:1876)(cid:3428)’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1845)(cid:1860)(cid:1867)(cid:1870)(cid:1872)(cid:1858)(cid:1853)(cid:1864)(cid:1864)(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)_(cid:3010)(cid:3010)(cid:3010)’,
+(cid:3041)
+’(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1845)(cid:1860)(cid:1867)(cid:1870)(cid:1872)(cid:1858)(cid:1853)(cid:1864)(cid:1864)(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)_(cid:3010)(cid:3010)(cid:3010)’(cid:3432)(cid:3424)
+(cid:3036)(cid:2880)(cid:2869)
+(cid:3533)(cid:3420)(cid:1865)(cid:1853)(cid:1876)(cid:3428)(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)_(cid:3010)(cid:3010)(cid:3010)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667),
+(cid:3041)
+(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)_(cid:3010)(cid:3010)(cid:3010)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667)(cid:3432)(cid:3424)	
+(cid:3036)(cid:2880)(cid:2869)
+(cid:3404) 
+(cid:3404) 
+ 
+ 
+ 
+(cid:2157)(cid:2186)(cid:2186).(cid:2168)(cid:2174)(cid:2176)(cid:2778)(cid:2175)(cid:2190)(cid:2197)(cid:2200)(cid:2202)(cid:2188)(cid:2183)(cid:2194)(cid:2194)(cid:2159)(cid:2174)(cid:2174)(cid:2159)(cid:2174)(cid:2160)(cid:2165)(cid:2178) 
+(cid:3404) 
+(cid:3533)(cid:3420)(cid:1865)(cid:1853)(cid:1876)(cid:3428)(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667),
+(cid:3041)
+(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667)(cid:3432)(cid:3424)	
+(cid:3036)(cid:2880)(cid:2869)(cid:3398)(cid:3533)(cid:3419)(cid:1865)(cid:1853)(cid:1876)(cid:3427)(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3004)(cid:3019)(cid:3019)_(cid:3004)(cid:3019)(cid:3005)(cid:3010)(cid:3023)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667)(cid:3431)(cid:3423)	
+(cid:3041)
+(cid:3036)(cid:2880)(cid:2869)
+(cid:3533)(cid:3420)(cid:1865)(cid:1853)(cid:1876)(cid:3428)(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)_(cid:3010)(cid:3010)(cid:3010)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667),
+(cid:3041)
+(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1838)(cid:1844)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)_(cid:3010)(cid:3010)(cid:3010)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667)(cid:3432)(cid:3424)	
+(cid:3036)(cid:2880)(cid:2869)(cid:3398)(cid:3533)(cid:3419)(cid:1865)(cid:1853)(cid:1876)(cid:3427)(cid:1865)(cid:1853)(cid:1876)	(cid:4666)0,’(cid:1844)(cid:1861)(cid:1871)(cid:1863)_(cid:1854)(cid:1853)(cid:1871)(cid:1857)(cid:1856)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1_(cid:1839)(cid:1844)(cid:1829)(cid:3003)(cid:3028)(cid:3046)(cid:3032)(cid:3039)_(cid:3010)(cid:3010)(cid:3010)’(cid:3398)’(cid:1827)(cid:1855)(cid:1872)(cid:1873)(cid:1853)(cid:1864)_(cid:1846)(cid:1861)(cid:1857)(cid:1870)1’(cid:4667)(cid:3431)(cid:3423)	
+(cid:3041)
+(cid:3036)(cid:2880)(cid:2869)
+(cid:2157)(cid:2186)(cid:2186).(cid:2168)(cid:2174)(cid:2176)(cid:2778)(cid:2175)(cid:2190)(cid:2197)(cid:2200)(cid:2202)(cid:2188)(cid:2183)(cid:2194)(cid:2194)(cid:2158)(cid:2183)(cid:2201)(cid:2187)(cid:2194)(cid:2165)(cid:2165)(cid:2165) 
+= 
+ 
+ 
+Table 2 – column ‘Capital shortfalls – Basel III framework (2027)’ – ‘Additional LR Tier 1” 
+ 
+ 
+ 

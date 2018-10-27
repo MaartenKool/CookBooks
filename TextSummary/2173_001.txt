@@ -1,0 +1,1724 @@
+ 
+ 
+ 
+ 
+Questions and Answers 
+Application of the AIFMD 
+ 
+ 
+ 
+4 October 2018 | ESMA34-32-352 
+ 
+Date: 4 October 2018 
+ESMA34-32-352 
+Contents 
+Section I: Remuneration ..............................................................................................5 
+Section II: Notifications of AIFs ...................................................................................9 
+Section III: Reporting to national competent authorities under Articles 3, 24 and 42 . 11 
+Section IV: Notification of AIFMs ............................................................................... 28 
+Section V: MiFID services under Article 6(4) of the AIFMD ....................................... 30 
+Section VI: Depositaries ............................................................................................ 31 
+Section VII: Calculation of leverage ........................................................................... 34 
+Section VIII: Delegation ............................................................................................. 36 
+Section IX: Calculation of the total value of assets under management .................... 37 
+Section X: Additional own funds ................................................................................ 38 
+Section XI: Scope ..................................................................................................... 39 
+Section XII: Impact of Regulation (EU) 648/2012 (EMIR) on AIFMD ......................... 40 
+Section XIII: Impact of Regulation (EU) 2015/2365 (SFTR) on AIFMD ...................... 42 
+Section XIV: Branches .............................................................................................. 46 
+ 
+ 
+ 
+ 
+ESMA • CS 60747 – 103 rue de Grenelle • 75345 Paris Cedex 07 • France • Tel. +33 (0) 1 58 36 43 21 • www.esma.europa.eu 
+ 2 
+ 
+ 
+ 
+I. Background 
+1.  The  Alternative  Investment  Fund  Managers  Directive  (AIFMD)  puts  in  place  a 
+comprehensive framework for the regulation of alternative investment fund managers 
+within  Europe.  The  extensive  requirements  with  which  AIFMs  must  comply  are 
+designed to  ensure  that these managers can manage  AIFs  on  a cross-border  basis 
+and the AIFs that they manage can be sold on a cross-border basis.  
+2.  The AIFMD framework is made up of the following EU legislation:  
+  Directive 2011/61/EU1, which was adopted in 2011. It is a ‘framework’ Level 1 
+technical  delegated  and 
+Directive  which  has  been  supplemented  by 
+implementing measures.  
+  Commission  Regulation  (EU)  No  231/2013 2 ,  Commission  Regulation  (EU) 
+No 447/20133,  Commission  Regulation  (EU)  No  448/20134,  and  Commission 
+Regulation (EU) No 694/20145. 
+3.  ESMA is required to play an active role in building a common supervisory culture by 
+promoting common supervisory approaches and practices. In this regard, the Authority 
+develops Q&As as and when appropriate to elaborate on the provisions of certain EU 
+legislation or ESMA guidelines.  
+4.  The European Commission has already published its own Q&A on AIFMD6.  
+II. Purpose 
+5.  The  purpose  of  this  document  is  to  promote  common  supervisory  approaches  and 
+practices in the application of the AIFMD and its implementing measures. It does this 
+by  providing  responses  to  questions  posed  by  the  general  public  and  competent 
+authorities in relation to the practical application of the AIFMD.  
+6.  The content of this document is aimed at competent authorities under AIFMD to ensure 
+that  in  their  supervisory  activities  their  actions  are  converging  along  the  lines  of  the 
+responses adopted by ESMA. However, the answers are also intended to help AIFMs 
+                                                
+1 DIRECTIVE  2011/61/EU  of  the  European  Parliament  and  of  the  Council  of  8  June  2011  on  Alternative  Investment  Fund 
+Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 
+2 COMMISSION DELEGATED REGULATION (EU) No 231/2013 of 19 December 2012 supplementing Directive 2011/61/EU of 
+the  European  Parliament  and  of  the  Council  with  regard  to  exemptions,  general  operating  conditions,  depositaries,  leverage, 
+transparency and supervision 
+3 COMMISSION IMPLEMENTING REGULATION (EU) No 447/2013 of 15 May 2013 establishing the procedure for AIFMs which 
+choose to opt in under Directive 2011/61/EU of the European Parliament and of the Council 
+4 COMMISSION IMPLEMENTING REGULATION (EU) No 448/2013 of 15 May 2013 establishing a procedure for determining the 
+Member State of reference of a non-EU AIFM pursuant to Directive 2011/61/EU of the European Parliament and of the Council 
+5 COMMISSION DELEGATED REGULATION (EU) No 694/2014 of 17 December 2013 supplementing Directive 2011/61/EU of 
+the  European  Parliament  and  of  the  Council  with  regard  to  regulatory  technical  standards  determining  types  of  alternative 
+investment fund managers 
+6 https://ec.europa.eu/info/sites/info/files/aifmd-commission-questions-answers_en.pdf  
+3 
+ 
+ 
+ 
+by providing clarity as to the content of the AIFMD rules, rather than creating an extra 
+layer of requirements. 
+III. Status  
+7.  The  Q&A  mechanism  is  a  practical  convergence  tool  used  to  promote  common 
+supervisory approaches and practices under Article 29(2) of the ESMA Regulation.7  
+8.  Therefore,  due  to  the  nature  of  Q&As,  formal  consultation  on  the  draft  answers  is 
+considered unnecessary. However, even if they are not formally consulted on, ESMA 
+may check them with representatives of ESMA’s Securities and Markets Stakeholder 
+Group,  the  relevant  Standing  Committees’  Consultative  Working  Group  or,  where 
+specific expertise is needed, with other external parties. 
+9.  ESMA  will review these questions and answers on a regular basis to identify if, in a 
+certain area, there is a need to convert some of the material into ESMA guidelines. In 
+such cases, the procedures foreseen under Article 16 of the ESMA Regulation will be 
+followed.  
+IV. Questions and answers  
+10. This  document  is  intended  to  be  continually  edited  and  updated  as  and  when  new 
+questions  are  received.  The  date  each  question  was  last  amended  is  included  after 
+each question for ease of reference.  
+ 
+ 
+                                                
+7 Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a  European 
+Supervisory  Authority  (European  Securities  and  Markets  Authority),  amending  Decision  No  716/2009/EC  and  repealing 
+Commission Decision 2009/77/EC Regulation, 15.12.2010, L331/84.  
+4 
+ 
+ 
+ 
+Section I: Remuneration 
+Date last updated: 27 June 2014 
+Question  1  [last  update  17  February  2014]:  To  which  accounting  period  should  AIFMs 
+performing activities under the AIFMD before 22 July 2013 and submitting an application for 
+authorisation  under  the  AIFMD  between  22  July  2013  and  22  July  2014  apply  the  AIFMD 
+remuneration rules for the first time?  
+Answer 1: Paragraph 4 of the Guidelines on sound remuneration policies under the AIFMD 
+(ESMA/2013/232) (the Remuneration Guidelines) states that “These Guidelines apply from 22 
+July 2013, subject to the transitional provisions of the AIFMD”. The Commission Q&A on the 
+AIFMD  provided  specific  guidance  on  the  interpretation  of  the  transitional  provisions  under 
+Article 61(1) of the AIFMD.8  
+According to Article 61(1) of the AIFMD, AIFMs performing activities under the AIFMD before 
+22 July 2013 have one year from that date to submit an application for authorisation. Once a 
+firm becomes  authorised  under  the  AIFMD,  it  becomes  subject  to  the  AIFMD  remuneration 
+rules and the Remuneration Guidelines. Therefore, the relevant rules should start applying as 
+of the date of authorisation. 
+However, as for the rules on variable remuneration (i.e. the ones for which guidance is provided 
+under  Sections  XI.  (Guidelines  on  the  general  requirements  on  risk  alignment)  and  XII. 
+(Guidelines on the specific requirements on risk alignment) of the Remuneration Guidelines), 
+AIFMs should apply them for the calculation of payments relating to new awards of variable 
+remuneration  to  their  identified  staff  (as  defined  in  the  Remuneration  Guidelines)  for 
+performance periods following that in which they become authorised. So the AIFMD regime on 
+variable remuneration should apply only to full performance periods and should first apply to 
+the first full performance period after the AIFM becomes authorised. For example: 
+1.  An existing AIFM whose accounting period ends on 31 December and which obtained 
+an authorisation between 22 July 2013 and 31 December  2013: the AIFMD rules on 
+variable remuneration should apply to the calculation of payments relating to the 2014 
+accounting period. 
+2.  An  existing  AIFM  whose  accounting  period  ends  on  31  December  obtains  an 
+authorisation between 1 January 2014 and 22 July 2014: the AIFMD rules on variable 
+remuneration  should  apply  to  the  calculation  of  payments  relating  to  the  2015 
+accounting period.  
+However, for an existing AIFM whose accounting period ends on 31 December which submits 
+an application for authorisation by 22 July 2014 and obtains an authorisation after that date 
+(including when the authorisation is obtained after 31 December 2014), the AIFMD rules on 
+                                                
+8 ID 1180. Transitional provisions, available at: http://ec.europa.eu/yqol/index.cfm?fuseaction=question.show&questionId=1180.  
+5 
+ 
+ 
+ 
+variable  remuneration  should  apply  to  the  calculation  of  payments  relating  to  the  2015 
+accounting period. 
+Question 2 [last update 17 February 2014]: To which accounting period should AIFMs not 
+performing  activities  under  the  AIFMD  before  22  July  2013  and  obtaining  an  authorisation 
+under the AIFMD after 22 July 2013 apply the remuneration rules for the first time? 
+Answer  2:  Once  a  firm  becomes  authorised  under  the  AIFMD,  it  becomes  subject  to  the 
+AIFMD  remuneration  rules  and  the  Remuneration  Guidelines  and  the  relevant  rules  should 
+start to apply as of the date of authorisation. 
+However, as for the rules on variable remuneration (i.e. the ones for which guidance is provided 
+under  Sections  XI.  (Guidelines  on  the  general  requirements  on  risk  alignment)  and  XII. 
+(Guidelines on the specific requirements on risk alignment) of the Remuneration Guidelines), 
+AIFMs should apply them for the calculation of payments relating to new awards of variable 
+remuneration  to  their  identified  staff  (as  defined  in  the  Remuneration  Guidelines)  for 
+performance periods following that in which they submit an application for authorisation. An 
+AIFM submitting an application for authorisation in the year N (after 22 July 2013), should apply 
+the AIFMD remuneration regime on variable remuneration only to the calculation of payments 
+relating to the accounting period for year N+1. 
+Question 3 [last update 17 February 2014]: Which staff of the delegate should be covered 
+by  the  “appropriate  contractual  arrangements”  that  ensure  there  is  no  circumvention  of  the 
+remuneration rules as set out in paragraph 18(b) of the Remuneration Guidelines?  
+Answer 3: Such contractual arrangements must only be in place in respect of the delegate’s 
+identified  staff  who  have  a  material  impact  on  the  risk  profiles  of  the  AIFs  it  manages  as  a 
+result of the delegation, and only in respect of the remuneration for such delegated activities. 
+Question 4 [last update 17 February 2014]: In a delegation arrangement where the delegate 
+is  subject  to  the  CRD  rules,  can  the  delegate  be  considered  to  be  subject  to  regulatory 
+requirements  on  remuneration  that  are  equally  as  effective  as  those  applicable  under  the 
+Remuneration Guidelines? 
+Answer 4: Provided that the staff of these entities who are identified staff for the purpose of 
+the  Remuneration  Guidelines  are  subject  to  the  CRD  rules,  these  entities  are  subject  to 
+regulatory  requirements  on  remuneration  that  are  equally  as  effective  as  those  applicable 
+under the Guidelines. 
+Question 5 [last update 27 June 2014]: Can AIFMs choose to exclude portfolio managers 
+from  the  scope  of  identified  staff  for  the  purpose  of  the  Remuneration  Guidelines  purely 
+because they are bound by investment limits set out by law and/or internal risk limits set out in 
+the investment restrictions of the AIF? 
+Answer 5: No. Paragraph 20 of the Remuneration Guidelines provides for a presumption that 
+certain  categories  of  staff  should  be  included  as  the  identified  staff.  ‘Other  risk  takers’  are 
+mentioned  among  these  categories  of  staff.  This  category  includes  ‘staff  members,  whose 
+6 
+ 
+ 
+ 
+professional activities – either individually or collectively, as members of a group (e.g. a unit or 
+part of a department) – can exert material influence on the AIFM’s risk profile or on an AIF it 
+manages’.  When  assessing  whether  a  portfolio  manager  can  exert  material  influence,  a 
+number of questions are relevant: 
+1)  is the percentage size of the AIF portfolio being managed small?  
+2)  is the portfolio manager required to meet (and outperform) a performance benchmark?  
+3)  is the percentage deviation from that benchmark which is tolerated by the AIFM small?  
+4)  does the AIFM monitor the performance of the portfolio manager daily?  
+Where  the  answer  to  any  of the  above questions  is  ‘no’,  a  portfolio manager  is  likely  to fall 
+within the scope of identified staff. Where the answer to all of the questions above it ‘yes’, a 
+portfolio manager is more likely to fall outside the scope of identified staff. Given that the criteria 
+are qualitative, it may still be the case that for some combinations of 1) and 3) above, a portfolio 
+manager may still exert material influence on an AIFM’s risk profile or on an AIF it manages, 
+in which case the Remuneration Guidelines should apply. 
+Question  6  [last  update  5  October  2017]:  Do  the  remuneration-related  disclosure 
+requirements under Article 22(2)(e) of the AIFMD also apply to the staff of the delegate of an 
+AIFM to whom portfolio management or risk management activities have been delegated? 
+Answer  6:  Yes.  In  line  with  the  approach  followed  under  the  AIFMD  Remuneration 
+Guidelines9, AIFMs can ensure compliance in one of the following two ways: 
+i) 
+ii) 
+where  the  delegate  is  subject  to  regulatory  requirements  on  remuneration 
+disclosure for its staff to whom portfolio management or risk management activities 
+have been delegated that are equally as effective as those under Article 22(2)(e) of 
+the AIFMD, the AIFM should use the information disclosed by the delegate for the 
+purposes of fulfilling its obligations under Article 22(e) of the AIFMD and Article 107 
+of the AIFMD Level 2 Regulation; or  
+in other cases, appropriate contractual arrangements should be put in place with 
+the delegate allowing the AIFM to receive (and disclose in the annual report for the 
+relevant  AIF(s)  that  it  manages)  at  least  information  on  the  total  amount  of 
+remuneration for the financial year, split into fixed and variable remuneration, paid 
+by the AIF and/or the AIFM to the identified staff of the delegate – and number of 
+beneficiaries, and, where relevant, carried interest – which is linked to the delegated 
+portfolio. This means that the disclosure should be done on a prorated basis for the 
+part  of  the  AIF’s  assets  which  are  managed  by  the  identified  staff  within  the 
+delegate.  
+                                                
+9 See paragraph 18 of the AIFMD Remuneration Guidelines. 
+7 
+ 
+ 
+ 
+In both situations set out above, the disclosure may be provided on an aggregate basis i.e. by 
+means of a total amount for all the delegates of the AIFM in relation to the relevant AIF.  
+Question  7  [last  update  5  October  2017]:  Can  the  information  mentioned  under  Article 
+22(2)(e)  and  (f)  of  the  AIFMD  be  disclosed  in  the  annual  report  by  the  way  of  a  link  to  a 
+document where the relevant information is available? 
+Answer 7: No. The information prescribed by Article 22(2)(e) and (f) of the AIFMD should be 
+included in the annual report. This is without  prejudice to references in the annual report to 
+other documents where additional information may be found. 
+ 
+ 
+ 
+8 
+ 
+ 
+ 
+Section II: Notifications of AIFs 
+Date last updated: 7 April 2017 
+Question 1 [last update 17 February 2014]: What additional information should be provided 
+under letter (f) of Annex IV of the AIFMD? 
+Answer  1:  Letter  (f)  of  Annex  IV  of  the  AIFMD  should  be  understood  as  requesting  all 
+information set out in Article 23(1) of the AIFMD that is not already contained in Annex IV of 
+the AIFMD. 
+Question  2  [last  update  17  February  2014]:  Should  AIFMs  that  wish  to  market  new 
+investment  compartments  of  AIFs  in  a  Member  State  where  these  AIFs have  been  already 
+notified undertake a new notification procedure via their competent authority? 
+Answer 2: Yes. 
+Question 3 [last update 1 April 2016]: If an EU AIF decides to offer additional fund units to 
+investors, and the offer is limited to the investors already invested in the AIF, does the AIFM 
+have to submit a new notification to the national competent authority in accordance with Article 
+31(2) of AIFMD? 
+Answer 3: No. 
+Question 4 [last update 3 June 2016]: For the purposes of Article 31 of AIFMD (marketing 
+of units or shares of EU AIFs in the home Member State of the AIFM), does it make a difference 
+whether the EU AIF to be marketed is domiciled in the home Member State of the EU AIFM or 
+in another Member State? 
+Answer 4: No. Article 31 does not differentiate between the marketing of EU AIFs domiciled 
+in the home Member State of the AIFM and EU AIFs domiciled in another Member State. 
+Question  5 [last  update  3  June  2016]:  Can  an  authorised  EU  AIFM,  in  its  home  Member 
+State, market an EU feeder AIF with a non-EU master AIF pursuant to Article 31 of AIFMD? 
+Answer 5: No. Article 31(1), second subparagraph, allows an EU AIFM to market an EU feeder 
+AIF  in  the  home  Member  State  of  the  AIFM  as  long  as  it  has  an  EU  master  AIF  which  is 
+managed by an authorised EU AIFM. Marketing of an EU feeder AIF with a non-EU master 
+AIF is subject to Article 36(1) of AIFMD. 
+Question 6 [last update 16 November 2016]: An AIF is marketed in a host Member State by 
+way of the AIFMD marketing passport (Article 32 of AIFMD). A new share class of the AIF is 
+set up, which will be marketed in the host Member State. Should this be regarded as a material 
+change, which would require a new notification pursuant to Article 32? 
+Answer 6: No. The creation of a share class, which is to be marketed cross-border within an 
+already notified (sub-)fund, does not constitute a material change of the notification. 
+9 
+ 
+ 
+ 
+Question 7 [last update 16 November 2016]: An AIFM wishes to notify a material change to 
+a notification made to the competent authorities in its home Member State to manage or market 
+an  AIF  on  a  cross-border  basis  (Articles  32(7)  or  33(6)  of  AIFMD).  Does  the  AIFM  have  to 
+include the full set of documentation required by Articles 32 or 33 in the notification letter? 
+Answer 7: Yes. Material changes to existing notifications require the AIFM to hand in a full set 
+of  documentation  with  the  revised  notification  letter.  AIFMs  are  asked  to  highlight  any 
+amendment to the original notification letter and accompanying documentation. 
+Question 8 [last update: 6 April 2017]: In addition to the AIFMD categories of “professional 
+investor” and “retail investor”, a number of Member States have introduced further categories 
+for  retail  investors  (such  as  “qualifying  investor”,  “informed  investor”,  or  “semi-professional 
+investor”),  which,  by  their  definition,  share  some,  but  not  all  elements  of  the  definition  of 
+“professional investor” pursuant to Article 4(1)(ag) of AIFMD. Does the AIF marketing passport 
+(Article 32 of AIFMD) extend to those investors? 
+Answer:  No.  The  AIF  marketing  passport  may  only  be  used  for  marketing  to  professional 
+investors as defined in Article 4(1)(ag) of AIFMD. Any other cross-border marketing activity to 
+non-professional  investors  as  defined  in  Member  States  has  to  be  notified  and  carried  out 
+according to national legislation in the host Member State of the AIF and cannot be carried out 
+by way of the AIF marketing passport. 
+ 
+ 
+10 
+ 
+ 
+ 
+Section III: Reporting to national competent authorities under Articles 3, 24 and 42 
+Date last updated: 24 May 2017 
+Question 1 [last update 16 December 2016]: When a non-EU AIFM reports information to 
+the national competent authorities of a Member State under Article 42 of the AIFMD, which 
+AIFs have to be included in the reports? 
+Answer 1: When a non-EU AIFM reports information to the national competent authorities of 
+a  Member  State  under Article  42,  only  the  AIFs marketed  in that  Member  State  have  to  be 
+taken  into  account  for  the  purpose  of  the  reporting.  When  Member  States  apply  ESMA’s 
+opinion on collection of additional information under Article 24(5) of the AIFMD, AIFMs should 
+also report information on non-EU master AIFs not marketed in the EU that have either EU 
+feeder AIFs or non-EU feeder AIFs marketed in the Union under Article 42.  Non-EU AIFMs 
+should apply the same principle if the master AIF is established in the Union and not marketed 
+in  the  Union  (i.e.  they  should  report  information  on  the  EU  master  AIF  not  marketed  in  the 
+Union). 
+Question 2 [last update 25 March 2014]: Should repurchase transactions (at the level of the 
+portfolio of the AIF) by or on behalf of a reporting AIF be considered as financing operations 
+for the  purpose  of the  AIFMD  reporting  obligations  (questions  54  –  56  and  210-  217  of  the 
+consolidated reporting template)? 
+Answer  2:  Yes.  Therefore,  AIFMs  should  take  into  account  the  counterparties  of  those 
+transactions when reporting the information related to funding sources in questions 54  – 56 
+and take into account the aggregate amount of these transactions in questions 210-217. 
+Question 3 [last update 25 March 2014]: Which period should AIFMs use when reporting 
+information  on  ‘Instruments  traded  and  individual  exposures’  (questions  121  to  124  of  the 
+consolidated  reporting  template):  the  residual  maturity  of  the  instrument  or  the  maturity  at 
+issuance? 
+Answer 3: AIFMs should use the residual maturity as of the reporting date. 
+Question  4  [last  update  25  March  2014]: What  should  be  the  basis  of  the  numerator  for 
+calculating the geographical exposure as a percentage of the NAV of the AIF (question 78 to 
+85 of the consolidated reporting template)? 
+Answer 4: The numerator used for calculating the geographical exposure as a percentage of 
+the  net  asset  value  of  the  AIF  should  be  the  NAV  of  the  AIF  for  each  geographical  area. 
+Therefore,  this  may  result  in  negative  values  for  certain  regions  but  the  total  should  equal 
+100%. 
+11 
+ 
+ 
+ 
+Question 5 [last update 25 March 2014]: What should be the basis of the numerator and the 
+denominator  for  calculating  the  geographical  exposure  as  a  percentage  of  the  aggregated 
+value of the AIF (questions 86 to 93 of the consolidated reporting template)? 
+Answer 5: The numerator used for calculating the geographical exposure as a percentage of 
+the aggregated value of the AIF should be the total value of assets under management of the 
+AIF for each geographical area. The basis for the denominator should the total value of assets 
+under management of the AIF. The total should equal 100%. 
+Question  6  [last  update  25  March  2014]: What  should  be  the  basis  of  the  numerator  for 
+calculating  the  breakdown  of  investment  strategies  as  a  percentage  of  the  NAV  of  the  AIF 
+(question 60 of the consolidated reporting template)? 
+Answer 6: The numerator used for calculating the breakdown of investment strategies as a 
+percentage of the NAV of the AIF should be the net asset value of the AIF for each investment 
+strategy. Therefore, this may result in negative values for certain investment strategies but the 
+total should equal 100%.  
+Question 7 [last update 25 March 2014]: ESMA’s guidelines recommend that AIFMs submit 
+the last report of the AIF immediately after it has been liquidated or put into liquidation. When 
+should AIFMs submit this last report? 
+Answer 7: AIFMs should submit the last AIF report not later than one month after the end of 
+the quarter in which the AIF has been liquidated or put into liquidation. 
+Question  8  [last  update  25  March  2014]:  How  should  AIFMs  calculate  the  percentage  of 
+market value for securities traded on regulated markets and OTC markets (questions 148 and 
+149 of the consolidated reporting template)? 
+Answer 8: AIFMs should aggregate the market value of all securities traded and report the 
+percentage  of  the  market  value  of  securities  traded  on  a  regulated  exchange  and  OTC. 
+Regulated exchanges include regulated markets, multilateral trading facilities and organised 
+trading  facilities.  For  the  European  Union,  regulated  markets 10  and  multilateral  trading 
+facilities 11 are  published  on  ESMA’s  website.  Securities  that  are  not  traded  on  regulated 
+exchanges should be considered as traded OTC. This means that the total should equal 100%. 
+Question  9  [last  update  25  March  2014]:  How  should  AIFMs  calculate  the  percentage  of 
+trade volumes for derivatives traded on regulated markets and OTC markets (questions 150 
+and 151 of the consolidated reporting template)? 
+Answer  9:  AIFMs  should  take  into  account  the  total  number  of  trades  and  report  the 
+percentage  of  number  of  trades  on  a  regulated  exchange  and  OTC.  Regulated  exchanges 
+                                                
+10 
+http://mifiddatabase.esma.europa.eu/Index.aspx?sectionlinks_id=23&language=0&pageName=REGULATED_MARKETS_Displ
+ay  
+11 http://mifiddatabase.esma.europa.eu/Index.aspx?sectionlinks_id=22&language=0&pageName=MTF_Display 
+12 
+ 
+ 
+ 
+include regulated markets, multilateral trading facilities and organised trading facilities. For the 
+European  Union,  regulated  markets 12  and  multilateral  trading  facilities 13  are  published  on 
+ESMA’s website. Securities that are not traded on regulated exchanges should be considered 
+as traded OTC. This means that the total should equal 100%. 
+Question 10 [last update 25 March 2014]: How should AIFMs report the information on the 
+liquidity portfolio when the AIF is invested in assets with no current liquidity for which it is not 
+possible  to  determine  the  future  liquidity  (questions  178  -184  of  the  consolidated  reporting 
+template)?  
+Answer  10:  In  that  case,  AIFMs  should  adopt  a  conservative  approach  and  assign  the 
+instrument to the longest period bucket. 
+Question  11  [last  update  25  March  2014]:  How  should  AIFMs  report  the  information  on 
+investor liquidity? 
+Answer 11: AIFMs should divide the AIF’s NAV among the period buckets depending on the 
+shortest  period  within  which  investors  are  entitled,  under  the  fund  documents,  to  withdraw 
+invested funds or receive redemption payments, as applicable. 
+For  example,  an  AIF  has  a  NAV  of  €  1,000,000  with  two  investors.  According  to  the  fund 
+documents, investor A whose share of the NAV is €600,000 is entitled to withdraw 50% of its 
+investment  on  a  daily  basis  and  50%  of  its  investments  between  2  and 7  days.  Investor  B, 
+whose share of the NAV is €400,000, is entitled to withdraw 60% of its investments between 
+31 and 90 days and 40% of its investment within 91 and 180 days. The investor profile of the 
+AIF will be the following: 
+1  day  or 
+less 
+30% 
+2-7 days 
+8-30 days 
+31-90 days  91-180 
+30% 
+0 
+24% 
+days 
+16% 
+181-365 
+days 
+0 
+More  than 
+365 days 
+0 
+Question  12  [last  update  25  March  2014]:  According  to  question  22  of  the  consolidated 
+reporting template, AIFMs must  indicate the inception date of the AIF. What does inception 
+date mean? 
+Answer 12: If an AIF is subject to pre-authorisation, the inception date should be the date of 
+authorisation. If an AIF is established without pre-authorisation by the competent authority, the 
+inception date should be the date when the AIF was established. Finally, if the AIF is subject 
+to  registration  obligation  at  national  level  with  its  competent  authority  after  the  date  of 
+establishment, the inception date should be the date when the AIF was constituted. 
+                                                
+12 
+http://mifiddatabase.esma.europa.eu/Index.aspx?sectionlinks_id=23&language=0&pageName=REGULATED_MARKETS_Displ
+ay  
+13 http://mifiddatabase.esma.europa.eu/Index.aspx?sectionlinks_id=22&language=0&pageName=MTF_Display 
+ 
+13 
+ 
+ 
+ 
+Question 13 [last update 25 March 2014]: Should AIFMs report the information in English or 
+in the language of the jurisdiction to which they report?  
+Answer 13: Apart from the sections on assumptions and stress tests, where text is allowed, 
+the rest of the information to be reported will consist of figures, predetermined values or names 
+of  counterparties.  For  assumptions  and  stress  tests,  ESMA  recommends  that  the  national 
+competent  authority  allow  AIFMs  to  report  the  information  in  English,  which  would  allow 
+multinational  groups  to  centralise  and  harmonise  their  AIFMD  reporting.  However,  this  will 
+depend on the national legislation transposing the AIFMD. 
+Question 14 [last update 25 March 2014]: There are predetermined codes for the XML filing. 
+Should these codes be translated into national languages? 
+Answer 14: No. These codes are predetermined values that cannot be changed for the XML 
+filing. 
+Question  15 [last  update  25 March  2014]: Is  cash  resulting from  repurchase  agreements 
+included in the amount of cash and cash equivalents to be reported by AIFMs under questions 
+121 -124? 
+Answer  15:  Yes. When  reporting  information  on  cash  and  cash  equivalents,  AIFMs  should 
+include all amounts of cash held, including as a result of repurchase arrangements. 
+Question  16  [last  update  25  March  2014]:  According  to  questions  163  and  164  of  the 
+consolidated  reporting  template,  AIFMs  should  report  the  BIC  and  LEI  of  the  five  biggest 
+counterparties to which an AIF has exposure. How should AIFMs identify those counterparties 
+if they do not have such codes?  
+Answer 16: In that case, AIFMs should only report the full name of the counterparty. 
+Question 17 [last update 25 March 2014]: What information should AIFMs report for question 
+137  of  the  consolidated  reporting  template  when  they  do  not  have  an  expected  annual 
+return/IRR in normal market conditions?  
+Answer 17: In that case, AIFMs should report the value ‘N/A’ for non-applicable. 
+Question 18 [last update 25 March 2014]: Must all AIFMs answer questions 296 to 301 of 
+the consolidated reporting template? 
+Answer 18: No. Only AIFMs managing AIFs employing leverage on a substantive basis must 
+answer questions 296 to 301 of the consolidated reporting template. 
+Question  19  [last  update  27  June  2014]:  Pursuant  to  questions  19  of  the  consolidated 
+reporting template for AIF-specific information and 20 of the consolidated reporting template 
+14 
+ 
+ 
+ 
+for AIFM-specific information, AIFMs must specify whether the AIFs and the AIFMs are EEA 
+AIFs and EEA AIFMs. Which countries are covered by the reference to “EEA”? 
+Answer 19: EEA AIFs and EEA AIFMs should be understood as AIFs and AIFMs established 
+in one of the 28 EU Member States or Iceland, Norway and Liechtenstein. 
+Question  20 [last  update  27  June  2014]:  According  to  Article  24(2)  of the  AIFMD,  AIFMs 
+must report specific information for all EU AIFs they manage or AIFs they market in the Union. 
+Which countries are covered by the reference to “the Union”? 
+Answer 20: The reference to the Union should be understood as including the 28 EU Member 
+States and, once the AIFMD has been incorporated into the EEA agreement, Norway, Iceland 
+and Liechtenstein. 
+Question  21  [last  update  27  June  2014]:  The  technical  guidance  indicates  for  each 
+information  item  whether  the  information  is  mandatory  (M),  optional  (O)  or  conditional  (C). 
+What do these categories mean?  
+Answer 21: Information marked as mandatory should be reported by all AIFMs. Information 
+marked  as  optional  has  to  be  reported  if  the  AIFM  has  information  to  report.  For  example, 
+question 10 of the reporting template (change in AIF reporting obligation frequency code) is 
+marked as optional. This means that AIFMs should report this information if the reporting code 
+has changed compared to the previous reporting. Information marked as conditional is linked 
+to other information (flags) in the reporting template. If those flags are answered with “Yes”, 
+the  corresponding  conditional  information  has  to  be  reported.  However,  if  those  flags  are 
+answered  with  “No”,  the  corresponding  conditional  information  should  not  be  reported.  For 
+example, if the question 41 (master feeder flag) is answered with “Yes”, AIFMs should indicate 
+in field 42 the name of the master AIFs. 
+Question 22 [last update 21 July 2014]: How should AIFMs calculate the percentage of trade 
+volumes  for  derivatives  cleared  by  a  CCP  and  bilaterally  (questions  152  and  153  of  the 
+consolidated reporting template)? 
+Answer  22:  AIFMs  should  take  into  account  the  total  number  of  trades  and  report  the 
+percentage of number of trades cleared by a CCP and bilaterally. The total should equal 100%. 
+Question  23  [last  update  21  July  2014]:  How  should  AIFMs  calculate  the  percentage  of 
+market value for repo trades cleared by a CCP, bilaterally or on a tri-party basis (questions 154 
+and 156 of the consolidated reporting template)? 
+Answer  23:  AIFMs  should  aggregate  the  market  value  of  all  repo  trades  and  report  the 
+percentage of the market value of repo trades cleared by a CCP, bilaterally or on a tri-party 
+basis. The total should equal 100%. 
+Question 24 [last update 21 July 2014]: How should AIFMs classify FX spot trades when 
+answering questions such as on individual exposures (questions 121 to 124 of the consolidated 
+reporting template for AIF-specific information) or value of turnover in each asset class over 
+15 
+the  reporting  period  (questions  125  to  127  of  the  consolidated  reporting  template  for  AIF-
+specific information)? 
+ 
+ 
+ 
+Answer 24: When reporting information other than value of turnover, AIFMs should classify 
+FX spot trades as ‘other cash equivalent (excluding government securities)’ with the sub-asset 
+type code ‘SEC_CSH_OTHC’. When reporting information on value of turnover, AIFMs should 
+classify  FX  spot 
+the  sub-asset  type  code 
+‘SEC_CSH_CSH’. 
+‘other  cash  equivalent’  with 
+trades  as 
+Question 25 [last update 21 July 2014]: AIFMs have to report value of turnover in each asset 
+class over the reporting period (questions 125 to 127 of the consolidated reporting template 
+for AIF-specific information). What information should AIFMs report for these questions when 
+no trades took place during the reporting period? 
+Answer  25:  AIFMs  should  use  the  field  ‘total  other’  with  the  sub-asset  type  code 
+‘OTH_OTH_OTH’ and report ‘0’.  
+Question 26 [last update 21 July 2014]: How should AIFMs classify cross-currency interest 
+swaps  when  answering  questions  such  as  those  on  individual  exposures  (questions  121  to 
+124 of the consolidated reporting template for AIF-specific information) or value of turnover in 
+each asset class over the reporting period (questions 125 to 127 of the consolidated reporting 
+template for AIF-specific information)? 
+Answer 26: When reporting information other than value of turnover, AIFMs should classify 
+cross-currency  interest  swaps  as  ‘interest  rate  derivatives’  with  the  sub-asset  type  code 
+‘DER_IRD_INTR’.  When  reporting  information  on  value  of  turnover,  AIFMs  should  classify 
+cross-currency  interest  swaps  as  ‘interest  rate  derivatives’  with  the  sub-asset  type  code 
+‘DER_IRD_IRD’. 
+Question 27 [last update 11 November 2014]: When answering questions 148 and 149 of 
+the  consolidated  reporting  template,  should  AIFMs  include  repo  and  reverse  repurchase 
+agreements? 
+Answer 27: Yes, but AIFMs should only include securities received by the AIFs. 
+Question  28  [last  update  21  July  2014]:  How  should  AIFMs managing  AIFs  holding  cash 
+report the breakdown of investment strategies? 
+Answer 28: When the holding of cash is part of a strategy such as a CTA14 strategy, AIFMs 
+should not report cash separately. For example, an AIF with a CTA strategy representing 70% 
+of its NAV, out of which 30% of the NAV is made up of cash at the time of the reporting date, 
+should allocate 70% of its NAV to the CTA strategy. 
+                                                
+14 A commodity trading advisor (CTA) generally acts as an asset manager, following a set of investment strategies utilizing futures 
+contracts and options on futures contracts on a wide variety of underlying instruments. 
+16 
+ 
+ 
+ 
+If  the  holding  of  cash  is  not  part  of  an  investment  strategy,  AIFMs  should  use  the  strategy 
+‘other’ of the predominant AIF type selected and report the corresponding percentage of the 
+NAV held in cash. AIFMs should also use the field ‘description’ to make it clear that the field 
+‘other’ is made up of cash. 
+Question 29 [last update 21 July 2014]: Question 6 above clarifies that negative values can 
+be  reported  for  investment  strategies.  How  should  AIFMs  report  information  on  investment 
+strategies with negative values? 
+Answer 29: AIFMs should allocate the status of predominant AIF type to the strategy with the 
+highest absolute percentage of the NAV. The predominant AIF type ‘multi-strategy hedge fund’ 
+should be used when no strategy has an absolute value greater than 50% of the NAV. 
+Question 30 [last update 21 July 2014]: Should AIFMs consider bank overdrafts as funding 
+sources? 
+Answer 30: Yes. 
+Question  31  [last  update  21  July  2014]:  Pursuant  to  Article  111  of  the  implementing 
+Regulation,  leverage  shall  be  considered  to  be  employed  on  a  substantial  basis  when  the 
+exposure of an AIF, as calculated according to the commitment method, exceeds three times 
+its NAV. How should AIFMs assess this limit?  
+Answer 31: AIFs should be considered as employing leverage on a substantial basis if, over 
+the reporting period, the average daily calculation of the exposure as calculated according to 
+the commitment method exceeds three times the average daily calculation of the NAV. If the 
+exposure  is  calculated  less  frequently  than  daily,  AIFs  should  be  considered  as  employing 
+leverage on a substantial basis where, at least once during the reporting period, the exposure 
+as calculated according to the commitment method exceeds three times its NAV. 
+Question  32  [last  update  21  July  2014]:  How  should  AIFMs  managing  AIFs  with  multiple 
+share classes identify the AIFs? 
+Answer 32: AIFMs reporting information for AIFs with multiple share classes should answer 
+questions 24 and questions 30 to 40 of the consolidated reporting template.  
+For  AIFs  with  only  one  share  class,  AIFMs  should  only  answer  questions  24  to  33  of  the 
+consolidated reporting template. 
+Question  33  [last  update  21  July  2014]:  In  question  282  of  the  consolidated  reporting 
+template, should AIFMs report the percentage of collateral posted to all counterparties that has 
+been re-hypothecated as of the last business day of the reporting period or during the reporting 
+period? 
+Answer 33: AIFMs should report the percentage of the market value of the collateral that has 
+been re-hypothecated during the reporting period. This percentage should be the ratio of the 
+aggregated market value of the collateral re-hypothecated during the reporting period by all 
+17 
+ 
+ 
+ 
+counterparties over the aggregated market value of all the collateral posted by AIFMs to all 
+counterparties.  
+Question  34  [last  update  21  July  2014]:  What  information  should  AIFMs  report  under 
+questions 283 to 286 of the consolidated reporting template? 
+Answer 34: For questions 283, 284, 285 and 286, AIFMs should aggregate the market value 
+of cash and securities borrowed. 
+Question 35 [last update 21 July 2014]: In which currency should AIFMs report information 
+on the five principal markets and five principal instruments in which they trade (questions 29 
+and 32 of the consolidated reporting template for AIFM-specific information)? 
+Answer 35: AIFMs should report this information in Euro. 
+Question 36 [last update 30 September 2014]: A non-EU AIFM markets its AIFs in the Union 
+under Article 42 of the AIFMD. Should the AIFM continue to report to the national competent 
+authorities of the Member States in which it markets its AIFs after the marketing period of the 
+AIF has ended? 
+Answer  36:  For  non-EU  AIFMs  marketing  their  AIFs  in  the  Union  under  Article  42  of  the 
+AIFMD,  the  reporting  obligations  to  national  competent  authorities  does  not  depend  on  the 
+actual marketing period of the AIF but rather on the existence of investors in the AIF in the 
+jurisdiction of the authority concerned. 
+Therefore, non-EU AIFMs should continue to report to national competent authorities after the 
+marketing  period  has  ended  unless  they  confirm  that  no  investors  in  the  jurisdiction  of  the 
+authority concerned are invested in the AIFs. 
+Question  37  [last  update  26  March  2015]:  A  non-EU  AIFM  markets  its  AIFs  in  several 
+Member States under Article 42 of the AIFMD. Should the AIFM calculate a reporting frequency 
+for  each  Member  State  where  it  markets  its  AIFs  or  should  the  AIFM  calculate  a  unique 
+reporting frequency for all Member States in which it markets its AIFs? 
+Answer 37: According to Article 110 of the implementing Regulation, AIFMs shall take into 
+account  all  the  EU  AIFs  they  manage  and  AIFs  they  market  in  the  Union  to  calculate  the 
+reporting frequency. The AIFM should therefore calculate a unique reporting frequency taking 
+into account all the AIFs it markets in the Union and apply the same reporting frequency to all 
+Member States where it markets its AIFs.  
+Similarly, the assets under management in questions 33 and 34 of the consolidated reporting 
+template for AIFM-specific information should be based on all the AIFs marketed in the Union 
+by a non-EU AIFM and not on the AIFs marketed by a non-EU AIFM in a particular Member 
+State.  This  means  that  non-EU  AIFMs  should  report  the  same  amount  of  assets  under 
+management to all NCAs to which they report under Article 42 of the AIFMD. 
+18 
+ 
+ 
+ 
+Question 38 [last update 30 September 2014]: Should AIFMs use the NAV when they report 
+information under questions 48 and 86 to 93 of the consolidated reporting template for AIF-
+specific information? 
+Answer 38: No. AIFMs should use the total value of assets under management calculated in 
+accordance with Article 2 of the implementing Regulation. In addition, if the national competent 
+authorities  to  which  they  report  have  decided  to  apply  ESMA’s  opinion  on  collection  of 
+information  under  Article  24(5),  AIFMs  should  also  use  the  total  value  of  assets  under 
+management  for  questions  86  to  93  of  the  consolidated  reporting  template  for  AIF-specific 
+information. 
+Question 39 [last update 30 September 2014]: How should AIFMs calculate the value of the 
+five  main  instruments  in  which  the  AIF  is  trading (question  76  of the consolidated  reporting 
+template for AIF-specific information)? 
+Answer  39:  AIFMs  should  calculate  the  values  according  to  Article  2  of  the  implementing 
+Regulation  and  not  according  to  Article  3  of  the  AIFMD  as  stated  in  Annex  IV  of  the 
+implementing Regulation. 
+Question 40 [last update 30 September 2014]: According to Article 110 of the implementing 
+Regulation, AIFMs shall report to national competent authorities no later than 30 days or 45 
+days for fund of funds after the end of the reporting period. What should AIFMs do if the final 
+NAV  of  the  AIFs  for  which  they  report  is  not  available  by  this  deadline  or  is  no  longer 
+representative? 
+Answer 40: In that situation, AIFMs should use estimates of the NAV of the AIFs and send 
+updates afterwards if there is a difference between the estimated NAV and the final NAV. 
+Question 41 [last update 30 September 2014]: Should the position type (Long or Short) in 
+relation to a derivative instrument be determined by reference to the derivative contract or by 
+reference to the exposure to the underlying of the derivative instrument (questions 75, 97, 105, 
+123, 124, 129 and 130 of consolidated reporting template for AIF-specific information)?  
+Answer  41:  The  position  type  should  be  determined  by  reference  to  the  exposure  to  the 
+underlying of the derivative instrument. As a result, a long position on a put option should be 
+reported as ‘Short’ whereas a short position on a put option should be reported as ‘Long’. 
+Question  42  [last  update  30  September  2014]:  Should  AIFMs  take  into  account  the 
+settlement period when they report information on portfolio liquidity (questions 178 to 184 of 
+the consolidated reporting template for AIF-specific information)? 
+Answer 42: AIFMs should adopt a conservative approach when they report information on the 
+portfolio liquidity. As a consequence, AIFMs should take into account the time delay for having 
+the proceeds of the sale available on a cash account if it has as a non-negligible impact on the 
+liquidity profile of the AIF. 
+19 
+ 
+ 
+ 
+Question 43 [last update 30 September 2014]: Should AIFMs include cash accounts when 
+reporting information on the total number of open positions (question 218 of the consolidated 
+reporting template for AIF specific information)? 
+Answer 43: Yes, AIFMs should take into account all cash accounts that exist.  
+Question  44  [last  update  30  September  2014]:  What  value  should  AIFMs  use  to  report 
+information  on  the  value  of  securities  borrowed  for  short  positions  (question  289  of  the 
+consolidated reporting template for AIF-specific information)? 
+Answer 44: AIFMs should use the market value of the securities borrowed. 
+Question 45 [last update 30 September 2014]: Should AIFMs report information on turnover 
+of financial derivative instruments based on both market values and notional values (questions 
+126 and 127 of the consolidated reporting template for AIF-specific information)? 
+Answer 45: Yes. 
+Question 46 [last update 30 September 2014]: How should AIFMs treat bank overdrafts for 
+the purpose of information on individual exposures (questions 123 and 124 of the consolidated 
+reporting template)? 
+Answer  46:  AIFMs  should  treat  bank  overdrafts  as  short  positions  in  ‘Cash  and  Cash 
+Equivalent’. 
+Question 47 [last update 11 November 2014]: AIFMs shall report the value of collateral and 
+other  credit  support  posted  to  all  counterparties  (questions  157  to  159  of  the  consolidated 
+reporting  template).  Should  AIFMs  include  collateral  passed  to  a  clearing  member  for 
+transmission to a CCP in these questions? 
+Answer 47: Yes. 
+Question  48  [last  update  11  November  2014]:  How  should  AIFMs  calculate  the  turnover 
+expressed  in  notional  value  for  derivative  instruments  (question  127  of  the  consolidated 
+reporting template)? 
+Answer 48: AIFMs should convert the derivative positions into an equivalent position in the 
+underlying  assets  as  prescribed  in  Article  10  and  Annex  II  of  the  implementing  Regulation 
+using the value at the date of the trade and not at the reporting date. 
+Question 49 [last update 11 November 2014]: In which categories should AIFMs allocate 
+sovereign bonds which fall in the categories ‘Non-G10 with 0-1 year/1year+ term to maturity’ 
+and also in the categories ‘EU bonds with 0-1 year/1 year + term to maturity’? 
+Answer 49: AIFMs should allocate those sovereign bonds to the categories ‘EU bonds with 0-
+1 year/1 year + term to maturity’. 
+20 
+ 
+ 
+ 
+Question  50  [last  update  9  January  2015]:  How  should  AIFMs  report  information  on 
+subscriptions  and  redemptions  over  the  reporting  period  (questions  255  to  278  of  the 
+consolidated reporting template)? 
+Answer 50: AIFMs should report the value of subscription and redemption orders and not the 
+number of subscription and redemption orders. Information should be reported for the month 
+of the cash-flows and not for the month of the subscription and redemption orders unless it is 
+the same month. 
+For  example,  an  AIFM  is  subject  to  quarterly  reporting  obligations  and  investors  can 
+subscribe/redeem 4 times per year on the NAVs of 31/03, 30/06, 30/09 and 31/12 of each year. 
+The AIFM receives for January 100 redemption orders, for February 200 redemption orders 
+and for March 50 redemption orders (350 redemption orders in total over the reporting period 
+Q1). Redemption orders are executed in April on the NAV calculated on 31 March. The NAV 
+is €100 per share. Therefore, the AIFM will report redemption orders for a total value of €35,000 
+(350*100) in April (reporting for Q2).  
+Question  51  [last  update  9  January  2015]:  How  should  AIFMs  report  information  on  the 
+change in NAV per month (questions 243 to 254 of the consolidated reporting template)?  
+Answer  51:  The  change  in  NAV  captures  both  the  change  due  to  subscriptions  and 
+redemptions and the change due to investment performance. It is the net effect on the fund’s 
+NAV over the given reporting period after all inflows, outflows and performance are taken into 
+account. AIFMs should report information on the change in NAV for each month of the reporting 
+period. If no official NAV is available for the calculation,  AIFMs should use estimates of the 
+NAV. In some cases (e.g. for AIFs investing in illiquid assets), the best estimate may be the 
+previous NAV. 
+Question  52  [last  update  9  January  2015]:  How  should  AIFMs  report  information  on  the 
+percentage  of  gross  and  net  investment  returns  per  month  (questions  219  to  242  of  the 
+consolidated reporting template)? 
+Answer 52: AIFMs should report the information for each month of the reporting period. If no 
+official NAV is available for the calculation, AIFMs should use estimates of the NAV. In some 
+cases (e.g. for AIFs investing in illiquid assets), the best estimate may be the previous NAV. 
+Question 53 [last update 9 January 2015]: An AIFM manages both funds and funds of funds. 
+When should the AIFM report aggregated information at the level of the AIFM (AIFM file of the 
+consolidated reporting template)? 
+Answer 53: In that case, the AIFM should report aggregated information at the level of the 
+AIFM  and  on  funds  of  funds  no  later  than  45  days  after  the  end  of  the  reporting  period. 
+Information on AIFs that do not take the form of fund of funds should be reported 1 month after 
+the end of the reporting period as required by Article 110 of the implementing Regulation. 
+21 
+ 
+ 
+ 
+Question 54 [last update 26 March 2015]: How should AIFMs report information on the total 
+long  and  short  value  of  exposures  before  currency  hedging  (questions  128  to  130  of  the 
+consolidated reporting template)? 
+Answer 54: AIFMs should report information on long and short value of exposures for all the 
+sub-asset  types  of  questions  122  to  124  of  the  consolidated  reporting  template.  The 
+information should be provided in the base currency of the AIF. This means that the sum of 
+the short and long value of exposures in questions 129 and 130 should equal the sum of the 
+questions 122 to 124. 
+Question 55 [last update 26 March 2015]: Should non-EU AIFMs marketing their AIFs in the 
+Union under Article 42 of the AIFMD report the results of stress tests under Articles 15 and 16 
+of the AIFMD (questions 279 and 280 of the consolidated reporting template)?  
+Answer 55: Non-EU AIFMs marketing their AIFs in the Union under Article 42 of the AIFMD 
+should  report  the  results  of  stress  tests  insofar  as  this  is  required  by  the  national  private 
+placement regime of the Member States where they market their AIFs or if the non-EU AIFMs 
+have carried out such stress tests. 
+Question 56 [last update 12 May 2015]: How do the reporting obligations apply to AIFMs that 
+are sister companies and that are owned by another AIFM? 
+Answer 56: The reporting obligations apply to each individual AIFM for the AIFs they manage 
+and/or  market  in  the  Union.  This  means  that  each  AIFM  should  report  individually  to  the 
+competent authorities of their home Member State according to their own reporting frequency 
+as calculated pursuant to Article 110 of the implementing Regulation.  
+Question  57  [last  update  12  May  2015]:  Should  AIFMs  consider  commitments  or  actual 
+capital drawdowns when they report information on subscriptions over the reporting period for 
+AIFs  pursuing  private  equity  strategies  (questions  255  to  266  of  the  consolidated  reporting 
+template)? 
+Answer 57: AIFMs should consider actual capital drawdowns and not commitments when they 
+report information on subscriptions for AIFs pursuing private equity strategies.  
+Question 58 [last update 12 May 2015]: What are the reporting obligations for a registered 
+AIFM that decides to opt in under the Directive? 
+Answer 58: Once a registered AIFM has opted in under the Directive it has to comply with the 
+Directive  in  its  entirety.  Therefore,  an  AIFM  that  has  opted  in  has  to  report  to  its  national 
+competent authorities the information listed in Article 24 of the Directive. However, the fact that 
+the  AIFM  has  opted  into  the  Directive  does  not  impact the  reporting frequency.  Indeed,  the 
+AIFM should continue to report on an annual basis to its national competent authorities.  
+However, if at a later stage the total value of assets under management of the AIFM that has 
+opted in exceeds the thresholds of Article 110 of the implementing Regulation, the AIFM will 
+have to report on a more frequent basis to its national competent authorities. 
+22 
+ 
+ 
+ 
+In certain Member States, all AIFMs have to be authorised under the Directive. Therefore, in 
+these  jurisdictions,  AIFMs  whose  total  value  of  assets  under  management  is  under  the 
+thresholds of Article 3(2)(a) and (b) of the Directive have to report to their national competent 
+authorities the information listed in Article 24 of the Directive. 
+Question 59 [last update 12 May 2015]: What information should a non-EU AIFM whose total 
+value of assets under management does not exceed the thresholds of Article 3(2)(a) and (b) 
+of  the  Directive  and  that  markets  its  AIFs  in  the  Union  under  a  national  private  placement 
+regime report to the competent authorities?  
+Answer 59: Article 3 of the AIFMD does not make any distinction between EU AIFMs and non-
+EU AIFMs. Therefore, non-EU AIFMs whose total value of assets under management does 
+not  exceed  the thresholds  of Article  3(2)(a)  and  (b)  and  that market  their  AIFs  in  the  Union 
+under a national private placement regime should at least report to the competent authorities 
+where they market their AIFs the information listed in Article 3(3)(d) of the Directive. Indeed, 
+the national private placement regimes of the Member States where the non-EU AIFM markets 
+its AIFs may require non-EU AIFMs to report additional information. 
+Question  60  [last  update  12  May  2015]:  What  information  should  an  AIFM  report  for 
+questions 128 to 130 of the consolidated reporting template when an AIF invests exclusively 
+in assets denominated in the base currency of the AIF? 
+Answer 60: The AIFM should report the long and short positions in the base currency of the 
+AIF. 
+Question 61 [last update 12 May 2015]: Should AIFMs consider distribution of dividends to 
+investors as redemptions for the purpose of questions 267 to 278 of the consolidated reporting 
+template? 
+Answer 61: No. 
+Question  62  [last  update  12  May  2015]:  Should  AIFMs  always  apply  the  same  reporting 
+frequency to AIFs that are sub-funds of the same umbrella AIFs? 
+Answer 62: No. The reporting frequency of an AIF is not affected by the legal structure of the 
+AIF. Each AIF, being sub-funds of the same umbrella AIFs or not, has to be treated separately 
+for the purpose of the reporting obligations (including for the reporting frequency).  
+Question  63  [last  update  12  May  2015]:  Should  AIFMs  take  into  account  cash  and  cash 
+equivalents for the purpose of the main instruments in which the AIF is trading (questions 64 
+to 77 of the consolidated reporting template), the principal exposures of the AIF (questions 94 
+to  102  of  the  consolidated  reporting  template)  and  the  five  most  important  portfolio 
+concentrations (questions 103 to 112 of the consolidated reporting template)? 
+Answer 63: Yes. 
+23 
+ 
+ 
+ 
+Question 64 [last update 12 May 2015]: What should be the procedure for the first reporting 
+on AIFs? 
+Answer 64: The procedure should be the same procedure as for the first reporting on AIFMs. 
+This procedure is detailed in paragraphs 11 to 13 of ESMA’s guidelines on reporting obligations 
+under Articles 3(3)(d) and 24 (1), (2) and (4) of the AIFMD. 
+Question 65 [last update July  2017]: How should AIFMs convert the total value of assets 
+under management into Euro? 
+Answer 65: First of all, AIFMs should use the rounded values of the AIFs in the base currency 
+of the AIFs. Then, AIFMs should divide these rounded values by the corresponding rate of one 
+unit of the base currency in Euros. For example, if the base currency of an AIF, reporting for 
+31 March 2015, is the US dollar and is using the ECB rate, AIFMs should multiply the rounded 
+value in US dollar of the AIF by 0.9312, which was the spot rate on that date.  
+AIFMs should report the rounded values in Euro and in the base currency in questions 33 and 
+34 of the consolidated reporting template for AIFM-specific information and in question 48 in 
+Euro  of  the  consolidated  reporting  template  for  AIF-specific  information.  AIFMs  should  also 
+report the value of the exchange rate used for the conversion in question 37 of the consolidated 
+reporting  template  for  AIFM-specific  information  and  in  question  50  of  the  consolidated 
+reporting template for AIF-specific information. 
+Question 66 [last update 21 July 2015]: Question 64 above clarifies that the procedure for 
+first reporting of AIFs should be the same procedure as for first reporting of AIFMs as laid down 
+in ESMA’s guidelines on reporting obligations. This means that AIFMs should not report any 
+information  on  AIFs  for  the  reporting  period  during  which  the  AIFs  were  created.  However, 
+should AIFMs include AIFs created during the reporting period in the total value of assets under 
+management of the AIFM for that reporting period? 
+Answer 66: Yes. This means that the total value of assets under management at the level of 
+the AIFM at the reporting date (question 33 of the consolidated reporting template for AIFM-
+specific information) will not be the sum of the values of assets under management of the AIFs 
+reported for that reporting period. 
+Question 67 [last update 02 December 2015]: According to questions 54 to 56 and 210 to 
+217  of the  consolidated reporting template,  AIFMs  have  to report on the jurisdictions  of the 
+three main funding sources (excluding units or shares of the AIF bought by investors) as well 
+as on the aggregate amount of borrowing and cash financing. Should AIFMs include all liquidity 
+that is made available to the AIF (including the cash received in the context of securities lending 
+transactions  and  repurchase  transactions),  unless  it  originates  from  the  payment  of 
+subscriptions related to units or shares of the AIF bought by investors? 
+Answer 67: Yes. 
+Question  68  [last  update  02  December  2015]:  According  to  questions  121  to  124  of  the 
+reporting  template  for  AIF-specific  information,  AIFMs  have  to  categorise  loans  as  either 
+24 
+ 
+ 
+ 
+leveraged or other loans. ESMA guidelines provide that where a loan is syndicated the loan 
+should be classified as ‘other’. How should a leveraged syndicated loan be classified for the 
+purpose of completion of these questions? 
+Answer  68:  To  ensure  consistency  of  reporting  all  leveraged  loans,  whether  syndicated  or 
+otherwise, should be disclosed as leveraged loans. 
+Question 69 [last update 02 December 2015]: According to question 285 of the reporting 
+template for AIF-specific information, AIFMs shall report information on collateralised/secured 
+cash borrowing – via (reverse) repo. Should AIFMs report cash from repurchase agreements 
+as cash borrowings? 
+Answer 69: Yes. 
+Question 70 [last update 02 December 2015]: Question 66 clarifies that newly created AIFs 
+should  be  included  in  the  total  AUM  of  the  AIFM  at  the  reporting  date  (question  33  of  the 
+reporting template for AIFM-specific information). Should information on newly created AIFs 
+also be included in questions 26 to 32 of the reporting template for AIF-specific information? 
+Answer 70: No. Information on the newly created AIF(s) should only be included in the total 
+AUM  of  the  AIFM  as  reported  at  question  33  of  the  reporting  template  for  AIFM-specific 
+information. 
+Question 71 [last update 02 December 2015]: According to Article 2(4) of the implementing 
+Regulation, AIFMs may exclude investments of AIFs in other AIFs they manage for the purpose 
+of  calculating  the  total  value  of  assets  under  management.  Does  ESMA  expect  AIFMs  to 
+exclude such investments from the calculation of the total value of assets under management? 
+Answer  71:  Yes.  In  order  to  ensure  the  comparability  of  the  results  at  an  EU  level,  it  is 
+important  that  AIFMs  calculate  their  total  value  of  assets  under  management  in  the  same 
+manner. In situations where feeder AIFs invest in master AIFs and where these are managed 
+by  the  same  AIFM,  it  is  important  to  ensure  that  there  is  no  duplication  of  assets  under 
+management. 
+Question  72  [last  update  02  December  2015]:  When  reporting  information  on  their 
+investment strategies, should AIFMs report the investment strategy that corresponds to their 
+portfolio of assets as at the reporting date or should they indicate the investment strategy that 
+is disclosed to investors in the fund rules or other offering documents?  
+Answer 72: AIFMs should report the investment strategy that is disclosed to investors in the 
+fund rules or other offering documents. 
+Question  73  [last  update  02  December  2015]:  How  should  AIFMs  determine  the 
+geographical focus of assets in which they invest such as stocks, bonds or financial derivatives 
+(questions 78 to 85 of the consolidated template for AIF-specific information)? 
+Answer 73: AIFMs should take into account the domicile of the company/entity to which the 
+AIFs have an exposure. For example, if an AIF invests in a stock of a company domiciled in 
+25 
+ 
+ 
+ 
+Europe but traded in the US, the corresponding geographical area would be Europe and not 
+North-America. Similarly, an AIF that invest in a bond issued in the US market by a company 
+domiciled  in  the  Europe  should  select  Europe.  For  financial  derivative  instruments  such  as 
+options,  AIFMs  should  look  at  the  financial  instrument  underlying  the  financial  derivative 
+instruments and apply the same approach as for stocks and bonds.  
+Question 74 [last update 02 December 2015]: Is information on gross and net investment 
+returns, change in NAV, subscriptions and redemptions mandatory or optional? 
+Answer  74:  This  information  is  mandatory  for  Article  24(2)  AIF  reporting  contents  but,  to 
+enable  the  necessary  functional  flexibility,  it  is  classified  as  optional  from  a  technical 
+standpoint. This information is optional from a technical standpoint because AIFMs only have 
+to report this information for the months corresponding to the reporting period for which they 
+report. For example, an AIFM that reports on quarterly basis will report in Q2 only information 
+for  April,  May  and  June  and  not for  January,  February  and  March.  Information  on  January, 
+February and March would have been part of the report for Q1.  
+Question  75  [last  update  02  December  2015]:  When  reporting  information  on  leverage, 
+should AIFMs report a ratio or a percentage? 
+Answer 75: AIFMs should report a percentage. 
+Question 76 [last update 02 December 2015]: When reporting the investment strategy of a 
+feeder AIF, should AIFMs look through the master AIF? 
+Answer 76: ESMA expects that in most instances, feeder AIFs will have the same investment 
+strategy  as  the  master AIF  unless  the  investments  made by  the feeder AIF  in  other  assets 
+make the resulting strategy different. 
+Question  77  [last  update  02  December  2015]:  Should  AIFMs  include  master/feeder 
+structures when answering questions 290 to 293 of the consolidated template for AIF-specific 
+information? 
+ Answer 77: No. 
+Question 78 [last update 02 December 2015]: Is information on liquidity profile mandatory 
+or optional (questions 178 to 192 of the reporting template for AIF-specific information)? 
+Answer 78: This information is mandatory.  
+Question 79 [last update 02 December 2015]: What information should AIFMs communicate 
+when they report a total value of assets under management with a value of 0 at the AIFM level 
+(question  33  of  the  reporting  template  for  AIFM-specific  information)  or  at  the  AIF  level 
+(question 48 of the reporting template for AIF-specific information)? 
+Answer 79: AIFMs should use the assumption boxes of the reporting template to explain why 
+the total value of assets under management equals 0. For example, this may be because the 
+26 
+ 
+ 
+ 
+assets of the AIF have been liquidated, merged with or transferred to another AIF or because 
+the management of the AIF has been transferred to another AIFM. 
+Question 80 [last update May 2017]: How should AIFMs report information on the breakdown 
+between retail and professional investors (questions 119 and 120 of the reporting template for 
+AIF-specific information) when this information is not available? 
+Answer: When the information is not available, AIFMs should report ‘0’ for questions 119 and 
+120 and use the assumption boxes to indicate that the information is not available.  
+Question 81 [last update July 2017]:  In a situation where an AIF purchases a loan in the 
+secondary market, how should the AIF measure its exposure in relation to that loan? 
+Answer:  In  this  case  the  notional  value  of  the  loan  may  overestimate  the  risk  exposure. 
+Therefore, the AIF should report the valuation of the loan, as it is reported in the calculation of 
+its  NAV.  For  example,  if  an  AIF  purchases  a  distressed  and  unlevered  loan  for  €10  cash 
+(without the use of leverage) and the notional amount of that loan (i.e. the outstanding principal) 
+was €100, the AIF should report the amount it actually spent to acquire the loan i.e. €10, which 
+corresponds to the maximum  potential  loss  on the  loan  transaction,  not the  AIF’s  exposure 
+with respect to that loan which would be €100 (i.e., the notional amount of such loan). During 
+the life of the loan, the AIF should then measure the exposure in relation to that loan using the 
+same valuation rules as the ones used for the calculation of its NAV.    
+Question 82 [last update July 2017]: In which currency should the NAV of the AIF (question 
+53 of the consolidated reporting template) be reported? 
+Answer: AIFMs should report the NAV in the base currency of the AIF. 
+ 
+ 
+27 
+ 
+ 
+ 
+Section IV: Notification of AIFMs 
+Date last updated: 4 October 2018 
+Question 1 [last update 27 June 2014]: May an AIFM manage an AIF in a host MS under 
+Article 33 of the AIFMD without having identified any existing AIF in that host MS beforehand? 
+Answer  1  [last  update  27  June  2014]:  Yes.  The  fact  that  an  AIFM  cannot  identify  a  pre-
+existing AIF in the host MS does not prevent an AIFM from managing an AIF in that host MS 
+under Article 33 of the AIFMD. In practice, the creation of the first AIF in the host MS is usually 
+conditional on the AIFM having previously notified the host MS’s national competent authority 
+under Article 33 of the AIFMD. Therefore, it may be necessary for an AIFM to first notify its 
+wish to make use of the management passport under Article 33 in order to subsequently be in 
+a position to create and manage AIFs in that host MS. 
+Question 2 [last update 27 June 2014]: When an AIFM wishes to manage an AIF in a host 
+MS for the first time, but has not yet set up any AIF in that host MS, how should it comply with 
+the requirement of Article 33(2)(b) of the AIFMD to identify the AIFs it intends to manage? 
+Answer 2 [last update 27 June 2014]: If the AIFM has no prior presence in the host MS it is 
+sufficient for the AIFM to specify the types of strategy of the AIFs it intends to manage in the 
+host MS. However, this is without prejudice to the obligation for the AIFM to communicate a 
+programme of operations stating the services it intends to perform in the host MS.  
+Question 3 [last update 26 March 2015]: Should an AIFM that is already managing AIFs in 
+a host Member State under Article 33 of the AIFMD and that wishes to manage a new AIF in 
+that host Member State undertake a new notification under Article 33(2) of the AIFMD? 
+Answer 3: The AIFM should not undertake a new notification under Article 33(2) of the AIFMD 
+every time it wishes to manage a new AIF established in a given Member State. The original 
+Article 33(2) notification should be considered valid for all the AIFs it intends to manage in that 
+given Member State. In such cases, an update in accordance with Article 33(6) should be sent 
+to identify each new AIF to be managed under the original Article 33(2) notification. When the 
+proposed new AIFs are of a different type from the ones specified in the original Article 33(2) 
+notification, the AIFM should clarify this in the update submitted under Article 33(6). 
+Question 4 [last update June 2017]: An AIFM wants to manage AIFs domiciled in another 
+Member  State  by  way  of  the  AIF  management  passport  (Article  33  of  AIFMD).  In  the 
+programme  of  operations,  how  does  the  AIFM  have  to  provide  information  on  the  AIFs  it 
+intends to manage? 
+Answer: Where specific AIFs cannot be identified at the time of the notification, the AIFs to be 
+managed may be identified by their investment strategy. In that regard, ESMA sees merit in 
+relying  on  the  investment  strategies  contained  in  the  reporting  template  for  identification 
+purposes (Annex IV of Commission Delegated Regulation (EU) No 231/2013). Where an AIFM 
+28 
+ 
+ 
+ 
+has only been authorised to manage certain types of AIFs, it could also refer to the scope of 
+its authorisation to identify the funds to be managed. 
+Where the AIFM is able to identify specific AIFs, these should be identified in the programme 
+of  operations  by  their  name  and  national  identifier (if  available). Information  on those funds 
+should also include their investment strategies. 
+In accordance with Article 33(6) of AIFMD, all changes to the programme of operations have 
+to be notified by the AIFM to the competent authorities in its home Member State. This includes 
+changes to the programme of operations in cases where the AIFM intends to manage further 
+AIFs (if specified by name) or types of AIFs (if specified by investment strategy) not previously 
+listed in that document. 
+*** NEW *** Question 5 [last update 4 October 2018]: An AIFM intends to manage an EU 
+umbrella AIF on a cross-border basis by way of the AIF management passport (Article 33 of 
+AIFMD).  Does  the  AIFM  have  to  identify  all  the  compartments  of  the  umbrella  AIF  in  the 
+notification? 
+Answer 5 [last update 4 October 2018]: Yes. In the notification, the AIFM has to identify the 
+umbrella AIF, as well as the name and investment strategy of its compartments, to facilitate 
+administrative procedure in home and host Member States. 
+Any change in the composition of an umbrella AIF that is managed on a cross-border basis 
+has to be notified to the competent authorities pursuant to Article 33(6) of AIFMD. 
+29 
+ 
+ 
+ 
+Section V: MiFID services under Article 6(4) of the AIFMD 
+Date last updated: 27 June 2014 
+Question 1 [last update 27 June 2014]: Can competent authorities in a Member State other 
+than the home Member State of an AIFM accept passport notifications for the activities of the 
+AIFM authorised under Article 6(4) of the AIFMD?  
+Answer 1: Yes. Article 92 of Directive 2014/65/EU (MiFID 2) modifies the provisions of the 
+AIFMD in order to establish that an AIFM authorised to provide the MiFID investment services 
+mentioned under Article 6(4) of the AIFMD has the right to provide these services on a cross-
+border basis under the authorisation granted by the competent authorities of its home Member 
+State.  
+Member States must apply the measures referred to in Article 92 of MiFID 2 from 3 July 2015. 
+However, the principle of sincere cooperation set out in Article 4(3) TFEU requires the Member 
+States to facilitate the achievement of the Union’s tasks and refrain from any measure which 
+could  jeopardise the  attainment  of  the  Union’s  objectives.  It  is  therefore  recommended  that 
+competent  authorities  accept  passport  notifications  for  the  activities  of  the  AIFM  authorised 
+under Article 6(4) of the AIFMD even before 3 July 2015. 
+ 
+ 
+30 
+ 
+ 
+ 
+Section VI: Depositaries 
+Date last updated: 16 December 2015 
+Question 1 [last update 21 July 2014]: Do the cash monitoring duties apply on a look-through 
+basis to cash accounts which are not opened in the name of the AIF/AIFM, but in the name of 
+financial and/ or legal structures established by the AIF or by the AIFM acting on behalf of the 
+AIF for the purposes of investing in the underlying assets and which are controlled directly or 
+indirectly by the AIF or by the AIFM acting on behalf of the AIF? 
+Answer  1:  No,  the  cash  monitoring  requirements  under  Articles  85  and  86  of  Commission 
+Regulation (EU) No 231/2013 (the AIFMD Level 2 Regulation) do not apply to cash accounts 
+opened in the name of companies in which the AIF/AIFM holds investments.  
+Question 2 [last update 21 July 2014]: Is it possible for the depositary to delegate to a third 
+party  (e.g.  an  administrator  which  is  not  an  affiliate  of  the  depositary)  the  cash  flow 
+reconciliation duties? 
+Answer 2: No. According to the provisions of Article 21(11) of the AIFMD, the monitoring of 
+the cash flow is an activity which cannot be delegated. For example, the depositary should not 
+rely  exclusively  on  the  reconciliation  processes  performed  by  a  third  party,  even  where  the 
+depositary performs due diligence on those processes.  
+In line with the provisions of recital 42 of the AIFMD, the only delegation which is permitted in 
+relation to the monitoring of the cash flow is that of the depositary’s supporting tasks, such as 
+administrative  or  technical functions  performed  by  the  depositary  as  a  part  of  its  depositary 
+tasks.  
+Question 3 [last update 21 July 2014]: How far down the distribution chain is the depositary 
+to reconcile subscription flows?  
+Answer 3: The cash monitoring duties relate to any of the cash accounts – including accounts 
+used  for  subscriptions  and  redemptions  –  referred  to  in  Article  21(7)  of  the  AIFMD  (as 
+implemented by Articles 85 to 87 of the AIFMD Level 2 Regulation): accounts opened in the 
+name of the AIF, in the name of the AIFM acting on behalf of the AIF or in the name of the 
+depositary acting on behalf of the AIF. The rules on reconciliations linked to subscriptions are 
+further detailed in Article 93 of the AIFMD Level 2 Regulation.  
+Question 4 [last update 21 July 2014]: Does the obligation to verify that the AIF and AIFM 
+comply with applicable laws and regulations in Article 95 (a) of the AIFMD Level 2 Regulation 
+cover anti-money laundering rules, labour law and contracts of the AIF/AIFM with third parties 
+which do not relate to the asset or risk management activities? 
+Answer 4: In general, the obligation to set up and implement appropriate procedures for the 
+verifications required under Article 95(a) of the AIFMD Level 2 Regulation should be linked to 
+the requirement in Article 21(9) of the AIFMD for the depositary to ensure oversight of the AIF’s 
+31 
+ 
+ 
+ 
+operations. The verifications required under Article 95(a) of the AIFMD Level 2 Regulation are 
+meant  to  ensure  that  the  AIF  and/or  the  AIFM  acting  on  behalf  of  the  AIF  comply  with  the 
+applicable  laws  and  regulations  applying  to  the  AIF  including  fund  rules,  instruments  of 
+incorporation (e.g. investment restrictions, leverage limits, etc.). They do not relate to the laws 
+and  regulations  applying  to  these  entities  that  do  not  have  any  direct  relation  with  the 
+instructions of the AIFM to the depositary (e.g. the application of the remuneration rules by the 
+AIFM).  This  is  without  prejudice  to  the  depositary  voluntarily  (or  in  agreement  with  the 
+AIF/AIFM) performing more extensive verifications. 
+Therefore,  the  obligation  to  verify  that  the  AIF  and  AIFM  comply  with  applicable  laws  and 
+regulations does not cover labour law or contracts with third parties unrelated to asset or risk 
+management activities.  
+As for the compliance with the relevant anti-money laundering rules, the contract by which the 
+depositary is appointed shall include information on the tasks and responsibilities of the parties 
+to the contract in respect of obligations relating to the prevention of money laundering and the 
+financing  of  terrorism  (Article  83(1)(m))  of  the  AIFMD  Level  2  Regulation.  This  is  without 
+prejudice to the relevant anti-money laundering obligations applying to the depositary, AIF and 
+AIFM  under  the  EU  legislation  on  the  prevention  of  the  use  of  the  financial  system  for  the 
+purpose of money laundering and terrorist financing. 
+Question 5 [last update 21 July 2014]: Is it correct to say that where derivative contracts 
+contain  a  netting  clause,  derivatives  should  fall  exclusively  under  the  cash  flow  monitoring 
+obligation of the depositary and that it is only in the absence of a netting clause – where the 
+AIF/AIFM gets an ownership claim for the underlying – that the depositary is in a position to 
+verify  whether  the  AIF/AIFM  has  acquired  ownership  of  the  underlying  asset  according  to 
+Article 90(2)(c) of Commission Regulation (EU) No 231/2013? 
+Answer 5: No. Recital 103 of the AIFMD Level 2 Regulation gives examples of assets that are 
+not  financial  instruments  to  be  held  in  custody  and  specifically  includes  'financial  contracts 
+such  as  derivatives'  among  these  examples.  Therefore,  these  assets  are  subject  to  the 
+obligation to verify the ownership and maintain a record according to the provisions of Article 
+90(2)(c) of the AIFMD Level 2 Regulation. This duty involves, inter alia, looking at the contract 
+to assess what the AIF/AIFM is entitled to.  
+Question 6 [last update 21 July 2014]: Are holdings in collective investment undertakings to 
+be held in custody or subject to record keeping? 
+Answer 6: Unless, in accordance with applicable national law, they are only directly registered 
+with the issuer itself or its agent, in the name of the AIF or the AIFM acting on behalf of the AIF 
+(in which case the provisions of Article 88(2) of the AIFMD Level 2 Regulation apply), units of 
+collective investment undertakings (CIUs) should be held in custody and subject to the relevant 
+provisions of the AIFMD.  
+32 
+ 
+ 
+ 
+Question 7 [last update 21 July 2014]: Within the cash monitoring duties of a depositary, 
+what is the meaning of “close of business day”? 
+Answer 7: Given that the requirements relating to the monitoring of the AIF's cash flows apply 
+to  the  depositary  (Article  86  of  the  AIFMD  Level  2  Regulation), the "close  of  business  day" 
+should be determined in relation to the jurisdiction where the depositary is established which, 
+for EU AIFs, is also the home Member State of the AIF. This means that the identification of 
+significant cash flows referred to under Article 86(c) of the AIFMD Level 2 Regulation should 
+be made with reference to the close of business day in the jurisdiction where the depositary is 
+established,  but  the  relevant  checks  may  be  carried  out  after  the  close  of  business  in  the 
+depositary’s jurisdiction, typically the following business day. 
+Question  8  [last  update  1  October  2015]: When  assets  of  an  AIF  held  in  custody  by  the 
+depositary  of  the  AIF  are  provided  by  that  depositary  to  a  CSD  or  a  third  country  CSD  as 
+defined  under  Regulation  (EU)  No  909/2014  (CSDR)  in  order  to  be  held  in  custody  in 
+accordance with Article 21(8) of the AIFMD, does the CSD or third country CSD have to comply 
+with the provisions on delegation set out under Article 21(11) of the AIFMD? 
+Answer 8: Yes.  
+Question 9 [last update 16 December 2015]: Does the depositary’s liability regime apply to 
+those assets for which a depositary has safe-keeping duties on a look-through basis according 
+to  Articles  89(3),  first  sub-paragraph,  and  90(5),  first  sub-paragraph  of  the  AIFMD  Level  2 
+Regulation? 
+Answer 9: Yes. The look-through requirements under Articles 89(3), first sub-paragraph, and 
+90(5), first sub-paragraph of the AIFMD Level 2 Regulation mean that the depositary has safe-
+keeping duties in relation to the relevant assets. The safe-keeping duties are described under 
+Article 21(8) of the AIFMD and the depositary’s liability regime set out under Article 21(12) of 
+the AIFMD (and the relevant implementing provisions under the AIFMD Level 2 Regulation) 
+apply  to  safekeeping  activities.  This  means  that  for  financial  instruments  held  in  custody  to 
+which  the  look-through  requirements  under  Article  89(3),  first  sub-paragraph  of  the  AIFMD 
+Level  2  Regulation  apply,  the  depositary  is subject  to  the  strict  liability  regime  under  Article 
+21(12),  second  sub-paragraph  of  the  AIFMD.  For  other  assets  to  which  the  look-through 
+requirements under Article 90(5), first sub-paragraph of the AIFMD Level 2 Regulation apply, 
+the depositary is subject to the liability regime under Article 21(12), third sub-paragraph of the 
+AIFMD. 
+According to Articles 89(3), second sub-paragraph, and 90(5), second sub-paragraph of the 
+AIFMD  Level  2  Regulation,  the  look-through  provision  does  not  apply  to  funds  of  funds  or 
+master-feeder structures provided they have a depositary which safe-keeps the fund’s assets 
+appropriately. Therefore, it is only for this type of investment that the liability regime should not 
+apply to the depositary of the AIF as a consequence of the fact that the depositary is not subject 
+to any safe-keeping duties in relation to those investments. 
+ 
+ 
+33 
+ 
+ 
+ 
+Section VII: Calculation of leverage 
+Date last updated: 12 May 2015 
+Question 1 [last update 21 July 2014]: An AIF that is a private equity fund as referred to in 
+recital  78  of  the  AIFMD,  controls  a  financial  structure  that  is  used  to  acquire  non-listed 
+companies or issuers. The financial structure raises debt to finance the acquisition of those 
+assets. When calculating the exposure of the AIF, shall the AIFM include the debt raised at the 
+level of the financial structure? 
+Answer  1:  According  to  Article  6(3)  of  Regulation  231/2013,  exposure  contained  in  any 
+financial  or  legal  structures  controlled  by  an  AIF  shall  be  included  in  the  calculation  of  the 
+exposure  where those  structures  are  specifically  set  up  to  directly  or  indirectly  increase the 
+exposure at the level of the AIF. Therefore, debt raised by such a financial structure to finance 
+the  acquisition  of  assets  shall  be  included  in  the  calculation  of  the  exposure  where  those 
+structures are: (1) specifically set up to directly or indirectly increase the exposure at the level 
+of the AIF and (2) the AIF controls such a structure. If these two conditions are fulfilled, the 
+debt raised by the financial structure is to be included in the calculation of the exposure of the 
+AIF.  
+Where the AIF does not have to bear losses beyond its investment in a financial structure that 
+is  used  to  acquire  non-listed  companies  or  issuers,  the  financial  structure  should  not  be 
+considered as having been set up to directly or indirectly increase the exposure at the level of 
+the  AIF.  In  any  case,  these  structures  should  not  be  used  as  a  means  to  circumvent  the 
+provisions of the AIFMD on leverage.  
+Question 2 [last update 21 July 2014]: An AIF controls a financial structure that is used to 
+acquire non-listed companies or issuers. When calculating the exposure of the AIF, shall the 
+AIFM include the debt raised at the level of the non-listed companies or issuers? 
+Answer  2:  No,  provided  that  the  AIF  does  not  have  to  bear  potential  losses  beyond  its 
+investment in the non-listed companies or issuers.  
+However,  if  the  debt  at  the  level  of  the non-listed  companies  or  issuers exposes  the  AIF to 
+potential losses beyond its investment in those non-listed companies or issuers, the debt shall 
+be included in the calculation of the exposure of the AIF.  
+Question 3 [last update 21 July 2014]: An AIF controls a financial structure that acquires 
+non-listed companies or issuers by raising debt. At the time of the acquisition, the non-listed 
+companies or issuers were not leveraged. Subsequently, the non-listed companies or issuers 
+raise debt to finance a dividend distribution enabling the financial structure to reimburse entirely 
+its acquisition debt. When calculating the exposure of the AIF, shall the AIFM include the debt 
+raised at the level of the non-listed companies or issuers? 
+Answer  3:  No,  provided  that  the  AIF  does  not  have  to  bear  potential  losses  beyond  its 
+investment in the non-listed companies or issuers.  
+34 
+ 
+ 
+ 
+Question  4  [last  update  26  March  2015]:  When  calculating  the  exposure  of  an  AIF  in 
+accordance with the gross method under Article 7(a) of the implementing Regulation, should 
+AIFMs exclude the value of all cash held in the base currency of the AIF?  
+Answer 4: Yes. The exclusion of cash held in the base currency of the AIF applies to cash 
+and also to cash equivalents that meet the requirements of Article 7(a) of the implementing 
+Regulation. 
+Question 5 [last update 12 May 2015]: Which positions should AIFMs take into account when 
+calculating  their  exposure  under  the  commitment  approach  pursuant  to  Article  8  of  the 
+Implementing Regulation? 
+Answer: AIFMs should take into account the absolutes value of all the positions of their AIFs 
+valued in accordance with Article 19 of the AIFMD and the criteria laid down in paragraphs 2 
+to 9 of Article 8 of the Implementing Regulation. For derivative instruments, as required under 
+Article 8(2)(a), AIFMs should convert each position into an equivalent position in the underlying 
+assets  using  the  methodologies  set  out  in  Article  10  (which  refers  to  Annex  II  of  the 
+implementing  Regulation)  and  points  (4)  to  (9)  and  (14)  in  Annex  I  of  the  implementing 
+Regulation. 
+ 
+ 
+35 
+ 
+ 
+ 
+Section VIII: Delegation 
+Date last updated: 16 November 2016 
+Question  1  [last  update  30  September  2014]:  An  AIFM  manages  multiple  AIFs.  When 
+assessing  whether  any delegation  of  portfolio  management  and/or  risk management  by  the 
+AIFM results in the AIFM becoming a letter-box entity as referred to in Article 20 of the AIFMD, 
+should the assessment be made at the level of the AIFM or at the level of each AIF? 
+Answer 1: The provisions on letter-box entities in Article 82 of the implementing Regulation 
+apply in relation to the management of a particular AIF and not in relation to a group of AIFs. 
+The assessment should therefore be carried out at the level of each individual AIF. 
+Question 2 [last update 16 November 2016]: Where the AIFM does not itself perform the 
+functions set out in Annex I of the AIFMD, does this release the AIFM from its responsibility to 
+ensure compliance of the relevant function(s) with the AIFMD? 
+Answer 2: No. Where a third party performs a function stated in Annex I of the AIFMD, this 
+function  should  be  considered  as  having  been  delegated  by  the  AIFM  to  the  third  party. 
+Therefore, the AIFM should be responsible for ensuring compliance with the requirements on 
+delegation set out in Article 20 of the AIFMD and the principle expressed in Article 5(1) of the 
+Directive according to which the single AIFM appointed for an AIF is responsible for ensuring 
+compliance with the AIFMD. For the avoidance of doubt, this applies to all functions stated in 
+point 1 and point 2 of Annex I of the AIFMD. 
+Question 3 [last update 16 November 2016]: Can an externally-managed AIF itself perform 
+the investment management functions set out in point 1 of Annex I or functions set out in point 
+2  of  Annex  I  of  the  AIFMD  or  would  it  be  possible  that  the  external  AIFM  delegates  the 
+performance  of  these  functions  to  the  governing  body  or  any  other  internal  resource  of  the 
+externally-managed AIF? 
+Answer 3: No. Externally-managed AIFs are not regulated as AIFM. The performance of the 
+functions  stated  in  Annex  I  of  the  AIFMD  is  only  permitted  for  AIFs  which  are  internally-
+managed pursuant to Article 5(1)(b) of the AIFMD. Where the AIF appoints an external AIFM 
+pursuant to Article 5(1)(a), the external AIFM is through its appointment as AIFM of the AIF 
+responsible for providing the functions stated in Annex I of the AIFMD. The external AIFM may 
+delegate  to  third  parties  the  task  of  carrying  out  functions  on  its  behalf  in  accordance  with 
+Article 20 of the AIFMD. The AIF is, however, not a ‘third party’ in accordance with Article 20(1) 
+of the AIFMD. 
+ 
+ 
+36 
+ 
+ 
+ 
+Section IX: Calculation of the total value of assets under management 
+Date last updated: 3 June 2016 
+Question  1  [last  update  11  November  2014]:  Should  AIFMs  include  short  derivative 
+positions in the calculation of the total value of assets under management? 
+Answer  1:  Yes.  According  to  Article  2(3)  of  the  implementing  Regulation,  AIFMs  should 
+convert derivative instrument positions (both long and short) into an equivalent position in the 
+underlying assets and the absolute value of that equivalent position should then be used for 
+the calculation of the total value of assets under management. 
+Question 2 [last update 21 July 2015]: Should AIFMs include short non-derivative positions 
+for the calculation of the total value of assets under management? 
+Answer  2:  Yes.  According  to  Article  2(1)(b)  of  the  implementing  Regulation,  AIFMs  should 
+include  assets  acquired  through  leverage.  Where  a  short  sale  occurs  with  assets  being 
+received,  AIFMs  should  include  the  assets  received  in  the  calculation  of  the  total  value  of 
+assets under management. 
+Question  3  [last  update  3  June  2016]:  Should  “committed  capital”  be  taken  into  account 
+when calculating the total value of assets under management (AuM) pursuant to Article 3(2) 
+of AIFMD and Article 2 of Commission Regulation (EU) No 231/2013? 
+Answer 3: Generally, no. As a general rule, committed capital does not contribute to the actual 
+assets of the AIF for which it was pledged, as long as it has not been drawn down by the AIFM. 
+However, Article 2 of Commission Regulation (EU) No 231/2013 makes reference to national 
+valuation  rules  as  well  as  to  rules  on  valuation  contained  in  the  AIF  rules  or  articles  of 
+incorporation. Committed capital should therefore be taken into account in the calculation of 
+total AUM if national rules foresee this. 
+ 
+ 
+37 
+ 
+ 
+ 
+Section X: Additional own funds 
+Date last updated: 3 June 2016 
+Question  1:  [last  update  26  March  2015]:  Should  AIFMs  exclude  investments  by  AIFs  in 
+other AIFs they manage for the calculation of additional own funds under Article 9(3) of the 
+AIFMD? 
+Answer 1: Yes. 
+Question  2:  [last  update  26  March  2015]:  Should  AIFMs  exclude  investments  by  AIFs  in 
+other AIFs they manage for the calculation of additional own funds to cover potential liability 
+risks arising from professional negligence under Article 9(7) of the AIFMD? 
+Answer 2: No, because investments in other AIFs managed by the same AIFM increase the 
+operational risk. 
+Question  3  [last  update  3  June  2016]:  Should  “committed  capital”  be  taken  into  account 
+when calculating the additional own funds requirement pursuant to Articles 9(3) and 9(7) of 
+AIFMD and Article 14(2) of Commission Regulation (EU) No 231/2013? 
+Answer 3: As a general rule, committed capital does not contribute to the actual assets of the 
+AIF for which it was pledged, as long as it has not been drawn down by the AIFM. 
+ 
+ 
+38 
+ 
+ 
+ 
+Section XI: Scope 
+Date last updated: 26 March 2015 
+Question 1 [last update 26 March 2015]: According to Article 36(1) of the AIFMD, Member 
+States may allow an authorised EU AIFM to market to professional investors, in their territory 
+only, units or shares of EU feeder AIFs which have a non-EU master AIF managed by a non-
+EU AIFM provided that the EU AIFM managing the EU feeder AIF fulfils certain conditions as 
+set out in Article 36(1) (a) to (c). Does the non-EU AIFM managing the non-EU master AIF also 
+have to be authorised under the AIFMD? 
+Answer 1: According to Article 36(2) of the AIFMD, Member States may impose stricter rules 
+on the AIFM in respect of the application of Article 36 of the AIFMD. Therefore, whether the 
+non-EU  AIFM  managing  the  non-EU  master  AIFs  has  to  be  authorised  under  the  AIFMD 
+depends on the national law of the Member State transposing Article 36 of the AIFMD. 
+ 
+ 
+39 
+ 
+ 
+ 
+Section XII: Impact of Regulation (EU) 648/2012 (EMIR)15 on AIFMD 
+Date last updated: 24 May 2017 
+Question  1  [last  update  19  July  2016]:  For  OTC financial  derivative  transactions  that  are 
+centrally  cleared  and  subject  to  the  reporting  obligation  of  EMIR,  can  AIFMs  rely  on  the 
+valuation provided by the central counterparty (CCP)? 
+Answer: No. The AIFMD framework requires AIFMs to have in place a process for proper and 
+independent verification of the value of the OTC financial derivative transactions, even if they 
+are centrally cleared. The valuation provided by the CCP can only serve as a point of reference 
+for the verification performed by the AIFM.  Nevertheless, the AIFM should be able to justify 
+any deviation from the valuation provided by the CCP. 
+Question  2  [last  update  May  2017]: Where  an  AIF  is  subject  to  the  clearing  obligation  of 
+Article 4(1) of EMIR, can it make use of the exemption for intragroup transactions (Article 4(2) 
+of EMIR)? 
+Answer: ESMA is of the view that in the case of AIFs the exemption for intragroup transactions 
+should be construed narrowly, and that in most cases it will not be possible for the exemption 
+to be used. An AIF can only make use of the exemption for intragroup transactions if it has 
+been established to form part of the same group (as defined in Article 2(16) of EMIR) as the 
+counterparty  to  the  OTC  derivative  contract  and  if  it  fulfils  all  the  criteria  for  intragroup 
+transactions set out in Article 3(2)(a)(i)-(iv), (b), or (d) of EMIR. 
+Article 3(2)(a)(iii) of EMIR requires both counterparties to be included in the same consolidation 
+on a full basis. In addition, they have to be subject to appropriate centralised risk evaluation, 
+measurement and control procedures, as well as fulfil other specific requirements set out in 
+Article 3(2) of EMIR. 
+An exemption to the clearing obligation based on Article 4(2) of EMIR can only be granted after 
+a thorough case-by-case assessment, which will have to take into account whether the AIF 
+has been established to form part of the same group as the counterparty to the OTC derivative 
+contract and whether the AIF fulfils all the criteria set out in Article 3(2)(a), (b), or (d) of EMIR. 
+Where an AIF is granted an intragroup exemption for the clearing obligation, it follows that the 
+AIF will not be considered a distinct entity and will not be treated separately for other purposes 
+under  EMIR  either,  in  particular  for  the  purpose  of  the  bilateral  margining  thresholds 
+calculation. Therefore, the aggregate month-end average notional amount referred in Article 
+28(1) of Commission Delegated Regulation (EU) 2016/2251 shall be calculated at the group 
+level (including the relevant AIF). 
+                                                
+15 Regulation  (EU)  No  648/2012  of  the  European  Parliament  and  of  the  Council  of  4  July  2012  on  OTC  derivatives,  central 
+counterparties and trade repositories (“European Markets Infrastructure Regulation”) 
+40 
+ 
+ 
+ 
+ 
+ 
+41 
+ 
+ 
+ 
+Section XIII: Impact of Regulation (EU) 2015/2365 (SFTR)16 on AIFMD 
+Date last updated: 5 October 2017 
+Question  1  [last  update  6  October  2016]:  Article  13  of  Regulation  (EU)  2015/2365  on 
+transparency of securities financing transactions and of reuse and amending Regulation (EU) 
+No 648/2012, requires UCITS management companies,  UCITS investment companies, and 
+AIFMs to provide information to investors on the use made of SFTs and total return swaps in 
+the annual report of each UCITS/AIF under management, as well as in each half-yearly report 
+for  UCITS.  As  Article  13  applies  from  13  January  2017,  which  report  should  be  the  first  to 
+include this disclosure? 
+Answer:  The  information  should  be  included  in  the  next  annual  or  half-yearly  report  to  be 
+published after 13 January 2017 which may relate to a reporting period beginning before that 
+date. 
+Question  2  [last  update  5  October  2017]:  Pursuant  to  Article  13  of  SFTR,  UCITS 
+management companies, UCITS investment companies, and AIFMs (“UCITS/AIF managers”) 
+shall inform investors on the use they make of SFTs and total return swaps in annual (UCITS 
+and  AIFs)  and  half-yearly  (UCITS  only)  reports.  The  information  on  SFTs  and  total  return 
+swaps shall include the data provided for in Section A of the Annex to SFTR. 
+Should  this  data  be  reported  as  aggregate  data  (with  respect  to  the  whole  of  the  reporting 
+period) or based on a snapshot (taken at the end of the reporting period)? 
+Answer: The table below explains how each data item in Section A of the Annex to the SFTR 
+should be reported. All data items should be reported as a snapshot, with the exception of the 
+following:  
+-  Data on reuse of collateral 
+o  Cash collateral reinvestment returns to the collective investment undertaking. 
+-  Data on return and cost for each type of SFTs and total return swaps 
+o  broken  down  between  the  collective  investment  undertaking,  the  manager  of 
+the  collective  investment  undertaking  and  third  parties  (e.g.  agent  lender)  in 
+absolute terms and as a percentage of overall returns generated by that type of 
+SFTs and total return swaps 
+For each of the data items firms should not artificially alter their practices in a way that would 
+lead to the reporting being misleading. 
+The guidance provided by this Q&A is without prejudice to further work that ESMA intends to 
+carry out in relation to the disclosure obligations for UCITS and AIFs under SFTR.    
+                                                
+16 Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities 
+financing transactions and of reuse and amending Regulation (EU) No 648/2012 
+42 
+Heading 
+Sub-item 
+How to report 
+ 
+ 
+ 
+Global data 
+ 
+Concentration data 
+ 
+Aggregate 
+transaction 
+data  for  each  type  of 
+SFTs  and  total  return 
+swaps  separately  to  be 
+broken  down  according 
+to the below categories 
+ 
+Snapshot 
+The  amount  of  securities 
+and commodities on loan as 
+a proportion of total lendable 
+assets defined as excluding 
+cash and cash equivalents 
+Snapshot 
+The  amount  of  assets 
+engaged  in  each  type  of 
+SFTs and total return swaps 
+expressed  as  an  absolute 
+the  collective 
+amount  (in 
+undertaking’s 
+investment 
+currency) 
+a 
+proportion  of  the  collective 
+investment 
+undertaking’s 
+assets  under  management 
+(AUM). 
+and 
+as 
+Snapshot 
+Snapshot 
+Ten largest collateral issuers 
+across  all  SFTs  and  total 
+return swaps (break down of 
+volumes  of 
+the  collateral 
+securities  and  commodities 
+received per issuer’s name);  
+Top  10  counterparties  of 
+each type of SFTs and total 
+return  swaps  separately 
+(Name  of  counterparty  and 
+gross volume of outstanding 
+transactions). 
+and 
+Type 
+collateral;  
+quality 
+of 
+Snapshot 
+of 
+tenor 
+Maturity 
+the 
+collateral broken down in the 
+following  maturity  buckets: 
+less  than  one  day,  one  day 
+to  one  week,  one  week  to 
+Snapshot. All 
+outstanding/existing collateral at 
+the end of the reporting period 
+should be aggregated according 
+to their maturity tenor. That 
+43 
+ 
+ 
+ 
+one  month,  one  to  three 
+months, three months to one 
+year,  above  one  year,  open 
+maturity;  
+Currency of the collateral;  
+total 
+Maturity  tenor  of  the  SFTs 
+and 
+return  swaps 
+broken down in the following 
+maturity  buckets:  less  than 
+one  day,  one  day  to  one 
+week,  one  week 
+to  one 
+month, one to three months, 
+three  months  to  one  year, 
+above  one  year,  open 
+transactions;  
+in  which 
+Country 
+counterparties 
+established;  
+the 
+are 
+aggregation should be broken 
+down in the mentioned maturity 
+buckets. 
+Snapshot.  Currency  of 
+the 
+existing collateral at the end of the 
+reporting period.    
+Snapshot.  All 
+outstanding/existing SFTs at the 
+end of the reporting period 
+should be aggregated according 
+to their maturity tenor. That 
+aggregation should be broken 
+down in the mentioned maturity 
+buckets. 
+Snapshot.  Country  where 
+the 
+counterparties  of  existing  SFTs 
+as  of  the  end  of  the  reporting 
+period are established. 
+Settlement  and 
+(e.g., 
+Counterparty, bilateral). 
+clearing 
+tri-party,  Central 
+Snapshot 
+Snapshot 
+Share  of  collateral  received 
+that  is  reused,  compared  to 
+the  maximum 
+amount 
+specified  in  the  prospectus 
+or 
+to 
+investors; 
+the  disclosure 
+in 
+ 
+ 
+ 
+ 
+on 
+Data 
+collateral 
+reuse 
+of 
+ 
+Cash collateral reinvestment 
+returns 
+the  collective 
+investment undertaking. 
+to 
+See explanation below table 
+Safekeeping of collateral 
+by 
+received 
+the 
+collective 
+investment 
+undertaking  as  part  of 
+Number  and  names  of 
+custodians  and  the  amount 
+of collateral assets safe-kept 
+by each of the custodians 
+Snapshot 
+44 
+SFTs  and  total  return 
+swaps 
+Safekeeping of collateral 
+granted by the collective 
+investment  undertaking 
+as part of SFTs and total 
+return swaps 
+Data  on  return  and  cost 
+for  each  type  of  SFTs 
+and total return swaps 
+ 
+ 
+ 
+The  proportion  of  collateral 
+held in segregated accounts 
+or  in  pooled  accounts,  or  in 
+any other accounts 
+Snapshot 
+See explanation below table  
+broken  down  between  the 
+collective 
+investment 
+undertaking, the manager of 
+the  collective 
+investment 
+undertaking and third parties 
+(e.g. 
+in 
+absolute  terms  and  as  a 
+percentage of overall returns 
+generated  by  that  type  of 
+SFTs and total return swaps 
+lender) 
+agent 
+ 
+Regarding  the  field  “Cash  collateral  reinvestment  returns  to  the  collective  investment 
+undertaking”, during the year the fund receives a certain amount of cash as collateral for SFTs 
+which is invested and produces a return. All SFTs have a given duration (normally short term) 
+and there may be several SFTs that are carried out on a number of occasions with repeated 
+investments  and  divestments  of cash.  Due  to  the  possible  concatenation  of the  operations, 
+there may be a certain amount of cash collateral which is constantly invested for the whole 
+year and produces a return. One interpretation is that the SFTR requires managers to disclose 
+at least the overall sum of the returns earned by the fund from all the investment operations 
+made during the year with cash collateral. This sum may only be an income flow that covers 
+the whole year and therefore the distinction between aggregate vs snapshot (i.e. flow vs stock 
+data) is not meaningful, because it could be calculated in only one way. One alternative would 
+be to state that this is  “aggregate” by definition. Another  alternative  would be to require the 
+disclosure  of the  cash  collateral  investment return,  calculated  as the  sum  of the  cash flows 
+received for the investment of SFTs cash collateral over the yearly average amount of cash 
+collateral investments.   
+The same reasoning applies to the field “Data on return and cost for each type of SFTs and 
+total return swaps/broken down between the collective investment undertaking, the manager 
+of the collective investment undertaking and third parties (e.g. agent lender) in absolute terms 
+and as a percentage of overall returns generated by that type of SFTs and total return swaps”. 
+The manager has to sum the inflows and outflows generated by all the operations during the 
+year and disclose the two total amounts; again, there appears to be only one way to calculate 
+the data required and the disclosure of rate of returns (gross and net of cost) could be required 
+if deemed more appropriate. 
+45 
+ 
+ 
+ 
+Section XIV: Branches 
+Date last updated: July 2018 
+Question 1: What are the supervisory responsibilities of competent authorities in host Member 
+States when an alternative investment fund manager provides investment services through a 
+branch established in the host Member State? 
+Answer: Under both the UCITS and the AIFM Directives, supervisory powers of competent 
+authorities in relation to branches of UCITS management companies or alternative investment 
+fund managers (AIFMs) established in a Member State that is not the home Member State are 
+shared.  The  competent  authority  of  the  Member  State  in  which  the  branch  is  located  (host 
+Member State) is responsible for the supervision of the branch’s compliance with conduct rules 
+referred  to  in  Article  17(5)  of  the  UCITS  Directive  and  Article  45(2)  of  the  AIFMD  and  the 
+competent authority of the Member State in which the UCITS management company or the 
+alternative investment fund manager is established (home Member State) is responsible for 
+the supervision of the other requirements provided under the relevant applicable framework.17 
+Neither the UCITS Directive nor the AIFMD provides for an explicit framework for the allocation 
+of  supervisory  responsibilities  and  powers  for  those  cases  where  UCITS  management 
+companies or AIFMs are authorised to carry out investment services set out in Article 6(3) of 
+the UCITS Directive and Article 6(4) of the AIFMD and have branches providing those services 
+in other Member States. ESMA is of the view that responsibilities of home and host Member 
+States  should  be  identified  similarly  to,  and  consistently  with,  the  general  framework 
+established  for  the  provision  of  activities  pursued  by  UCITS  management  companies  and 
+AIFMs through branches as well as with the MiFID II framework regulating the supervision on 
+the provision of investment services across the EU. This approach is in line with the division 
+of responsibilities provided under the MiFID II framework. In accordance with Article 35(8) of 
+MiFID II, the competent authority of the host Member State has the responsibility for ensuring 
+that  the  services  provided  by  the  branch  of  an  investment  firm  or  a  credit  institution  in  its 
+territory  comply  with  the  MiFID  II  requirements  under  Articles  24  (“General  principles  and 
+information to clients”) and 25 (“Assessment of suitability and appropriateness and reporting 
+to  clients”)  of  MiFID  II,  which  also  apply  to  UCITS  management  companies  and  AIFMs 
+providing investment services. 
+                                                
+17 See  Article  17(4)  and  (5)  of  UCITS  Directive  and  Article  45(1)  and  (2)  of  AIFMD.  On  this  subject,  see  also  “Notification 
+frameworks  and  home-host  responsibilities  under  UCITS  and  AIFMD”,  an  ESMA  Thematic  Study  among  National  Competent 
+Authorities 
+https://www.esma.europa.eu/sites/default/files/library/esma34-43- 
+340_final_report_on_thematic_study_on_notification_frameworks.pdf  
+46 

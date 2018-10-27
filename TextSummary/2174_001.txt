@@ -1,0 +1,2712 @@
+ 
+ 
+ 
+ 
+Questions and Answers 
+On MiFID II and MiFIR market structures topics 
+ 
+ 
+ 
+4 October 2018 | ESMA70-872942901-38 
+ 
+ 
+ 
+Date: 4 October 2018 
+ESMA70-872942901-38 
+ 
+ 
+ 
+ 
+ESMA • CS 60747 – 103 rue de Grenelle • 75345 Paris Cedex 07 • France • Tel. +33 (0) 1 58 36 43 21 • www.esma.europa.eu 
+ 2 
+ 
+ 
+ 
+ 
+Table of Contents 
+Table of questions .................................................................................................................... 6 
+1 
+Introduction ..................................................................................................................... 12 
+2  Data disaggregation [Last update: 18/11/2016] .............................................................. 14 
+3  Direct Electronic Access (DEA) and algorithmic trading [Last update: 04/10/2018] ....... 16 
+4  The tick size regime [Last update: 28/03/2018] .............................................................. 31 
+5  Multilateral and bilateral systems [Last update: 04/10/2018] .......................................... 35 
+5.1  General .................................................................................................................... 35 
+5.2  Organised Trading Facilities (OTFs) ........................................................................ 41 
+5.3 
+Systematic internalisers ........................................................................................... 52 
+6  Access to CCPs and trading venues [Last update: 12/09/2017] ..................................... 57 
+7  Application of MiFID II after 3 January 2018, including issues of ‘late transposition’ [Last 
+update: 18/12/2017] ............................................................................................................... 60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+ 
+Acronyms and definitions used 
+ADNT 
+AOR 
+DEA 
+ESMA 
+ITS 19 
+MAR 
+MiFID I 
+MiFID II 
+MiFIR 
+NCA 
+OTF 
+Q&A 
+RTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Average Daily Number of Transactions 
+Automated Order Router 
+Direct Electronic Access 
+The European Markets and Securities Authority 
+Commission  Implementing  Regulation  (EU)  2016/824  on  the 
+content  and  format  of  the  description  of  the  functioning  of 
+multilateral trading facilities and organised trading facilities and 
+the notification to the ESMA according to MiFID II 
+Market Abuse Regulation 
+Markets 
+in  Financial 
+Instruments  Directive  –  Directive 
+2004/39/EC of the European Parliament and of the Council 
+Markets  in  Financial  Instruments  Directive  (recast)  –  Directive 
+2014/65/EU of the European Parliament and of the Council  
+Markets  in  Financial  Instruments  Regulation  –  Regulation 
+600/2014 of the European Parliament and of the Council 
+National Competent Authority 
+Organised Trading Facility 
+Question and answer 
+Regulatory Technical Standards 
+RTS 6 
+Commission Delegated Regulation (EU) 2017/589 specifying the 
+organisational  requirements  of  investment  firms  engaged  in 
+algorithmic trading 
+RTS 8 
+Commission Delegated Regulation (EU) 2017/578 specifying the 
+requirements on market making agreements and schemes 
+RTS 9 
+Commission Delegated Regulation (EU) 2017/566 on the ratio of 
+unexecuted orders to transactions in order to prevent disorderly 
+trading conditions 
+4 
+ 
+ 
+ 
+ 
+RTS 10 
+Commission  Delegated  Regulation 
+(EU)  2017/573  on 
+requirements  to  ensure  fair  and  non-discriminatory  co-location 
+services and fee structures 
+RTS 11 
+Commission  Delegated  Regulation  (EU)  2017/588  on  the  tick 
+size regime for shares, depositary receipts and exchange-traded 
+funds 
+RTS 14 
+Commission  Delegated  Regulation  (EU)  2017/572  on  the 
+specification  of  the  offering  of  pre-and  post-trade  data  and  the 
+level of disaggregation of data 
+RTS 15 
+Commission  Delegated  Regulation  (EU)  2017/581  on  clearing 
+access in respect of trading venues and central counterparties 
+RTS 22 
+Commission  Delegated  Regulation  (EU)  2017/590  on  the 
+reporting of transactions to competent authorities 
+RTS 24 
+Commission  Delegated  Regulation  (EU)  2017/580  on  the 
+maintenance  of  relevant  data  relating  to  orders  in  financial 
+instruments 
+RTS 25 
+Commission Delegated Regulation (EU) 2017/574 on the level of 
+accuracy of business clocks 
+RTS 26 
+Commission Delegated Regulation (EU) 2017/582 specifying the 
+obligation  to clear derivatives  traded on regulated markets and 
+SI 
+STOR 
+ 
+ 
+ 
+ 
+ 
+timing of acceptance for clearing 
+Systematic internaliser 
+Suspicious Transaction or Order Report 
+ 
+5 
+ 
+ 
+ 
+ 
+Table of questions 
+ 
+ 
+1 
+Topic of the Question 
+Level  1/Level  2 
+issue 
+Last Updated 
+Level at which disaggregation is 
+required 
+Article  12  of  MiFIR 
+and RTS 14 
+18/11/2016 
+Data 
+disaggregation  
+2 
+Requests 
+data 
+for  disaggregated 
+3  Country of issue 
+1 
+Treatment of simple algorithms 
+2 
+Transmission  of  orders  and 
+algorithmic trading 
+3  Automated Order Router (AOR) 
+RTS 14 
+RTS 14 
+Article  18  of 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+Article  18  of 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+Article  18  of 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+the 
+(EU) 
+the 
+(EU) 
+the 
+(EU) 
+18/11/2016 
+18/11/2016 
+19/12/2016 
+19/12/2016 
+19/12/2016 
+Direct 
+Electronic 
+Access (DEA) 
+and 
+algorithmic 
+trading 
+4 
+Reference  to  “market  markers” 
+under Article 2(1)(d) of MiFID II 
+Article  2(1)(d)  of 
+MiFID II 
+31/01/2017 
+5 
+Identification  and  authorisation 
+of HFT 
+6 
+Identification  and  authorisation 
+of HFT 
+7  DEA users and HFT 
+the 
+Article  19  of 
+Commission 
+Delegated 
+Regulation 
+(EU) 
+2017/565 
+and 
+Article  2(1)(d)  of 
+MiFID II 
+the 
+(EU) 
+the 
+Article  19  of 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+Article  19  of 
+Commission 
+Delegated 
+03/04/2017 
+03/04/2017 
+03/04/2017 
+6 
+ 
+ 
+ 
+03/04/2017 
+ 
+Regulation 
+2017/565 
+(EU) 
+the 
+Article  18  of 
+Commission 
+Delegated 
+(EU) 
+Regulation 
+2017/565 
+and 
+Article  4(1)(39)  of 
+MiFID II 
+8 
+Identification  of  algorithmic 
+trading activities 
+9 
+Algorithmic  trading  and  OTC 
+activities 
+Article 17 of MiFID II 
+03/04/2017 
+10  Reconciliation of logs 
+11 
+Storage 
+transaction data 
+of 
+order 
+and 
+12  Definition of DEA 
+of 
+“continuous 
+Meaning 
+assessment  and  monitoring  of 
+market and credit risk” in Article 
+17(2) of RTS 6 
+Article 17(3) of RTS 
+6 
+Article 13(7) of RTS 
+6 
+20 
+Article 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+of 
+(EU) 
+03/04/2017 
+03/04/2017 
+03/04/2017 
+Article 17(2) of RTS 
+6 
+31/05/2017 
+13 
+14 
+15 
+16 
+Record-keeping  obligations  for 
+HFTs 
+Article 
+MiFID II 
+17(2) 
+of 
+07/07/2017 
+Position  limits  set  by  clearing 
+members to algorithmic traders 
+Article  2(2)  of  RTS 
+26 
+07/07/2017 
+for 
+Exemption 
+clearing 
+members from certain pre-trade 
+checks 
+Article 26 of RTS 6 
+07/07/2017 
+17  Kill functionality 
+Article 12 of RTS 6 
+07/07/2017 
+18 
+19 
+20 
+21 
+Flagging  of  market  making 
+strategies 
+Article  3(2)(a)  of 
+RTS 24 
+07/07/2017 
+OTRs  for  different  types  of 
+market participants 
+RTS 9 
+Maximum  OTR  in  the  absence 
+of transactions 
+RTS 9 
+07/07/2017 
+07/07/2017 
+Maximum  bid-ask  ranges  for 
+market making strategies 
+Article 1 of RTS 8 
+07/07/2017 
+7 
+ 
+ 
+ 
+ 
+Article 18 of RTS 7 
+07/07/2017 
+17(5) 
+Article 
+of 
+MiFID II, Articles 19-
+23  of  RTS  6  and 
+Article 22 of RTS 7 
+28/03/2018 
+Article  2(1)(d)  of 
+MiFID II 
+15/11/2017 
+Article 
+MiFID II 
+48(7) 
+of 
+15/11/2017 
+Article 6 of RTS 8 
+04/10/2018 
+*new* 
+04/10/2018 
+*new* 
+04/10/2018 
+*new* 
+RTS 11 
+18/11/2016 
+22 
+Ability  of  a  trading  venue  to 
+cancel,  vary  or  correct  a 
+transaction 
+23 
+DEA  provider’s  controls  and 
+suitability checks 
+24 
+Persons  having  DEA  for  the 
+purpose  of  Article  2(1)(d)  of 
+MiFID II 
+25  Authorisation of DEA providers 
+26 
+Market  Making  and  incentives 
+to  be  provided  during  stressed 
+market conditions 
+27 
+Bulk  quotes  in  the  context  of 
+RTS 9 on OTR 
+RTS 9 
+28 
+Scope of Article 17(6) of MiFID 
+II  and  Chapter  IV  (Articles  24-
+27) of RTS 6 
+1 
+Relevant  National  Competent 
+Authority (NCA) responsible for 
+calculating  and  publishing  the 
+average  daily  number  of 
+transactions (ADNT) 
+17(6) 
+II 
+of 
+Article 
+MiFID 
+and 
+Chapter  IV  (Articles 
+24-27) of RTS 6 
+Tick size 
+regime 
+2  Corporate actions 
+RTS 11 
+18/11/2016 
+3 
+4 
+5 
+6 
+7 
+Determination of the applicable 
+tick size for instruments listed in 
+non-EU countries 
+Application  of  the  tick  size  for 
+instruments  trading  in  different 
+currencies 
+RTS 11 
+18/11/2016 
+RTS 11 
+18/11/2016 
+Ad  hoc  changes  of 
+applicable tick sizes 
+the 
+RTS 11 
+Tick  size  regime  and  pre-trade 
+transparency waivers 
+RTS 11 
+18/11/2016 
+19/12/2016 
+Orders  remaining  on  the  order 
+book  at  the  moment  the  tick 
+size increases 
+RTS 11 
+19/12/2016 
+8  Default regime for tick sizes 
+RTS 11 
+28/03/2018 
+8 
+ 
+ 
+ 
+ 
+9 
+Responsible 
+authority in case of dual listing 
+competent 
+RTS 11 
+03/10/2017 
+10  Scope of the tick size regime 
+RTS 11 
+15/11/2017 
+1 
+2 
+3 
+4 
+5 
+Can  an  MTF  operator  be  a 
+member/participant  of  its  own 
+MTF 
+Compliance  with  co-location 
+provisions  under  RTS  10  in 
+case  of  outsourced  co-location 
+service 
+Article 19 of MiFID II 
+31/01/2017 
+RTS 10 
+31/01/2017 
+Non-discriminatory  access  to 
+trading venues 
+Articles  18(3)  & 
+53(1) of MiFID II 
+07/07/2017 
+Member  or  participant  of  a 
+regulated market or an MTF 
+Article 
+MiFID II 
+53(3) 
+of 
+07/07/2017 
+Client relationship between two 
+counterparties  that  trade  on  a 
+trading venue 
+Articles  19(4)  and 
+53(4) of MiFID II 
+15/11/2017 
+6 
+Transparency of fee structures  Article 4 of RTS 10 
+28/03/2018 
+7 
+Arranging transactions that are 
+ultimately 
+on 
+another trading venue 
+formalised 
+Article 4(1)(21), (22) 
+and (23) of MiFID II 
+04/10/2018 
+*new* 
+8 
+Registration of a segment of an 
+MTF as an SME growth market 
+of 
+Article 33 of MiFID II 
+and  Articles  77  and 
+78 
+the 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+04/10/2018 
+*new* 
+Multilateral & 
+bilateral 
+systems 
+9  Maker Taker schemes 
+Article 
+MiFID II 
+48(9) 
+of 
+04/10/2018 
+10  Characteristics of OTFs 
+11  OTFs and voice trading 
+12 
+Distinction  between  OTFs  and 
+MTFs 
+Article  4(1)(23)  of 
+MiFID II 
+Article  4(1)(23)  of 
+MiFID II 
+Articles 
+4(1)(22) 
+&(23),  19  and  20  of 
+MiFID II 
+*new* 
+03/04/2017 
+03/04/2017 
+03/04/2017 
+13 
+Allowed  activities 
+for  OTFs: 
+concept of liquid sovereign debt 
+Article 
+MiFID II 
+20(3) 
+of 
+03/04/2017 
+9 
+ 
+ 
+ 
+ 
+14 
+Allowed  activities 
+for  OTFs: 
+carrying  out  market  making  on 
+an independent basis 
+15  Operation of an OTF and a SI 
+16  Operation of an OTF and a SI 
+Article 
+MiFID II 
+Article 
+MiFID II 
+Article 
+MiFID II 
+17 
+18 
+Connexion  of  an  OTF  to  other 
+liquidity pools 
+Article 
+MiFID II 
+Operation  of  an  OTF  and  best 
+execution 
+Article 
+MiFID II 
+20(5) 
+of 
+03/04/2017 
+20(4) 
+of 
+03/04/2017 
+20(4) 
+of 
+03/04/2017 
+20(4) 
+of 
+03/04/2017 
+20(8) 
+of 
+03/04/2017 
+19  Exercise of discretion 
+20  Exercise of discretion 
+21  Exercise of discretion 
+Article 
+MiFID II 
+Article 
+MiFID II 
+Article 
+MiFID II 
+20(6) 
+of 
+03/04/2017 
+20(6) 
+of 
+03/04/2017 
+20(6) 
+of 
+03/04/2017 
+22 
+OTF  mandatory 
+financial instruments 
+trading 
+in 
+Article  4(1)(23)  of 
+MiFID II 
+03/10/2017 
+23 
+Provisions  applicable  to  OTFs 
+trading  REMIT  wholesale 
+energy products 
+24 
+OTF best execution obligations 
+vis-à-vis third-party brokers 
+25 
+OTFs  arranging 
+strategies  which 
+equity leg 
+trading 
+in 
+include  an 
+Article 15 of MiFID II 
+and ITS 19 
+Article 27 of MiFID II 
+Article  4(1)(23)  of 
+MiFID II 
+26 
+SI  and  matched  principal 
+trading 
+27 
+Providing  matched  principal 
+trading on an occasional basis 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+Commission 
+Delegated 
+Regulation 
+2017/565 
+(EU) 
+(EU) 
+03/10/2017 
+03/10/2017 
+29/05/2018 
+03/04/2017 
+03/04/2017 
+28 
+Provision  of  quote  streaming 
+and order execution to multiple 
+SIs 
+Article 1(7) of MiFID 
+II 
+07/07/2017 
+29 
+Equity  SIs  and  pre-trade 
+transparency obligations 
+Article 
+MiFIR 
+15(2) 
+of 
+03/10/2017 
+10 
+ 
+ 
+ 
+ 
+35(5) 
+of 
+07/07/2017 
+07/07/2017 
+12/09/2017 
+Timing  of  notification 
+transitional 
+under Article 35(5) of MiFIR 
+for 
+arrangements 
+Article 
+MiFIR 
+Access to CCPs: open offer vs. 
+novation 
+RTS 15 
+Timing  and  procedure  of 
+notification  for  temporary  opt-
+out under Article 36(5) MiFIR 
+Articles  36(5)  of 
+MiFIR 
+Exemptions under Article 36(5) 
+and Article 54(2) of MiFIR 
+Articles  36(5)  and 
+54(2) of MiFIR 
+12/09/2017 
+Timing  of  application 
+transitional 
+under Article 54(2) of MiFIR 
+for 
+arrangements 
+Article 
+MiFIR 
+Limitation  of  access 
+following 
+exemption 
+Article 36(5) of MiFIR 
+rights 
+under 
+Article 
+MiFIR 
+54(2) 
+of 
+12/09/2017 
+36(5) 
+of 
+12/09/2017 
+Authorisations granted before 3 
+January  2018  – 
+regulated 
+markets 
+Authorisations granted before 3 
+January  2018 
+regulated 
+markets 
+- 
+Articles  5  to  8  and 
+44 of MiFID II 
+Articles  5  to  8  and 
+44 of MiFID II 
+18/12/2017 
+18/12/2017 
+1 
+2 
+3 
+4 
+5 
+6 
+1 
+Access to 
+CCPs and 
+trading venues 
+Application of 
+MiFID II after 3 
+January 2018, 
+including 
+2 
+issues of ‘late 
+transposition 
+3 
+Authorisations granted before 3 
+January 2018 – DRSPs 
+Articles  59  to  62  of 
+MiFID II 
+18/12/2017 
+ 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+1  Introduction 
+Background 
+The final legislative texts of Directive 2014/65/EU1 (MiFID II) and Regulation (EU) No 600/20142 
+(MiFIR) were approved by the European Parliament on 15 April 2014 and by the European 
+Council on 13 May 2014. The two texts were published in the Official Journal on 12 June 2014 
+and entered into force on the twentieth day following this publication – i.e. 2 July 2014. 
+Many of the obligations under MiFID II and MiFIR were further specified in the Commission 
+Delegated Directive3 and two Commission Delegated Regulations4 5, as well as regulatory and 
+implementing  technical  standards  developed  by  the  European  Securities  and  Markets 
+Authority (ESMA).  
+MiFID II and MiFIR, together with the Commission delegated acts as well as regulatory and 
+implementing technical standards will be applicable from 3 January 2018.  
+Purpose 
+The purpose of this document is to promote common supervisory approaches and practices in 
+the  application  of  MiFID  II  and  MiFIR  in  relation  to  market  structures  topics.  It  provides 
+responses  to  questions  posed  by  the  general  public,  market  participants  and  competent 
+authorities in relation to the practical application of MiFID II and MiFIR.  
+The content of this document is aimed at competent authorities and firms by providing clarity 
+on the application of the MiFID II and MiFIR requirements.  
+The content of this document is not exhaustive and it does not constitute new policy. 
+Status  
+The question and answer (Q&A) mechanism is a practical convergence tool used to promote 
+common supervisory approaches and practices under Article 29(2) of the ESMA Regulation6.   
+                                                 
+1 Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and 
+amending Directive 2002/92/EC and Directive 2011/61/EU. 
+2 Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments 
+and amending Regulation (EU) N0 648/2012. 
+3 Commission Delegated Directive (EU) 2017/593 of 7 April 2016 supplementing Directive 2014/65/EU of the European Parliament 
+and  of  the  Council  with  regard  to  safeguarding  of  financial  instruments  and  funds  belonging  to  clients,  product  governance 
+obligations and the rules applicable to the provision or reception of fees, commissions or any monetary or non-monetary benefits 
+(OJ L 87, 31.3.2017, p. 500–517). 
+4 Commission  Delegated  Regulation  (EU)  2017/565  of  25  April  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined 
+terms for the purposes of that Directive (OJ L 87, 31.3.2017, p. 1–83). 
+5 Commission Delegated Regulation (EU) 2017/567 of 18 May 2016 supplementing Regulation (EU) No 600/2014 of the European 
+Parliament and of the Council with regard to definitions, transparency, portfolio compression and supervisory measures on product 
+intervention and positions (OJ L 87, 31.3.2017, p. 90–116). 
+6 Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European 
+Supervisory  Authority  (European  Securities  and  Markets  Authority),  amending  Decision  No  716/2009/EC  and  repealing 
+Commission Decision 2009/77/EC Regulation (OJ L 331, 15.12.2010, p. 84). 
+12 
+ 
+ 
+ 
+ 
+Due  to  the  nature  of  Q&As,  formal  consultation  on  the  draft  answers  is  considered 
+unnecessary. However, even if Q&As are not formally consulted on, ESMA may check them 
+with  representatives  of  ESMA’s  Securities  and  Markets  Stakeholder  Group,  the  relevant 
+Standing Committees’ Consultative Working Group or, where specific expertise is needed, with 
+other external parties.  
+ESMA will periodically review these Q&As on a regular basis to update them where required 
+and to identify if, in a certain area, there is a need to convert some of the material into ESMA 
+Guidelines and recommendations. In such cases, the procedures foreseen under Article 16 of 
+the ESMA Regulation will be followed.  
+The  Q&As  in  this  document  cover  only  activities  of  EU  investment  firms  in  the  EU,  unless 
+specifically mentioned otherwise. Third country related issues, and in particular the treatment 
+of  non-EU  branches  of  EU  investment  firms,  will  be  addressed  in  a  dedicated  third  country 
+section. 
+Questions and answers  
+This document is intended to be continually edited and updated as and when new questions 
+are  received.  The  date  on  which  each  section  was  last  amended  is  included  for  ease  of 
+reference.  
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+2  Data disaggregation [Last update: 18/11/2016] 
+ 
+Question 1 [Last update: 18/11/2016] 
+Will disaggregation be required at the level of the market operator or at the level of each trading 
+venue? 
+Answer 1 
+Disaggregation is required at the level of each trading venue for which the market operator or 
+investment firm operating a trading venue has received a specific authorisation under MiFID 
+II. 
+ 
+Question 2 [Last update: 18/11/2016] 
+Article  1  of  RTS  147 states  that  market  operators  and  investment  firms  operating  a  trading 
+venue  shall  provide  disaggregated  data  “on  request”.  Who  would  be  entitled  to  make  such 
+requests? What constitutes a request in this context? How quickly do market operators and 
+investment firms operating a trading venue need to respond to a request for unbundled data? 
+Answer 2 
+MiFIR requires the relevant data to be made available “to the public” in disaggregated form on 
+reasonable commercial terms. As such, any individual or entity (whether or not a user of the 
+trading  venue)  could  make  a  request  for  disaggregated  data  and  the  market  operator  or 
+investment firm operating a trading venue has to provide the commercial terms to acquire the 
+disaggregated data.  
+As  part  of  those  commercial  terms  and  to  effectively  provide  access  to  the  arrangements 
+employed for making public the information referred to in Articles 3, 4 and 6 to 11 of MiFIR, the 
+market operator or investment firm operating a trading venue may impose non-discriminatory 
+technical requirements on clients.  
+The  request  for  disaggregated  data  could  be  in  any  format  provided  it  clearly  expresses  a 
+request  for  the  disaggregated  data.  For  the  avoidance  of  doubt,  market  operators  and 
+investment firms operating a trading venue do not need to make disaggregated data available 
+unless they have received a request to do so. 
+Market operators and investment firms operating a trading venue should respond to requests 
+for disaggregated data as quickly as practicable. The response should not be slower than to a 
+                                                 
+7 Commission Delegated Regulation (EU) 2017/572 of 2 June 2016 supplementing Regulation (EU) No 600/2014 of the European 
+Parliament and of the Council with regard to regulatory technical standards on the specification of the offering of pre-and post-
+trade data and the level of disaggregation of data (OJ L 87, 31.3.2017, p. 142–144). 
+14 
+ 
+ 
+ 
+ 
+request for non-disaggregated data. Market operators and investment firms operating a trading 
+venue should reply to requests falling in the same category within the same time frame.  
+ 
+Question 3 [Last update: 18/11/2016] 
+Article 1(1)(b) of RTS 14 requires disaggregation by country of issue for shares. How should 
+“country of issue” be interpreted? Is this also required for non-EU countries? 
+Answer 3 
+Country of issue should be interpreted as the home Member State of the issuer, as defined in 
+Article 2(1)(i) of the Transparency Directive8, including where the issuer is incorporated in a 
+third country. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+8  Directive  2004/109/EC  of  the  European  Parliament  and  of  the  Council  of  15  December  2004  on  the  harmonisation  of 
+transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market 
+and amending Directive 2001/34/EC. 
+15 
+3  Direct  Electronic  Access  (DEA)  and  algorithmic  trading 
+ 
+ 
+ 
+ 
+[Last update: 04/10/2018] 
+ 
+Question 1 [Last update: 19/12/2016] 
+Does a simple algorithm qualify as algorithmic trading? 
+Answer 1 
+Yes. The fact that a person or firm undertakes trading activity by means of an algorithm which 
+includes a small number of processes (e.g. makes quotes that replicate the prices made by a 
+trading  venue)  does  not  disqualify  the  firm  running  such  algorithm  from  being  engaged  in 
+algorithmic trading. 
+ 
+Question 2 [Last update: 19/12/2016] 
+If  an  investment  firm  (firm  A)  merely  transmits  a  client’s  order  for  execution  to  another 
+investment  firm  (firm  B)  who  uses  algorithmic  trading,  is  investment  firm  A  engaged  in 
+algorithmic trading? 
+Answer 2 
+No. The transmission of an order for execution to another investment firm without performing 
+any algorithmic trading activity is not algorithmic trading. 
+ 
+Question 3 [Last update: 19/12/2016] 
+Can a functionality be considered as an Automated Order Router (AOR) if it submits the same 
+order to several trading venues? Would that qualify as algorithmic trading?  
+Answer 3 
+According  to  Recital  22  of  Commission  Delegated  Regulation  (EU)  2017/5659,  an  AOR  is 
+characterized by only determining the trading venue or trading venues to which the order has 
+to be sent without changing any other parameter of the order (including modifying the size of 
+the order by “slicing” it into “child” orders). In case the same unmodified order is sent to several 
+trading venues to ensure execution and it is executed in one of these venues, the functionality 
+                                                 
+9 Commission  Delegated  Regulation  (EU)  2017/565  of  25  April  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined 
+terms for the purposes of that Directive (OJ L 87, 31.3.2017, p. 1–83). 
+16 
+ 
+ 
+ 
+ 
+can also cancel the unexecuted orders in the other venues without qualifying as algorithmic 
+trading. 
+ 
+Question 4 [Last update: 31/01/2017] 
+Do the references to ‘market makers’ in MiFID II Article 2(1)(d)(i) and Article 2(1)(j) cover those 
+market makers as defined under MiFID II Article 4(1)(7) or those firms engaged in a market 
+making agreement according to Article 17(4) of MiFID II?  
+Answer 4 
+The  reference  to  market  makers’  in  MiFID  II  Article  2(1)(d)(i)  and  Article  2(1)(j) covers  both 
+firms engaged in a market making agreement according to Article 17(4) of MiFID II and other 
+market makers covered by Article 4(1)(7) of MiFID II. 
+ 
+Question 5 [Last update: 03/04/2017] 
+How  should  the  identification  and  authorisation  take  place  for  those  firms  applying  a  High-
+Frequency Trading (HFT) technique? 
+Answer 5 
+The mechanics of identifying whether a firm is deemed to be applying a HFT technique are 
+detailed in Article 19 of Commission Delegated Regulation (EU) 2017/565. Firms should review 
+their  trading  activities  at  least  on  a  monthly  basis  to  self-assess  whether  an  authorisation 
+requirement  has  been  triggered  over  the  course  of  the  period  in  question.  Upon  request, 
+trading  venues  must  provide  their  members,  participants  or  clients  with  an  estimate  of  the 
+average number of messages per second two weeks after the end of each calendar month. 
+For  this  purpose,  trading  venues  should  only  include  messages  generated  by  algorithmic 
+trading activity as identified by the member, participant or client.  
+However,  the  onus  remains  on  firms  to  ensure  that  the  estimates  provided  by  the  trading 
+venues accurately reflect their actual trading activity (and in particular that it only takes into 
+account proprietary algorithmic trading activity on liquid instruments excluding, in the case of 
+DEA providers, messages sent by DEA clients using the firm’s code).  
+Where a firm engages in HFT (as described above) and is not authorised as an investment 
+firm under MiFID II, the firm is required to immediately seek authorisation as required under 
+Article 2(1)(d)(iii) of MiFID II.  
+ESMA reminds that any firm engaged in algorithmic trading (including HFT) has to notify this 
+circumstance to the national competent authority of its home Member State and to the national 
+competent  authorities  of  the  trading  venues  at  which  it  engages  in  algorithmic  trading  as 
+member or participant. 
+17 
+ 
+ 
+ 
+ 
+ 
+Question 6 [Last update: 03/04/2017] 
+Given that the identification of HFT technique takes into account the previous twelve months 
+of  trading  and  that  trading  venues  are  only  obliged  to  provide  the  data  under  Article  19  of 
+Commission  Delegated  Regulation  (EU)  2017/565  as  of  3  January  2018,  when  the  actual 
+identification as high-frequency traders is expected to take place? 
+Answer 6 
+Trading venues are only required by Article 19(5) of Commission Delegated Regulation (EU) 
+2017/565 to provide estimates of the average of messages per second as of 3 January 2018. 
+As a consequence, over 2018 trading venues have to provide the estimates corresponding to 
+the  trading  activity  of  their  members/participants  from  3  January  2018  onwards.  Trading 
+venues may only be able to provide those estimates taking into account the previous twelve 
+months  of  trading  activity  in  the  second  week  of  February  2019.  Provided  that  their  2017 
+records allow them so, trading venues may provide estimates taking into account the previous 
+twelve months before that date. 
+As of 3 January 2018, persons engaged in algorithmic trading are responsible for their own 
+self-assessment to determine whether their trading activity meets the characteristics of HFT 
+as set out under Article 4(1)(40) of MiFID II and Article 19 of Commission Delegated Regulation 
+(EU) 2017/565. If it is the case, they should proceed immediately as described in Answer 5. 
+ESMA notes in this respect that the information provided by trading venues are only estimates 
+that need to be refined according to each person’s own records of the messages sent. 
+ 
+Question 7 [Last update: 03/04/2017] 
+Can DEA users be identified as applying a HFT technique? 
+Answer 7 
+Yes. As clarified under Recital 20 of Commission Delegated Regulation (EU) 2017/565, DEA 
+users may be classified as HFTs if they meet the conditions set out under Article 4(1)(40) of 
+MiFID II and Article 19 Commission Delegated Regulation (EU) 2017/565.  
+In  order  to  assess  whether  a  DEA  user  meets  the  applicable  message  thresholds,  firms 
+accessing  trading  venues  through  DEA  may  contact  their  DEA  provider  which  is  obliged  to 
+record  the  data  relating  to  the  orders  submitted,  including  modifications  and  cancellations 
+under Article 21(5) of RTS 610. 
+                                                 
+10 Commission  Delegated  Regulation  (EU)  2017/589  of  19  July  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament  and  of  the  Council  with  regard  to  regulatory  technical  standards  specifying  the  organisational  requirements  of 
+investment firms engaged in algorithmic trading (OJ L 87, 31.3.2017, p. 417–448). 
+18 
+ 
+ 
+ 
+ 
+However, the onus remains on investment firms to ensure that the estimates provided by the 
+DEA providers accurately reflect their actual trading activity (and in particular that it only takes 
+into  account  proprietary  trading  activity  on  liquid  instruments  excluding,  in  the  case  of  DEA 
+users sub-delegating the DEA provider’s code, messages sent by their own DEA clients).  
+ 
+Question 8 [Last update: 03/04/2017] 
+When would an investment firm using only algorithms which draw human traders’ attention to 
+trading opportunities qualify as engaged in algorithmic trading? 
+Answer 8 
+The use of algorithms which only serve to inform a trader of a particular investment opportunity 
+is not considered as algorithmic trading, provided that the execution is not algorithmic.  
+ 
+Question 9 [Last update: 03/04/2017] 
+Does the MiFID II obligation relating to algorithmic trading  apply to electronic OTC trading? 
+Are algorithms that provide quotes/orders to customers subject to the requirements set out in 
+MiFID II? 
+Answer 9 
+Article 17 of MiFID II covers the trading activity that takes place on a trading venue. Therefore, 
+OTC trading activity, such as the generation of quotes sent bilaterally to clients is not covered 
+by the provisions in Article 17 of MiFID II (and any further requirements thereof). 
+ 
+Question 10 [Last update: 03/04/2017] 
+Please  explain  what  is  meant  by  Article  17(3)  of  RTS  6  which  requires  investment  firms  to 
+“reconcile” their own electronic logs with information about their outstanding orders and risk 
+exposures as provided by the trading venues to which they send orders, their brokers or DEA 
+providers,  their  clearing  members  or  CCP,  their  data  providers  or  other  relevant  business 
+partners?  
+Answer 10 
+The  goal  of  post-trade  controls  is  mainly  to  enable  firms  engaged  in  algorithmic  trading  to 
+undertake appropriate management of their market and credit risk. To that end, and in order 
+to make sure that post-trade controls are based on reliable information, Article 17(3) of RTS 6 
+requires  investment  firms  to  reconcile  their  own  electronic  logs  with  information  about  their 
+outstanding  orders  and  risk  exposures  as  provided  by  external  parties.  This  should  be 
+19 
+ 
+ 
+ 
+ 
+understood  as  an  obligation  to  compare  the  trading  activity’s  reports  generated  by  the 
+investment  firm  itself  with  reports  from  other  external  sources.  This  should  contribute  in 
+particular to: 
+a)  Early detection of any discrepancy between the different data sources and mitigation 
+of errors and malfunctions; 
+b)  Accurate  calculation  of  the  firm’s  actual  exposure  (in  particular,  where  it  accesses 
+different  multiple  trading  systems  and/or  brokers)  and  the  timely  generation  of 
+adequate  alerts  before  the  position  and  loss  limits  set  out  by  the  firm  have  been 
+breached. 
+ 
+Question 11 [Last update: 03/04/2017] 
+Are firms required to store market data in order to fulfil the requirements contained in Article 
+13(7) of RTS 6 regarding the replay functionality of surveillance systems? 
+Answer 11 
+Under Article 13(1) of RTS 6, investment firms engaged in algorithmic trading are obliged to 
+have in place monitoring systems capable of generating operable alerts to indicate potential 
+market abuse. To that end, firms have to take into account not only their own message, order 
+flow and transaction records but also information from other sources (trading venues, brokers, 
+clearing  members,  CCPs,  data  providers,  relevant  business  partners  and  so  forth)  which 
+constitute not  only the input used  to  generate messages  but  also the context of  the  trading 
+activity.  
+Under Article 13 of RTS 6 there is no obligation to store internally all the information from other 
+sources as long as it is possible to retrieve that information to operate the replay function.  
+Those  operable  alerts  may  lead  to  the  submission  to  the  national  competent  authority  of  a 
+Suspicious Transaction or Order Report (STOR) under the Market Abuse Regulation (MAR)11. 
+In particular, Article 5(3) of Commission Delegated Regulation (EU) 2016/95712 prescribes that 
+the information submitted as part of a STOR has to be based on facts and analysis, taking into 
+account all information available to them. Additionally, there is an obligation to maintain for a 
+period of five years the information documenting the analysis carried out with regard to orders 
+and  transactions  that  could  constitute  market  abuse  which  have  been  examined  and  the 
+reasons  for  submitting  or  not  submitting  a  STOR.  That  information  shall  be  provided  to  the 
+                                                 
+11 Regulation  (EU)  596/2014  f  the  European  Parliament  and  of  the  Council  of  16  April  2014  on  market  abuse  (market  abuse 
+regulation)  and  repealing  Directive  2003/6/EC  of  the  European  Parliament  and  of  the  Council  and  Commission  Directives 
+2003/124/EC, 2003/125/EC and 2004/72/EC (OJ L 173, 12.6.2014, p. 1–61) 
+12 Commission  Delegated  Regulation  (EU)  2016/957  of  9  March  2016  supplementing  Regulation  (EU)  No  596/2014  of  the 
+European Parliament and of the Council with regard to regulatory technical standards for the appropriate arrangements, systems 
+and procedures as well as notification templates to be used for preventing, detecting and reporting abusive practices or suspicious 
+orders or transactions (OJ L 160, 17.6.2016, p. 1–14). 
+20 
+ 
+ 
+ 
+ 
+competent  authority  upon  request  (Article  3(8)  of  Commission  Delegated  Regulation  (EU) 
+2016/957). 
+ 
+Question 12 [Last update: 03/04/2017] 
+Article 20 of Commission Delegated Regulation (EU) 2017/565 further clarifies the definition 
+of direct electronic access as per Article 4(1)(41) of MiFID II by stating that persons shall be 
+considered not capable of electronically transmitting orders relating to a financial instrument 
+directly to a trading venue in accordance with Article 4(1)(41) of MiFID II where that person 
+cannot  exercise  discretion  regarding  the  exact  fraction  of  a  second  of  order  entry  and  the 
+lifetime of the order within that timeframe. What does “exercise discretion regarding the exact 
+fraction of a second” mean? 
+Answer 12 
+One of the benefits of accessing a trading venue by DEA is in the ability of the firm submitting 
+the  order  to  exercise  greater  control  over  the  timing  of  order  submission.  The  use  of  DEA 
+without  passing  through  appropriate  control  filters  of  the  provider  of  DEA  and  those  of  the 
+trading venue, is not permitted under MiFID II. Such filters add minimal, but a finite amount of 
+delay to the order reaching the matching engine of the trading venue and as such some may 
+preclude the possibility of a firm submitting such an order to exercise discretion regarding the 
+exact fraction of a second. 
+However, the phrase in question should be construed as whether the DEA user in question is 
+able to exercise discretion regarding the exact fraction of a second in sending an order, not 
+the exact timing of an order reaching the matching engine. This is a natural interpretation given 
+that  current network  routing  technology  cannot  provide  certainty  for  a  message  to  reach  its 
+destination with the precision of “exact fraction of a second”. 
+ 
+Question 13 [Last update: 31/05/2017] 
+What is meant by “continuous” assessment and monitoring of market and credit risk in Article 
+17(2) of RTS 6 which relates to investment firms’ post trade controls? 
+Answer 13 
+Article 17(2) of RTS 6 includes as part of the post-trade controls that investment firms engaged 
+in algorithmic trading must have in place the ‘continuous assessment and monitoring of market 
+and credit risk of the investment firm in terms of effective exposure’.  
+Since  there  is  no  requirement  to  operate  this  continuous  assessment  in  real-time  on  an 
+ongoing basis, intraday and/or end of day checks as appropriate can be carried out at entity 
+level. However, it is noted that the investment firm must have the capability to calculate in real 
+time if necessary and on the basis of the information that it has: a) its outstanding exposure; 
+21 
+ 
+ 
+ 
+ 
+b) the outstanding exposure of each of its traders and c) the outstanding exposure of clients 
+(Article 17(3) RTS 6). 
+ESMA  notes  that  for  that  purpose,  the  reconciliation  of  the  firm’s  own  records  with  those 
+provided by trading venues, clearing members, central counterparties, brokers, DEA providers 
+or any other business partners must be made in real time when those counterparties provide 
+the information in real time.  
+ 
+Question 14 [Last update: 07/07/2017] 
+Does the format established for the record-keeping obligations of HFT firms established in RTS 
+6 apply to their non-algorithmic trading desks? 
+Answer 14 
+In addition to the general obligation of investment firms to maintain records of all orders and 
+transactions  in  financial  instruments  under  Article  25  of  MiFIR,  Article  17(2)  of  MiFID  II 
+establishes the obligation of investment firms engaged in HFT “to store in an approved form 
+accurate and time sequenced records of all its placed orders, including cancellations of orders, 
+executed orders and quotations on trading venues”. 
+For  investment  firms  simultaneously  engaging  in  HFT  and  non-HFT  activities  there  are  two 
+formats that have to be considered:  
+  The format established in Annex 2 of RTS 6 has to be used to record the messaging 
+activity related to activity using HFT technique. ESMA considers that ‘activity using HFT 
+technique’  only  includes  the  algorithmic  proprietary  trading  activity  of  the  firm  on  a 
+trading  venue  with  respect  to  any  liquid  instruments  (see  Article  19  of  Commission 
+Delegated Regulation (EU) 2017/565).  
+With respect of the timestamping of those records (see fields 23 and 24 of table 3 of 
+Annex II of RTS 6), the activity using HFT technique has to be timestamped within 1 
+microsecond or better (Table 2 of Annex to RTS 25, to which RTS 6 cross-refers). 
+  Non-HFT  activity  has  to  be  recorded  under  the  format  established  by  Commission 
+Delegated  Regulation  (EU)  2017/565.  However,  nothing  prevents  these  investment 
+firms from using Annex 2 of RTS 6 to record their non-HFT trading activity if their NCA 
+so agrees. 
+ESMA  reminds  that  all  other  non-HFT  algorithmic  trading  activity  should  be 
+timestamped  in  one  millisecond  or  better  as  provided  for  under  ‘any  other  trading 
+activity’  as  specified  in  Table  2  of  the  Annex  of  RTS  25,  to  which  Commission 
+Delegated Regulation (EU) 2017/565 cross-refers.  
+ 
+22 
+ 
+ 
+ 
+ 
+Question 15 [Last update: 07/07/2017] 
+Article  2(2)  of  Commission  Delegated  Regulation  (EU)  2017/582  (RTS  26)  requires  trading 
+venues to provide tools to ensure pre-execution screening on an order-by-order basis by each 
+clearing member of the limits set and maintained by that clearing member for its client pursuant 
+to RTS 6. Which specific provision of RTS 6 is the reference to limits in Article 2(2) of RTS 26 
+referring to? 
+Answer 15 
+The reference made to RTS 6 in Article 2(2) of RTS 26 is referring to Article 26 of RTS 6. 
+ 
+Question 16 [Last update: 07/07/2017] 
+Article 2(1) of RTS 26 provides an exemption from pre-trade, order-by-order checking for on-
+venue traded cleared derivatives if certain conditions are met. When this exemption applies to 
+clearing members, does it also exempt clearing members from the requirement under Article 
+26(2) of RTS 6 to have “appropriate pre-trade and post-trade procedures for managing the risk 
+of breaches of position limits”? 
+Answer 16 
+General  clearing  members  and  trading  venues  are  not  required  to  subject  client  orders  for 
+cleared derivative transactions on a trading venue to the relevant pre-trade checks required 
+under  RTS  26  where  the  conditions  set  out  in  Article  2(1)  of  RTS  26  are  met.  However, 
+pursuant to Article 26(2) of RTS 6, they should have other pre-trade procedures to manage 
+the risk of breaches of position limits by their clients, by way of appropriate margining practice 
+and other means. 
+ 
+Question 17 [Last update: 07/07/2017] 
+Does  the  ‘kill  functionality’  require  having  to  integrate  different  systems  in-house  using  a 
+software approach so that a single button can cancel all orders in all asset classes for all house 
+trading and client trading? 
+Answer 17 
+The requirement for an investment firm to have a kill functionality pursuant to Article 12 of RTS 
+6 obliges the firm to have the ability as an emergency measure to immediately pull any or all 
+outstanding  orders  from  any  or  all  trading  venues.  ESMA  considers  that  effective  kill 
+functionality  is  essential  for  ensuring  adequate  risk  management  and  safeguarding  of  the 
+orderly functioning of the market, given the risks to which algorithmic trading firms are exposed, 
+in particular in situations where an algorithm is not behaving as expected.  
+23 
+ 
+ 
+ 
+ 
+In  practical  terms,  this  does  not  create  an  obligation  for  all  systems  connecting  the  firm  to 
+different  trading  venues  to  be  implemented  through  a  single  unified  piece  of  software,  in 
+particular when the investment firm comprises different trading systems. The functionality can 
+comprise both procedures and switches that should be adjusted to the characteristics of the 
+systems operated by the investment firm. For instance, when there is a unified system, a button 
+could be set at the highest level of the system, with adequate and gradual procedures so as 
+to limit risks of disorderly markets conditions. In any case, a single decision of the investment 
+firm should be able to result in an immediate withdrawal of all orders or any subset of them. 
+ 
+Question 18 [Last update: 07/07/2017] 
+Under Article 3(2)(a) of Commission Delegated Regulation (EU) 2017/580 (RTS 24), there is 
+a requirement to flag orders submitted to a trading venue “as part of a market making strategy 
+pursuant to Articles 17 and 48 of [MiFID II]”. Should a firm start flagging orders when it decides 
+to  submit  orders  with  a  view  to  make  markets  in  a  particular  instrument,  or  only  when  it 
+concludes  a  formal  agreement  with  the  trading  venue  subsequent  to  triggering  such  an 
+obligation under Article 1 of Commission Delegated Regulation (EU) 2017/578 (RTS 8)? 
+Answer 18 
+The  primary  purpose  of  flagging  as  required  under  Article  3(2)(a)  of  RTS  24  is  to  enable 
+efficient detection of market manipulation by distinguishing the order flow from an investment 
+firm based on pre-determined terms established by the issuer or the trading venue from the 
+order flow of the investment firm acting at its own discretion (see Recital 6 of RTS 24). 
+ESMA therefore expects that only those orders submitted to a trading venue as part of a market 
+making strategy subsequent to the conclusion of a market making agreement with the relevant 
+trading venue should be flagged as such in field 8 as designated in Table 2 of the Annex of 
+RTS 24. The same applies to field 3 of Table 3 of Annex II of RTS 6. 
+ 
+Question 19 [Last update: 07/07/2017] 
+Could trading venues set out different OTRs for different types of market participants (e.g. firms 
+engaged in a market making scheme)? 
+Answer 19 
+As clarified by Recital 3 of Commission Delegated Regulation (EU) 2017/566 (RTS 9) trading 
+venues  may  set  the  maximum  ratio  of  unexecuted  orders  to  transactions  at  the  level  they 
+consider appropriate to prevent excessive volatility in the financial instrument concerned.  
+Nothing prevents trading venues from setting the limits on the basis of the different categories 
+of  market  participants  that  operate  in  their  systems.  In  particular,  trading  venues  may 
+determine a specific limit ratio for members or participants subject to market making obligations 
+24 
+ 
+ 
+ 
+ 
+under  a  written  agreement  (Article  17(2)  of  MiFID  II)  or  a  market  making  scheme  (Article 
+48(2)(b) of MiFID II).  
+The ratio limiting the number of unexecuted orders to transactions should be set in compliance 
+with the objective of Article 48 of MiFID II and supported by statistical analysis of the activity 
+of  the different categories  of  members or  participants  and the liquidity of  the instruments in 
+which they operate. 
+ 
+Question 20 [Last update: 07/07/2017] 
+In terms of the Order to Trade Ratio (OTR), how should a trading venue tackle cases where a 
+market participant has executed no trades after the submission of a high number of orders? 
+Answer 20 
+RTS 9 describes the methodology to calculate the actual OTR incurred by each member or 
+participant  of  a  trading  venue  using  a  fraction.  In  case  there  have  been  no  trades,  a  strict 
+application of the proposed methodology is not possible since one cannot divide by zero.  
+ESMA is of the view that trading venues should consider that the maximum OTR has been 
+breached  if  the  orders  submitted  without  executing  one  single  transaction  surpassed  the 
+maximum authorised number of orders that can be sent for one transaction being executed. 
+For instance if the maximum OTR set by the trading is 10, members or participants should not 
+sent more than 10 orders without executing one transaction. 
+ 
+Question 21 [Last update: 07/07/2017] 
+Article 1(2)(d) of RTS 8 establishes that quotes shall be deemed to have competitive prices 
+where they are posted at or within the maximum bid-ask range set by the trading venue. Does 
+this  mean  that  trading  venues  have  to  have  published  maximum  bid-ask  ranges  for  all 
+instruments traded on their venues or only for the instruments on which they have a market 
+making scheme in place? 
+Answer 21 
+There  are  two  different  obligations  when  an  investment  firm  is  pursuing  a  market  making 
+strategy in trading venues allowing or enabling algorithmic trading through their systems:  
+a)  There is a generic obligation, not restricted to specific financial instruments, for trading 
+venues to sign written market making agreements with all investment firms pursuing a 
+market  making  strategy  on  their  systems  (Article  48(2)  and  Article  17(3)  and  (4)  of 
+MiFID II) when the circumstances described in Article 1(2) of RTS 8 are met; and 
+25 
+ 
+ 
+ 
+ 
+b)  Trading venues must have market making schemes in place only with respect to the 
+instruments listed in Article 5 of RTS 8.  
+In order for investment firms to assess whether they are posting competitive prices on a trading 
+venue and may therefore potentially qualify as engaging into a market making strategy, and 
+have to enter into a market making agreement, trading venues enabling or allowing algorithmic 
+trading through their systems must make public a maximum bid-ask range for each financial 
+instrument they made available for trading.  
+ESMA notes that trading venues may group financial instruments when setting the maximum 
+bid-ask spread for these purposes. 
+ 
+Question 22 [Last update: 07/07/2017] 
+Under which circumstances a trading venue may cancel, vary or correct a transaction? 
+Answer 22 
+Trading venues enabling or allowing algorithmic trading through their systems shall be able to 
+cancel or revoke transactions in case of malfunctioning of the trading venue’s mechanisms to 
+manage  volatility  or  of  the  trading  system  in  the  context  of  disorderly  trading  conditions, 
+according to Article 18 of RTS 7.  
+However, Article 47(1)(d) of MiFID II also establishes the general organisational requirement 
+for all trading venues “to have transparent and non-discriminatory rules and procedures that 
+provide for fair and orderly trading and establish objective criteria for the efficient execution of 
+orders”. Therefore, the rulebook of a trading venue may foresee other exceptional situations 
+in which transactions might be cancelled provided that those situations are transparent and 
+non-discriminatory. 
+ 
+Question 23 [Last update: 03/10/2017] 
+Are  the  suitability  checks  and  controls  a  DEA  provider  should  perform  on  clients  using  the 
+service also applicable in case of clients that are not investment firms authorised in the EU? 
+Where a DEA client extends its access to its own clients, is the DEA provider responsible for 
+the conduct of these sub-delegated clients? 
+Answer 23 
+Yes, the obligations that fall on a DEA provider as per Article 17(5) of MiFID II and as specified 
+in RTS 6 apply regardless whether the client is an authorised EU investment firms or not. In 
+particular, the DEA provider retains responsibility for all clients accessing an EU trading venue 
+through its DEA, including the sub-delegated DEA clients, in relation to the requirements  of 
+Article 17(5) of MiFID II as well as provisions of Articles 19 to 23 of RTS 6. 
+26 
+ 
+ 
+ 
+ 
+In order to fulfil its responsibility, the DEA provider must have access to information on its DEA 
+clients,  irrespective  of  DEA  clients’  jurisdiction  or  their  authorisation  status.  A  DEA  provider 
+may not provide services to its clients, including sub-delegated clients, unless all information 
+can be made available to the Competent Authority of the trading venue for its supervisory and 
+enforcement purposes.  
+The DEA provider should also clarify in the binding written agreement that the DEA service will 
+be suspended or withdrawn from the client if the provider is not satisfied that continued access 
+would  be  consistent  with  its  rules  and  procedures  for  fair  and  orderly  trading  and  market 
+integrity - this includes a situation where the client fails to supply a reasonable explanation for 
+a suspicious trading pattern or inappropriate trading behaviour that may involve market abuse. 
+Where a DEA sub-delegation is allowed, the DEA provider should require its DEA clients to 
+have  a  provision  to  enable  the  DEA  provider  to  have  access  to  information  on  their  sub-
+delegated clients’ trading activities for the express purpose of enabling the DEA provider to 
+provide information to the Competent Authority of the trading venue. 
+Furthermore, trading venues must observe Article 22(3) of RTS 7 when permitting sponsored 
+access, and where appropriate DMA, to their members and participants. TVs should clearly 
+state in their rules the circumstance in which the TV suspends or terminates the provision of 
+DEA, for example, where the conduct of a DEA client is reasonably suspected to be abusive. 
+ 
+Question 24 [Last update: 15/11/2017] 
+Can DEA clients accessing an EU trading venue through sub-delegated DEA benefit from the 
+exemption offered under Article 2(1)(d) of MiFID II? 
+Answer 24 
+Article 2(1)(d) of MiFID II exempts  persons dealing on own account in financial instruments 
+from the requirement to be authorised as a MiFID investment firm. However, it also lists a set 
+of  circumstances  where  such  an  exemption  does  not  apply,  including  where  such  persons 
+have DEA to a trading venue. 
+Article 4(1)(41) of MiFID II defines DEA as “an arrangement where a member or participant or 
+client  of  a  trading  venue  permits  a  person  to  use  its  trading  code  so  the  person  can 
+electronically transmit orders relating to a financial instrument directly to the trading venue”. A 
+person who directly interacts with the member to obtain the use of the trading code will be the 
+person granted permission under an arrangement. The DEA provider has direct knowledge of 
+that person’s use and must be taken to allow it; such a person (Tier 1 DEA client) therefore 
+should be understood to have DEA to a trading venue. 
+However, in some cases a DEA provider may allow a DEA user to sub-delegate the access 
+rights onto a third entity (Tier 2 DEA client). Unlike a Tier 1 DEA client who directly interacts 
+with  the  member  to  obtain  the  use  of  the  trading  code,  a  Tier  2  DEA  client  would,  in  most 
+27 
+ 
+ 
+ 
+ 
+cases, not technically be in possession of the trading code of a DEA provider. The trading code 
+is not passed down to the ultimate users of DEA, but only appended to the order message by 
+the  DEA  provider  before  being  submitted  to  the  trading  venue.  Therefore,  ESMA  does  not 
+consider such Tier 2 DEA clients as having DEA for the purposes of Article 2(1)(d) of MiFID II.  
+ESMA notes that any risks posed by Tier 2 DEA clients are indirectly regulated through the 
+provisions of Article 17(5) of MiFID II as well as Articles 22 and 23 of RTS 6.  
+In addition, Article 21(4) of RTS 6 requires the DEA providers to be able to identify the different 
+order flows from the beneficiaries of such sub-delegation without being required to know the 
+identity of the beneficiaries of such arrangement. 
+ 
+Question 25 [Last update: 15/11/2017] 
+Does a firm need to be authorised as an investment firm under MiFID II to provide DEA to an 
+EU trading venue? 
+Answer 25 
+Yes,  Article  48(7)  of  MiFID  II  provides  that  trading  venues  should  only  permit  a  member  or 
+participant to provide DEA “if they are investment firms authorised  under [MiFID II] or credit 
+institution authorised under Directive 2013/36/EU”. Therefore, non-EU firms (including non-EU 
+firms  licensed  in  an  equivalent  jurisdiction)  or  EU  firms  without  a  MiFID  II  licence  are  not 
+allowed to provide DEA to their clients. This applies regardless of where the clients using the 
+DEA service are located. 
+ 
+Question 26 [Last update: 04/10/2018] *new* 
+Article 6 of RTS 8 requires trading venues to set the incentives and the requirements that must 
+be  met  by  investment  firms  in  order  to  access  those  incentives  under  stressed  market 
+conditions,  taking  into  account  the  additional  risks.  What  are  the  types  of  incentives  to  be 
+provided  under  stressed  market  conditions  by  the  trading  venues  to  comply  with  this 
+requirement? 
+Answer 26 
+RTS  8  sets  forth  an  obligation  for  trading  venues  to  provide  incentives  to  market  makers 
+“effectively  contributing to  liquidity  provision  under  stressed  market  conditions”  (Recital  8  of 
+RTS 8). To this end, the market making schemes should “clearly indicate the conditions for 
+accessing incentives and should take into account the effective contribution to the liquidity in 
+the trading venue measured in terms of presence, size and spread by the participants in the 
+schemes” (Recital 9 of RTS 8). 
+28 
+ 
+ 
+ 
+ 
+On the basis of the individual trading system, trading venues still have the ability to adjust their 
+scheme of incentives, which may well be of a “monetary” or “non-monetary” nature as long as 
+they  effectively  support  trading  and  provision  of  liquidity  to  the  market  on  a  regular  and 
+predictable basis and in particular when it is the most volatile. 
+In particular, trading venues should not induce market makers to leave an already depleted 
+market  or  to  privilege  normal  market  conditions  over  stressed  ones.  This  means  that  those 
+schemes  where  an  incentive  is  given  to  all  market  makers  regardless  of  whether  they 
+effectively  meet  the  requirements  in  terms  of  presence,  size  and  spread  set  by  the  trading 
+venues under stressed market conditions would not comply with RTS 8 obligations. 
+Similarly,  trading  venues  can  impose  different  market  making  quoting  obligations  during 
+normal and stressed markets, provided that they should always be bound by Article 2(1)(b) of 
+RTS 8. In this regard, relaxation of market making obligations should not be construed as an 
+incentive. 
+ 
+Question 27 [Last update: 04/10/2018] *new* 
+In the context of RTS 9, which is the order-counting methodology for bulk quotes? 
+Answer 27 
+A bulk quote is a bundle of multiple quotes, possibly on several financial instruments. As per 
+Article 3 of RTS 9, where the methodology for counting orders for a specific order type is not 
+detailed, the trading venue “shall count the messages in accordance with the general system 
+behind the methodology outlined and on the basis of the most similar order type appearing in 
+the Annex”. According to the methodology in RTS 9, calculations should be performed at the 
+level of each financial instrument and, furthermore, the Annex specifies that each quote should 
+be counted as two orders (one for the buy side and one for the sell side). Accordingly, each 
+order/quote sent within a bulk quote, should be treated individually and be counted as specified 
+in the Annex of RTS 9. 
+ 
+Question 28 [Last update: 04/10/2018] *new* 
+Do the provisions of Article 17(6) of MiFID II and of Chapter IV of RTS 6 apply to all general 
+clearing members or only to those clearing members having algorithmic traders as clients? 
+Answer 28 
+Article 17(6) of MiFID II targets investment firms acting as general clearing members, without 
+mentioning  algorithmic  trading  nor  restricting  the  scope  to  those  clearing  members  having 
+algorithmic traders as clients. Therefore, Article 17(6) should be interpreted as applying to all 
+firms acting as general clearing members, regardless of the nature of their clients. Analogously, 
+the provisions in Chapter IV of RTS 6 are drafted without any reference to algorithmic trading 
+29 
+ 
+ 
+ 
+ 
+and should apply to all general clearing members. This reading is reinforced by Recital 1 of 
+RTS 6, which defines the scope of RTS 6 differentiating on the one hand “Investment firms 
+engaged  in  algorithmic  trading”  and,  on  the  other  hand,  those  “providing  direct  electronic 
+access or acting as general clearing members”. 
+The  title  of  Article  17  and  RTS  6  should  not  be  interpreted  as  narrowing  the  scope  of  the 
+provisions in question, but rather suggesting that the issues addressed are more prominent 
+with respect to algorithmic trading. 
+ 
+ 
+ 
+30 
+ 
+ 
+ 
+ 
+4  The tick size regime [Last update: 28/03/2018] 
+ 
+Question 1 [Last update: 18/11/2016] 
+Which  National  Competent  Authority  (NCA)  should  be  responsible  for  calculating  and 
+publishing the average daily number of transactions (ADNT) and in particular in the case of 
+multi-listed instruments? 
+Answer 1 
+The relevant NCA responsible calculating and publishing the ADNT should be the competent 
+authority identified as the NCA of most relevant market in terms for the purposes of transaction 
+reporting.  In  the  case  of  multi-listed  instruments,  the  criteria  and  procedure  to  be  used  for 
+determining which NCA should be the relevant NCA are specified under Article 16 of RTS 2213.  
+For  new  instruments,  Article  16  of  RTS  22  clarifies  that  the  most  relevant  market  for  the 
+financial  instrument  is  the  market  of  the  Member  State  in  which  a  request  for  admission  to 
+trading was first made or where the instrument was first traded. The NCA of this Member State 
+will  be  responsible  for  publishing  the  estimates  and  preliminary  calculations  as  per  the 
+procedure set out under Article 3(5) and (6) of RTS 1114.  
+Where the relevant NCA has concluded an agreement with ESMA, the ADNT will be published 
+centrally  on  the  ESMA  website.  For  other  NCAs,  the  ADNT  will  be  published  on  the  ESMA 
+website on a best-effort basis.  
+ 
+Question 2 [Last update: 18/11/2016] 
+Which types of corporate actions for an instrument may trigger a recalculation of ADNT? 
+Answer 2 
+Any corporate actions that the relevant NCA anticipates will lead to a material change in the 
+average daily number of trades after the event may initiate the recalculation process per Article 
+4 of RTS 11. Normally such a circumstance may arise when the issuer plans to undertake, 
+amongst  other  things, share  buybacks  or  share  issuance  which  will  result  in  the instrument 
+continuing  to  trade  in  a  liquidity  band  that  would  not  be  optimal  unless  a  recalculation  is 
+undertaken.  
+                                                 
+13 Commission Delegated Regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014 of the European 
+Parliament  and  of  the  Council  with  regard  to  regulatory  technical  standards  for  the  reporting  of  transactions  to  competent 
+authorities (OJ L 87, 31.3.2017, p. 449–478). 
+14 Commission  Delegated  Regulation  (EU)  2017/588  of  14  July  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament and of the Council with regard to regulatory technical standards on the tick size regime for shares, depositary receipts 
+and exchange-traded funds (OJ L 87, 31.3.2017, p. 411–416). 
+31 
+ 
+ 
+ 
+ 
+ 
+Question 3 [Last update: 18/11/2016] 
+Are non-EU instruments in scope and how the calculation of ADNT should be performed for 
+those instruments? 
+Answer 3 
+Non-EU instruments are included in the scope of the Article 49 regime as soon as they are 
+traded  on  a  trading  venue  in  the  Union.  The  applicable  liquidity  band  is  determined  by  the 
+relevant NCA taking into account the ADNT on the most relevant market in terms of liquidity 
+according to Article 4 of RTS 1. Trading activity taking place outside of the Union should not 
+be considered for these purposes. 
+ 
+Question 4 [Last update: 18/11/2016] 
+How is a liquidity band applied for instruments  trading in different currencies across trading 
+venues? 
+Answer 4 
+Once  a  particular  liquidity  band  is  assigned  to  an  instrument,  trading  of  that  instrument  will 
+continue within that band until another liquidity band is assigned as a result of periodical or ad 
+hoc review by the relevant NCA or ESMA. As set out in Recital 8 of RTS 11, the same liquidity 
+band will be applied irrespective of the currency denomination used for the quotation of the 
+financial instrument. 
+ 
+Question 5 [Last update: 18/11/2016] 
+Can a trading venue or NCA manually intervene to allow a smaller tick size if it can be shown 
+that the mandated minimum tick size is adversely impacting liquidity? 
+Answer 5 
+No, except where there has been a corporate action event in which the NCA concerned will 
+consider assigning a different liquidity band according to its estimate of the ADNT occurring in 
+the most liquid venue following the said corporate action event. 
+ 
+Question 6 [Last update: 18/12/2017] 
+Does the minimum tick size regime under Article 49 of MiFID II apply to all orders for which a 
+pre-trade transparency waiver can be granted in accordance with Article 4 of MiFIR? 
+32 
+ 
+ 
+ 
+ 
+Answer 6 
+Article 49 of MiFID II requires trading venues to adopt minimum tick sizes in relation to equity 
+and  certain  equity-like  instruments.  RTS  11  specifies  the  minimum  tick  size  regime  which 
+applies  to  those  instruments  depending  on  their  liquidity  and  price  level.  As  the  aim  of  the 
+minimum  tick  size  regime  is  to  ensure  the  orderly  functioning  of  the  market,  its  application 
+extends to all orders submitted to trading venues. The application of the tick size regime would 
+include, for example, limit orders resting on an order book, orders held in an order management 
+system as well as LIS orders pegged to the mid-point in a lit order book (in practice those LIS 
+orders can only be pegged to the mid-point where the spread consists of an even number of 
+ticks).  
+However, the minimum tick size regime would not apply to transactions executed in systems 
+that  match  orders  on  the  basis  of  a  reference  price  as  per  Article  4(1)(a)  of  MiFIR,  or  to 
+negotiated transactions as per Article 4(1)(b) of MiFIR. 
+ 
+Question 7 [Last update: 19/12/2016] 
+What happens to orders remaining on the order book at the moment the tick size increases? 
+Answer 7 
+Trading venues have discretion to set the rules covering the treatment of orders remaining on 
+the book at the moment the minimum tick size increases, including whether or not such orders 
+are  to  be  cancelled  or  amended.  Trading  venues  are  responsible  to  disclose  those  rules 
+appropriately. Trading venues must also observe the requirement to enforce the minimum tick 
+size for orders submitted after that tick size comes into force. 
+ 
+Question 8 [Last update: 28/03/2018] 
+If the ADNT for an instrument is not available, which liquidity band should trading venues apply 
+until the ADNT is published by NCA or ESMA? When can the trading venue proceed to adopt 
+such a liquidity band? 
+Answer 8 
+In  the  event  of  the  ADNT  not  being  published  by  ESMA  or,  where  applicable  the  NCA,  all 
+relevant trading venues would need to apply a harmonised default tick size pending such a 
+publication to ensure a uniform tick size regime across the Union.  
+For an instrument that is admitted to trading or traded in the EU, where the applicable ADNT 
+remains unavailable, trading venues should assign the highest liquidity band (i.e. liquidity band 
+for instrument with an ADNT ≥ 9,000) to the instrument in question for the purpose of the tick 
+33 
+ 
+ 
+ 
+ 
+size regime. This default regime should apply until the actual publication of the ADNT by ESMA 
+or by the relevant NCAs. ADNTs published should apply the day after their publication.  
+ 
+Question 9 [Last update: 03/10/2017] 
+In  case  of  a  simultaneous  dual  listing,  shall  an  NCA  be  appointed  for  the  purpose  of 
+determining the estimated average daily number of shares and establishing the applicable tick 
+size? 
+Answer 9 
+Yes, the ESMA website will always display one NCA as the NCA of the most relevant market 
+in terms of liquidity as per Article 26 of MiFIR. 
+ 
+Question 10 [Last update: 15/11/2017] 
+Does the mandatory tick size regime apply to both orders and quotes? 
+Answer 10 
+Yes, the minimum tick size established under Article 49 of MiFID II and further specified in RTS 
+11 should apply to both orders and quotes. This regime is meant to create a level playing field 
+between the different trading venues and the reference to “orders” in Article 2 of RTS 11 should 
+not be interpreted as restricting the application of the tick size regime to only certain types of 
+trading systems but, on the contrary, should be understood in the broadest sense. 
+ 
+ 
+ 
+ 
+34 
+5  Multilateral  and  bilateral  systems 
+[Last  update: 
+ 
+ 
+ 
+ 
+04/10/2018] 
+ 
+5.1  General 
+ 
+Question 1 [Last update: 31/01/2017] 
+Can an MTF operator be a member/participant of its own MTF? 
+Answer 1 
+Whether an MTF operator may become a member of its own MTF requires the application of 
+two different MiFID II articles.  
+Article 19 of MiFID II does not prevent an investment firm operating an MTF to be a member 
+of  its  own  MTF.  However,  Article  19(5)  prohibits  investments  firms  and  market  operators 
+operating an MTF to execute client orders against proprietary capital, or to engage in matched 
+principal trading. As a consequence, the investment firm could only operate on its own MTF 
+through pure agency trading.   
+Article 18(4) also requires the operator of an MTF to have arrangements to identify clearly and 
+manage the potential adverse consequences for the operation of the MTF or for its members 
+or participants, of any conflict of interests between the MTF, their owners or the investment 
+firm and market operator operating an MTF and its sound functioning.  
+Appropriate management of conflict of interest is all the more important to ensure the effective 
+implementation of Article 31 of MiFID II, which requires investment firms and market operators 
+operating an MTF to monitor the compliance of its members and participants with the rules of 
+the MTF and with other legal obligations.  
+Therefore, unless otherwise demonstrated by adequate and effective internal arrangements 
+and procedures, ESMA is of the view that the potential conflicts of interest that may arise as a 
+result  of  this  would  only  be  managed  effectively  by  means  of  operating  the  MTF  and  the 
+membership through different legal entities.   
+To ensure that having two separate legal entities serves a meaningful purpose, ESMA is of the 
+view that the two investment firms should have arrangements in place that prevent information 
+sharing on each other’s activities. This would include for instance having distinct management 
+and operational teams and physical separation of activities. Similarly, whereas some elements 
+of  the  IT  infrastructure  could  be  shared,  execution  systems  would  be  expected  to  be 
+segregated and safeguards to be put in place to prevent information leakage across the two 
+35 
+ 
+ 
+ 
+ 
+entities.  Outsourcing  from  one  legal  entity  to  the  other  should  only  take  place  where  the 
+arrangements meet a similar test.  
+The  arrangements  described  above  shall  be  without  prejudice  to  the  ability  of  the  MTF  to 
+monitor its participants for compliance with market rules and other legal obligations and also 
+without prejudice to the MiFID II provisions on identification and management of conflicts of 
+interest to be met by each of the two investment firms. 
+ 
+Question 2 [Last update: 31/01/2017] 
+Would a trading venue locating its electronic systems on a third party data centre be required 
+to comply with the co-location provisions under RTS 1015 even where the venue is not providing 
+the co-location service? 
+Answer 2 
+The principle underpinning Article 1 of RTS 10 is to ensure that electronic access to trading 
+venues is fair and based on objective and non-discriminatory criteria. A trading venue should 
+seek to ensure that this principle is not violated even when the connectivity service is provided 
+by a third-party to members, participants or a client of the trading venue.  
+Therefore, the trading venue should take all the necessary steps to ensure that the third party 
+proximity  hosting  service  provider  offers  a  fair  and  non-discriminatory  access  to  all 
+members/participants/clients  of  the  trading  venue  subscribing  to  such  services.  Such  a 
+requirement may include the conclusion or amendment of an agreement between the trading 
+venue and the service provider so as to remain fully compliant with the provisions in RTS 10. 
+ 
+Question 3 [Last update: 07/07/2017] 
+Article 18(3) of MiFID II requires that investment firms and market operators operating an MTF 
+or  OTF  establish,  publish  and  maintain  and  implement  transparent  and  non-discriminatory 
+rules,  based  on  objective  criteria,  governing  access  to  its  facility.  A  similar  requirement  is 
+applied  to  regulated  markets  through  Article  53(1)  of  MiFID  II.  What  sort  of  behaviour  or 
+restrictions should be considered as non-objective, or discriminatory? 
+Answer 3 
+One of the benefits of more on-venue, pre-trade transparent trading is to broaden access to 
+liquidity for market participants. In order for these benefits to be fully realised, it is important 
+                                                 
+15 Commission  Delegated  Regulation  (EU)  2017/573  of  6  June  2016  supplementing  Directive  2014/65/EU  of  the  European 
+Parliament and of the Council on markets in financial instruments with regard to regulatory technical standards on requirements 
+to ensure fair and non-discriminatory co-location services and fee structures (OJ L 87, 31.3.2017, p. 145–147). 
+36 
+ 
+ 
+ 
+ 
+that  trading  venues  do  not  have  restrictive  criteria  governing  their  access,  which  place 
+unreasonable restraints on certain market participants’ access to particular liquidity pools. 
+In  particular, ESMA  does  not consider the following arrangements to  be  in compliance  with 
+Articles 18(3) and 53(1) of MiFID II. This is not, however, an exhaustive list of arrangements 
+which are non-objective and discriminatory.  
+a)  Trading  venues  should  not  require  members  or  participants  to  be  direct  clearing 
+members of a CCP. 
+Given the protections afforded to non-clearing members under MiFIR and EMIR, as well as 
+the  rules  on  straight  through  processing  (STP),  a  trading  venue  should  not  require  all  its 
+members or participants to be direct clearing members of a CCP. Trading venues may however 
+require  members  or  participants  to  enter  into,  and  maintain,  an  agreement  with  a  clearing 
+member as a condition for access when trading is centrally cleared. 
+b)  For  financial  instruments  that  are  centrally  cleared,  trading  venues  should  not  allow 
+members or participants to require other members or participants to be enabled before 
+they are allowed to trade with each other. 
+There are legitimate checks that a trading venue might carry out before allowing a member or 
+participant  on  to  their  venue.  For  example,  in  markets  for  non-centrally  cleared  financial 
+instruments trading venues may wish to carry out credit checks, or ensure that a member or 
+participant  has  appropriate  capital  to  support  the  positions  it  intends  to  take  on  the  trading 
+venue. In a non-centrally cleared derivatives market, there may be a need for bilateral master 
+netting  agreements  to  be  in  place  between  participants  before  the  trading  venue  can  allow 
+their trading interests to interact. Trading venues will also need to be comfortable that potential 
+participants are meeting the regulatory requirements to be a member of a trading venue such 
+as having appropriate systems and controls to ensure fair and orderly trading.   
+However, in centrally cleared markets, enablement mechanisms whereby existing members 
+or participants of a trading venue can decide whether their trading interests may interact with 
+a  new  participant’s  trading  interest  are  considered  discriminatory  and  an  attempt  to  limit 
+competition.  Enablement  mechanisms  also  reduce  the  transparency  around  the  liquidity 
+available on different trading venues. 
+c)  Trading venues should not require minimum trading activity. 
+Trading venues should not require minimum trading activity to become a member or participant 
+of a trading venue, as this could restrict the access to the trading venue to large members or 
+participants.  
+d)  Trading  venues  should  not  impose  restrictions  on  the  number  of  participants  that  a 
+participant can interact with. 
+In a request for quote (RFQ) protocol, a trading venue should not impose limits on the number 
+of participants that a firm can request a quote from. Whilst a firm requesting a quote may, in 
+37 
+ 
+ 
+ 
+ 
+compliance with Article 28 of MiFID II, want to limit the number of participants it requests quotes 
+from in order to minimise the risk of unduly exposing its trading interest, which could result in 
+it  obtaining a  worse  price, this should not be  mandated by the trading  venue. For  instance, 
+where  a  smaller  firm  is  requesting  a  quote  to  execute  a  low  volume  trade,  it  might  be  less 
+concerned about the risks of exposing its trading interest, and so happier to request quotes 
+from a larger number of market makers or liquidity providers.  
+Limiting the number of participants a firm can request quotes from risks restricting the ability 
+of market participants to access liquidity pools, and only sending requests to traditionally larger 
+dealers  who  they  assume  might  have  larger  inventories.  This  simultaneously  restricts  the 
+ability of the requestor to access the best pool of liquidity and reduces the likelihood of a smaller 
+dealer receiving requests, despite it having a strong trading interest. 
+ 
+Question 4 [Last update: 07/07/2017] 
+Can a person that is not authorised as an investment firm but meets the requirements of Article 
+53(3) of MiFID II be a member or participant of a regulated market or an MTF? 
+Answer 4 
+Yes. Article 53(3) of MiFID II provides that an entity that is not an investment firm or a credit 
+institution  can  be  a  member  of  a  regulated  market  under  certain  conditions,  this  rule  being 
+extended to MTFs by Article 19(2) of MiFID II.  
+ESMA  considers  that  this  provision  should  be  read  in  conjunction  with  the  requirements  of 
+Article 2(1). Under this provision, a person falling under any of the categories listed in Article 
+2(1) would not have to be authorised as an investment firm.  
+However, pursuant to Article 2(1)(d) (ii) of MiFID II, when a person dealing on own account in 
+financial instruments other than commodity derivatives or emission allowances or derivatives 
+thereof and not providing any other investment services or performing any other investment 
+activities in such instruments is also a member of or a participant in a regulated market or an 
+MTF,  it  falls  under  the  scope  of  MiFID  II,  and  should  accordingly  be  authorised  as  an 
+investment firm unless: 
+ 
+it is exempted under points (a), (i) and (j); or  
+ 
+it is a non-financial entity which executes transactions on a trading venue which are 
+objectively measurable as reducing risks directly relating to the commercial activity or 
+treasury financing activity of that non-financial entity or its group.  
+As a consequence, the reference in Article 53(3) to persons other than investment firms and 
+credit  institutions  only  relates  to  entities  that  are  exempted  from  authorisation  under  Article 
+2(1), such as insurance companies or collective investment undertakings, as long as their own 
+regulatory framework permits them to do so. 
+38 
+ 
+ 
+ 
+ 
+This Q&A does not address the issue of non-EEA firms being a member or participant of an 
+EEA trading venue. 
+ 
+Question 5 [Last update: 15/11/2017] 
+Does a client relationship exist between two counterparties that trade on a trading venue? 
+Answer 5 
+No, there is no new client relationship between two counterparties to a trade that takes place 
+on a trading venue, including when the trading venue operates on a request for quote basis. 
+ 
+Question 6 [Last update: 28/03/2018] 
+Can a trading venue control access to the fee and other information required to be published 
+by Article 4 of RTS 10? 
+Answer 6 
+Article 4 of RTS 10 requires trading venues (regulated markets, MTFs and OTFs) to publish 
+the objective criteria for the establishment of their fees and fee structures and other conditions 
+provided for in Article 3, together with execution fees, ancillary fees, rebates, incentives and 
+disincentives in one comprehensive and publicly accessible document on their website. 
+ESMA  is  of  the  view  that  the  Article  requires  the  information  specified  to  be  contained  in  a 
+single  document  and  available  to  any  member  of  the  public  with  no  further  dependence  on 
+action  by  the  firm  operating  the  venue.  That  is,  the  document  should  be  immediately 
+downloadable.  
+Attempts to control public access, for example, by requiring an email to be sent requesting the 
+document or an online form to be completed, would be considered not to meet the requirement. 
+ 
+Question 7 [Last update: 04/10/2018] *new* 
+Can  a  trading  venue use its trading systems  and platforms  to  arrange transactions that are 
+then reported and ultimately executed on another trading venue? 
+Answer 7 
+No, the fundamental characteristic of a trading venue is to execute transactions.  
+As defined under Article 4(1)(21), (22) and (23) of MiFID II, trading venues under all its possible 
+forms  as  regulated  market,  multilateral  trading  facility  and  organised  trading  facility  are 
+39 
+ 
+ 
+ 
+ 
+multilateral systems “which bring together multiple third-party buying and selling interests in 
+financial instruments […] in a way that results in a contract”. Therefore, a trading venue should 
+not be allowed to arrange transactions without formalising the execution of those transactions 
+under  its  rules  and  systems.  ESMA  has  also  already  clarified  that  a  transaction  cannot  be 
+concluded on more than one trading venue at the same time. 
+However, where a trading venue is operated by an investment firm, ESMA considers that these 
+investment firms can arrange transactions as a provider of investment services listed under 
+points (1), (2) or (3) in section A of Annex I of MiFID II, should the investment firm be authorised 
+for the provision of such investment services. This is without prejudice to the guidance provided 
+by ESMA in Q&A10 of section 5.2 clarifying the characteristics of an OTF and, more generally, 
+what constitutes a multilateral activity and should be authorised as such. 
+ 
+Question 8 [Last update: 04/10/2018] *new* 
+Can a market operator or an investment firm operating an MTF apply for a single segment of 
+the MTF to be registered as an SME growth market? 
+Answer 8 
+The operator of an MTF can apply for a segment of the MTF to be registered as an SME growth 
+market when the requirements and criteria set out in Article 33 of MiFID II and Articles 77 and 
+78 of the Commission Delegated Regulation 2017/565 are met in respect of that segment. A 
+specific  segment  registered  as  an  SME  growth  market  should  be  considered  in  isolation  to 
+other segments within the MTF. Other segments which are not specifically registered as an 
+SME GM, cannot benefit from the SME growth market regime. For this purpose the following 
+conditions should apply: 
+  An SME growth market segment is clearly separated from the other market segments 
+operated  by  the  MTF  operator.  Clear  separation  implies  at  least  a  different  name, 
+rulebook, marketing strategy, and publicity as well as the allocation of the dedicated 
+“Segment MIC” to the SME GM segment.  
+  Trades made on a specific SME growth market segment should be clearly distinguished 
+from other market activity within the other segments of the MTF. 
+Furthermore, on demand of the competent authority and with the aim of avoiding circumvention 
+of the definition of an SME growth market, the MTF should provide a comprehensive list of the 
+instruments  listed  on  an  SME  growth  market  segment  and  provide  any  further  requested 
+information on the operation of the SME growth market segment. 
+ 
+Question 9 [Last update: 04/10/2018] *new* 
+40 
+ 
+ 
+ 
+ 
+Would  any  payment  received  from  a  trading  venue  in  respect  of  market  making  activity  or 
+liquidity provision require the conclusion of a market making agreement? 
+Answer 9 
+No. The purpose of the requirement in Article 48 is to ensure that any party receiving financial 
+incentives, such as rebates, to provide liquidity on a trading venue is subject to appropriate 
+market  making  obligations,  but  these  need  not  always  take  the  form  of  a  market  making 
+agreement as specified in RTS 8.  
+A “rebate” in this context should be read to include negative fees or direct payments to the 
+provider of liquidity as well as to refunds or discounts on fees due from the provider of liquidity 
+to the trading venue. It follows from this interpretation that “maker/taker schemes”, whereby 
+financial incentives are provided to market participants to conclude trades by posting passive 
+orders, are not only allowed for firms required to enter into in a market making agreement in 
+accordance with Article 17(4) of MiFID II but also for other market makers covered by Article 
+4(1)(7) of MiFID II provided that these are subject to the appropriate market making obligations. 
+ 
+5.2  Organised Trading Facilities (OTFs) 
+ 
+Question 10 [Last update: 03/04/2017] 
+What are the characteristics of an OTF? When is the authorisation for the operation of an OTF 
+required? 
+Answer 10 
+An OTF is a multilateral system, i.e. “a system or facility in which multiple third-party buying 
+and selling interests in financial instruments are able to interact in the system” (Article 4(1)(19) 
+of MIFID II). The OTF definition supplements this overarching definition by further establishing 
+that  only  buying  and  selling  interests  in  bonds,  structured  finance  products,  emission 
+allowances and derivatives may interact on an OTF in a way that results in a contract and that 
+the execution of orders must be carried out on a discretionary basis. 
+In addition, two types of systems operated by an OTF are identified in Article 20(6) of MiFID II: 
+(i)  systems  that  cross  client  orders  (without  prejudice  to  the  restrictions  placed  on  matched 
+principal trading) and (ii) systems that arrange transactions in non-equities where the operator 
+of  the  OTF  may  facilitate  negotiations  between  clients  so  as  to  bring  together  two  or  more 
+potentially compatible trading interests in a transaction. 
+Under Section A(8) of Annex I of MiFID II, the operation of an OTF is an investment activity 
+that requires prior authorisation.  
+41 
+ 
+ 
+ 
+ 
+ESMA  is  of  the  view  that  an  entity  should  seek authorisation  to  operate  an  OTF  where  the 
+three following conditions are met: a) trading is conducted on a multilateral basis, b) the trading 
+arrangements in place have the characteristics of a system, and c) the execution of the orders 
+takes place on a discretionary basis through the systems or under the rules of the system.  
+a)  Trading  is  conducted  on  a  multilateral  basis:  Interaction  with  a  view  to  trading  in  a 
+financial instrument is conducted in such a way that a trading interest in the system can 
+potentially interact with other opposite trading interests. As OTFs are required to “have 
+at  least  three  materially  active  members  or  users,  each  having  the  opportunity  to 
+interact with all the others in respect to price formation” (Article18(7) of MiFID II), an 
+OTF  user’s  trading  interests  can  potentially  interact  with  those  of  at  least  two  other 
+users. On OTFs, the interaction of user trading interest can take place in different ways, 
+including through matched-principal trading or market-making, within the limits set out 
+in Article 20(2) and 20(5). 
+b)  The trading arrangements in place have the characteristics of a system: MiFIDII/MiFIR 
+is technology neutral and accommodates a variety of “systems”. A system would be 
+easily identified when embedded in an automated system. This would cover a situation 
+where, for  instance,  the arrangements in place consist of  the  automated crossing of 
+client trading interests, subject to the exercise of discretion on an OTF. However, other 
+non-automated systems or repeatable arrangements that achieve a similar outcome as 
+a computerised system, including for instance where a firm would reach out to other 
+clients to find a potential match when receiving an initial buying or selling interest, would 
+also be characterised as a system. 
+Where  a  firm  would,  by  coincidence  and  accidentally,  receive  matching  buying  and 
+selling  interests,  and  decide  to  execute  those  orders  internally,  such  unpredictable 
+circumstances would not qualify as the operation of a system. 
+c)  The execution of the transaction is taking place on the system or under the rules of the 
+system. The execution of the orders would be considered to be taking place under the 
+rules of the system including where, once the trade price, volume and terms have been 
+agreed through a firm, the counterparties’ names are disclosed, the firm steps away 
+from  the  transaction  and  the  transaction  is  then  legally  formalised  between  the 
+counterparties outside a trading venue.  
+If an investment firm arranges a transaction between two clients and the clients decide 
+to formalise the trade on a regulated market or an MTF, the transaction would not be 
+considered as taking place under the rules of the system because a transaction cannot 
+be concluded on more than one venue. 
+ESMA notes that if an investment firm were to arrange transactions on one system and 
+provide  for  the  execution  of  the  transactions  on  another  system  for  avoidance 
+purposes,  the  disconnection  between  arranging  and  executing  would  not  waive  the 
+obligation for the investment firm operating those systems to seek authorisation as an 
+OTF operator.  
+42 
+ 
+ 
+ 
+ 
+ESMA highlights that OTFs are only one of the three categories of multilateral trading systems 
+foreseen by MiFID II. Market participants operating a platform that meets the characteristics of 
+a  multilateral  trading  facility  should  therefore  exercise  judgment  to  assess,  based  on  their 
+business  model,  whether  they  need  to  seek  authorisation  for  the  operation  of  a  multilateral 
+trading facility (MTF), an OTF or, potentially of a regulated market. See also Question 5 on the 
+differences between an MTF and an OTF and Questions 14 and 15 on systematic internalisers 
+(SIs) and riskless transactions.  
+ 
+Question 11 [Last update: 03/04/2017] 
+Does the concept of OTF apply to voice trading and, if yes, when an investment firm executing 
+transactions through voice negotiation should be considered as falling under the definition of 
+OTF? 
+Answer 11 
+Yes. MiFID II is technology neutral and the OTF definition includes voice trading in the same 
+way  as  the  definition  of  regulated  markets  and  MTFs  include  voice  trading  systems.  An 
+investment  firm  executing  transactions  through  voice  negotiation  would  be  considered  as 
+falling  under  the  definition  of  an  OTF  where  the  arrangements  in  place  would  meet  the 
+conditions set out in Answer 3. 
+ 
+Question 12 [Last update: 03/04/2017] 
+What distinguishes an OTF from an MTF?  
+Answer 12 
+MTFs and OTFs both are multilateral trading systems that can be operated by an investment 
+firm or a market operator. However, compared to MTFs, OTFs have a number of key distinct 
+features: 
+a)  OTFs may only trade in bonds, structured finance products, derivatives and emission 
+allowance (non-equity instruments); 
+b)  There are less stringent limitations to the type of activities that the operator of the OTF 
+may undertake both in relation to matched principal trading and trading on own account. 
+Additional restrictions apply as an OTF and a SI cannot be operated by the same legal 
+entity; 
+c)  As opposed to regulated markets and MTFs governed by non-discretionary rules, the 
+OTF operator must exercise discretion either when deciding to place or retract an order 
+on the OTF and/or when deciding not to match potential matching orders available in 
+the system;  
+43 
+ 
+ 
+ 
+ 
+d)  As opposed to regulated markets and MTFs that have members or participants, OTFs 
+have clients. As a consequence, transactions concluded on OTFs have to comply with 
+client  facing  rules,  including  best  execution  rules,  regardless  whether  the  OTF  is 
+operated by an investment firms or a market operator; and 
+e)  Wholesale energy products that must be physically settled (C6 REMIT) do not qualify 
+as financial instruments when traded on an OTF. 
+ 
+Question 13 [Last update: 03/04/2017] 
+The operator of an OTF may engage in dealing on own account other than matched-principal 
+trading only with regard to sovereign debt instruments that do not have a liquid market. (Article 
+20(3) of MiFID II. How should the liquidity of sovereign debt instruments be assessed?  
+Answer 13 
+ESMA notes that RTS 2 sets out how to determine whether a financial instrument has a liquid 
+market. 
+Although RTS 2 was developed for the sole purpose of further specifying the MiFIR pre-trade 
+and  post-trade  transparency  obligations  for  trading  venues  and  investment  firms,  ESMA 
+considers that the methodology and criteria set out in RTS 2 for assessing whether a sovereign 
+bond has a liquid market are also relevant, and should serve as a reference, for the purpose 
+of Article 20(3) of MiFID II. 
+ 
+Question 14 [Last update: 03/04/2017] 
+On what  basis can  a  third  party investment firm carry out market  making  on  an  OTF  on  an 
+independent basis (cf. Article 20(5) of MiFID II)? 
+Answer 14 
+As  provided  for  by  Article  20(5)  of  MiFID  II,  the  operator  of  the  OTF  may  engage  another 
+investment  firm  to  carry  out  market  making  on  the  OTF  on  an  independent  basis.  The 
+independence test is met when the investment firm carrying out market making has no close 
+links with the operator of the OTF as defined under Article 4(1)(35) of MiFID II. 
+ESMA recalls that, under Article 18(4) of MiFID II, an investment firm operating an OTF must 
+have arrangements in place to clearly identify and manage the potential adverse consequence 
+for the operation of the OTF and its users of any conflict of interest between the interest of the 
+OTF,  the  investment  firm  operating  the  OTF  and  the  sound  functioning  of  the  OTF.  More 
+generally,  ESMA  highlights  that  investment  firms  must  maintain  and  operate  effective 
+organisational and administrative arrangements with a view to taking all reasonable steps to 
+prevent conflicts of interest from adversely affecting the interests of clients.  
+44 
+ 
+ 
+ 
+ 
+ 
+Question 15 [Last update: 03/04/2017] 
+Can an SI and an OTF be operated by the same legal entity when they do not trade the same 
+instruments or class of instruments (e.g. an SI in equities and an OTF in derivatives)? 
+Answer 15 
+No. ESMA is of the view that the very general wording of Article 20(4) of MiFID II introduces a 
+blanket  prohibition  of  the  combination  of  the  OTF  and  SI  activities  by  the  same  legal  entity 
+across asset classes and instruments. This blanket prohibition also addresses circumstances 
+under which an investment firm would be operating an OTF and an SI in different asset classes, 
+while being potentially subject to similar conflicts of interests as the ones associated with being 
+an OTF and an SI in the same asset class or instrument. This would be the case, for instance, 
+with  an  investment  firm  operating  an  OTF  in  equity  derivatives  while  being  an  SI  in  the 
+underlying equities. 
+ 
+Question 16 [Last update: 03/04/2017] 
+Where an investment firm that is an SI has to set up a separate legal entity to operate an OTF 
+(or vice-versa), can those two entities have shared resources?  
+Answer 16 
+Having two separate legal entities operating the OTF and the SI aims at ensuring that each 
+venue is operated to the sole benefit of its respective clients and is not influenced in any way 
+by the activity undertaken by the other venue. 
+To that end, ESMA is of the view that the two legal entities respectively operating the SI and 
+the OTF should have arrangements in place that prevent information sharing on each other’s 
+relevant  activities  regarding  the  operation  of  the  OTF  and  the  SI.  This  would  include  for 
+instance  having  distinct  management  and  operational  teams  and  physical  separation  of 
+activities. Similarly, whereas some elements of the IT infrastructure could be shared, execution 
+systems would be expected to be segregated and safeguards in place to ensure that there is 
+no information leakage across the SI and the OTF activities. Outsourcing from one legal entity 
+to the other should only be considered where the arrangements in place meet a similar test. 
+The above is without prejudice to the MiFID II provisions on identification and management of 
+conflicts of interest to be met by each of the two investment firms. 
+ 
+Question 17 [Last update: 03/04/2017] 
+45 
+ 
+ 
+ 
+ 
+Under which conditions can an OTF connect to other liquidity pools such as an SI or another 
+OTF? 
+Answer 17 
+Article 20(4) of MiFID II limits the circumstances under which an OTF may connect with other 
+liquidity pools by prohibiting orders placed in an OTF to interact with quotes or orders in a SI 
+or with orders in other OTFs. Interaction would occur when buying and selling interests would 
+comingle in the same liquidity pool. Accordingly, an SI quote may not be placed on an OTF. 
+Nor can an order originating from another OTF. 
+ESMA highlights that a trading interest in an OTF may not be executed against an opposite 
+order or quote on another execution venue. For a transaction to take place, the two opposite 
+trading  interests  must  be  placed  with  the  same  execution  venue.  However,  this  does  not 
+prevent the investment firm or the market operator operating an OTF from retracting the order 
+from the OTF and sending it to another OTF, to an SI, an MTF or a regulated market, where 
+consistent with the investment firm’s or the market operator’s execution policy and exercise of 
+discretion.  
+ 
+Question 18 [Last update: 03/04/2017] 
+When an investment firm operates an OTF, at which level should the best execution policy be 
+set?  At  the  level  of  the  investment  firm,  at  the  level  of  the  OTF  or  both?  Would  similar 
+requirements apply to a market operator operating an OTF?  
+Answer 18 
+Where an investment firm operates an OTF, ESMA is of the view that the investment firm’s 
+best execution should cover how orders are executed both at the level of the investment firm 
+and at the level of the OTF and, in particular, how discretion is exercised at each stage. 
+Firstly, an investment firm operating an OTF should, in the same way as other investment firms 
+that execute client orders, have a firm-level execution policy setting out the various execution 
+venues,  including  its  own  OTF,  that  it  will  be  considering  when  receiving  a  client  order  and 
+explain in which circumstances an execution venue would prevail over the others.  
+Secondly, the investment firm should have either a separate policy or an additional section in 
+the firm-level execution policy governing how, when a client order is sent to the OTF, the best 
+possible result for the client is achieved taking into account the trading interests in the system 
+and  the  different  execution  mechanisms  that  may  be  available  on  the  OTF,  such  as  voice 
+execution, electronic RFQ or order book. 
+As  the exercise  of discretion  by the investment firm in its OTF operator capacity is to  be  in 
+compliance with its execution policy, the document should also set out in details the area(s) in 
+which the OTF operator intends to exercise discretion and the basis on which such discretion 
+will be exercised (Article 20(6) of MiFID II). 
+46 
+ 
+ 
+ 
+ 
+Equivalent requirements apply to a market operator operating an OTF. In this regard, a market 
+operator would need to have a best execution policy in place, setting out the conditions under 
+which an order received by a client may be executed on its OTF, as described above. 
+ 
+Question 19 [Last update: 03/04/2017] 
+Does the exercise of any form of discretion mean that a venue is an OTF?  
+Answer 19 
+No. Article 20(6) of MiFID II sets out that “the market operator or the investment firm operating 
+an OTF must exercise discretion only in either or both of the following circumstances: 
+a)  When deciding to place or retract an order on the OTF they operate; 
+b)  When deciding not to match a specific client order with other orders available in the 
+systems at a given time, provided it is in compliance with specific instructions received 
+from a client and with its obligations in accordance with article 27.  
+For the system that crosses client orders, the investment firm or the market operator operating 
+the OTF may decide if, when, and how much of two or more orders it wants to match within 
+the  system.  […]  with  regards  to  a  system  that  arranges  transactions  in  non-equities,  the 
+investment  firm  or  market  operator  operating  the  OTF  may  facilitate  negotiations  between 
+clients  so  as  to  bring  together  two  or  more  potentially  compatible  trading  interest  in  a 
+transaction”. 
+ESMA  understands  “execution  on  a  discretionary  basis”  and  “exercise  of  a  discretion”  as 
+meaning  that,  in  the  circumstances  foreseen  in  Article  20(6),  the  operator  of  the  OTF  has 
+options to consider for the execution of a client’s order and exercises a judgement as to the 
+decision to make and the way forward. 
+As suggested by Article 20(6), ESMA is of the view that the exercise of discretion can usefully 
+be split into a) order discretion and b) execution discretion. 
+c)  Exercise of discretion at order level   
+When  an  investment  firm  or  a  market  operator  receives  an  order  from  a  client,  the  “order 
+discretion” refers to the judgement exercised by the OTF operator whether to place the order 
+at all on the OTF, whether to place the whole order or just a portion of it on the OTF, and when 
+to  do  so. This  may be  the  case for  instance  where  an  investment  firm  would  receive a  buy 
+order  for  a  500  lots  and  would  decide  to  place  an  order  for  200  lots  only  on  the  OTF,  the 
+remaining 300 lots being executed elsewhere. 
+Similarly, and as opposed to the operator of an MTF which may not withdraw an order from 
+the MTF at its own initiative unless for fair and orderly market purposes, the operator of the 
+47 
+ 
+ 
+ 
+ 
+OTF is expected to make a judgement as to whether and when an order should be retracted 
+from the OTF.  
+This may be the case where, at a given point of time, the OTF operator considers that a more 
+favourable  outcome  would  be  obtained  by  executing  the  order  on  another  execution  venue 
+foreseen in the best execution policy. The OTF operator may also have placed the order on 
+the OTF, sent it to another trading venue simultaneously, subsequently decided to have the 
+order executed on the trading venue and retracted it from the OTF. 
+The exercise of  order  discretion would  always have  to  comply with the OTF best execution 
+policy  and  with  client  order  handling  rules.  Where  clients  would  be  providing  a  specific 
+instruction to the operator of the OTF, the OTF operator would not be considered as exercising 
+order discretion when complying with that specific instruction. 
+d)  Exercise of discretion at execution level 
+Under Article 20(6), the exercise of discretion at execution level has to be in compliance with 
+client specific instructions and the best execution policy. ESMA is of the view that the mere 
+implementation of client specific instructions or of best execution obligations would not be the 
+exercise of discretion. 
+The operator of the OTF is expected to exercise a judgement as to if, when, and how much of 
+two  matching  orders  in  the  system  should  be  matched.  For  instance,  assuming  a  buy  side 
+order for 500 bonds and an opposite order of 200 bonds have been placed into the OTF, the 
+operator of the OTF would exercise discretion when deciding whether the 500 buy side order 
+should not be matched with the sell side order.  
+Finally, ESMA highlights that the exercise of discretion, be it “order discretion” or “execution 
+discretion”, should  not be  just a  possibility foreseen  in the rules of the OTF and in the best 
+execution  policy  of  the  OTF  operator.  Discretion  has  to  be  actually  implemented  by  the 
+operator of the OTF as part of its ordinary course of business and should be a key part of its 
+activities. It is not expected that any quantitative threshold would be set to assess the exercise 
+of  discretion.  However,  as  provided  for  under  Article  20(7)  of  MiFID  II,  at  the  time  of 
+authorisation or on ad-hoc basis, the market operator or the investment firm operating an OTF 
+should  be  able  to  provide  to  its  national  competent  authority  a  detailed  description  of  how 
+discretion will be exercised and in particular when an order may be retracted from the OTF and 
+when and how two or more client orders will be matched in the OTF. ESMA also highlights that 
+the OTF operator should be able to explain to its national competent authority the rationale 
+underpinning the exercise of discretion, such as the set of reasons and the logical basis for not 
+matching two opposite buying and selling interests. Random placing, retracting, matching or 
+non-matching of orders on the OTF would not be considered as the exercise of discretion. 
+Likewise,  the  exercise  of  pre-trade  controls  by  the  operator  of  the  OTF  to  ensure  fair  and 
+orderly  trading  would  not  qualify  as  the  exercise  of  discretion.  Post-trade  decisions,  for 
+example over where transactions are settled, are not relevant either for the purposes of these 
+provisions.  Similarly,  the  decision  to  enter  into  a  client  relationship  in  compliance  with  OTF 
+rules on non-discriminatory access does not constitute discretion under Article 20(6). 
+48 
+ 
+ 
+ 
+ 
+ 
+Question 20 [Last update: 03/04/2017] 
+Does discretion have to be exercised on an order by order basis?  
+Answer 20 
+ESMA  is  of  the  view  that  discretion  at  order  level  (see  Answer  12)  does  not  have  to  be 
+exercised order by order. As an example, the OTF operator may consider, at a given point in 
+time that some or all orders of a specific size in a specific instrument should be retracted from 
+the OTF as more favourable conditions are temporarily available elsewhere. However, the OTF 
+operator must have the ability to exercise discretion at order level if circumstances so require, 
+for instance in case of prior execution of an order on another trading venue. 
+Conversely, ESMA is of the view that, at execution level, discretion whether not to match two 
+potential  matching  buying  and  selling  interests  can  only  be  meaningfully  exercised  at  order 
+level.  
+ 
+Question 21 [Last update: 03/04/2017] 
+Does  a  fully  automated  system  exclude  the  exercise  of  discretion  and  should  therefore  be 
+automatically classified as an MTF? 
+Answer 21 
+No. MiFID II is ‘technology neutral’ and permits any trading protocol to be operated by an OTF, 
+provided it is consistent with fair and orderly trading and the exercise of discretion. 
+ESMA is of the view that the exercise of discretion as to if and when to place or retract an order 
+could possibly be automated through artificial intelligence and algorithms, without necessarily 
+the exercise of human judgement on a case by case basis. Conversely, human intervention is 
+not  necessarily  sufficient  to  prove  the  exercise  of  discretion.  Human  intervention  that  is  not 
+based on the exercise of human judgement (for instance, only consisting in the random placing 
+or retracting or matching/non-matching of orders) would not be considered as the exercise of 
+discretion.  
+When discretion is exercised at execution level, i.e. when deciding if, when or how much of 
+two or more trading interests should (or should not) be matched, ESMA is of the view that the 
+exercise of discretion would not preclude the use of automated systems, provided that certain 
+conditions are met. In particular, the sophisticated algorithms supporting automated matching 
+would  need  to  anticipate  the  circumstances  under  which  the  orders  would  not  be  matched; 
+they would also have the capacity to ensure that the decision to match (or not to match) two 
+opposite trading interests is in compliance with the best execution policy or a client specific 
+instruction. As one of the differentiating factors from execution algorithms operated by MTFs, 
+49 
+ 
+ 
+ 
+ 
+the algorithms operated by the OTF would be expected to take into account external market 
+factors or other external source of information to demonstrate the exercise of discretion. 
+ 
+Question 22 [Last update: 03/10/2017] 
+Can an OTF offer trading in C(6) REMIT wholesale energy products only? 
+Answer 22 
+No.  Under  Article  4(1)(23)  of  MiFID  II,  an  organised  trading  facility  (OTF)  is  a  multilateral 
+trading  system  which  organises  the  interaction  of  multiple  third  party  buying  and  selling 
+interests  in bonds,  structured  finance  products,  emission  allowances  and  derivatives,  i.e.  in 
+financial instruments. 
+Accordingly, to be authorised as an OTF, a multilateral trading system must offer trading in the 
+financial instruments listed above, without prejudice to the other requirements to be met for 
+such authorisation.  
+However,  a  trading  platform  that  is  authorised  as  an  OTF  based  on  trading  financial 
+instruments can, in addition, offer trading in wholesale energy contracts that must be physically 
+settled ( “REMIT carve-out” contracts).  
+ESMA highlights that the OTF must ensure that genuine trading in financial instruments takes 
+place on the OTF to be authorised, and retain authorisation, as an OTF, with appropriate staff, 
+IT, financial and other resources being devoted to this activity. Trading in financial instruments 
+should not be designed for the sole purpose of obtaining an OTF license and with the end-
+objective of trading REMIT carve-out contracts almost exclusively. 
+ 
+Question 23 [Last update: 03/10/2017] 
+When an OTF authorised to trade financial instruments also trades REMIT wholesale energy 
+products, i.e. in non-financial instruments, what are the applicable MiFID II/MiFIR provisions? 
+Answer 23 
+MiFID II/MiFIR provisions apply to the operation of an OTF trading financial instruments. 
+Where a person seeks authorisation as an OTF and intends to offer trading in REMIT carve-
+out contracts as well, a detailed description of the REMIT carve-out trading activity should be 
+included in the authorisation file so that the competent authority can understand and assess 
+the  potential  impact  of  REMIT  carve-out  trading  on  the  investment  firm  or  market  operator 
+50 
+ 
+ 
+ 
+ 
+operating the OTF and on trading in financial instruments. The information to be provided is 
+set out in ITS 1916. 
+Where  an  investment  firm  or  market  operator  operating  an  OTF  has  been  authorised  and 
+intends to additionally offer trading in REMIT carve-out products, a detailed description of the 
+REMIT carve-out trading activity should be provided to the competent authority in due course 
+before the start of such trading activities. 
+The management body of the investment firm (or the market operator) operating the OTF is 
+responsible  for  defining,  approving  and  overseeing  the  organisation  of  the  firm  or  market 
+operator for the provision of investment services and activities, taking into account the nature, 
+scale  and  complexity  of  its  business  and  all  the  requirements  the  firm  has  to  comply  with. 
+ESMA  is  of  the  view  that  the  responsibilities  of  the  management  body  extends  to  the  non-
+financial instrument trading activity of the OTF as they may have an impact on the investment 
+activities  provided  by  the  investment  firm  (or  the  market  operator).  This  also  applies  to  the 
+management  body’s  responsibilities  governing  the  investment  firm  (or  market  operator)’s 
+internal policy setting out, among other things, the activities, products and operations offered 
+or provided in accordance with risk tolerance of the firm (or the market operator). 
+More generally, ESMA highlights that a market operator or an investment firm operating an 
+OTF trading both financial instruments and  REMIT carve-out  products should identify, prevent 
+or  otherwise  manage  any  potential  adverse  consequences  that  trading  in  REMIT  carve-out  
+products  may  have  on  trading  in  financial  instruments  and  on  its  ability  to  meet  its 
+MiFIDII/MiFIR obligations on an on-going basis. Upon request, the operator of the OTF should 
+be able to explain to the competent authority the procedures and arrangements put in place to 
+that effect. 
+ 
+Question 24 [Last update: 03/10/2017] 
+How do the OTF best execution obligations apply when third-party brokers are clients of the 
+OTF or  when  these brokers provide Direct Electronic Access  (DEA) (see  Article 4(1)(41) of 
+MiFID II)? 
+Answer 24 
+When an investment firm or a market operator operating an OTF receives orders or indications 
+of interest from a broker acting on behalf of its own clients, the operator of the OTF should be 
+implementing its own best execution policy when executing the order from the broker orders 
+as it owes its user clients (the broker) the duty of best execution. The broker should determine 
+that the OTF it selects allows it to comply with its best execution obligations towards its own 
+                                                 
+16 Commission Implementing Regulation (EU) 2016/824 of 25 May 2016 laying down implementing technical standards with regard 
+to the content and format of the description of the functioning of multilateral trading facilities and organised trading facilities and 
+the notification to the European Securities and Markets Authority according to Directive 2014/65/EU of the European Parliament 
+and of the Council on markets in financial instruments (OJ L 137, 26.5.2016, p. 10–16) 
+51 
+ 
+ 
+ 
+ 
+clients. To that end, the broker should conduct a performance assessment of the OTF including 
+how discretion is exercised. 
+In the specific case of DEA to an OTF, the DEA order is entered in the OTF client’s name (the 
+broker) and the OTF operator should execute the DEA order as it would for any OTF client 
+order. Alternatively, the operator of the OTF may decide not to permit DEA to its system. 
+ESMA notes that a DEA order could be considered as a client specific instruction to the broker 
+providing the DEA arrangement to its clients. 
+ 
+Question 25 [Last update: 29/05/2018] 
+Can an OTF arrange or trade strategies including an equity leg? 
+Answer 25 
+Strategies that include futures contracts, the contingent trade of a basket of equities or delta 
+one financial instruments can be arranged by an investment firm, as a provider of investment 
+services listed under points (1), (2) or (3) in section A of Annex I of MiFID II. This includes a 
+strategy in which one party agrees to buy an equity and to execute a short derivative in the 
+equity and the other party agrees to sell the equity and to execute the long derivative. 
+ESMA  considers  that  an  investment  firm  operating  an  OTF  could  arrange  such  strategies 
+provided that the equity leg is not executed on the OTF system, since Article 4(1)(23) of MiFID 
+II defines OTFs as multilateral systems where only non-equity instruments can be traded. This 
+restriction also applies to strategies composed of a look-alike equity leg, including a forward 
+trade. 
+In addition, for the purpose of market integrity, ESMA recalls that double counting should be 
+avoided.  Thus,  an  OTF  should  only  provide  transparency  information,  transaction  and  best 
+execution reports for transactions that are concluded on its system and considered as taking 
+place under the rules of its system. In case of a strategy composed of an equity leg concluded 
+on another venue while the derivative is concluded on the OTF system, the OTF is subject to 
+reporting requirements for the derivatives’ leg. 
+ 
+5.3  Systematic internalisers  
+ 
+Question 26 [Last update: 28/03/2018] 
+52 
+ 
+ 
+ 
+ 
+Recital  19  of  the  Commission  Delegated  Regulation  (EU)  2017/565  clarifies  the  conditions 
+under which an SI may engage in matched principal trading to execute client orders. To what 
+extent can SIs engage in other types of riskless back-to-back transactions? 
+Answer 26 
+Recital 19 of the Commission Delegated Regulation (EU) 2017/565 is not limited to internal 
+matching of client orders through matched principal trading but more generally prevents SIs 
+from operating any system that would “bring together third party buying and selling interests in 
+functionally the same way as a trading venue”. The prohibition for an SI to operate an internal 
+matching  system  for  matching  client  orders  is  just  one  example,  as  opposed  to  the  unique 
+circumstance, under which an SI would actually be operating functionally in the same way as 
+a trading venue and would be required to seek authorisation as such. 
+Based on the SI definition provided in Article 4(1)(20) of MiFID II, ESMA understands that the 
+trading activity of a SI is characterised by risk-facing transactions that impact the Profit and 
+Loss  account  of  the  firm.  By  undertaking  such  risk-facing  transactions,  SIs  are  a  valuable 
+source of liquidity to market participants. In that regard, ESMA notes that the MiFIR pre-trade 
+transparency  provisions  for  SIs  seek  to  avoid  submitting  SI  to  undue  risks  based  on  the 
+assumption and understanding that SIs are indeed facing risks when trading.  
+In contrast to the above, ESMA is of the view that arrangements operated by an SI would be 
+functionally similar to a trading venue where they meet the following criteria: 
+a)  The arrangements would extend beyond a bilateral interaction between the SI and a 
+client,  with  a  view  to  ensuring  that  the  SI  de  facto  does  not  undertake  risk-facing 
+transactions. This would be the case, for instance, where an SI would have agreements 
+with other liquidity providers so that the SI would do a riskless back-to back transaction 
+with one of those liquidity providers whenever a transaction is executed with a client, 
+or where it would only execute one transaction contingent on another one. A similar 
+outcome  would  be  reached  from  the  reverse  situation  where  one  or  more  liquidity 
+providers would be streaming quotes to an SI. The quotes would then be forwarded by 
+the  SI  to  its  clients  to  be  executed  against,  resulting  again  in  no  risk  back-to-back 
+transactions which could involve multiple parties. The concept of de facto riskless back-
+to-back  transactions  is  not  confined  to  pairs  of  transactions  in  the  same  financial 
+instrument. Other arrangements, for example where one leg is a securities transaction 
+and the other is a derivative which references that security, could also be deemed as 
+having  the  objective  or  consequence  of  carrying  out  de  facto  riskless  back-to-back 
+transactions. 
+By crossing client trading interests with other liquidity providers’ quotes, via matched 
+principal  trading  or  another  type  of  riskless  back-to-back  transaction,  so  that  it  is  de 
+facto not trading on risk, the SI would actually organise an interaction between its client 
+orders on the one hand and the SI or other liquidity providers’ quotes on the other hand. 
+The  SI  would  be  bringing  together  multiple  third  party  buying  and  selling  trading 
+interests in a way functionally similar to the operator of a trading venue. 
+53 
+ 
+ 
+ 
+ 
+b)  The  arrangements  in  place  are  used  on  a  regular  basis  and  qualify  as  a  system  or 
+facility, as opposed to ad-hoc transactions. The existence of a system would be easily 
+identified  where,  for  instance,  the  arrangement  in  place  would  be  underpinned  by 
+technological  developments  to  increase  speed  and  efficiency  and  legal  agreements 
+would be in place between the SI and liquidity providers. The operation of a system 
+could  also  include  circumstances  where  there  is  an  understanding  with  third  parties 
+that trade by trade hedging will be available on a regular basis. ESMA recalls that MiFID 
+II/MiFIR is technology neutral and applies to voice systems as well as to electronic and 
+hybrid systems; 
+c)  The transactions arising from bringing together multiple third party buying and selling 
+interests are executed OTC, outside the rules of a trading venue.  
+ESMA highlights that the above does not prevent SIs from hedging the positions arising from 
+the execution of client orders as long as it does not lead to the SI de facto executing non risk-
+facing  transactions  and  bringing  together  multiple  third  party  buying  and  selling  interests. 
+ESMA is of the view that an SI would not be bringing together multiple third party buying and 
+selling interests as foreseen in Recital 19 where hedging transactions would be executed on a 
+trading venue. 
+ 
+Question 27 [Last update: 03/04/2017] 
+Recital (19) of the Commission Delegated Regulation (EU) 2017/565 foresees that a SI can 
+undertake matched principal trading provided it does so on an occasional, and not a regular, 
+basis. How is “occasional basis” expected to be assessed?  
+Answer 27 
+As  stated  under  Answer  15,  ESMA  is  of  the  view  that  a  SI  activity  is  characterised  by  risk-
+facing transactions that impact the Profit and Loss account of the firm. 
+Where an SI would receive, and execute, two potentially matching buying and selling interests 
+from clients as one matched principal trade or where it would try to find the buyer for a sell 
+order (or the other way around) and execute the first leg contingent on the second leg, those 
+transactions would not qualify as risk facing transactions. As such, they could only be executed 
+by an SI on an occasional basis, as provided for by Recital (19) of the Commission Delegated 
+Regulation (EU) 2017/565. 
+ESMA  is  of  the  view  that  an  SI  would  not  be  undertaking  matched  principal  trading  on  an 
+occasional and non-regular basis if it meets any of the following criteria:  
+a)  the investment firm operates one or more systems or arrangements, be they automated 
+or not, intended to match opposite client orders. The investment firm may accidentally 
+receive  two  opposite  matching  buying  and  selling  interests  and  match  them  but  it 
+54 
+ 
+ 
+ 
+ 
+should  not  have  systems  in  place  aimed  at  increasing  opportunities  for  client  order 
+matching; 
+b)  when  executing  client  orders,  non-risk  facing  activities  account  for  a  recurrent  or 
+significant source of revenue for the investment firm’s trading activity; 
+c)  the  investment  firm  markets,  or  otherwise  promotes,  its  matched  principal  trading 
+activities. 
+ 
+Question 28 [Last update: 07/07/2017] 
+Should a system providing quote streaming and order execution services to multiple SIs be 
+authorised as a multilateral system? 
+Answer 28 
+Articles  14(1)  and  18(1)  of  MIFIR  require  SIs  to  make  public  firm  quotes,  which  may  be 
+published through an APA. Some prospective APAs propose setting up arrangements which, 
+on top of their APA services, provide a suite of quote streaming and order execution services 
+to SIs and their clients. Clients cannot interact with more than one SI via a single message but 
+can send multiple messages to multiple SIs participating in the service provided. 
+Article 4(19) of MiFID II defines a multilateral system as” […] any system or facility in which 
+multiple  third-party  buying  and  selling  trading  interests  in  financial  instruments  are  able  to 
+interact in the system”. Article 1(7) of MiFID II requires all multilateral systems to operate as 
+either a RM, an MTF or an OTF. 
+In  line  with  the  criteria  set  out  in  Q&A  3  on  OTFs  published  on  3  April  2017  for  identifying 
+multilateral trading systems, ESMA notes that: 
+a)  If a system allows multiple SIs to send quotes to multiple clients and allows clients to 
+request execution against multiple SIs, then this meets the interaction test foreseen in 
+Article 4(1)(19) even if there is no aggregation across individual SI quote streams; 
+b)  The arrangements described above have the characteristics of a system as they are 
+embedded in an automated facility; and, 
+c)  Those  arrangements  are  not  limited  to  pooling  potential  buying  and  selling  interests 
+from SIs but also cater for the direct execution of the selected SI quotes. Genuine trade 
+execution would be taking place on the system provided. 
+Accordingly, a system that provides quote streaming and order execution services for multiple 
+SIs should be considered a multilateral system and would be required to seek authorisation as 
+a regulated market, MTF or OTF in accordance with Article 1(7) of MiFID II. 
+55 
+ 
+ 
+ 
+ 
+ESMA reminds that if a firm were to arrange transactions on one system and provide for the 
+execution  of  the  transactions  on  another  system,  the  disconnection  between  arranging  and 
+executing  would  not  waive  the  obligation  for  the  firm  operating  those  systems  to  seek 
+authorisation as a trading venue.   
+ 
+Question 29 [Last update: 03/10/2017] 
+Article 15(2) of MiFIR sets out that “in justified cases”, systematic internalisers may execute 
+orders at a better price than the quoted prices provided that the price falls within a public range 
+close to market conditions. What are those justified cases? 
+Answer 29 
+Articles 14, 15, and 17 of MiFIR establish a comprehensive pre-trade transparency framework 
+for systematic internalisers (SIs) in shares, depositary receipts, ETFs, certificates and other 
+similar financial instruments. As set out in Article 17(3) of MiFIR, the implementing measures 
+further  aim  at  ensuring  the  efficient  valuation  of  those  instruments  and  maximising  the 
+possibility for investment firms to obtain the best deal for their clients. 
+Whilst  Article  15(2)  of  MiFIR  provides  that  in  justified  cases,  systematic  internalisers  may 
+execute  orders  at  a  better  price  than  the  quote  published,  ESMA  considers  that  price 
+improvements on those quotes are only justified where they would serve similar purposes as 
+those referred on Article 17(3) of MiFIR.  
+ESMA notes that marginal price improvements on quoted prices would challenge the efficient 
+valuation  of  equity  instruments  without  bringing  any  real  benefits  to  investors.  As  a 
+consequence, and to ensure that price improvements do not undermine the efficient pricing of 
+instruments traded, price improvements  on  quoted  prices would  only be justified  when they 
+are meaningful and reflect the minimum tick size applicable to the same financial instrument 
+traded on a trading venue.  
+This is without prejudice to SIs’ ability to quote any price level when dealing in sizes above 
+standard market size. 
+ 
+ 
+56 
+ 
+ 
+ 
+ 
+6  Access  to  CCPs  and  trading  venues  [Last  update: 
+12/09/2017] 
+ 
+Question 1 [Last update: 07/07/2017] 
+When should CCPs notify the transitional arrangements foreseen in Article 35(5) of MiFIR? 
+Answer 1 
+Article  35(5)  of  MiFIR  does  not  establish  any  timing  other  than  indicating  that  CCPs  must 
+submit  their  notification  before  the  application  of  MiFIR.  However,  given  the  amount  of 
+arrangements necessary for the transition to MiFID II/MiFIR and the risk of ‘bottlenecks’, ESMA 
+encourages  CCPs  that  meet  the  requirements  set  out  in  Article  35(5)  of  MiFIR  and  are 
+considering applying for the transitional arrangements to do so as early as possible during the 
+course  of  2017.  In  any  case,  ESMA  recommends  that  CCPs  should  notify  their  intention  to 
+make use of the temporary opt-out under Article 35(5) of MiFIR no later than 30 September 
+2017. 
+ 
+Question 2 [Last update: 07/07/2017] 
+Is a CCP using an open offer trade acceptance model obliged to accept a request for access 
+from a trading venue using a novation trade acceptance model? 
+Answer 2 
+Yes, a CCP using an open offer trade acceptance model that receives a request for access 
+from a trading venue using a novation trade acceptance model should grant that access unless 
+it  can  identify  how  precisely  the  simultaneous  use  of  an  open  offer  and  a  novation  trade 
+acceptance model would give rise to significant undue risks that cannot be managed. 
+ 
+Question 3 [Last update: 12/09/2017] 
+According to Article 36(5) of MiFIR trading venues in ETDs that fall below the threshold of the 
+annual notional amount traded of EUR 1 000 000 million have to notify ESMA and their NCAs 
+if they intend to temporarily opt-out of the provisions of that Article (and the access provisions 
+in general). When and how should trading venues submit their notification to ESMA and their 
+NCA? 
+Answer 3 
+57 
+ 
+ 
+ 
+ 
+Trading venues should notify their intention to temporarily opt-out of the access provisions to 
+ESMA at the very latest by the end of September 2017 according to the requirements set out 
+in  in  Articles  17  and  19  of  Commission  Delegated  Regulation  (EU)  2017/581  on  access  in 
+respect of central counterparties and trading venues (RTS 15).  
+In order to allow for a quick and timely processing of notifications received, ESMA recommends 
+that  trading  venues  wishing  to  benefit  from  the  temporary  opt-out  should  first  notify  their 
+national competent authority as soon as the necessary trading data for 2017 as specified in 
+Article 19(2) of RTS 15 is available together with any other documents and evidence supporting 
+that their annual notional amount traded will be below EUR 1,000,000 million in 2017.  
+Once their NCA has verified the completeness of the documents provided and the calculation 
+of the annual notional amount traded, trading venues should submit their notification in written 
+form using the forms 3.1 and 3.2 of the Annex of RTS 15 to ESMA.  Under the ‘relevant contact 
+details’  in  form  3.1  the  trading  venue  should  provide  as  well  an  email  address  and  phone 
+number for  further requests/notifications  from ESMA. In  form 3.2 the trading  venues should 
+break down the notional amount traded in ETDs in 2017per asset class as defined in Annex II 
+of RTS 2. Furthermore, where the trading venue is part of a group which is connected by close 
+links, the information in form 3.2 should include the annual amount traded on all the trading 
+venues within the same group that are based in the Union. 
+ESMA will inform the trading venues notifying the temporary opt-out of its assessment at the 
+latest three months after reception of a complete notification. Furthermore, ESMA will publish 
+the list of notifications received. 
+ 
+Question 4 [Last update: 12/09/2017] 
+In which cases should a trading venue apply for an exemption foreseen in Articles 36(5) or 
+Article 54(2) of MiFIR? 
+Answer 4 
+MiFIR provides for two transitory arrangements with respect to ETDs, in case the European 
+Commission decides not to temporarily exclude ETDs from the scope of Articles 35 and 36 of 
+MiFIR in accordance with Article 52(12) of MiFIR:   
+a)  Article 54(2) of MiFIR allows for trading venues to apply to their NCAs for transitional 
+arrangements  on  the  basis  of  the  risks  that  granting  access  to  the  venue  on  ETDs 
+would  pose  to  the  orderly  functioning  of  the  relevant  trading  venue.  Their  NCA  may 
+exempt ETDs traded on that venue from the access provisions for only one transitional 
+period of 30 months that cannot be prolonged. This provision applies to CCPs as well.  
+b)  Article 36(5) of MiFIR specifies that trading venues offering trading in ETDs may opt 
+out of the access provisions for a thirty-month period provided that their annual notional 
+amount traded in ETDs falls below EUR 1,000,000 million. This transitory arrangement 
+58 
+ 
+ 
+ 
+ 
+can be prolonged as long as the annual notional amount traded on that venue remains 
+below the above-mentioned threshold all along the observation period, irrespective of 
+any  other  consideration.  ESMA  is  in  charge  of  approving  the  opt-out  based  on  the 
+analysis of the annual notional amount traded. 
+ 
+Question 5 [Last update: 12/09/2017] 
+When  should  a  CCP  or  a  trading  venue  apply  for  permission  to  avail  itself  of  transitional 
+arrangements under Article 54(2) of MiFIR? 
+Answer 5 
+Article 54(2) of MiFIR does not establish any timing other than indicating that CCPs and trading 
+venues must submit the application before the entry into force of MiFIR.  
+Following the Commission decision not to exclude exchange-traded derivatives from the scope 
+of  Articles  35  and  36  MiFIR,  CCPs  and  trading  venues  considering  applying  for  transitional 
+arrangements under Article 54(2) of MiFIR should submit their applications to NCA no later 
+than by the end of September 2017 in order to ensure the timely processing of their application 
+before MiFIR applies. 
+ 
+Question 6 [Last update: 12/09/2017] 
+In  case  that  a  trading  venue  which  opted-out  the  access  provisions  for  ETDs  under  Article 
+36(5) MiFIR maintains close links with a CCP, is that CCP prevented from having access rights 
+to venues trading any ETD? 
+Answer 6 
+CCPs with close links to trading venues that benefit from the exemption under Article 36(5) of 
+MiFIR have their access rights restrained to exchange-traded derivatives ‘within the relevant 
+threshold’. The ‘relevant threshold’ refers to the notional amount traded in all ETDs concluded 
+under the rules of that venue.  
+ESMA considers that this limitation applies to derivatives falling within the same asset class of 
+the ETDs traded on that trading venue as described in Annex II of RTS 2, consistently with the 
+notification requirements in Forms 3.2 and 4.2 in RTS 15. 
+ 
+ 
+59 
+ 
+ 
+ 
+ 
+7  Application  of  MiFID  II  after  3  January  2018,  including 
+issues of ‘late transposition’ [Last update: 18/12/2017] 
+ 
+Question 1 [Last update: 18/12/2017] 
+Should authorisations as a regulated market granted under MiFID I still be valid after 3 January 
+2018? 
+Answer 1 
+Yes, the authorisations granted under MiFID I should continue to be valid after 3 January 2018. 
+This  applies  also  to  the  authorisations  for  market  operators  to  operate  an  MTF.  However, 
+ESMA notes that competent authorities, as set out in Article 44 of MiFID II (and, already, Article 
+36 of MiFID I), should monitor that market operators comply at all times with the conditions for 
+initial authorisation and therefore regularly review conditions for initial authorisation. 
+ 
+Question 2 [Last update: 18/12/2017] 
+Can regulated markets established in Member States that have not transposed MiFID II at the 
+date  of  3  January  2018,  and  that  already  have  a  valid  authorisation,  continue  to  provide 
+appropriate arrangements in other EU Member States that facilitate access to and trading on 
+those markets by remote members and participants after the entry into application of MiFID II? 
+Answer 2 
+Regulated  markets  established  in  Member  States  that  have  not  transposed  MiFID  II  by  3 
+January 2018 but that have already been authorised under MiFID I and have already provided 
+appropriate  arrangements  that  facilitate  access  to  and  trading  on  those  markets  by  remote 
+members  and  participants  in  other  Member  States,  may  continue  to  provide  these 
+arrangements in those Member States. The competent authorities of regulated markets that 
+provide  such  arrangements  on  the  territory  of  other  Member  States  may  be  requested  to 
+reassure  host  Member  States  competent  authorities  that,  pending  transposition  of  MiFID  II, 
+they are applying the detailed operating conditions included in MiFID II. 
+ 
+Question 3 [Last update: 18/12/2017] 
+Can  entities  providing  data  reporting  services  established  in  a  Member  State  that  has  not 
+transposed MiFID II, provide data reporting services throughout the Union? 
+Answer 3 
+60 
+ 
+ 
+ 
+ 
+According to Article 60 of MiFID II authorisations for the provisions of data reporting services 
+are  valid  for  the  entire  Union  and  allow  a  data  reporting  services  provider  to  provide  the 
+services, for which it has been authorised, throughout the Union. Therefore, only authorised 
+entities in Member States that have transposed the relevant provisions of MiFID II can provide 
+data reporting services throughout the Union. 
+ 
+61 
